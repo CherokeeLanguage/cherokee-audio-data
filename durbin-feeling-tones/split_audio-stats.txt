@@ -1,0 +1,9 @@
+
+Work directory: /home/muksihs/git/Cherokee-TTS/data/cherokee-audio/durbin-feeling2
+
+Total splits: 164
+
+Min duration: 0.29 seconds
+Max duration: 3.26 seconds
+Total duration: 165.61 seconds
+
