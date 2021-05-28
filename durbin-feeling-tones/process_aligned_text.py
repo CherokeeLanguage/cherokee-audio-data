@@ -4,9 +4,6 @@ import re
 import json
 import os
 import sys
-import numpy as np
-from sklearn.cluster import AffinityPropagation
-from fuzzy_match import algorithims
 
 if __name__ == "__main__":
 
@@ -19,9 +16,8 @@ if __name__ == "__main__":
     print(voice_ranges)
 
     aligned_text: str = "aligned.txt"
-    output_text: str = "selected.txt"
-    training1_text: str = "training1.txt"
-    training2_text: str = "training2.txt"
+    output_text_chr: str = "data-chr.txt"
+    output_text_en: str = "data-en.txt"
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
@@ -42,7 +38,9 @@ if __name__ == "__main__":
             lines.append(line.strip())
     print(f"Loaded {len(lines):,} text aligments")
 
-    entries: list = list()
+    entries_chr: list = list()
+    entries_en: list = list()
+
     count: int = 0
 
     line_no: int = 0
@@ -55,67 +53,39 @@ if __name__ == "__main__":
             voice = voice_ranges[line_no]
         line = line.strip()
         mp3 = mp3.replace("mp3/", "")
+        fields: list[str] = [line, "", ""]
         if "|" in line:
-            parts: list = line.split("|")
-            if len(parts) != 2:
-                continue
-            if parts[1].strip() != mp3:
-                raise Exception(f"Alignment fail [{line_no}] mp3={mp3} marker={parts[1]} text={parts[0]}")
-        if "x" in line.lower():
+            fields = line.split("|")
+            if len(fields) == 2:
+                fields.append("")
+
+        tts_chr_text: str = fields[0].strip()
+        tts_en_text: str = fields[1].strip()
+        mp3_check: str = fields[2].strip()
+
+        if mp3_check and mp3_check != mp3:
+            raise Exception(f"Alignment fail [{line_no}] mp3={mp3} marker={mp3_check} text={tts_text}")
+        if "x" in tts_chr_text:
             continue
-        entries.append((voice, os.path.join("mp3", mp3), line))
+        if tts_chr_text:
+            entries_chr.append((voice, os.path.join("mp3", mp3), tts_chr_text))
+        elif tts_en_text:
+            entries_en.append((voice, os.path.join("mp3", mp3), tts_en_text))
         count += 1
 
-    with open(output_text, "w") as f:
+    with open(output_text_chr, "w") as f:
         voice: str
         mp3: str
-        line: str
-        for (voice, mp3, line) in entries:
-            print(f"{voice}|{mp3}|{line}", file=f)
+        tts_text: str
+        for (voice, mp3, tts_text) in entries_chr:
+            print(f"{voice}|{mp3}|{tts_text}", file=f)
 
-    prev = ""
-    pset: int = 0
-    line_no = 0
-    with open(training1_text, "w") as t1:
-        with open(training2_text, "w") as t2:
-            voice: str
-            mp3: str
-            line: str
-            print("ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|AUDIO FILE", file=t1)
-            print("ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|AUDIO FILE", file=t2)
-            buckets: dict = dict([])
-            voice: str
-            mp3: str
-            text: str
-            for (voice, mp3, text) in entries:
-                text = text.lower().strip()
-                text = re.sub("(?i)[^a-z ]", "", text)
-                text = re.sub("\\s+", " ", text)
-                gender: str = ""
-                if "-f-" in voice:
-                    gender = "female"
-                if "-m-" in voice:
-                    gender = "male"
-                d = algorithims.trigram(prev, text)
-                prev = text
-                if d < 0.17:
-                    pset += 1
-                    buckets[pset] = list()
-                line_no += 1
-                text = f"{line_no:04d}|{pset}||||{gender}||{text}||{mp3}"
-                buckets[pset].append(text)
-                print(text, file=t1)
-            keep_going: bool = True
-            ix: int = 0
-            while keep_going:
-                keep_going = False
-                for bucket in buckets.keys():
-                    if len(buckets[bucket]) > ix:
-                        keep_going = True
-                        print(f"{buckets[bucket][ix]}", file=t2)
-                ix += 1
-
-    print(f"Output {len(entries):,} {aligned_text} TTS training entries")
+    with open(output_text_en, "w") as f:
+        voice: str
+        mp3: str
+        tts_text: str
+        for (voice, mp3, tts_text) in entries_en:
+            print(f"{voice}|{mp3}|{tts_text}", file=f)
 
 
 

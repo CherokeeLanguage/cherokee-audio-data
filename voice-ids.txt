@@ -1,0 +1,18 @@
+01-chr|Durbin Feeling - Montgomery-Anderson|df
+02-chr|Sam Hider - Introduction to Cherokee|sh
+03-chr|Betty Smith - Beginning Cherokee|bs
+04-chr|Michael Conrad - Cherokee Language Lessons 1|mc
+05-chr|Gregg Howard - Cherokee Language Coach|gh
+06-chr|Wynema Smith - Cherokee Parenting Phrases|ws
+07-chr|Marie Junaluska - Eastern Cherokee Sampler|mj
+08-chr|Durbin Feeling - Cherokee Language Coach|df2
+09-chr|Durbin Feeling - See Say Write|df3
+10-chr|Myrtle Johnson|mdj
+11-chr|Prentice Robinson|pr
+cno-f-chr_1|Anonymous CNO speaker|cno-spk_0
+cno-f-chr_2|Anonymous CNO speaker|cno-spk_1
+cno-f-chr_3|Anonymous CNO speaker|cno-spk_2
+cno-f-chr_4|Anonymous CNO speaker|cno-spk_3
+cno-f-chr_5|Anonymous CNO speaker|cno-spk_4
+cno-m-chr_1|Durbin Feeling|cno-spk_5
+cno-m-chr_2|Anonymous CNO speaker|cno-spk_6

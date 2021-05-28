@@ -1,0 +1,39 @@
+01-chr|mp3/0004-df-tones_enhanced-016055.mp3|boy
+01-chr|mp3/0007-df-tones_enhanced-022735.mp3|young animal
+01-chr|mp3/0010-df-tones_enhanced-029935.mp3|good
+01-chr|mp3/0013-df-tones_enhanced-036765.mp3|her husband
+01-chr|mp3/0016-df-tones_enhanced-044995.mp3|republican
+01-chr|mp3/0019-df-tones_enhanced-054105.mp3|moth
+01-chr|mp3/0022-df-tones_enhanced-061775.mp3|hickory tree
+01-chr|mp3/0025-df-tones_enhanced-070225.mp3|humming bird
+01-chr|mp3/0028-df-tones_enhanced-078535.mp3|turkey
+01-chr|mp3/0031-df-tones_enhanced-085995.mp3|bird
+01-chr|mp3/0034-df-tones_enhanced-093135.mp3|love
+01-chr|mp3/0037-df-tones_enhanced-101525.mp3|wood
+01-chr|mp3/0040-df-tones_enhanced-108425.mp3|heart
+01-chr|mp3/0043-df-tones_enhanced-116365.mp3|coal
+01-chr|mp3/0046-df-tones_enhanced-126035.mp3|flea
+01-chr|mp3/0049-df-tones_enhanced-132385.mp3|war
+01-chr|mp3/0052-df-tones_enhanced-140485.mp3|eight
+01-chr|mp3/0055-df-tones_enhanced-148355.mp3|potato
+01-chr|mp3/0058-df-tones_enhanced-155645.mp3|corncob
+01-chr|mp3/0061-df-tones_enhanced-164025.mp3|Oklahoma
+01-chr|mp3/0064-df-tones_enhanced-173025.mp3|squirrel
+01-chr|mp3/0069-df-tones_enhanced-194065.mp3|he is cold
+01-chr|mp3/0072-df-tones_enhanced-201775.mp3|chipmunk
+01-chr|mp3/0075-df-tones_enhanced-210075.mp3|prayer
+01-chr|mp3/0078-df-tones_enhanced-219085.mp3|robin
+01-chr|mp3/0081-df-tones_enhanced-228125.mp3|nest
+01-chr|mp3/0084-df-tones_enhanced-238665.mp3|skin
+01-chr|mp3/0087-df-tones_enhanced-246905.mp3|rock
+01-chr|mp3/0090-df-tones_enhanced-253805.mp3|mud
+01-chr|mp3/0093-df-tones_enhanced-261475.mp3|saliva
+01-chr|mp3/0096-df-tones_enhanced-269245.mp3|don't
+01-chr|mp3/0101-df-tones_enhanced-281235.mp3|bottle
+01-chr|mp3/0104-df-tones_enhanced-288925.mp3|store
+01-chr|mp3/0107-df-tones_enhanced-297365.mp3|building
+01-chr|mp3/0110-df-tones_enhanced-305045.mp3|lazy
+01-chr|mp3/0113-df-tones_enhanced-314645.mp3|different
+01-chr|mp3/0116-df-tones_enhanced-323225.mp3|creek river stream
+01-chr|mp3/0119-df-tones_enhanced-332805.mp3|fire for heating
+01-chr|mp3/0151-df-tones_enhanced-471685.mp3|wait

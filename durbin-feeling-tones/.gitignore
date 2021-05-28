@@ -1,7 +1,7 @@
 /split_audio.txt
 /src/
 /src.noisy/
-/aligned.txt
+/wav/
 /all.txt
 /train.txt
 /val.txt

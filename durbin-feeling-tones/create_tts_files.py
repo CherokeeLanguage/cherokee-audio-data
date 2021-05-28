@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 import os
 import sys
-import string
 import unicodedata as ud
 import random
-import re
 import pathlib
-import subprocess
 from shutil import rmtree
 from pydub import AudioSegment
 import pydub.effects as effects
@@ -15,30 +12,33 @@ from builtins import list
 
 if __name__ == "__main__":
 
-    if sys.argv[0].strip() != "" and os.path.dirname(sys.argv[0]) != "":
-        os.chdir(os.path.dirname(sys.argv[0]))
+    os.chdir(os.path.dirname(__file__))
 
-    MASTER_TEXTS: list = ["selected.txt"]
+    MASTER_TEXTS: list = ["data-chr.txt", "data-en.txt"]
     max_duration: float = 10.0
 
     # cleanup any previous runs
-    for dir in ["linear_spectrograms", "spectrograms", "wav"]:
-        rmtree(dir, ignore_errors=True)
+    for folder in ["linear_spectrograms", "spectrograms", "wav"]:
+        rmtree(folder, ignore_errors=True)
 
-    pathlib.Path("").joinpath("wav").mkdir(exist_ok=True)
+    pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
 
     entries: dict = {}
+    MASTER_TEXT: str
     for MASTER_TEXT in MASTER_TEXTS:
         with open(MASTER_TEXT, "r") as f:
+            lang: str = "chr"
+            if MASTER_TEXT.endswith("-en.txt"):
+                lang = "en"
             for line in f:
                 fields = line.split("|")
                 speaker: str = fields[0].strip()
                 mp3: str = fields[1].strip()
                 text: str = ud.normalize("NFD", fields[2].strip())
                 dedupeKey = speaker + "|" + mp3 + "|" + text
-                if text.strip() == "" or "x" in text.lower():
+                if not text.strip():
                     continue
-                entries[dedupeKey] = (speaker, mp3, text)
+                entries[dedupeKey] = (speaker, lang, mp3, text)
 
     print(f"Loaded {len(entries):,} entries with audio and text.")
 
@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
     # to map any non "?" marked entries from annotation short hand id to ML assigned sequence id
     voiceids: dict = {}
-    with open("../../cherokee-audio/voice-ids.txt") as f:
+    with open("../voice-ids.txt") as f:
         for line in f:
             mapping = line.strip()
             fields = mapping.split("|")
@@ -72,7 +72,7 @@ if __name__ == "__main__":
     totalLength: float = 0.0
     print("Creating wavs")
     rows: list = []
-    for speaker, mp3, text in entries.values():
+    for speaker, lang, mp3, text in entries.values():
         wav: str = "wav/" + os.path.splitext(os.path.basename(mp3))[0] + ".wav"
         text: str = ud.normalize('NFD', text)
         mp3_segment: AudioSegment = AudioSegment.from_file(mp3)
@@ -98,7 +98,7 @@ if __name__ == "__main__":
             vid = voiceids[vid]
         if vid == "?":
             vid = default_voice_id
-        rows.append(f"{entry_id:06d}|{vid}|chr|{wav}|||{text}|")
+        rows.append(f"{entry_id:06d}|{vid}|{lang}|{wav}|||{text}|")
         entry_id += 1
 
     minutes = int(totalLength / 60)
@@ -136,6 +136,6 @@ if __name__ == "__main__":
     print(f"Train size: {trainSize}")
     print(f"Val size: {valSize}")
     print(f"All size: {len(rows)}")
-    print("Folder:", pathlib.Path("").resolve().name)
+    print("Folder:", pathlib.Path(".").resolve().name)
 
     sys.exit()
