@@ -1,0 +1,9 @@
+
+Work directory: michael-conrad
+
+Total splits: 721
+
+Min duration: 0.52 seconds
+Max duration: 56.67 seconds
+Total duration: 1,369.91 seconds
+
