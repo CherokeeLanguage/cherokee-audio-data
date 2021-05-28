@@ -1,0 +1,14 @@
+plugins {
+    id "idea"
+}
+
+idea {
+    project {
+        wildcards += "*.py"
+        wildcards += "*.sh"
+        vcs = "Git"
+    }
+    module {
+        name = "Cherokee Audio Data"
+    }
+}
