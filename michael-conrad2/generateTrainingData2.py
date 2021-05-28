@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 import os
 import sys
-import string
 import unicodedata as ud
 import random
-import re
 import pathlib
-import subprocess
 from shutil import rmtree
 from pydub import AudioSegment
 import pydub.effects as effects
