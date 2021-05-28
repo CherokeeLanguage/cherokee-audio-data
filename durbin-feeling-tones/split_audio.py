@@ -113,8 +113,6 @@ if __name__ == "__main__":
             continue
 
         data: AudioSegment = AudioSegment.from_file(audio_file).set_channels(1)
-        data = effects.low_pass_filter(data, 14000)
-        data = effects.high_pass_filter(data, 350)
         data = normalize(data)
 
         segments = detect_sound(data, silence_threshold, silence_min_duration)
@@ -150,8 +148,9 @@ if __name__ == "__main__":
             if max_length < duration:
                 max_length = duration
 
+    work_subfolder: str = os.path.basename(workdir)
     msg: str = "\n"
-    msg += f"Work directory: {workdir}\n"
+    msg += f"Work directory: {work_subfolder}\n"
     msg += "\n"
     msg += f"Total splits: {len(splits):,}\n"
     msg += "\n"
