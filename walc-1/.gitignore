@@ -1,21 +1,13 @@
 /src/
-/mp3/
 /wav/
 /train.txt
 /val.txt
-/all.txt
-/mp3-aligned/
-/thirteen-moons.txt
-/thirteen-moons-selected.txt
-/mp3-selected/
 /split_audio.txt
 /We Are Learning Cherokee.zip
-/We Are Learning Cherokee (Final).pdf
 /Audio Files/
 /selected.txt
-/We Are Learning Cherokee (Final).txt
 /training.txt
 /training1.txt
 /training2.txt
 /training_wavs/
-/split_audio-stats.txt
+

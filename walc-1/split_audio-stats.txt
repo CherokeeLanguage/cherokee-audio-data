@@ -1,0 +1,9 @@
+
+Work directory: /home/muksihs/git/Cherokee-TTS/data/cherokee-audio/walc-1
+
+Total splits: 1,155
+
+Min duration: 0.47 seconds
+Max duration: 9.99 seconds
+Total duration: 2,506.52 seconds
+
