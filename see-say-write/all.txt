@@ -1,0 +1,197 @@
+000001|09-chr|chr|wav/Lessons01_to_10-004.wav|||Su:li.|
+000002|09-chr|chr|wav/Lessons01_to_10-014.wav|||Sǔ:dáli.|
+000003|09-chr|chr|wav/Lessons01_to_10-018.wav|||Su:li.|
+000004|09-chr|chr|wav/Lessons01_to_10-020.wav|||Sǔ:dáli.|
+000005|09-chr|chr|wav/Lessons01_to_10-027.wav|||Ada.|
+000006|09-chr|chr|wav/Lessons01_to_10-028.wav|||Ada.|
+000007|09-chr|chr|wav/Lessons01_to_10-030.wav|||Sǔ:dáli.|
+000008|09-chr|chr|wav/Lessons01_to_10-032.wav|||A:li.|
+000009|09-chr|chr|wav/Lessons01_to_10-041.wav|||À:su:lo.|
+000010|09-chr|chr|wav/Lessons01_to_10-043.wav|||Lo:lo.|
+000011|09-chr|chr|wav/Lessons01_to_10-045.wav|||Ada.|
+000012|09-chr|chr|wav/Lessons01_to_10-047.wav|||Sǔ:dáli.|
+000013|09-chr|chr|wav/Lessons01_to_10-052.wav|||Salǒ:li.|
+000014|09-chr|chr|wav/Lessons01_to_10-054.wav|||Sa:sa.|
+000015|09-chr|chr|wav/Lessons01_to_10-056.wav|||À:su:lo.|
+000016|09-chr|chr|wav/Lessons01_to_10-058.wav|||Ada.|
+000017|09-chr|chr|wav/Lessons01_to_10-068.wav|||I:sa.|
+000018|09-chr|chr|wav/Lessons01_to_10-069.wav|||Sa:sa á:ɂi.|
+000019|09-chr|chr|wav/Lessons01_to_10-071.wav|||Salǒ:li.|
+000020|09-chr|chr|wav/Lessons01_to_10-073.wav|||Sali.|
+000021|09-chr|chr|wav/Lessons01_to_10-085.wav|||Ǐ:náda.|
+000022|09-chr|chr|wav/Lessons01_to_10-087.wav|||Sa:sa aná:ɂi.|
+000023|09-chr|chr|wav/Lessons01_to_10-089.wav|||Iná:ɂi.|
+000024|09-chr|chr|wav/Lessons01_to_10-091.wav|||Á:su:líɂa.|
+000025|09-chr|chr|wav/Lessons01_to_10-103.wav|||Agi̋:na.|
+000026|09-chr|chr|wav/Lessons01_to_10-105.wav|||I:sa à:gíɂa sa:sa|
+000027|09-chr|chr|wav/Lessons01_to_10-107.wav|||Iná:ɂi.|
+000028|09-chr|chr|wav/Lessons01_to_10-109.wav|||Sa:sa aná:ɂi.|
+000029|09-chr|chr|wav/Lessons01_to_10-116.wav|||Gi:hli à:hligí:ɂa.|
+000030|09-chr|chr|wav/Lessons01_to_10-118.wav|||À:hli:ló:ɂa.|
+000031|09-chr|chr|wav/Lessons01_to_10-120.wav|||Gi:hli aná:ɂi.|
+000032|09-chr|chr|wav/Lessons11_to_20-004.wav|||Salǒ:li dù:du:lí na gi:hli.|
+000033|09-chr|chr|wav/Lessons11_to_20-006.wav|||Sali dù:nadu:lí na sa:sa.|
+000034|09-chr|chr|wav/Lessons11_to_20-011.wav|||Ga̋:du.|
+000035|09-chr|chr|wav/Lessons11_to_20-013.wav|||Gǎ:da.|
+000036|09-chr|chr|wav/Lessons11_to_20-014.wav|||Gǐ:ga.|
+000037|09-chr|chr|wav/Lessons11_to_20-016.wav|||Gà:du:li̋:da á:su:líɂa.|
+000038|09-chr|chr|wav/Lessons11_to_20-022.wav|||À:ga:sga.|
+000039|09-chr|chr|wav/Lessons11_to_20-024.wav|||Ga:sgilo.|
+000040|09-chr|chr|wav/Lessons11_to_20-026.wav|||Anà:ga:lǐ:sgi.|
+000041|09-chr|chr|wav/Lessons11_to_20-034.wav|||Sdù:di.|
+000042|09-chr|chr|wav/Lessons11_to_20-036.wav|||Di:da:sdù:di̋.|
+000043|09-chr|chr|wav/Lessons11_to_20-038.wav|||Sǔ:dáli diga:sgilo dù:nadu:lí.|
+000044|09-chr|chr|wav/Lessons11_to_20-040.wav|||Gi:hli agiganǎ:díɂa..|
+000045|09-chr|chr|wav/Lessons11_to_20-049.wav|||U:sdi̋.|
+000046|09-chr|chr|wav/Lessons11_to_20-051.wav|||Ga̋:du.|
+000047|09-chr|chr|wav/Lessons11_to_20-052.wav|||U:gì:sdi ù:du:lí u:sdi̋.|
+000048|09-chr|chr|wav/Lessons11_to_20-054.wav|||Salǒ:li ù:du:lí na gi:hli.|
+000049|09-chr|chr|wav/Lessons11_to_20-056.wav|||U:sdi̋ á:ɂi.|
+000050|09-chr|chr|wav/Lessons11_to_20-062.wav|||U:nv̌:di.|
+000051|09-chr|chr|wav/Lessons11_to_20-064.wav|||Na gi:hli ganv́:gi.|
+000052|09-chr|chr|wav/Lessons11_to_20-066.wav|||U:nv̌:di ù:du:lí na u:sdi̋.|
+000053|09-chr|chr|wav/Lessons11_to_20-068.wav|||Dina:da:hli:lò:sdi̋:sgi ù:nv:nv́:ga.|
+000054|09-chr|chr|wav/Lessons11_to_20-077.wav|||Si:nv̋:da.|
+000055|09-chr|chr|wav/Lessons11_to_20-079.wav|||Sigigi.|
+000056|09-chr|chr|wav/Lessons11_to_20-081.wav|||Ga̋:du agigísi na gi:hli.|
+000057|09-chr|chr|wav/Lessons11_to_20-083.wav|||Agá:li:siga.|
+000058|09-chr|chr|wav/Lessons11_to_20-092.wav|||Ó:si.|
+000059|09-chr|chr|wav/Lessons11_to_20-094.wav|||Usdi̋ ó:si.|
+000060|09-chr|chr|wav/Lessons11_to_20-095.wav|||O:gana anahli gi:hli.|
+000061|09-chr|chr|wav/Lessons11_to_20-097.wav|||Ga̋:du u:gana̋:sda à:gíɂa.|
+000062|09-chr|chr|wav/Lessons11_to_20-098.wav|||Ogina:li̋:ɂi.|
+000063|09-chr|chr|wav/Lessons11_to_20-107.wav|||O:síyo.|
+000064|09-chr|chr|wav/Lessons11_to_20-108.wav|||Yǒ:na á:ɂi.|
+000065|09-chr|chr|wav/Lessons11_to_20-110.wav|||À:giyó:si.|
+000066|09-chr|chr|wav/Lessons11_to_20-118.wav|||À:giyó:siha.|
+000067|09-chr|chr|wav/Lessons11_to_20-120.wav|||Ogina:li̋ ù:yó:siha.|
+000068|09-chr|chr|wav/Lessons11_to_20-122.wav|||Hadǐ:da!|
+000069|09-chr|chr|wav/Lessons11_to_20-124.wav|||O:síyo hada.|
+000070|09-chr|chr|wav/Lessons21_to_30-002.wav|||Gáɂni.|
+000071|09-chr|chr|wav/Lessons21_to_30-004.wav|||Áɂni.|
+000072|09-chr|chr|wav/Lessons21_to_30-006.wav|||Gi:hli dù:niyó:siha.|
+000073|09-chr|chr|wav/Lessons21_to_30-007.wav|||Sasa uniga:sga.|
+000074|09-chr|chr|wav/Lessons21_to_30-010.wav|||Ganè:ga.|
+000075|09-chr|chr|wav/Lessons21_to_30-011.wav|||Yó:ne:ga.|
+000076|09-chr|chr|wav/Lessons21_to_30-012.wav|||U:ne̋:ga gi:hli.|
+000077|09-chr|chr|wav/Lessons21_to_30-014.wav|||Dida:náɂnv̋ iné:na.|
+000078|09-chr|chr|wav/Lessons21_to_30-021.wav|||Waló:si.|
+000079|09-chr|chr|wav/Lessons21_to_30-022.wav|||Wahga.|
+000080|09-chr|chr|wav/Lessons21_to_30-024.wav|||Ga̋:du u:nigana̋:sda duwá:duha.|
+000081|09-chr|chr|wav/Lessons21_to_30-026.wav|||U:nv̌:di ù:hwasga.|
+000082|09-chr|chr|wav/Lessons21_to_30-031.wav|||Ajaɂdi.|
+000083|09-chr|chr|wav/Lessons21_to_30-033.wav|||Jayó:sihas?|
+000084|09-chr|chr|wav/Lessons21_to_30-035.wav|||Jalí:si.|
+000085|09-chr|chr|wav/Lessons21_to_30-037.wav|||Jayó:li.|
+000086|09-chr|chr|wav/Lessons21_to_30-042.wav|||Nv̀:ya.|
+000087|09-chr|chr|wav/Lessons21_to_30-044.wav|||I:ya.|
+000088|09-chr|chr|wav/Lessons21_to_30-047.wav|||Tǔ:ya dù:du:lí.|
+000089|09-chr|chr|wav/Lessons21_to_30-051.wav|||Wǎ:ji.|
+000090|09-chr|chr|wav/Lessons21_to_30-052.wav|||Ji:sdu.|
+000091|09-chr|chr|wav/Lessons21_to_30-056.wav|||U:ni:ji:ya dù:hyoha na asgaya.|
+000092|09-chr|chr|wav/Lessons21_to_30-063.wav|||Ha:wiya.|
+000093|09-chr|chr|wav/Lessons21_to_30-066.wav|||Ahwi dunihyo na aniwǐ:na.|
+000094|09-chr|chr|wav/Lessons21_to_30-067.wav|||Gi:hli dà:suhwísga.|
+000095|09-chr|chr|wav/Lessons21_to_30-073.wav|||Jí:sgwa.|
+000096|09-chr|chr|wav/Lessons21_to_30-075.wav|||Sihgwa.|
+000097|09-chr|chr|wav/Lessons21_to_30-076.wav|||Sihgwa ha:wiya à:gwadu:lí.|
+000098|09-chr|chr|wav/Lessons21_to_30-078.wav|||Ji:sgwada.|
+000099|09-chr|chr|wav/Lessons21_to_30-083.wav|||Wě:sa.|
+000100|09-chr|chr|wav/Lessons21_to_30-085.wav|||Wě:sa nigawe.|
+000101|09-chr|chr|wav/Lessons21_to_30-086.wav|||Sa:sa na:niwe.|
+000102|09-chr|chr|wav/Lessons21_to_30-091.wav|||Ayv:wi:ya̋.|
+000103|09-chr|chr|wav/Lessons21_to_30-092.wav|||Yv:gi.|
+000104|09-chr|chr|wav/Lessons21_to_30-093.wav|||Ayv.|
+000105|09-chr|chr|wav/Lessons21_to_30-095.wav|||Ahyv:dagwalò:sgi.|
+000106|09-chr|chr|wav/Lessons31_to_40-002.wav|||Agayv̌:líge̋.|
+000107|09-chr|chr|wav/Lessons31_to_40-003.wav|||Na agayv̌:líge̋ ù:yó:si, ge:líɂa.|
+000108|09-chr|chr|wav/Lessons31_to_40-004.wav|||Dalǒ:níge̋ jí:sgwa gáɂnǐ:ya na wě:sa.|
+000109|09-chr|chr|wav/Lessons31_to_40-006.wav|||Ada:kéhdi ù:du:lí na agě:hya.|
+000110|09-chr|chr|wav/Lessons31_to_40-010.wav|||Gi:hli ù:lití:si.|
+000111|09-chr|chr|wav/Lessons31_to_40-011.wav|||Ogina:li̋:ɂi.|
+000112|09-chr|chr|wav/Lessons31_to_40-015.wav|||Tiyǒ:háɂli gaɂnǐ:ya na ǐ:náda.|
+000113|09-chr|chr|wav/Lessons31_to_40-020.wav|||Jǐ:yu.|
+000114|09-chr|chr|wav/Lessons31_to_40-021.wav|||Jǐ:yu dayù:hwasi ogina:li̋:ɂi.|
+000115|09-chr|chr|wav/Lessons31_to_40-023.wav|||O:sǐ:yu iyunalsdà:hnéhdi.|
+000116|09-chr|chr|wav/Lessons31_to_40-024.wav|||Ő:sda a:gì:sdi uyu:ti.|
+000117|09-chr|chr|wav/Lessons31_to_40-028.wav|||Adà:dlǒ:sdi.|
+000118|09-chr|chr|wav/Lessons31_to_40-030.wav|||Dlo:ge̋:si winè:da.|
+000119|09-chr|chr|wav/Lessons31_to_40-031.wav|||Tǔ:ya gà:yő:hli widinadági.|
+000120|09-chr|chr|wav/Lessons31_to_40-033.wav|||Ani:yv:wi:ya̋ dà:nadlo:sga.|
+000121|09-chr|chr|wav/Lessons31_to_40-038.wav|||Ama.|
+000122|09-chr|chr|wav/Lessons31_to_40-040.wav|||Ama sgidlì:sdasi.|
+000123|09-chr|chr|wav/Lessons31_to_40-041.wav|||Ǔ:gáma à:gwadu:lí.|
+000124|09-chr|chr|wav/Lessons31_to_40-042.wav|||Á:ma à:ganǎ:díɂa na wahga.|
+000125|09-chr|chr|wav/Lessons31_to_40-047.wav|||Do:ya.|
+000126|09-chr|chr|wav/Lessons31_to_40-048.wav|||Kilő anisgaya danidô:ga.|
+000127|09-chr|chr|wav/Lessons31_to_40-049.wav|||Ǐ:náda gahnǐ:dô na asgaya.|
+000128|09-chr|chr|wav/Lessons31_to_40-051.wav|||Gadogi u:sdi?|
+000129|09-chr|chr|wav/Lessons31_to_40-055.wav|||Jalagi.|
+000130|09-chr|chr|wav/Lessons31_to_40-058.wav|||Na à:lâ:sgalǐ:sgi.|
+000131|09-chr|chr|wav/Lessons31_to_40-060.wav|||Idalà:sgala.|
+000132|09-chr|chr|wav/Lessons31_to_40-062.wav|||Sáɂdu iyáni ani:jalagi analâ:sgalí.|
+000133|09-chr|chr|wav/Lessons31_to_40-067.wav|||Jǒ:lani.|
+000134|09-chr|chr|wav/Lessons31_to_40-069.wav|||Jǒ:lani ukiɂla wě:sa.|
+000135|09-chr|chr|wav/Lessons31_to_40-073.wav|||Jǒ:lani tisduɂi.|
+000136|09-chr|chr|wav/Lessons31_to_40-078.wav|||Da:hnawa.|
+000137|09-chr|chr|wav/Lessons31_to_40-082.wav|||Ayő:hli ù:hnawâ:sdiha.|
+000138|09-chr|chr|wav/Lessons31_to_40-089.wav|||Awǒ:háɂli.|
+000139|09-chr|chr|wav/Lessons31_to_40-091.wav|||Awǒ:háɂli u:gì:dáhli gà:hǐ:dô na ayv:wi:ya̋.|
+000140|09-chr|chr|wav/Lessons31_to_40-094.wav|||Jalagi gawó:ni na ayó:ne:ga.|
+000141|09-chr|chr|wav/Lessons31_to_40-096.wav|||Nv:wô:ti ù:du:lí na udanili.|
+000142|09-chr|chr|wav/Lessons41_to_50-003.wav|||Nǔ:na.|
+000143|09-chr|chr|wav/Lessons41_to_50-004.wav|||Nǔ:na do:gihwisa dlo:ge̋:si.|
+000144|09-chr|chr|wav/Lessons41_to_50-006.wav|||A:yanű:li ha:hnigi.|
+000145|09-chr|chr|wav/Lessons41_to_50-007.wav|||Nű:la, hadanàwsda.|
+000146|09-chr|chr|wav/Lessons41_to_50-010.wav|||Kanu:na.|
+000147|09-chr|chr|wav/Lessons41_to_50-011.wav|||Kanu:na nigaweɂa.|
+000148|09-chr|chr|wav/Lessons41_to_50-012.wav|||U:sdi̋ kanawô:ga.|
+000149|09-chr|chr|wav/Lessons41_to_50-014.wav|||Kǎ:hwi widayù:hwasi dì:da:náɂnv̋:i.|
+000150|09-chr|chr|wav/Lessons41_to_50-018.wav|||Di:sésdi.|
+000151|09-chr|chr|wav/Lessons41_to_50-020.wav|||Di:sésdi dù:wo:hwě:lâ.|
+000152|09-chr|chr|wav/Lessons41_to_50-022.wav|||Kalsě:ji ù:du:lí na ayő:hli.|
+000153|09-chr|chr|wav/Lessons41_to_50-023.wav|||Sě:di dà:gíɂa na salǒ:li.|
+000154|09-chr|chr|wav/Lessons41_to_50-026.wav|||Sě:lu.|
+000155|09-chr|chr|wav/Lessons41_to_50-027.wav|||Sě:lu ga̋:du dagá:du:hni.|
+000156|09-chr|chr|wav/Lessons41_to_50-030.wav|||Sě:lu dodajì:hwisi à:diha na asgaya.|
+000157|09-chr|chr|wav/Lessons41_to_50-034.wav|||Digadv́:di.|
+000158|09-chr|chr|wav/Lessons41_to_50-036.wav|||Gadò hà:dv́:ne?|
+000159|09-chr|chr|wav/Lessons41_to_50-038.wav|||Ùlsíhgí ù:lô:gi:la|
+000160|09-chr|chr|wav/Lessons41_to_50-039.wav|||Dv̀:ga:hnani ge:líɂa.|
+000161|09-chr|chr|wav/Lessons41_to_50-041.wav|||Digadv́:di à:yo:sda na ù:da:ge̋:da achű:ja.|
+000162|09-chr|chr|wav/Lessons41_to_50-046.wav|||A:dlawáɂdv̋|
+000163|09-chr|chr|wav/Lessons41_to_50-049.wav|||U:hyv:dla ama à:gwadu:lí.|
+000164|09-chr|chr|wav/Lessons41_to_50-050.wav|||Áhani ù:dlanv:da.|
+000165|09-chr|chr|wav/Lessons41_to_50-054.wav|||Hisgi|
+000166|09-chr|chr|wav/Lessons41_to_50-055.wav|||Hila̋ à:hlíɂili?|
+000167|09-chr|chr|wav/Lessons41_to_50-056.wav|||Hi:yo:lì:gis na asgaya?|
+000168|09-chr|chr|wav/Lessons41_to_50-057.wav|||Ganv:hi̋:da ù:stihga na age:hyű:ja.|
+000169|09-chr|chr|wav/Lessons41_to_50-063.wav|||Hisgi aye̋:hli à:hlíɂili.|
+000170|09-chr|chr|wav/Lessons41_to_50-064.wav|||Uwò:ye̋:ni ù:we:hisdâ:ne.|
+000171|09-chr|chr|wav/Lessons41_to_50-065.wav|||Hyehgahli aniyewsga.|
+000172|09-chr|chr|wav/Lessons41_to_50-069.wav|||E:lohi.|
+000173|09-chr|chr|wav/Lessons41_to_50-071.wav|||I:ga e̋:hi nv:da kala.|
+000174|09-chr|chr|wav/Lessons41_to_50-073.wav|||Hiɂa e:do:da.|
+000175|09-chr|chr|wav/Lessons41_to_50-074.wav|||Hiɂa e:ji.|
+000176|09-chr|chr|wav/Lessons41_to_50-078.wav|||Sgwà:hle̋:sdi.|
+000177|09-chr|chr|wav/Lessons41_to_50-079.wav|||Áhani jǒ:hlê:sdi.|
+000178|09-chr|chr|wav/Lessons41_to_50-080.wav|||Di:da:náɂnv̋ widage:doli hle̋:ga.|
+000179|09-chr|chr|wav/Lessons41_to_50-081.wav|||U:do:hiyű ù:di:hléhga.|
+000180|09-chr|chr|wav/Lessons51_to_60-002.wav|||Gv̌:hnáge̋.|
+000181|09-chr|chr|wav/Lessons51_to_60-003.wav|||Gv̌:hnáge̋ gi:hli à:gi:káha.|
+000182|09-chr|chr|wav/Lessons51_to_60-004.wav|||Ganv:gwalő:sdi e:sgv́hsi.|
+000183|09-chr|chr|wav/Lessons51_to_60-005.wav|||Wě:sa nigawè:sgv́ gà:tv:gí:ɂa.|
+000184|09-chr|chr|wav/Lessons51_to_60-008.wav|||Goɂi.|
+000185|09-chr|chr|wav/Lessons51_to_60-010.wav|||Gadō u:sdi à:gowhtí na gi:tli.|
+000186|09-chr|chr|wav/Lessons51_to_60-011.wav|||Hila̋ ǐ:gó:hi̋:da a:tliɂilida?|
+000187|09-chr|chr|wav/Lessons51_to_60-012.wav|||Digo:hwě:lò:di è:sgidisi.|
+000188|09-chr|chr|wav/Lessons51_to_60-016.wav|||Te:lǐ:do.|
+000189|09-chr|chr|wav/Lessons51_to_60-018.wav|||Ji:sdu ate:sda na gi:tli.|
+000190|09-chr|chr|wav/Lessons51_to_60-020.wav|||Dihnawo dà:tě:sga.|
+000191|09-chr|chr|wav/Lessons51_to_60-024.wav|||Talǔ:ja.|
+000192|09-chr|chr|wav/Lessons51_to_60-026.wav|||Ǔ:tana yǒ:na ji:gò:wahtā.|
+000193|09-chr|chr|wav/Lessons51_to_60-027.wav|||Tawǒ:di nigaweɂa.|
+000194|09-chr|chr|wav/Lessons51_to_60-028.wav|||U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.|
+000195|09-chr|chr|wav/Lessons51_to_60-032.wav|||Gv:he.|
+000196|09-chr|chr|wav/Lessons51_to_60-033.wav|||Gv:he anahliha gi:hli.|
+000197|09-chr|chr|wav/Lessons51_to_60-034.wav|||Hè:sdi!|
