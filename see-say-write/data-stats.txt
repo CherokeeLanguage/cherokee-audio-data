@@ -1,14 +1,14 @@
 Folder: see-say-write
-Total duration [chr]: 0:51
-Shortest duration [chr]: 00.59
-Longest duration [chr]: 02.03
+Total duration [chr]: 2:39
+Shortest duration [chr]: 00.50
+Longest duration [chr]: 09.60
 
-Total duration [en]: 1:06
-Shortest duration [en]: 00.90
+Total duration [en]: 2:08
+Shortest duration [en]: 00.76
 Longest duration [en]: 02.91
 
-Train size: 98
-Val size: 6
-All size: 104
+Train size: 230
+Val size: 13
+All size: 243
 
 

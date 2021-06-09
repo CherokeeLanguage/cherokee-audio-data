@@ -55,3 +55,92 @@
 01-chr|mp3/0100-Lessons01_to_10-000215185.mp3|Sa:sa aná:ɂi.
 01-chr|mp3/0102-Lessons01_to_10-000219935.mp3|Iná:ɂi.
 01-chr|mp3/0104-Lessons01_to_10-000224725.mp3|Á:su:líɂa.
+01-chr|mp3/0106-Lessons01_to_10-000230685.mp3|Sū.
+01-chr|mp3/0107-Lessons01_to_10-000232015.mp3|Dā.
+01-chr|mp3/0108-Lessons01_to_10-000233165.mp3|Lī.
+01-chr|mp3/0109-Lessons01_to_10-000234405.mp3|Ā.
+01-chr|mp3/0110-Lessons01_to_10-000235665.mp3|Lō.
+01-chr|mp3/0111-Lessons01_to_10-000236885.mp3|Sā
+01-chr|mp3/0112-Lessons01_to_10-000238365.mp3|Ī.
+01-chr|mp3/0113-Lessons01_to_10-000239495.mp3|Nā.
+01-chr|mp3/0116-Lessons01_to_10-000247015.mp3|Gī.
+01-chr|mp3/0118-Lessons01_to_10-000250855.mp3|Agi̋:na.
+01-chr|mp3/0120-Lessons01_to_10-000255695.mp3|I:sa à:gíɂa
+01-chr|mp3/0121-Lessons01_to_10-000258025.mp3|sa:sa
+01-chr|mp3/0123-Lessons01_to_10-000261425.mp3|Iná:ɂi.
+01-chr|mp3/0125-Lessons01_to_10-000265545.mp3|Sa:sa aná:ɂi.
+01-chr|mp3/0127-Lessons01_to_10-000272725.mp3|Sū.
+01-chr|mp3/0128-Lessons01_to_10-000273795.mp3|Dā. Lī.
+01-chr|mp3/0129-Lessons01_to_10-000275765.mp3|Ā.
+01-chr|mp3/0130-Lessons01_to_10-000276785.mp3|Lō.
+01-chr|mp3/0131-Lessons01_to_10-000277925.mp3|Sā
+01-chr|mp3/0132-Lessons01_to_10-000279045.mp3|Ī.
+01-chr|mp3/0133-Lessons01_to_10-000280015.mp3|Nā.
+01-chr|mp3/0134-Lessons01_to_10-000281145.mp3|Gī.
+01-chr|mp3/0137-Lessons01_to_10-000287275.mp3|Hlī.
+01-chr|mp3/0140-Lessons01_to_10-000293895.mp3|Gi:hli
+01-chr|mp3/0141-Lessons01_to_10-000295105.mp3|à:hligí:ɂa.
+01-chr|mp3/0143-Lessons01_to_10-000299745.mp3|À:hli:ló:ɂa.
+01-chr|mp3/0145-Lessons01_to_10-000304735.mp3|Gi:hli aná:ɂi.
+01-chr|mp3/0147-Lessons01_to_10-000311085.mp3|Sū.
+01-chr|mp3/0148-Lessons01_to_10-000312415.mp3|Dā.
+01-chr|mp3/0149-Lessons01_to_10-000313465.mp3|Lī.
+01-chr|mp3/0150-Lessons01_to_10-000314535.mp3|Ā.
+01-chr|mp3/0151-Lessons01_to_10-000315565.mp3|Lō.
+01-chr|mp3/0152-Lessons01_to_10-000316615.mp3|Sā
+01-chr|mp3/0153-Lessons01_to_10-000317855.mp3|Ī.
+01-chr|mp3/0154-Lessons01_to_10-000318925.mp3|Nā.
+01-chr|mp3/0155-Lessons01_to_10-000320195.mp3|Gī.
+01-chr|mp3/0156-Lessons01_to_10-000321225.mp3|Hlī.
+01-chr|mp3/0160-Lessons01_to_10-000330355.mp3|Sū. Lī. Dā. Ā. Lō. Sā. Ī. Nā. Gī. Hlī. Ā. Lō. Lī. Sū.
+01-chr|mp3/0161-Lessons01_to_10-000339965.mp3|Ī. Dā.
+01-chr|mp3/0165-Lessons11_to_20-000008505.mp3|sa:ɂdu
+01-chr|mp3/0167-Lessons11_to_20-000012265.mp3|Salǒ:li dù:du:lí na gi:hli.
+01-chr|mp3/0169-Lessons11_to_20-000018625.mp3|Sali dù:nadu:lí na sa:sa.
+01-chr|mp3/0171-Lessons11_to_20-000025585.mp3|Sa:ɂdu à:tliɂili.
+01-chr|mp3/0176-Lessons11_to_20-000043265.mp3|Gǎ:da.
+01-chr|mp3/0178-Lessons11_to_20-000046865.mp3|Gǐ:ga.
+01-chr|mp3/0180-Lessons11_to_20-000051025.mp3|Gà:du:li̋:da
+01-chr|mp3/0181-Lessons11_to_20-000052665.mp3|á:su:líɂa.
+01-chr|mp3/0183-Lessons11_to_20-000057295.mp3|Dū.
+01-chr|mp3/0184-Lessons11_to_20-000058525.mp3|Gā.
+01-chr|mp3/0187-Lessons11_to_20-000067005.mp3|s
+01-chr|mp3/0190-Lessons11_to_20-000075035.mp3|Ga:sgilo.
+01-chr|mp3/0192-Lessons11_to_20-000079295.mp3|Anà:ga:lǐ:sgi.
+01-chr|mp3/0194-Lessons11_to_20-000083975.mp3|À:sgâ:ga.
+01-chr|mp3/0196-Lessons11_to_20-000090165.mp3|Dū.
+01-chr|mp3/0197-Lessons11_to_20-000091145.mp3|Gā.
+01-chr|mp3/0198-Lessons11_to_20-000092225.mp3|s.
+01-chr|mp3/0201-Lessons11_to_20-000098195.mp3|Dī.
+01-chr|mp3/0203-Lessons11_to_20-000101615.mp3|Sdù:di.
+01-chr|mp3/0205-Lessons11_to_20-000105555.mp3|Di:da:sdù:di̋.
+01-chr|mp3/0207-Lessons11_to_20-000110235.mp3|Sǔ:dáli diga:sgilo dù:nadu:lí.
+01-chr|mp3/0209-Lessons11_to_20-000117015.mp3|Gi:hli agiganǎ:díɂa.
+01-chr|mp3/0212-Lessons11_to_20-000125545.mp3|Dū.
+01-chr|mp3/0213-Lessons11_to_20-000126695.mp3|Gā.
+01-chr|mp3/0214-Lessons11_to_20-000127995.mp3|s.
+01-chr|mp3/0215-Lessons11_to_20-000129215.mp3|Dī.
+01-chr|mp3/0218-Lessons11_to_20-000135665.mp3|Ū.
+01-chr|mp3/0220-Lessons11_to_20-000139145.mp3|U:sdi̋.
+01-chr|mp3/0222-Lessons11_to_20-000143735.mp3|Ga̋:du
+01-chr|mp3/0223-Lessons11_to_20-000145055.mp3|u:gì:sdi ù:du:lí u:sdi̋.
+01-chr|mp3/0225-Lessons11_to_20-000151945.mp3|Salǒ:li ù:du:lí na gi:hli.
+01-chr|mp3/0227-Lessons11_to_20-000158905.mp3|U:sdi̋ á:ɂi.
+01-chr|mp3/0229-Lessons11_to_20-000164455.mp3|Dū.
+01-chr|mp3/0230-Lessons11_to_20-000165575.mp3|Gā.
+01-chr|mp3/0231-Lessons11_to_20-000166805.mp3|s.
+01-chr|mp3/0232-Lessons11_to_20-000167785.mp3|Dī.
+01-chr|mp3/0233-Lessons11_to_20-000168825.mp3|Ū.
+01-chr|mp3/0236-Lessons11_to_20-000175625.mp3|Nv̄.
+01-chr|mp3/0239-Lessons11_to_20-000183285.mp3|Na gi:hli
+01-chr|mp3/0240-Lessons11_to_20-000185025.mp3|ganv́:gi.
+01-chr|mp3/0242-Lessons11_to_20-000189115.mp3|U:nv̌:di ù:du:lí
+01-chr|mp3/0243-Lessons11_to_20-000191755.mp3|na u:sdi̋.
+01-chr|mp3/0245-Lessons11_to_20-000196235.mp3|Dina:da:hli:lò:sdi̋:sgi
+01-chr|mp3/0246-Lessons11_to_20-000198855.mp3|ù:nv:nv́:ga.
+01-chr|mp3/0248-Lessons11_to_20-000204315.mp3|Dū.
+01-chr|mp3/0249-Lessons11_to_20-000205415.mp3|Gā.
+01-chr|mp3/0250-Lessons11_to_20-000206675.mp3|Sdī.
+01-chr|mp3/0251-Lessons11_to_20-000208285.mp3|Ū.
+01-chr|mp3/0252-Lessons11_to_20-000209435.mp3|Nv̄.
+01-chr|mp3/0254-Lessons11_to_20-000214745.mp3|Sī.

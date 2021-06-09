@@ -55,50 +55,189 @@
 000055|01-chr|chr|wav/0100-Lessons01_to_10-000215185.wav|||Sa:sa aná:ɂi.|
 000056|01-chr|chr|wav/0102-Lessons01_to_10-000219935.wav|||Iná:ɂi.|
 000057|01-chr|chr|wav/0104-Lessons01_to_10-000224725.wav|||Á:su:líɂa.|
-000058|01-chr|en|wav/0001-Lessons01_to_10-000002915.wav|||See Say Write book Lesson one|
-000059|01-chr|en|wav/0003-Lessons01_to_10-000010325.wav|||Lesson two|
-000060|01-chr|en|wav/0004-Lessons01_to_10-000013345.wav|||The key letter is lee.|
-000061|01-chr|en|wav/0005-Lessons01_to_10-000016385.wav|||The keyword sue lee.|
-000062|01-chr|en|wav/0006-Lessons01_to_10-000019925.wav|||Sentence number one. Sue.|
-000063|01-chr|en|wav/0007-Lessons01_to_10-000022975.wav|||Number two.|
-000064|01-chr|en|wav/0009-Lessons01_to_10-000026845.wav|||Reviewing the last two lessons|
-000065|01-chr|en|wav/0012-Lessons01_to_10-000032525.wav|||Lesson three|
-000066|01-chr|en|wav/0013-Lessons01_to_10-000035445.wav|||Key letter|
-000067|01-chr|en|wav/0015-Lessons01_to_10-000040465.wav|||the key word|
-000068|01-chr|en|wav/0017-Lessons01_to_10-000045095.wav|||Sentence number one.|
-000069|01-chr|en|wav/0019-Lessons01_to_10-000048905.wav|||Number two.|
-000070|01-chr|en|wav/0021-Lessons01_to_10-000052635.wav|||Number three.|
-000071|01-chr|en|wav/0023-Lessons01_to_10-000057205.wav|||Reviewing the last three lessons.|
-000072|01-chr|en|wav/0026-Lessons01_to_10-000065925.wav|||Lesson number four.|
-000073|01-chr|en|wav/0027-Lessons01_to_10-000068335.wav|||A new syllable.|
-000074|01-chr|en|wav/0029-Lessons01_to_10-000071655.wav|||The key word|
-000075|01-chr|en|wav/0031-Lessons01_to_10-000075835.wav|||Sentence number one.|
-000076|01-chr|en|wav/0033-Lessons01_to_10-000078965.wav|||Number two.|
-000077|01-chr|en|wav/0035-Lessons01_to_10-000082595.wav|||Number three.|
-000078|01-chr|en|wav/0037-Lessons01_to_10-000086655.wav|||Reviewing the last four lessons.|
-000079|01-chr|en|wav/0042-Lessons01_to_10-000097085.wav|||Lesson number five|
-000080|01-chr|en|wav/0043-Lessons01_to_10-000100585.wav|||The new character|
-000081|01-chr|en|wav/0045-Lessons01_to_10-000104325.wav|||The key word.|
-000082|01-chr|en|wav/0047-Lessons01_to_10-000109085.wav|||Number one.|
-000083|01-chr|en|wav/0049-Lessons01_to_10-000112595.wav|||Number two.|
-000084|01-chr|en|wav/0051-Lessons01_to_10-000116395.wav|||Number three.|
-000085|01-chr|en|wav/0053-Lessons01_to_10-000120785.wav|||Reviewing the last five lessons|
-000086|01-chr|en|wav/0059-Lessons01_to_10-000131665.wav|||Lesson number six. A new letter.|
-000087|01-chr|en|wav/0061-Lessons01_to_10-000136805.wav|||The key word.|
-000088|01-chr|en|wav/0063-Lessons01_to_10-000140975.wav|||Number one|
-000089|01-chr|en|wav/0065-Lessons01_to_10-000144975.wav|||Number two|
-000090|01-chr|en|wav/0067-Lessons01_to_10-000149555.wav|||Number three|
-000091|01-chr|en|wav/0069-Lessons01_to_10-000154195.wav|||Reviewing the last six lessons.|
-000092|01-chr|en|wav/0076-Lessons01_to_10-000167145.wav|||Lesson number seven|
-000093|01-chr|en|wav/0077-Lessons01_to_10-000169615.wav|||A new letter|
-000094|01-chr|en|wav/0080-Lessons01_to_10-000178335.wav|||Number one|
-000095|01-chr|en|wav/0082-Lessons01_to_10-000182525.wav|||Number two|
-000096|01-chr|en|wav/0084-Lessons01_to_10-000186275.wav|||Number three.|
-000097|01-chr|en|wav/0086-Lessons01_to_10-000189785.wav|||Reviewing the last seven lessons|
-000098|01-chr|en|wav/0094-Lessons01_to_10-000202735.wav|||Lesson number eight.|
-000099|01-chr|en|wav/0095-Lessons01_to_10-000204425.wav|||A new character|
-000100|01-chr|en|wav/0097-Lessons01_to_10-000208865.wav|||The key word|
-000101|01-chr|en|wav/0099-Lessons01_to_10-000213405.wav|||Number one.|
-000102|01-chr|en|wav/0101-Lessons01_to_10-000218415.wav|||Number two.|
-000103|01-chr|en|wav/0103-Lessons01_to_10-000223035.wav|||Number three.|
-000104|01-chr|en|wav/0105-Lessons01_to_10-000227905.wav|||Review the last eight lessons|
+000058|01-chr|chr|wav/0106-Lessons01_to_10-000230685.wav|||Sū.|
+000059|01-chr|chr|wav/0107-Lessons01_to_10-000232015.wav|||Dā.|
+000060|01-chr|chr|wav/0108-Lessons01_to_10-000233165.wav|||Lī.|
+000061|01-chr|chr|wav/0109-Lessons01_to_10-000234405.wav|||Ā.|
+000062|01-chr|chr|wav/0110-Lessons01_to_10-000235665.wav|||Lō.|
+000063|01-chr|chr|wav/0111-Lessons01_to_10-000236885.wav|||Sā|
+000064|01-chr|chr|wav/0112-Lessons01_to_10-000238365.wav|||Ī.|
+000065|01-chr|chr|wav/0113-Lessons01_to_10-000239495.wav|||Nā.|
+000066|01-chr|chr|wav/0116-Lessons01_to_10-000247015.wav|||Gī.|
+000067|01-chr|chr|wav/0118-Lessons01_to_10-000250855.wav|||Agi̋:na.|
+000068|01-chr|chr|wav/0120-Lessons01_to_10-000255695.wav|||I:sa à:gíɂa|
+000069|01-chr|chr|wav/0121-Lessons01_to_10-000258025.wav|||sa:sa|
+000070|01-chr|chr|wav/0123-Lessons01_to_10-000261425.wav|||Iná:ɂi.|
+000071|01-chr|chr|wav/0125-Lessons01_to_10-000265545.wav|||Sa:sa aná:ɂi.|
+000072|01-chr|chr|wav/0127-Lessons01_to_10-000272725.wav|||Sū.|
+000073|01-chr|chr|wav/0128-Lessons01_to_10-000273795.wav|||Dā. Lī.|
+000074|01-chr|chr|wav/0129-Lessons01_to_10-000275765.wav|||Ā.|
+000075|01-chr|chr|wav/0130-Lessons01_to_10-000276785.wav|||Lō.|
+000076|01-chr|chr|wav/0131-Lessons01_to_10-000277925.wav|||Sā|
+000077|01-chr|chr|wav/0132-Lessons01_to_10-000279045.wav|||Ī.|
+000078|01-chr|chr|wav/0133-Lessons01_to_10-000280015.wav|||Nā.|
+000079|01-chr|chr|wav/0134-Lessons01_to_10-000281145.wav|||Gī.|
+000080|01-chr|chr|wav/0137-Lessons01_to_10-000287275.wav|||Hlī.|
+000081|01-chr|chr|wav/0140-Lessons01_to_10-000293895.wav|||Gi:hli|
+000082|01-chr|chr|wav/0141-Lessons01_to_10-000295105.wav|||à:hligí:ɂa.|
+000083|01-chr|chr|wav/0143-Lessons01_to_10-000299745.wav|||À:hli:ló:ɂa.|
+000084|01-chr|chr|wav/0145-Lessons01_to_10-000304735.wav|||Gi:hli aná:ɂi.|
+000085|01-chr|chr|wav/0147-Lessons01_to_10-000311085.wav|||Sū.|
+000086|01-chr|chr|wav/0148-Lessons01_to_10-000312415.wav|||Dā.|
+000087|01-chr|chr|wav/0149-Lessons01_to_10-000313465.wav|||Lī.|
+000088|01-chr|chr|wav/0150-Lessons01_to_10-000314535.wav|||Ā.|
+000089|01-chr|chr|wav/0151-Lessons01_to_10-000315565.wav|||Lō.|
+000090|01-chr|chr|wav/0152-Lessons01_to_10-000316615.wav|||Sā|
+000091|01-chr|chr|wav/0153-Lessons01_to_10-000317855.wav|||Ī.|
+000092|01-chr|chr|wav/0154-Lessons01_to_10-000318925.wav|||Nā.|
+000093|01-chr|chr|wav/0155-Lessons01_to_10-000320195.wav|||Gī.|
+000094|01-chr|chr|wav/0156-Lessons01_to_10-000321225.wav|||Hlī.|
+000095|01-chr|chr|wav/0160-Lessons01_to_10-000330355.wav|||Sū. Lī. Dā. Ā. Lō. Sā. Ī. Nā. Gī. Hlī. Ā. Lō. Lī. Sū.|
+000096|01-chr|chr|wav/0161-Lessons01_to_10-000339965.wav|||Ī. Dā.|
+000097|01-chr|chr|wav/0165-Lessons11_to_20-000008505.wav|||sa:ɂdu|
+000098|01-chr|chr|wav/0167-Lessons11_to_20-000012265.wav|||Salǒ:li dù:du:lí na gi:hli.|
+000099|01-chr|chr|wav/0169-Lessons11_to_20-000018625.wav|||Sali dù:nadu:lí na sa:sa.|
+000100|01-chr|chr|wav/0171-Lessons11_to_20-000025585.wav|||Sa:ɂdu à:tliɂili.|
+000101|01-chr|chr|wav/0176-Lessons11_to_20-000043265.wav|||Gǎ:da.|
+000102|01-chr|chr|wav/0178-Lessons11_to_20-000046865.wav|||Gǐ:ga.|
+000103|01-chr|chr|wav/0180-Lessons11_to_20-000051025.wav|||Gà:du:li̋:da|
+000104|01-chr|chr|wav/0181-Lessons11_to_20-000052665.wav|||á:su:líɂa.|
+000105|01-chr|chr|wav/0183-Lessons11_to_20-000057295.wav|||Dū.|
+000106|01-chr|chr|wav/0184-Lessons11_to_20-000058525.wav|||Gā.|
+000107|01-chr|chr|wav/0187-Lessons11_to_20-000067005.wav|||s|
+000108|01-chr|chr|wav/0190-Lessons11_to_20-000075035.wav|||Ga:sgilo.|
+000109|01-chr|chr|wav/0192-Lessons11_to_20-000079295.wav|||Anà:ga:lǐ:sgi.|
+000110|01-chr|chr|wav/0194-Lessons11_to_20-000083975.wav|||À:sgâ:ga.|
+000111|01-chr|chr|wav/0196-Lessons11_to_20-000090165.wav|||Dū.|
+000112|01-chr|chr|wav/0197-Lessons11_to_20-000091145.wav|||Gā.|
+000113|01-chr|chr|wav/0198-Lessons11_to_20-000092225.wav|||s.|
+000114|01-chr|chr|wav/0201-Lessons11_to_20-000098195.wav|||Dī.|
+000115|01-chr|chr|wav/0203-Lessons11_to_20-000101615.wav|||Sdù:di.|
+000116|01-chr|chr|wav/0205-Lessons11_to_20-000105555.wav|||Di:da:sdù:di̋.|
+000117|01-chr|chr|wav/0207-Lessons11_to_20-000110235.wav|||Sǔ:dáli diga:sgilo dù:nadu:lí.|
+000118|01-chr|chr|wav/0209-Lessons11_to_20-000117015.wav|||Gi:hli agiganǎ:díɂa.|
+000119|01-chr|chr|wav/0212-Lessons11_to_20-000125545.wav|||Dū.|
+000120|01-chr|chr|wav/0213-Lessons11_to_20-000126695.wav|||Gā.|
+000121|01-chr|chr|wav/0214-Lessons11_to_20-000127995.wav|||s.|
+000122|01-chr|chr|wav/0215-Lessons11_to_20-000129215.wav|||Dī.|
+000123|01-chr|chr|wav/0218-Lessons11_to_20-000135665.wav|||Ū.|
+000124|01-chr|chr|wav/0220-Lessons11_to_20-000139145.wav|||U:sdi̋.|
+000125|01-chr|chr|wav/0222-Lessons11_to_20-000143735.wav|||Ga̋:du|
+000126|01-chr|chr|wav/0223-Lessons11_to_20-000145055.wav|||u:gì:sdi ù:du:lí u:sdi̋.|
+000127|01-chr|chr|wav/0225-Lessons11_to_20-000151945.wav|||Salǒ:li ù:du:lí na gi:hli.|
+000128|01-chr|chr|wav/0227-Lessons11_to_20-000158905.wav|||U:sdi̋ á:ɂi.|
+000129|01-chr|chr|wav/0229-Lessons11_to_20-000164455.wav|||Dū.|
+000130|01-chr|chr|wav/0230-Lessons11_to_20-000165575.wav|||Gā.|
+000131|01-chr|chr|wav/0231-Lessons11_to_20-000166805.wav|||s.|
+000132|01-chr|chr|wav/0232-Lessons11_to_20-000167785.wav|||Dī.|
+000133|01-chr|chr|wav/0233-Lessons11_to_20-000168825.wav|||Ū.|
+000134|01-chr|chr|wav/0236-Lessons11_to_20-000175625.wav|||Nv̄.|
+000135|01-chr|chr|wav/0239-Lessons11_to_20-000183285.wav|||Na gi:hli|
+000136|01-chr|chr|wav/0240-Lessons11_to_20-000185025.wav|||ganv́:gi.|
+000137|01-chr|chr|wav/0242-Lessons11_to_20-000189115.wav|||U:nv̌:di ù:du:lí|
+000138|01-chr|chr|wav/0243-Lessons11_to_20-000191755.wav|||na u:sdi̋.|
+000139|01-chr|chr|wav/0245-Lessons11_to_20-000196235.wav|||Dina:da:hli:lò:sdi̋:sgi|
+000140|01-chr|chr|wav/0246-Lessons11_to_20-000198855.wav|||ù:nv:nv́:ga.|
+000141|01-chr|chr|wav/0248-Lessons11_to_20-000204315.wav|||Dū.|
+000142|01-chr|chr|wav/0249-Lessons11_to_20-000205415.wav|||Gā.|
+000143|01-chr|chr|wav/0250-Lessons11_to_20-000206675.wav|||Sdī.|
+000144|01-chr|chr|wav/0251-Lessons11_to_20-000208285.wav|||Ū.|
+000145|01-chr|chr|wav/0252-Lessons11_to_20-000209435.wav|||Nv̄.|
+000146|01-chr|chr|wav/0254-Lessons11_to_20-000214745.wav|||Sī.|
+000147|01-chr|en|wav/0001-Lessons01_to_10-000002915.wav|||See Say Write book Lesson one|
+000148|01-chr|en|wav/0003-Lessons01_to_10-000010325.wav|||Lesson two|
+000149|01-chr|en|wav/0004-Lessons01_to_10-000013345.wav|||The key letter is lee.|
+000150|01-chr|en|wav/0005-Lessons01_to_10-000016385.wav|||The keyword sue lee.|
+000151|01-chr|en|wav/0006-Lessons01_to_10-000019925.wav|||Sentence number one. Sue.|
+000152|01-chr|en|wav/0007-Lessons01_to_10-000022975.wav|||Number two.|
+000153|01-chr|en|wav/0009-Lessons01_to_10-000026845.wav|||Reviewing the last two lessons|
+000154|01-chr|en|wav/0012-Lessons01_to_10-000032525.wav|||Lesson three|
+000155|01-chr|en|wav/0013-Lessons01_to_10-000035445.wav|||Key letter|
+000156|01-chr|en|wav/0015-Lessons01_to_10-000040465.wav|||the key word|
+000157|01-chr|en|wav/0017-Lessons01_to_10-000045095.wav|||Sentence number one.|
+000158|01-chr|en|wav/0019-Lessons01_to_10-000048905.wav|||Number two.|
+000159|01-chr|en|wav/0021-Lessons01_to_10-000052635.wav|||Number three.|
+000160|01-chr|en|wav/0023-Lessons01_to_10-000057205.wav|||Reviewing the last three lessons.|
+000161|01-chr|en|wav/0026-Lessons01_to_10-000065925.wav|||Lesson number four.|
+000162|01-chr|en|wav/0027-Lessons01_to_10-000068335.wav|||A new syllable.|
+000163|01-chr|en|wav/0029-Lessons01_to_10-000071655.wav|||The key word|
+000164|01-chr|en|wav/0031-Lessons01_to_10-000075835.wav|||Sentence number one.|
+000165|01-chr|en|wav/0033-Lessons01_to_10-000078965.wav|||Number two.|
+000166|01-chr|en|wav/0035-Lessons01_to_10-000082595.wav|||Number three.|
+000167|01-chr|en|wav/0037-Lessons01_to_10-000086655.wav|||Reviewing the last four lessons.|
+000168|01-chr|en|wav/0042-Lessons01_to_10-000097085.wav|||Lesson number five|
+000169|01-chr|en|wav/0043-Lessons01_to_10-000100585.wav|||The new character|
+000170|01-chr|en|wav/0045-Lessons01_to_10-000104325.wav|||The key word.|
+000171|01-chr|en|wav/0047-Lessons01_to_10-000109085.wav|||Number one.|
+000172|01-chr|en|wav/0049-Lessons01_to_10-000112595.wav|||Number two.|
+000173|01-chr|en|wav/0051-Lessons01_to_10-000116395.wav|||Number three.|
+000174|01-chr|en|wav/0053-Lessons01_to_10-000120785.wav|||Reviewing the last five lessons|
+000175|01-chr|en|wav/0059-Lessons01_to_10-000131665.wav|||Lesson number six. A new letter.|
+000176|01-chr|en|wav/0061-Lessons01_to_10-000136805.wav|||The key word.|
+000177|01-chr|en|wav/0063-Lessons01_to_10-000140975.wav|||Number one|
+000178|01-chr|en|wav/0065-Lessons01_to_10-000144975.wav|||Number two|
+000179|01-chr|en|wav/0067-Lessons01_to_10-000149555.wav|||Number three|
+000180|01-chr|en|wav/0069-Lessons01_to_10-000154195.wav|||Reviewing the last six lessons.|
+000181|01-chr|en|wav/0076-Lessons01_to_10-000167145.wav|||Lesson number seven|
+000182|01-chr|en|wav/0077-Lessons01_to_10-000169615.wav|||A new letter|
+000183|01-chr|en|wav/0080-Lessons01_to_10-000178335.wav|||Number one|
+000184|01-chr|en|wav/0082-Lessons01_to_10-000182525.wav|||Number two|
+000185|01-chr|en|wav/0084-Lessons01_to_10-000186275.wav|||Number three.|
+000186|01-chr|en|wav/0086-Lessons01_to_10-000189785.wav|||Reviewing the last seven lessons|
+000187|01-chr|en|wav/0094-Lessons01_to_10-000202735.wav|||Lesson number eight.|
+000188|01-chr|en|wav/0095-Lessons01_to_10-000204425.wav|||A new character|
+000189|01-chr|en|wav/0097-Lessons01_to_10-000208865.wav|||The key word|
+000190|01-chr|en|wav/0099-Lessons01_to_10-000213405.wav|||Number one.|
+000191|01-chr|en|wav/0101-Lessons01_to_10-000218415.wav|||Number two.|
+000192|01-chr|en|wav/0103-Lessons01_to_10-000223035.wav|||Number three.|
+000193|01-chr|en|wav/0105-Lessons01_to_10-000227905.wav|||Review the last eight lessons|
+000194|01-chr|en|wav/0114-Lessons01_to_10-000242885.wav|||Lesson 9|
+000195|01-chr|en|wav/0115-Lessons01_to_10-000244965.wav|||A new syllable.|
+000196|01-chr|en|wav/0117-Lessons01_to_10-000249445.wav|||The key word|
+000197|01-chr|en|wav/0119-Lessons01_to_10-000253745.wav|||Number one.|
+000198|01-chr|en|wav/0124-Lessons01_to_10-000264065.wav|||Number three.|
+000199|01-chr|en|wav/0126-Lessons01_to_10-000269305.wav|||Reviewing the last nine lessons.|
+000200|01-chr|en|wav/0135-Lessons01_to_10-000282885.wav|||Lesson number ten.|
+000201|01-chr|en|wav/0136-Lessons01_to_10-000285865.wav|||A new character.|
+000202|01-chr|en|wav/0139-Lessons01_to_10-000292565.wav|||Number one.|
+000203|01-chr|en|wav/0142-Lessons01_to_10-000297705.wav|||Number two.|
+000204|01-chr|en|wav/0144-Lessons01_to_10-000303095.wav|||Number three.|
+000205|01-chr|en|wav/0146-Lessons01_to_10-000308465.wav|||Reviewing the last ten lessons.|
+000206|01-chr|en|wav/0157-Lessons01_to_10-000323515.wav|||Looking at the syllable recognition drill|
+000207|01-chr|en|wav/0158-Lessons01_to_10-000326905.wav|||read with me,|
+000208|01-chr|en|wav/0159-Lessons01_to_10-000328165.wav|||from left to right.|
+000209|01-chr|en|wav/0162-Lessons11_to_20-000001345.wav|||Lesson number eleven.|
+000210|01-chr|en|wav/0166-Lessons11_to_20-000010685.wav|||Number one.|
+000211|01-chr|en|wav/0168-Lessons11_to_20-000017065.wav|||Number two.|
+000212|01-chr|en|wav/0172-Lessons11_to_20-000031465.wav|||Lesson number twelve.|
+000213|01-chr|en|wav/0175-Lessons11_to_20-000041775.wav|||Number one.|
+000214|01-chr|en|wav/0177-Lessons11_to_20-000045525.wav|||Number two.|
+000215|01-chr|en|wav/0182-Lessons11_to_20-000054945.wav|||Review the last two lessons.|
+000216|01-chr|en|wav/0185-Lessons11_to_20-000062765.wav|||Lesson thirteen.|
+000217|01-chr|en|wav/0186-Lessons11_to_20-000065145.wav|||The new character is|
+000218|01-chr|en|wav/0189-Lessons11_to_20-000073325.wav|||Number one|
+000219|01-chr|en|wav/0191-Lessons11_to_20-000077495.wav|||Number two|
+000220|01-chr|en|wav/0193-Lessons11_to_20-000082205.wav|||Number three|
+000221|01-chr|en|wav/0195-Lessons11_to_20-000086805.wav|||Review the last three lessons.|
+000222|01-chr|en|wav/0199-Lessons11_to_20-000094325.wav|||Lesson fourteen|
+000223|01-chr|en|wav/0200-Lessons11_to_20-000096655.wav|||The new character|
+000224|01-chr|en|wav/0202-Lessons11_to_20-000100225.wav|||The key word|
+000225|01-chr|en|wav/0204-Lessons11_to_20-000104085.wav|||Number one.|
+000226|01-chr|en|wav/0206-Lessons11_to_20-000108705.wav|||Number two.|
+000227|01-chr|en|wav/0208-Lessons11_to_20-000115435.wav|||Number three.|
+000228|01-chr|en|wav/0210-Lessons11_to_20-000121755.wav|||Reviewing the last|
+000229|01-chr|en|wav/0211-Lessons11_to_20-000123775.wav|||four lessons|
+000230|01-chr|en|wav/0216-Lessons11_to_20-000132305.wav|||Lesson fifteen.|
+000231|01-chr|en|wav/0217-Lessons11_to_20-000134255.wav|||The new syllable|
+000232|01-chr|en|wav/0219-Lessons11_to_20-000137295.wav|||The key word|
+000233|01-chr|en|wav/0221-Lessons11_to_20-000141795.wav|||Number one.|
+000234|01-chr|en|wav/0224-Lessons11_to_20-000150365.wav|||Number two.|
+000235|01-chr|en|wav/0226-Lessons11_to_20-000157075.wav|||Number three.|
+000236|01-chr|en|wav/0228-Lessons11_to_20-000161755.wav|||Review the last five lessons.|
+000237|01-chr|en|wav/0234-Lessons11_to_20-000172305.wav|||Lesson sixteen.|
+000238|01-chr|en|wav/0235-Lessons11_to_20-000174125.wav|||A new character.|
+000239|01-chr|en|wav/0238-Lessons11_to_20-000181585.wav|||Number one.|
+000240|01-chr|en|wav/0241-Lessons11_to_20-000187585.wav|||Number two.|
+000241|01-chr|en|wav/0244-Lessons11_to_20-000194415.wav|||Number three.|
+000242|01-chr|en|wav/0247-Lessons11_to_20-000201675.wav|||Review the last six lessons.|
+000243|01-chr|en|wav/0253-Lessons11_to_20-000211205.wav|||Lesson seventeen. The new character.|

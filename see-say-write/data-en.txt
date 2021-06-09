@@ -45,3 +45,53 @@
 01-chr|mp3/0101-Lessons01_to_10-000218415.mp3|Number two.
 01-chr|mp3/0103-Lessons01_to_10-000223035.mp3|Number three.
 01-chr|mp3/0105-Lessons01_to_10-000227905.mp3|Review the last eight lessons
+01-chr|mp3/0114-Lessons01_to_10-000242885.mp3|Lesson 9
+01-chr|mp3/0115-Lessons01_to_10-000244965.mp3|A new syllable.
+01-chr|mp3/0117-Lessons01_to_10-000249445.mp3|The key word
+01-chr|mp3/0119-Lessons01_to_10-000253745.mp3|Number one.
+01-chr|mp3/0124-Lessons01_to_10-000264065.mp3|Number three.
+01-chr|mp3/0126-Lessons01_to_10-000269305.mp3|Reviewing the last nine lessons.
+01-chr|mp3/0135-Lessons01_to_10-000282885.mp3|Lesson number ten.
+01-chr|mp3/0136-Lessons01_to_10-000285865.mp3|A new character.
+01-chr|mp3/0139-Lessons01_to_10-000292565.mp3|Number one.
+01-chr|mp3/0142-Lessons01_to_10-000297705.mp3|Number two.
+01-chr|mp3/0144-Lessons01_to_10-000303095.mp3|Number three.
+01-chr|mp3/0146-Lessons01_to_10-000308465.mp3|Reviewing the last ten lessons.
+01-chr|mp3/0157-Lessons01_to_10-000323515.mp3|Looking at the syllable recognition drill
+01-chr|mp3/0158-Lessons01_to_10-000326905.mp3|read with me,
+01-chr|mp3/0159-Lessons01_to_10-000328165.mp3|from left to right.
+01-chr|mp3/0162-Lessons11_to_20-000001345.mp3|Lesson number eleven.
+01-chr|mp3/0166-Lessons11_to_20-000010685.mp3|Number one.
+01-chr|mp3/0168-Lessons11_to_20-000017065.mp3|Number two.
+01-chr|mp3/0172-Lessons11_to_20-000031465.mp3|Lesson number twelve.
+01-chr|mp3/0175-Lessons11_to_20-000041775.mp3|Number one.
+01-chr|mp3/0177-Lessons11_to_20-000045525.mp3|Number two.
+01-chr|mp3/0182-Lessons11_to_20-000054945.mp3|Review the last two lessons.
+01-chr|mp3/0185-Lessons11_to_20-000062765.mp3|Lesson thirteen.
+01-chr|mp3/0186-Lessons11_to_20-000065145.mp3|The new character is
+01-chr|mp3/0189-Lessons11_to_20-000073325.mp3|Number one
+01-chr|mp3/0191-Lessons11_to_20-000077495.mp3|Number two
+01-chr|mp3/0193-Lessons11_to_20-000082205.mp3|Number three
+01-chr|mp3/0195-Lessons11_to_20-000086805.mp3|Review the last three lessons.
+01-chr|mp3/0199-Lessons11_to_20-000094325.mp3|Lesson fourteen
+01-chr|mp3/0200-Lessons11_to_20-000096655.mp3|The new character
+01-chr|mp3/0202-Lessons11_to_20-000100225.mp3|The key word
+01-chr|mp3/0204-Lessons11_to_20-000104085.mp3|Number one.
+01-chr|mp3/0206-Lessons11_to_20-000108705.mp3|Number two.
+01-chr|mp3/0208-Lessons11_to_20-000115435.mp3|Number three.
+01-chr|mp3/0210-Lessons11_to_20-000121755.mp3|Reviewing the last
+01-chr|mp3/0211-Lessons11_to_20-000123775.mp3|four lessons
+01-chr|mp3/0216-Lessons11_to_20-000132305.mp3|Lesson fifteen.
+01-chr|mp3/0217-Lessons11_to_20-000134255.mp3|The new syllable
+01-chr|mp3/0219-Lessons11_to_20-000137295.mp3|The key word
+01-chr|mp3/0221-Lessons11_to_20-000141795.mp3|Number one.
+01-chr|mp3/0224-Lessons11_to_20-000150365.mp3|Number two.
+01-chr|mp3/0226-Lessons11_to_20-000157075.mp3|Number three.
+01-chr|mp3/0228-Lessons11_to_20-000161755.mp3|Review the last five lessons.
+01-chr|mp3/0234-Lessons11_to_20-000172305.mp3|Lesson sixteen.
+01-chr|mp3/0235-Lessons11_to_20-000174125.mp3|A new character.
+01-chr|mp3/0238-Lessons11_to_20-000181585.mp3|Number one.
+01-chr|mp3/0241-Lessons11_to_20-000187585.mp3|Number two.
+01-chr|mp3/0244-Lessons11_to_20-000194415.mp3|Number three.
+01-chr|mp3/0247-Lessons11_to_20-000201675.mp3|Review the last six lessons.
+01-chr|mp3/0253-Lessons11_to_20-000211205.mp3|Lesson seventeen. The new character.
