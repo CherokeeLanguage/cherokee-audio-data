@@ -97,7 +97,7 @@ if __name__ == "__main__":
     os.mkdir("mp3")
 
     audio_files = []
-    for (dirpath, dirnames, filenames) in walk("src.noisy"):
+    for (dirpath, dirnames, filenames) in walk("src"):
         for filename in filenames:
             audio_files.append(os.path.join(dirpath, filename))
     print(f"Found {len(audio_files):,} audio files for processing")

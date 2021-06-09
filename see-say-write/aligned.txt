@@ -1,197 +1,279 @@
-df3|mp3-selected/Lessons01_to_10-004.mp3|Su:li.
-df3|mp3-selected/Lessons01_to_10-014.mp3|Sǔ:dáli.
-df3|mp3-selected/Lessons01_to_10-018.mp3|Su:li.
-df3|mp3-selected/Lessons01_to_10-020.mp3|Sǔ:dáli.
-df3|mp3-selected/Lessons01_to_10-027.mp3|Ada.
-df3|mp3-selected/Lessons01_to_10-028.mp3|Ada.
-df3|mp3-selected/Lessons01_to_10-030.mp3|Sǔ:dáli.
-df3|mp3-selected/Lessons01_to_10-032.mp3|A:li.
-df3|mp3-selected/Lessons01_to_10-041.mp3|À:su:lo.
-df3|mp3-selected/Lessons01_to_10-043.mp3|Lo:lo.
-df3|mp3-selected/Lessons01_to_10-045.mp3|Ada.
-df3|mp3-selected/Lessons01_to_10-047.mp3|Sǔ:dáli.
-df3|mp3-selected/Lessons01_to_10-052.mp3|Salǒ:li.
-df3|mp3-selected/Lessons01_to_10-054.mp3|Sa:sa.
-df3|mp3-selected/Lessons01_to_10-056.mp3|À:su:lo.
-df3|mp3-selected/Lessons01_to_10-058.mp3|Ada.
-df3|mp3-selected/Lessons01_to_10-068.mp3|I:sa.
-df3|mp3-selected/Lessons01_to_10-069.mp3|Sa:sa á:ɂi.
-df3|mp3-selected/Lessons01_to_10-071.mp3|Salǒ:li.
-df3|mp3-selected/Lessons01_to_10-073.mp3|Sali.
-df3|mp3-selected/Lessons01_to_10-085.mp3|Ǐ:náda.
-df3|mp3-selected/Lessons01_to_10-087.mp3|Sa:sa aná:ɂi.
-df3|mp3-selected/Lessons01_to_10-089.mp3|Iná:ɂi.
-df3|mp3-selected/Lessons01_to_10-091.mp3|Á:su:líɂa.
-df3|mp3-selected/Lessons01_to_10-103.mp3|Agi̋:na.
-df3|mp3-selected/Lessons01_to_10-105.mp3|I:sa à:gíɂa sa:sa
-df3|mp3-selected/Lessons01_to_10-107.mp3|Iná:ɂi.
-df3|mp3-selected/Lessons01_to_10-109.mp3|Sa:sa aná:ɂi.
-df3|mp3-selected/Lessons01_to_10-116.mp3|Gi:hli à:hligí:ɂa.
-df3|mp3-selected/Lessons01_to_10-118.mp3|À:hli:ló:ɂa.
-df3|mp3-selected/Lessons01_to_10-120.mp3|Gi:hli aná:ɂi.
-df3|mp3-selected/Lessons11_to_20-004.mp3|Salǒ:li dù:du:lí na gi:hli.
-df3|mp3-selected/Lessons11_to_20-006.mp3|Sali dù:nadu:lí na sa:sa.
-df3|mp3-selected/Lessons11_to_20-011.mp3|Ga̋:du.
-df3|mp3-selected/Lessons11_to_20-013.mp3|Gǎ:da.
-df3|mp3-selected/Lessons11_to_20-014.mp3|Gǐ:ga.
-df3|mp3-selected/Lessons11_to_20-016.mp3|Gà:du:li̋:da á:su:líɂa.
-df3|mp3-selected/Lessons11_to_20-022.mp3|À:ga:sga.
-df3|mp3-selected/Lessons11_to_20-024.mp3|Ga:sgilo.
-df3|mp3-selected/Lessons11_to_20-026.mp3|Anà:ga:lǐ:sgi.
-df3|mp3-selected/Lessons11_to_20-034.mp3|Sdù:di.
-df3|mp3-selected/Lessons11_to_20-036.mp3|Di:da:sdù:di̋.
-df3|mp3-selected/Lessons11_to_20-038.mp3|Sǔ:dáli diga:sgilo dù:nadu:lí.
-df3|mp3-selected/Lessons11_to_20-040.mp3|Gi:hli agiganǎ:díɂa..
-df3|mp3-selected/Lessons11_to_20-049.mp3|U:sdi̋.
-df3|mp3-selected/Lessons11_to_20-051.mp3|Ga̋:du.
-df3|mp3-selected/Lessons11_to_20-052.mp3|U:gì:sdi ù:du:lí u:sdi̋.
-df3|mp3-selected/Lessons11_to_20-054.mp3|Salǒ:li ù:du:lí na gi:hli.
-df3|mp3-selected/Lessons11_to_20-056.mp3|U:sdi̋ á:ɂi.
-df3|mp3-selected/Lessons11_to_20-062.mp3|U:nv̌:di.
-df3|mp3-selected/Lessons11_to_20-064.mp3|Na gi:hli ganv́:gi.
-df3|mp3-selected/Lessons11_to_20-066.mp3|U:nv̌:di ù:du:lí na u:sdi̋.
-df3|mp3-selected/Lessons11_to_20-068.mp3|Dina:da:hli:lò:sdi̋:sgi ù:nv:nv́:ga.
-df3|mp3-selected/Lessons11_to_20-077.mp3|Si:nv̋:da.
-df3|mp3-selected/Lessons11_to_20-079.mp3|Sigigi.
-df3|mp3-selected/Lessons11_to_20-081.mp3|Ga̋:du agigísi na gi:hli.
-df3|mp3-selected/Lessons11_to_20-083.mp3|Agá:li:siga.
-df3|mp3-selected/Lessons11_to_20-092.mp3|Ó:si.
-df3|mp3-selected/Lessons11_to_20-094.mp3|Usdi̋ ó:si.
-df3|mp3-selected/Lessons11_to_20-095.mp3|O:gana anahli gi:hli.
-df3|mp3-selected/Lessons11_to_20-097.mp3|Ga̋:du u:gana̋:sda à:gíɂa.
-df3|mp3-selected/Lessons11_to_20-098.mp3|Ogina:li̋:ɂi.
-df3|mp3-selected/Lessons11_to_20-107.mp3|O:síyo.
-df3|mp3-selected/Lessons11_to_20-108.mp3|Yǒ:na á:ɂi.
-df3|mp3-selected/Lessons11_to_20-110.mp3|À:giyó:si.
-df3|mp3-selected/Lessons11_to_20-118.mp3|À:giyó:siha.
-df3|mp3-selected/Lessons11_to_20-120.mp3|Ogina:li̋ ù:yó:siha.
-df3|mp3-selected/Lessons11_to_20-122.mp3|Hadǐ:da!
-df3|mp3-selected/Lessons11_to_20-124.mp3|O:síyo hada.
-df3|mp3-selected/Lessons21_to_30-002.mp3|Gáɂni.
-df3|mp3-selected/Lessons21_to_30-004.mp3|Áɂni.
-df3|mp3-selected/Lessons21_to_30-006.mp3|Gi:hli dù:niyó:siha.
-df3|mp3-selected/Lessons21_to_30-007.mp3|Sasa uniga:sga.
-df3|mp3-selected/Lessons21_to_30-010.mp3|Ganè:ga.
-df3|mp3-selected/Lessons21_to_30-011.mp3|Yó:ne:ga.
-df3|mp3-selected/Lessons21_to_30-012.mp3|U:ne̋:ga gi:hli.
-df3|mp3-selected/Lessons21_to_30-014.mp3|Dida:náɂnv̋ iné:na.
-df3|mp3-selected/Lessons21_to_30-021.mp3|Waló:si.
-df3|mp3-selected/Lessons21_to_30-022.mp3|Wahga.
-df3|mp3-selected/Lessons21_to_30-024.mp3|Ga̋:du u:nigana̋:sda duwá:duha.
-df3|mp3-selected/Lessons21_to_30-026.mp3|U:nv̌:di ù:hwasga.
-df3|mp3-selected/Lessons21_to_30-031.mp3|Ajaɂdi.
-df3|mp3-selected/Lessons21_to_30-033.mp3|Jayó:sihas?
-df3|mp3-selected/Lessons21_to_30-035.mp3|Jalí:si.
-df3|mp3-selected/Lessons21_to_30-037.mp3|Jayó:li.
-df3|mp3-selected/Lessons21_to_30-042.mp3|Nv̀:ya.
-df3|mp3-selected/Lessons21_to_30-044.mp3|I:ya.
-df3|mp3-selected/Lessons21_to_30-047.mp3|Tǔ:ya dù:du:lí.
-df3|mp3-selected/Lessons21_to_30-051.mp3|Wǎ:ji.
-df3|mp3-selected/Lessons21_to_30-052.mp3|Ji:sdu.
-df3|mp3-selected/Lessons21_to_30-056.mp3|U:ni:ji:ya dù:hyoha na asgaya.
-df3|mp3-selected/Lessons21_to_30-063.mp3|Ha:wiya.
-df3|mp3-selected/Lessons21_to_30-066.mp3|Ahwi dunihyo na aniwǐ:na.
-df3|mp3-selected/Lessons21_to_30-067.mp3|Gi:hli dà:suhwísga.
-df3|mp3-selected/Lessons21_to_30-073.mp3|Jí:sgwa.
-df3|mp3-selected/Lessons21_to_30-075.mp3|Sihgwa.
-df3|mp3-selected/Lessons21_to_30-076.mp3|Sihgwa ha:wiya à:gwadu:lí.
-df3|mp3-selected/Lessons21_to_30-078.mp3|Ji:sgwada.
-df3|mp3-selected/Lessons21_to_30-083.mp3|Wě:sa.
-df3|mp3-selected/Lessons21_to_30-085.mp3|Wě:sa nigawe.
-df3|mp3-selected/Lessons21_to_30-086.mp3|Sa:sa na:niwe.
-df3|mp3-selected/Lessons21_to_30-091.mp3|Ayv:wi:ya̋.
-df3|mp3-selected/Lessons21_to_30-092.mp3|Yv:gi.
-df3|mp3-selected/Lessons21_to_30-093.mp3|Ayv.
-df3|mp3-selected/Lessons21_to_30-095.mp3|Ahyv:dagwalò:sgi.
-df3|mp3-selected/Lessons31_to_40-002.mp3|Agayv̌:líge̋.
-df3|mp3-selected/Lessons31_to_40-003.mp3|Na agayv̌:líge̋ ù:yó:si, ge:líɂa.
-df3|mp3-selected/Lessons31_to_40-004.mp3|Dalǒ:níge̋ jí:sgwa gáɂnǐ:ya na wě:sa.
-df3|mp3-selected/Lessons31_to_40-006.mp3|Ada:kéhdi ù:du:lí na agě:hya.
-df3|mp3-selected/Lessons31_to_40-010.mp3|Gi:hli ù:lití:si.
-df3|mp3-selected/Lessons31_to_40-011.mp3|Ogina:li̋:ɂi.
-df3|mp3-selected/Lessons31_to_40-015.mp3|Tiyǒ:háɂli gaɂnǐ:ya na ǐ:náda.
-df3|mp3-selected/Lessons31_to_40-020.mp3|Jǐ:yu.
-df3|mp3-selected/Lessons31_to_40-021.mp3|Jǐ:yu dayù:hwasi ogina:li̋:ɂi.
-df3|mp3-selected/Lessons31_to_40-023.mp3|O:sǐ:yu iyunalsdà:hnéhdi.
-df3|mp3-selected/Lessons31_to_40-024.mp3|Ő:sda a:gì:sdi uyu:ti.
-df3|mp3-selected/Lessons31_to_40-028.mp3|Adà:dlǒ:sdi.
-df3|mp3-selected/Lessons31_to_40-030.mp3|Dlo:ge̋:si winè:da.
-df3|mp3-selected/Lessons31_to_40-031.mp3|Tǔ:ya gà:yő:hli widinadági.
-df3|mp3-selected/Lessons31_to_40-033.mp3|Ani:yv:wi:ya̋ dà:nadlo:sga.
-df3|mp3-selected/Lessons31_to_40-038.mp3|Ama.
-df3|mp3-selected/Lessons31_to_40-040.mp3|Ama sgidlì:sdasi.
-df3|mp3-selected/Lessons31_to_40-041.mp3|Ǔ:gáma à:gwadu:lí.
-df3|mp3-selected/Lessons31_to_40-042.mp3|Á:ma à:ganǎ:díɂa na wahga.
-df3|mp3-selected/Lessons31_to_40-047.mp3|Do:ya.
-df3|mp3-selected/Lessons31_to_40-048.mp3|Kilő anisgaya danidô:ga.
-df3|mp3-selected/Lessons31_to_40-049.mp3|Ǐ:náda gahnǐ:dô na asgaya.
-df3|mp3-selected/Lessons31_to_40-051.mp3|Gadogi u:sdi?
-df3|mp3-selected/Lessons31_to_40-055.mp3|Jalagi.
-df3|mp3-selected/Lessons31_to_40-058.mp3|Na à:lâ:sgalǐ:sgi.
-df3|mp3-selected/Lessons31_to_40-060.mp3|Idalà:sgala.
-df3|mp3-selected/Lessons31_to_40-062.mp3|Sáɂdu iyáni ani:jalagi analâ:sgalí.
-df3|mp3-selected/Lessons31_to_40-067.mp3|Jǒ:lani.
-df3|mp3-selected/Lessons31_to_40-069.mp3|Jǒ:lani ukiɂla wě:sa.
-df3|mp3-selected/Lessons31_to_40-073.mp3|Jǒ:lani tisduɂi.
-df3|mp3-selected/Lessons31_to_40-078.mp3|Da:hnawa.
-df3|mp3-selected/Lessons31_to_40-082.mp3|Ayő:hli ù:hnawâ:sdiha.
-df3|mp3-selected/Lessons31_to_40-089.mp3|Awǒ:háɂli.
-df3|mp3-selected/Lessons31_to_40-091.mp3|Awǒ:háɂli u:gì:dáhli gà:hǐ:dô na ayv:wi:ya̋.
-df3|mp3-selected/Lessons31_to_40-094.mp3|Jalagi gawó:ni na ayó:ne:ga.
-df3|mp3-selected/Lessons31_to_40-096.mp3|Nv:wô:ti ù:du:lí na udanili.
-df3|mp3-selected/Lessons41_to_50-003.mp3|Nǔ:na.
-df3|mp3-selected/Lessons41_to_50-004.mp3|Nǔ:na do:gihwisa dlo:ge̋:si.
-df3|mp3-selected/Lessons41_to_50-006.mp3|A:yanű:li ha:hnigi.
-df3|mp3-selected/Lessons41_to_50-007.mp3|Nű:la, hadanàwsda.
-df3|mp3-selected/Lessons41_to_50-010.mp3|Kanu:na.
-df3|mp3-selected/Lessons41_to_50-011.mp3|Kanu:na nigaweɂa.
-df3|mp3-selected/Lessons41_to_50-012.mp3|U:sdi̋ kanawô:ga.
-df3|mp3-selected/Lessons41_to_50-014.mp3|Kǎ:hwi widayù:hwasi dì:da:náɂnv̋:i.
-df3|mp3-selected/Lessons41_to_50-018.mp3|Di:sésdi.
-df3|mp3-selected/Lessons41_to_50-020.mp3|Di:sésdi dù:wo:hwě:lâ. 
-df3|mp3-selected/Lessons41_to_50-022.mp3|Kalsě:ji ù:du:lí na ayő:hli.
-df3|mp3-selected/Lessons41_to_50-023.mp3|Sě:di dà:gíɂa na salǒ:li.
-df3|mp3-selected/Lessons41_to_50-026.mp3|Sě:lu.
-df3|mp3-selected/Lessons41_to_50-027.mp3|Sě:lu ga̋:du dagá:du:hni.
-df3|mp3-selected/Lessons41_to_50-030.mp3|Sě:lu dodajì:hwisi à:diha na asgaya.
-df3|mp3-selected/Lessons41_to_50-034.mp3|Digadv́:di.
-df3|mp3-selected/Lessons41_to_50-036.mp3|Gadò hà:dv́:ne?
-df3|mp3-selected/Lessons41_to_50-038.mp3|Ùlsíhgí ù:lô:gi:la
-df3|mp3-selected/Lessons41_to_50-039.mp3|Dv̀:ga:hnani ge:líɂa.
-df3|mp3-selected/Lessons41_to_50-041.mp3|Digadv́:di à:yo:sda na ù:da:ge̋:da achű:ja.
-df3|mp3-selected/Lessons41_to_50-046.mp3|A:dlawáɂdv̋
-df3|mp3-selected/Lessons41_to_50-049.mp3|U:hyv:dla ama à:gwadu:lí.
-df3|mp3-selected/Lessons41_to_50-050.mp3|Áhani ù:dlanv:da.
-df3|mp3-selected/Lessons41_to_50-054.mp3|Hisgi
-df3|mp3-selected/Lessons41_to_50-055.mp3|Hila̋ à:hlíɂili?
-df3|mp3-selected/Lessons41_to_50-056.mp3|Hi:yo:lì:gis na asgaya?
-df3|mp3-selected/Lessons41_to_50-057.mp3|Ganv:hi̋:da ù:stihga na age:hyű:ja.
-df3|mp3-selected/Lessons41_to_50-063.mp3|Hisgi aye̋:hli à:hlíɂili.
-df3|mp3-selected/Lessons41_to_50-064.mp3|Uwò:ye̋:ni ù:we:hisdâ:ne.
-df3|mp3-selected/Lessons41_to_50-065.mp3|Hyehgahli aniyewsga.
-df3|mp3-selected/Lessons41_to_50-069.mp3|E:lohi. 
-df3|mp3-selected/Lessons41_to_50-071.mp3|I:ga e̋:hi nv:da kala.
-df3|mp3-selected/Lessons41_to_50-073.mp3|Hiɂa e:do:da.
-df3|mp3-selected/Lessons41_to_50-074.mp3|Hiɂa e:ji.
-df3|mp3-selected/Lessons41_to_50-078.mp3|Sgwà:hle̋:sdi.
-df3|mp3-selected/Lessons41_to_50-079.mp3|Áhani jǒ:hlê:sdi.
-df3|mp3-selected/Lessons41_to_50-080.mp3|Di:da:náɂnv̋ widage:doli hle̋:ga.
-df3|mp3-selected/Lessons41_to_50-081.mp3|U:do:hiyű ù:di:hléhga.
-df3|mp3-selected/Lessons51_to_60-002.mp3|Gv̌:hnáge̋.
-df3|mp3-selected/Lessons51_to_60-003.mp3|Gv̌:hnáge̋ gi:hli à:gi:káha.
-df3|mp3-selected/Lessons51_to_60-004.mp3|Ganv:gwalő:sdi e:sgv́hsi.
-df3|mp3-selected/Lessons51_to_60-005.mp3|Wě:sa nigawè:sgv́ gà:tv:gí:ɂa.
-df3|mp3-selected/Lessons51_to_60-008.mp3|Goɂi.
-df3|mp3-selected/Lessons51_to_60-010.mp3|Gadō u:sdi à:gowhtí na gi:tli.
-df3|mp3-selected/Lessons51_to_60-011.mp3|Hila̋ ǐ:gó:hi̋:da a:tliɂilida?
-df3|mp3-selected/Lessons51_to_60-012.mp3|Digo:hwě:lò:di è:sgidisi.
-df3|mp3-selected/Lessons51_to_60-016.mp3|Te:lǐ:do.
-df3|mp3-selected/Lessons51_to_60-018.mp3|Ji:sdu ate:sda na gi:tli.
-df3|mp3-selected/Lessons51_to_60-020.mp3|Dihnawo dà:tě:sga.
-df3|mp3-selected/Lessons51_to_60-024.mp3|Talǔ:ja.
-df3|mp3-selected/Lessons51_to_60-026.mp3|Ǔ:tana yǒ:na ji:gò:wahtā.
-df3|mp3-selected/Lessons51_to_60-027.mp3|Tawǒ:di nigaweɂa.
-df3|mp3-selected/Lessons51_to_60-028.mp3|U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.
-df3|mp3-selected/Lessons51_to_60-032.mp3|Gv:he.
-df3|mp3-selected/Lessons51_to_60-033.mp3|Gv:he anahliha gi:hli.
-df3|mp3-selected/Lessons51_to_60-034.mp3|Hè:sdi!
+|See Say Write book Lesson one
+Sū
+|Lesson two
+|The key letter is lee.
+|The keyword sue lee.
+|Sentence number one. Sue.
+|Number two.
+Su:li.
+|Reviewing the last two lessons
+Sū
+Lī
+|Lesson three
+|Key letter
+dā
+|the key word
+Sǔ:dáli.
+|Sentence number one.
+Sū
+|Number two.
+Su:li.
+|Number three.
+Sǔ:dáli.
+|Reviewing the last three lessons.
+Sū. Dā.
+Lī.
+|Lesson number four.
+|A new syllable.
+ā
+|The key word
+Ada.
+|Sentence number one.
+Ada.
+|Number two.
+Sǔ:dáli.
+|Number three.
+A:li.
+|Reviewing the last four lessons.
+Sū.
+Dā.
+Lī.
+Ā.
+|Lesson number five
+|The new character
+Lō.
+|The key word.
+À:su:lo.
+|Number one.
+Lo:lo.
+|Number two.
+Ada.
+|Number three.
+Sǔ:dáli.
+|Reviewing the last five lessons
+Sū.
+Dā.
+Lī.
+Ā.
+Lō.
+|Lesson number six. A new letter.
+Sā.
+|The key word.
+Salǒ:li.
+|Number one
+Sa:sa.
+|Number two
+À:su:lo.
+|Number three
+Ada.
+|Reviewing the last six lessons.
+Sū.
+Dā.
+Lī.
+Ā.
+Lō.
+Sā
+|Lesson number seven
+|A new letter
+Ī.
+x|The key word I:sa.
+|Number one
+Sa:sa á:ɂi.
+|Number two
+Salǒ:li.
+|Number three.
+Sali.
+|Reviewing the last seven lessons
+Sū.
+Dā.
+Lī.
+Ā.
+Lō.
+Sā
+Ī.
+|Lesson number eight.
+|A new character
+Nā.
+|The key word
+Ǐ:náda.
+|Number one.
+Sa:sa aná:ɂi.
+|Number two.
+Iná:ɂi.
+|Number three.
+Á:su:líɂa.
+|Review the last eight lessons|0105-Lessons01_to_10-000227905.mp3
+
+Agi̋:na.
+I:sa à:gíɂa sa:sa
+Iná:ɂi.
+Sa:sa aná:ɂi.
+Gi:hli à:hligí:ɂa.
+À:hli:ló:ɂa.
+Gi:hli aná:ɂi.
+Salǒ:li dù:du:lí na gi:hli.
+Sali dù:nadu:lí na sa:sa.
+Ga̋:du.
+Gǎ:da.
+Gǐ:ga.
+Gà:du:li̋:da á:su:líɂa.
+À:ga:sga.
+Ga:sgilo.
+Anà:ga:lǐ:sgi.
+Sdù:di.
+Di:da:sdù:di̋.
+Sǔ:dáli diga:sgilo dù:nadu:lí.
+Gi:hli agiganǎ:díɂa..
+U:sdi̋.
+Ga̋:du.
+U:gì:sdi ù:du:lí u:sdi̋.
+Salǒ:li ù:du:lí na gi:hli.
+U:sdi̋ á:ɂi.
+U:nv̌:di.
+Na gi:hli ganv́:gi.
+U:nv̌:di ù:du:lí na u:sdi̋.
+Dina:da:hli:lò:sdi̋:sgi ù:nv:nv́:ga.
+Si:nv̋:da.
+Sigigi.
+Ga̋:du agigísi na gi:hli.
+Agá:li:siga.
+Ó:si.
+Usdi̋ ó:si.
+O:gana anahli gi:hli.
+Ga̋:du u:gana̋:sda à:gíɂa.
+Ogina:li̋:ɂi.
+O:síyo.
+Yǒ:na á:ɂi.
+À:giyó:si.
+À:giyó:siha.
+Ogina:li̋ ù:yó:siha.
+Hadǐ:da!
+O:síyo hada.
+Gáɂni.
+Áɂni.
+Gi:hli dù:niyó:siha.
+Sasa uniga:sga.
+Ganè:ga.
+Yó:ne:ga.
+U:ne̋:ga gi:hli.
+Dida:náɂnv̋ iné:na.
+Waló:si.
+Wahga.
+Ga̋:du u:nigana̋:sda duwá:duha.
+U:nv̌:di ù:hwasga.
+Ajaɂdi.
+Jayó:sihas?
+Jalí:si.
+Jayó:li.
+Nv̀:ya.
+I:ya.
+Tǔ:ya dù:du:lí.
+Wǎ:ji.
+Ji:sdu.
+U:ni:ji:ya dù:hyoha na asgaya.
+Ha:wiya.
+Ahwi dunihyo na aniwǐ:na.
+Gi:hli dà:suhwísga.
+Jí:sgwa.
+Sihgwa.
+Sihgwa ha:wiya à:gwadu:lí.
+Ji:sgwada.
+Wě:sa.
+Wě:sa nigawe.
+Sa:sa na:niwe.
+Ayv:wi:ya̋.
+Yv:gi.
+Ayv.
+Ahyv:dagwalò:sgi.
+Agayv̌:líge̋.
+Na agayv̌:líge̋ ù:yó:si, ge:líɂa.
+Dalǒ:níge̋ jí:sgwa gáɂnǐ:ya na wě:sa.
+Ada:kéhdi ù:du:lí na agě:hya.
+Gi:hli ù:lití:si.
+Ogina:li̋:ɂi.
+Tiyǒ:háɂli gaɂnǐ:ya na ǐ:náda.
+Jǐ:yu.
+Jǐ:yu dayù:hwasi ogina:li̋:ɂi.
+O:sǐ:yu iyunalsdà:hnéhdi.
+Ő:sda a:gì:sdi uyu:ti.
+Adà:dlǒ:sdi.
+Dlo:ge̋:si winè:da.
+Tǔ:ya gà:yő:hli widinadági.
+Ani:yv:wi:ya̋ dà:nadlo:sga.
+Ama.
+Ama sgidlì:sdasi.
+Ǔ:gáma à:gwadu:lí.
+Á:ma à:ganǎ:díɂa na wahga.
+Do:ya.
+Kilő anisgaya danidô:ga.
+Ǐ:náda gahnǐ:dô na asgaya.
+Gadogi u:sdi?
+Jalagi.
+Na à:lâ:sgalǐ:sgi.
+Idalà:sgala.
+Sáɂdu iyáni ani:jalagi analâ:sgalí.
+Jǒ:lani.
+Jǒ:lani ukiɂla wě:sa.
+Jǒ:lani tisduɂi.
+Da:hnawa.
+Ayő:hli ù:hnawâ:sdiha.
+Awǒ:háɂli.
+Awǒ:háɂli u:gì:dáhli gà:hǐ:dô na ayv:wi:ya̋.
+Jalagi gawó:ni na ayó:ne:ga.
+Nv:wô:ti ù:du:lí na udanili.
+Nǔ:na.
+Nǔ:na do:gihwisa dlo:ge̋:si.
+A:yanű:li ha:hnigi.
+Nű:la, hadanàwsda.
+Kanu:na.
+Kanu:na nigaweɂa.
+U:sdi̋ kanawô:ga.
+Kǎ:hwi widayù:hwasi dì:da:náɂnv̋:i.
+Di:sésdi.
+Di:sésdi dù:wo:hwě:lâ.
+Kalsě:ji ù:du:lí na ayő:hli.
+Sě:di dà:gíɂa na salǒ:li.
+Sě:lu.
+Sě:lu ga̋:du dagá:du:hni.
+Sě:lu dodajì:hwisi à:diha na asgaya.
+Digadv́:di.
+Gadò hà:dv́:ne?
+Ùlsíhgí ù:lô:gi:la
+Dv̀:ga:hnani ge:líɂa.
+Digadv́:di à:yo:sda na ù:da:ge̋:da achű:ja.
+A:dlawáɂdv̋
+U:hyv:dla ama à:gwadu:lí.
+Áhani ù:dlanv:da.
+Hisgi
+Hila̋ à:hlíɂili?
+Hi:yo:lì:gis na asgaya?
+Ganv:hi̋:da ù:stihga na age:hyű:ja.
+Hisgi aye̋:hli à:hlíɂili.
+Uwò:ye̋:ni ù:we:hisdâ:ne.
+Hyehgahli aniyewsga.
+E:lohi.
+I:ga e̋:hi nv:da kala.
+Hiɂa e:do:da.
+Hiɂa e:ji.
+Sgwà:hle̋:sdi.
+Áhani jǒ:hlê:sdi.
+Di:da:náɂnv̋ widage:doli hle̋:ga.
+U:do:hiyű ù:di:hléhga.
+Gv̌:hnáge̋.
+Gv̌:hnáge̋ gi:hli à:gi:káha.
+Ganv:gwalő:sdi e:sgv́hsi.
+Wě:sa nigawè:sgv́ gà:tv:gí:ɂa.
+Goɂi.
+Gadō u:sdi à:gowhtí na gi:tli.
+Hila̋ ǐ:gó:hi̋:da a:tliɂilida?
+Digo:hwě:lò:di è:sgidisi.
+Te:lǐ:do.
+Ji:sdu ate:sda na gi:tli.
+Dihnawo dà:tě:sga.
+Talǔ:ja.
+Ǔ:tana yǒ:na ji:gò:wahtā.
+Tawǒ:di nigaweɂa.
+U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.
+Gv:he.
+Gv:he anahliha gi:hli.
+Hè:sdi!

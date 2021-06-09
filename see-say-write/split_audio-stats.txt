@@ -1,0 +1,9 @@
+
+Work directory: see-say-write
+
+Total splits: 1,102
+
+Min duration: 0.33 seconds
+Max duration: 9.87 seconds
+Total duration: 1,820.33 seconds
+

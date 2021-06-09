@@ -1,0 +1,47 @@
+01-chr|mp3/0001-Lessons01_to_10-000002915.mp3|See Say Write book Lesson one
+01-chr|mp3/0003-Lessons01_to_10-000010325.mp3|Lesson two
+01-chr|mp3/0004-Lessons01_to_10-000013345.mp3|The key letter is lee.
+01-chr|mp3/0005-Lessons01_to_10-000016385.mp3|The keyword sue lee.
+01-chr|mp3/0006-Lessons01_to_10-000019925.mp3|Sentence number one. Sue.
+01-chr|mp3/0007-Lessons01_to_10-000022975.mp3|Number two.
+01-chr|mp3/0009-Lessons01_to_10-000026845.mp3|Reviewing the last two lessons
+01-chr|mp3/0012-Lessons01_to_10-000032525.mp3|Lesson three
+01-chr|mp3/0013-Lessons01_to_10-000035445.mp3|Key letter
+01-chr|mp3/0015-Lessons01_to_10-000040465.mp3|the key word
+01-chr|mp3/0017-Lessons01_to_10-000045095.mp3|Sentence number one.
+01-chr|mp3/0019-Lessons01_to_10-000048905.mp3|Number two.
+01-chr|mp3/0021-Lessons01_to_10-000052635.mp3|Number three.
+01-chr|mp3/0023-Lessons01_to_10-000057205.mp3|Reviewing the last three lessons.
+01-chr|mp3/0026-Lessons01_to_10-000065925.mp3|Lesson number four.
+01-chr|mp3/0027-Lessons01_to_10-000068335.mp3|A new syllable.
+01-chr|mp3/0029-Lessons01_to_10-000071655.mp3|The key word
+01-chr|mp3/0031-Lessons01_to_10-000075835.mp3|Sentence number one.
+01-chr|mp3/0033-Lessons01_to_10-000078965.mp3|Number two.
+01-chr|mp3/0035-Lessons01_to_10-000082595.mp3|Number three.
+01-chr|mp3/0037-Lessons01_to_10-000086655.mp3|Reviewing the last four lessons.
+01-chr|mp3/0042-Lessons01_to_10-000097085.mp3|Lesson number five
+01-chr|mp3/0043-Lessons01_to_10-000100585.mp3|The new character
+01-chr|mp3/0045-Lessons01_to_10-000104325.mp3|The key word.
+01-chr|mp3/0047-Lessons01_to_10-000109085.mp3|Number one.
+01-chr|mp3/0049-Lessons01_to_10-000112595.mp3|Number two.
+01-chr|mp3/0051-Lessons01_to_10-000116395.mp3|Number three.
+01-chr|mp3/0053-Lessons01_to_10-000120785.mp3|Reviewing the last five lessons
+01-chr|mp3/0059-Lessons01_to_10-000131665.mp3|Lesson number six. A new letter.
+01-chr|mp3/0061-Lessons01_to_10-000136805.mp3|The key word.
+01-chr|mp3/0063-Lessons01_to_10-000140975.mp3|Number one
+01-chr|mp3/0065-Lessons01_to_10-000144975.mp3|Number two
+01-chr|mp3/0067-Lessons01_to_10-000149555.mp3|Number three
+01-chr|mp3/0069-Lessons01_to_10-000154195.mp3|Reviewing the last six lessons.
+01-chr|mp3/0076-Lessons01_to_10-000167145.mp3|Lesson number seven
+01-chr|mp3/0077-Lessons01_to_10-000169615.mp3|A new letter
+01-chr|mp3/0080-Lessons01_to_10-000178335.mp3|Number one
+01-chr|mp3/0082-Lessons01_to_10-000182525.mp3|Number two
+01-chr|mp3/0084-Lessons01_to_10-000186275.mp3|Number three.
+01-chr|mp3/0086-Lessons01_to_10-000189785.mp3|Reviewing the last seven lessons
+01-chr|mp3/0094-Lessons01_to_10-000202735.mp3|Lesson number eight.
+01-chr|mp3/0095-Lessons01_to_10-000204425.mp3|A new character
+01-chr|mp3/0097-Lessons01_to_10-000208865.mp3|The key word
+01-chr|mp3/0099-Lessons01_to_10-000213405.mp3|Number one.
+01-chr|mp3/0101-Lessons01_to_10-000218415.mp3|Number two.
+01-chr|mp3/0103-Lessons01_to_10-000223035.mp3|Number three.
+01-chr|mp3/0105-Lessons01_to_10-000227905.mp3|Review the last eight lessons

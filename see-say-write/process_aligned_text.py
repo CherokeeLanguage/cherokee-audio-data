@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S conda run -n cherokee-audio-data python
+
 import re
 
 import json
@@ -64,7 +65,7 @@ if __name__ == "__main__":
         mp3_check: str = fields[2].strip()
 
         if mp3_check and mp3_check != mp3:
-            raise Exception(f"Alignment fail [{line_no}] mp3={mp3} marker={mp3_check} text={tts_text}")
+            raise Exception(f"Alignment fail [{line_no}] mp3={mp3} marker={mp3_check} text={tts_chr_text}/{tts_en_text}")
         if "x" in tts_chr_text:
             continue
         if tts_chr_text:
