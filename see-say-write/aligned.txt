@@ -1,4 +1,4 @@
-|See Say Write book Lesson one
+|See Say Write book lesson one
 Sū
 |Lesson two
 |The key letter is lee.
@@ -168,10 +168,10 @@ Salǒ:li dù:du:lí na gi:hli.
 |Number two.
 Sali dù:nadu:lí na sa:sa.
 x|Number three.
-Sa:ɂdu à:tliɂili.
+Sa:ɂdu à:tlíɂili.
 |Lesson number twelve.
 x|A new character is ga
-x|The key word Ga̋:du.
+x|The key word...Ga̋:du.
 |Number one.
 Gǎ:da.
 |Number two.
@@ -293,17 +293,17 @@ x|The key word O:síyo.
 |Number one.
 Yǒ:na á:ɂi.
 |Number two.
-À:giyó:si.
+À:giyó:si.||0300-Lessons11_to_20-000311075.mp3
 |Number three.
 Diga:da:yo:sdi.
 |Reviewing the last nine lessons.
-Dū.||0300-Lessons11_to_20-000320435.mp3
+Dū.
 Gā.
 S. Dī.
 Ū.
 Nv̄.
 Sī.
-Ō. Yō.||0306-Lessons11_to_20-000327645.mp3
+Ō. Yō.
 |Lesson twenty.
 x|A new syllable. Ha.
 x|the key word À:giyó:siha.
@@ -325,7 +325,7 @@ Yō.
 Hā.
 |Page twenty eight. Syllable recognition drill.
 |Read along with me.
-Sū. Lī. Dā. Ā. Lō. Sā. Ī. Nā. Gī. Hlī. Dū. Gā. S. Dī.
+Sū. Lī. Dā. Ā. Lō. Sā. Ī. Nā. Gī. Hlī. Dū. Gā. S. Dī. Ū.
 Nv̄. Sī. Ō.
 Yō. Hā. Sā. Lō. Dā. Lī.
 Sū. Gā. Dū. Hlī. Gī. Nā.
@@ -397,7 +397,7 @@ x|xxx Wǎ:ji.
 |Number one.
 Ji:sdu.
 |Number two.
-Ji:sdu gaɂnǐ:ya na gi:hli.||0400-Lessons21_to_30-000170155.mp3
+Ji:sdu gaɂnǐ:ya na gi:hli.
 |Number three.
 U:ni:ji:ya
 dù:hyoha na asgaya.
@@ -414,7 +414,7 @@ Wī.
 Ha:wiya.
 |Number one.
 Wiɂsi.
-x|Number two Ahwi dunihyo
+x|Number two...Ahwi dunihyo
 na aniwǐ:na.
 |Number three.
 Gi:hli
@@ -519,7 +519,7 @@ x|key...Ama.
 Ama sgidlì:sdasi.
 |Number two.
 Ǔ:gáma à:gwadu:lí.
-x|Number three. Á:ma
+x|Number three...Á:ma
 à:ganǎ:díɂa
 na wahga.
 |Reviewing the last five lessons.
@@ -703,26 +703,100 @@ x|Number...Hiɂa e:ji.
 |Reviewing the last nine lessons:
 Nū. Kā. Sē. Lū. Dv̄. Dlā. Hī. Yē. Ē.
 |Lesson number fifty.
-
-Sgwà:hle̋:sdi.
+x|new...tle
+x|key...Sgwà:hle̋:sdi.
+|Number one.
 Áhani jǒ:hlê:sdi.
+|Number two.
 Di:da:náɂnv̋ widage:doli hle̋:ga.
+|Number three.
 U:do:hiyű ù:di:hléhga.
-Gv̌:hnáge̋.
-Gv̌:hnáge̋ gi:hli à:gi:káha.
+|Reviewing the last ten lessons:
+Nū. Kā. Sē. Lū. Dv̄. Dlā.
+x Sū. Lī. Dā. Ā. Lō. Sā. Ī. Nā.
+x
+x
+x
+x
+x
+|Lesson fifty one
+x|new
+x|key Gv̌:hnáge̋.
+x|number one Gv̌:hnáge̋ gi:hli à:gi:káha.
+|Number two.
 Ganv:gwalő:sdi e:sgv́hsi.
+|Number three.
 Wě:sa nigawè:sgv́ gà:tv:gí:ɂa.
-Goɂi.
+|Lesson fifty two.
+x|key
+x|key...Goɂi.
+|Number one.
 Gadō u:sdi à:gowhtí na gi:tli.
-Hila̋ ǐ:gó:hi̋:da a:tliɂilida?
+x|Hila̋ ǐ:gó:hi̋:da
+a:tliɂilida?
+|Number three.
 Digo:hwě:lò:di è:sgidisi.
-Te:lǐ:do.
+x|review
+|Lesson fifty three.
+x|
+x|key Te:lǐ:do.
+|Number one
 Ji:sdu ate:sda na gi:tli.
+x|
+|Number three.
 Dihnawo dà:tě:sga.
-Talǔ:ja.
-Ǔ:tana yǒ:na ji:gò:wahtā.
-Tawǒ:di nigaweɂa.
-U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.
-Gv:he.
+x|review
+|Lesson fifty four.
+x|new
+x|key Talǔ:ja.
+|Number one.
+Ǔ:tana
+yǒ:na ji:gò:wahtā.
+x|Tawǒ:di nigaweɂa.
+x|U:do:hiyű uwo:dű:hi hiɂa talǔ:ja.
+x|Review
+|Lesson fifty five
+x|Char...
+x|Key...Gv:he.
+|Number one.
 Gv:he anahliha gi:hli.
-Hè:sdi!
+x|Number two. Hè:sdi!
+x|Number three...
+|Reviewing the last five lessons.
+Gv̄. Gō. Tē. Tā. Hē.
+|Lesson fifty six
+x|new...
+x|key...
+|Number one.
+Wǎ:húhi nigawè:sgv́ gà:tv:gíɂa.
+x|
+|Number three.
+Ni!
+Go:hű:sdi nigaweɂa.
+|Reviewing the last three lessons.
+Gv̄. Gō. Tē. Tā. Hē. Hū.
+|Lesson fifty seven.
+x|new...
+x|key...
+x|number one...
+|Number two.
+Hila̋ Ijade:tiyv̋:da
+x|Number three...Di:jalagi dà:de:hlohgwáɂa di:dě:hlo:gwà:sgi.
+|Reviewing the last seven lessons.
+Gv̄. Gō. Tē. Tā. Hē. Hū. Dē.
+x|Lesson Fifty Eight...
+x|key...
+|Number one.
+Sohi aninv:hi̋:da dinute:suga.
+|Number two.
+Sóhně:la aye̋:hli atliɂili.
+|Number three.
+À:sǒ:hyv̋ ù:kila
+jitǎ:ga.
+|Reviewing the last eight lessons.
+Gv̄. Gō. Tē. Tā. Hē. Hū. Dē. Sō.
+x|Lesson fifty nine...
+x|key...
+|Number one
+Hila̋ ǐ:ga̋ juwě:ji dejadu:lí?
+
