@@ -318,3 +318,51 @@
 01-chr|mp3/0931-Lessons61_to_70-000334425.mp3|Reviewing the last ten lessons.
 01-chr|mp3/0945-Lessons71_to_84-000002505.mp3|Lesson Seventy One
 01-chr|mp3/0948-Lessons71_to_84-000010765.mp3|Number one.
+01-chr|mp3/0950-Lessons71_to_84-000016385.mp3|Number two.
+01-chr|mp3/0952-Lessons71_to_84-000021345.mp3|Number three.
+01-chr|mp3/0954-Lessons71_to_84-000026535.mp3|Lesson Seventy Two
+01-chr|mp3/0957-Lessons71_to_84-000035435.mp3|Number one.
+01-chr|mp3/0959-Lessons71_to_84-000041675.mp3|Number two.
+01-chr|mp3/0961-Lessons71_to_84-000048185.mp3|Number three.
+01-chr|mp3/0963-Lessons71_to_84-000052145.mp3|Review the last two lessons.
+01-chr|mp3/0965-Lessons71_to_84-000058585.mp3|Lesson Seventy Three
+01-chr|mp3/0968-Lessons71_to_84-000068205.mp3|Number one.
+01-chr|mp3/0974-Lessons71_to_84-000088605.mp3|Lesson Seventy Four
+01-chr|mp3/0977-Lessons71_to_84-000096575.mp3|Number one.
+01-chr|mp3/0981-Lessons71_to_84-000108435.mp3|Number three.
+01-chr|mp3/0983-Lessons71_to_84-000114645.mp3|Review the last four lessons
+01-chr|mp3/0986-Lessons71_to_84-000124465.mp3|Lesson Seventy Five
+01-chr|mp3/0988-Lessons71_to_84-000129755.mp3|The key word:
+01-chr|mp3/0991-Lessons71_to_84-000139165.mp3|Number two.
+01-chr|mp3/0995-Lessons71_to_84-000150445.mp3|Reviewing the last five lessons.
+01-chr|mp3/1000-Lessons71_to_84-000166395.mp3|Number one.
+01-chr|mp3/1003-Lessons71_to_84-000172875.mp3|I'm sorry, number two.
+01-chr|mp3/1005-Lessons71_to_84-000179635.mp3|Number three.
+01-chr|mp3/1007-Lessons71_to_84-000183915.mp3|Reviewing the last six lessons.
+01-chr|mp3/1009-Lessons71_to_84-000193965.mp3|Lesson Seventy Seven.
+01-chr|mp3/1012-Lessons71_to_84-000202445.mp3|Number one.
+01-chr|mp3/1015-Lessons71_to_84-000207795.mp3|Number two.
+01-chr|mp3/1017-Lessons71_to_84-000213445.mp3|Number three.
+01-chr|mp3/1019-Lessons71_to_84-000218525.mp3|Last seven lessons.
+01-chr|mp3/1026-Lessons71_to_84-000240835.mp3|Number two.
+01-chr|mp3/1028-Lessons71_to_84-000246175.mp3|Number three.
+01-chr|mp3/1037-Lessons71_to_84-000276145.mp3|Number two.
+01-chr|mp3/1039-Lessons71_to_84-000281295.mp3|Number three.
+01-chr|mp3/1042-Lessons71_to_84-000297405.mp3|Lesson Eighty.
+01-chr|mp3/1046-Lessons71_to_84-000307855.mp3|Number one.
+01-chr|mp3/1048-Lessons71_to_84-000313005.mp3|Number two.
+01-chr|mp3/1050-Lessons71_to_84-000319075.mp3|Number three.
+01-chr|mp3/1055-Lessons71_to_84-000343165.mp3|Lesson eighty one.
+01-chr|mp3/1057-Lessons71_to_84-000347355.mp3|The key word:
+01-chr|mp3/1062-Lessons71_to_84-000363485.mp3|Lesson Eighty Two
+01-chr|mp3/1065-Lessons71_to_84-000372945.mp3|Number one.
+01-chr|mp3/1067-Lessons71_to_84-000379285.mp3|Number two.
+01-chr|mp3/1069-Lessons71_to_84-000385935.mp3|Reviewing the last two lessons.
+01-chr|mp3/1072-Lessons71_to_84-000393005.mp3|Lesson eighty three.
+01-chr|mp3/1078-Lessons71_to_84-000413455.mp3|Lesson Eighty Four
+01-chr|mp3/1081-Lessons71_to_84-000426625.mp3|Reading the sentence:
+01-chr|mp3/1086-Lessons71_to_84-000440325.mp3|Page one hundred and fifty nine the syllable recognition drill.
+01-chr|mp3/1087-Lessons71_to_84-000444815.mp3|This will cover
+01-chr|mp3/1088-Lessons71_to_84-000446505.mp3|all of lessons one through eighty four.
+01-chr|mp3/1089-Lessons71_to_84-000450085.mp3|Please read along with me.
+01-chr|mp3/1102-Lessons71_to_84-000515935.mp3|End of tape.

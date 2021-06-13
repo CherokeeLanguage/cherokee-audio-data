@@ -450,3 +450,65 @@
 01-chr|mp3/0941-Lessons61_to_70-000392545.mp3|Sū. Lī. Dā. Ā. Lō. Sā. Ī. Nā. Gī. Hlī.
 01-chr|mp3/0942-Lessons61_to_70-000398035.mp3|Dū. Gā.
 01-chr|mp3/0944-Lessons61_to_70-000403755.mp3|Nī. Nē. Wā. Jā. Yā. Jī. Wī. Gwā. Wē. Yv̄.
+01-chr|mp3/0949-Lessons71_to_84-000011955.mp3|Igv:yi̋, taɂli:ne̋, joɂi:ne̋, nvhgi:ne̋,
+01-chr|mp3/0951-Lessons71_to_84-000017655.mp3|Wǎ:ji dà:sdá:yidiɂa.
+01-chr|mp3/0953-Lessons71_to_84-000022515.mp3|Wo:yi nigawè:sgv́ gà:tv:gí:ɂa.
+01-chr|mp3/0958-Lessons71_to_84-000036615.mp3|Gaɂlo:hni kaɂlv̋ anvnsgó unitelvládi.
+01-chr|mp3/0960-Lessons71_to_84-000044015.mp3|Ha:dlv dejalv̌:hwísdà:ne:hó?
+01-chr|mp3/0962-Lessons71_to_84-000049405.mp3|Íhě:dô:lv:ɂi.
+01-chr|mp3/0964-Lessons71_to_84-000054065.mp3|Yī. Lv̄.
+01-chr|mp3/0969-Lessons71_to_84-000069665.mp3|Ajvgalí:yé:di ga:nǐ:dô:ha.
+01-chr|mp3/0971-Lessons71_to_84-000075485.mp3|De:jv̋ysdv dekdlǒ:hi.
+01-chr|mp3/0978-Lessons71_to_84-000097635.mp3|Hi:yo:lì:gis kilő dludlu jù:do:ɂǐ:da?
+01-chr|mp3/0980-Lessons71_to_84-000104225.mp3|Ada ti:sdlû:hya.
+01-chr|mp3/0982-Lessons71_to_84-000110135.mp3|Ha:dlv dajì:hluni hiɂa gǎ:da?
+01-chr|mp3/0984-Lessons71_to_84-000117185.mp3|Yī.
+01-chr|mp3/0985-Lessons71_to_84-000118295.mp3|Lv̄. Jv̄. Dlū.
+01-chr|mp3/0989-Lessons71_to_84-000130995.mp3|E:li̋:gwu.
+01-chr|mp3/0992-Lessons71_to_84-000140885.mp3|Sǐ:gwu jinihiwi.
+01-chr|mp3/0994-Lessons71_to_84-000146255.mp3|Sà:gwű aye̋:hli à:tlíɂili.
+01-chr|mp3/0996-Lessons71_to_84-000152805.mp3|Yī. Lv̄. Jv̄. Dlū. Gwū.
+01-chr|mp3/1001-Lessons71_to_84-000167925.mp3|Hla go:hű:sdi yigà:tv:gí:ɂa.
+01-chr|mp3/1004-Lessons71_to_84-000174705.mp3|Hlawò:tu:hi̋ nigalsdi:sgó yù:ga:hnana.
+01-chr|mp3/1006-Lessons71_to_84-000180875.mp3|Hla yà:gwanhta.
+01-chr|mp3/1008-Lessons71_to_84-000186025.mp3|Yī. Lv̄. Jv̄. Dlū. Gwū. Hlv̄.
+01-chr|mp3/1013-Lessons71_to_84-000203875.mp3|Nű:la!
+01-chr|mp3/1014-Lessons71_to_84-000205985.mp3|À:gwv:nv́:ga.
+01-chr|mp3/1016-Lessons71_to_84-000209275.mp3|Agwa̋:sa wigě:dôli dida:náɂnv̋ɂi.
+01-chr|mp3/1018-Lessons71_to_84-000214905.mp3|À:gwv̌:ké:wa dejadó:ɂv̌:ɂi.
+01-chr|mp3/1020-Lessons71_to_84-000220405.mp3|Yī. Lv̄. Jv̄. Dlū. Gwū. Hlv̄. Gwv̄.
+01-chr|mp3/1023-Lessons71_to_84-000231435.mp3|Hihv̌:na.
+01-chr|mp3/1025-Lessons71_to_84-000235995.mp3|Dijalagi digigo:lǐ:yê:di disgwé:hyo:hv̀:ga.
+01-chr|mp3/1027-Lessons71_to_84-000243085.mp3|Idalsdà:yv:hv̀:ga.
+01-chr|mp3/1029-Lessons71_to_84-000247435.mp3|Tale:hv̀:ga.
+01-chr|mp3/1031-Lessons71_to_84-000252025.mp3|Yī. Lv̄. Jv̄. Dlū. Gwū.
+01-chr|mp3/1032-Lessons71_to_84-000255395.mp3|Hlv̄. Gwv̄. Hv̄.
+01-chr|mp3/1038-Lessons71_to_84-000277455.mp3|Wǔ:tanv̋ gahljǒ:de ù:su:yé:sv̌.
+01-chr|mp3/1040-Lessons71_to_84-000282545.mp3|Wǔ:dé:lì:gv̋ idí:dla wǔ:dé:lì:gi nv:da.
+01-chr|mp3/1045-Lessons71_to_84-000305695.mp3|Jǔ:gá:nawv̋.
+01-chr|mp3/1047-Lessons71_to_84-000309255.mp3|Jǔ:gá:nawv̋ wanikti sasa.
+01-chr|mp3/1049-Lessons71_to_84-000314205.mp3|E:li̋:gwus dida:náɂnv̋ yiwvhé:da?
+01-chr|mp3/1051-Lessons71_to_84-000320215.mp3|U:dlv̋:gi
+01-chr|mp3/1052-Lessons71_to_84-000322195.mp3|kanv:wv̀:ga na gáɂnakti.
+01-chr|mp3/1054-Lessons71_to_84-000328505.mp3|Yī. Lv̄. Jv̄. Dlū. Gwū. Hlv̄. Gwv̄. Hv̄. Wū. Wv̄.
+01-chr|mp3/1058-Lessons71_to_84-000348625.mp3|Me:li.
+01-chr|mp3/1061-Lessons71_to_84-000357725.mp3|Amé:gwő de:gá:sóhgi áyosgi.
+01-chr|mp3/1066-Lessons71_to_84-000374265.mp3|Jimi dù:do:ɂa hiɂa achű:ja.
+01-chr|mp3/1068-Lessons71_to_84-000380455.mp3|Kě:míli ù:kilv̀:di ji:gò:wahta.
+01-chr|mp3/1070-Lessons71_to_84-000388395.mp3|Mē.
+01-chr|mp3/1071-Lessons71_to_84-000389615.mp3|Mī.
+01-chr|mp3/1076-Lessons71_to_84-000405855.mp3|Maga sóhně:line̋ à:yâ:tohlv̋
+01-chr|mp3/1077-Lessons71_to_84-000409075.mp3|ajino:héha Mosi.
+01-chr|mp3/1082-Lessons71_to_84-000428115.mp3|Jedô:lvhis mu:di?
+01-chr|mp3/1084-Lessons71_to_84-000435035.mp3|Mē. Mī. Mō.
+01-chr|mp3/1085-Lessons71_to_84-000437815.mp3|Mū.
+01-chr|mp3/1090-Lessons71_to_84-000452615.mp3|Sū. Lī. Dā. Ā. Lō. Sā. Ī. Nā. Gī. Hlī.
+01-chr|mp3/1091-Lessons71_to_84-000458395.mp3|Dū. Gā.
+01-chr|mp3/1092-Lessons71_to_84-000460025.mp3|Dī. Ū. Nv̄. Sī. Ō. Yō. Hā.
+01-chr|mp3/1093-Lessons71_to_84-000464435.mp3|Nī. Nē. Wā. Jā. Yā. Jī. Wī. Gwā. Wē. Yv̄.
+01-chr|mp3/1094-Lessons71_to_84-000470355.mp3|Gē. Tī. Yū. Dlō. Mā. Dō. Lā. Jō. Hnā. Wō.
+01-chr|mp3/1095-Lessons71_to_84-000476435.mp3|Nū. Kā. Sē. Lū. Dv̄. Dlā. Hī. Yē. Ē. Hlē.
+01-chr|mp3/1096-Lessons71_to_84-000482525.mp3|Gv̄. Gō. Tē. Tā. Hē. Hū. Dē. Sō. Jū. Gwī.
+01-chr|mp3/1099-Lessons71_to_84-000503005.mp3|Mē. Mī. Mō. Mū. Sū. Lī. Dā. Ā. Lō. Sā.
+01-chr|mp3/1100-Lessons71_to_84-000508965.mp3|Ī. Nā. Gī. Hlī. Dū. Gā.
+01-chr|mp3/1101-Lessons71_to_84-000512605.mp3|Dī. Ū. Nv̄.

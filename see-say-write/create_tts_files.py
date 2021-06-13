@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S conda run -n cherokee-audio-data python
+
 import os
 import sys
 import unicodedata as ud
