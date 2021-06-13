@@ -85,7 +85,7 @@ if __name__ == "__main__":
     silence_threshold: float = -40.0
     silence_min_duration: int = 250  # 225  # ms
     max_target_duration: int = 10000  # ms
-    gap_break_duration: int = 425  # 675  # ms
+    gap_break_duration: int = 600  # 675  # ms
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":

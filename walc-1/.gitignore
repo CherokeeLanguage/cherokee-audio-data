@@ -1,13 +1,11 @@
-/src/
 /wav/
 /train.txt
 /val.txt
 /split_audio.txt
 /We Are Learning Cherokee.zip
-/Audio Files/
 /selected.txt
 /training.txt
 /training1.txt
 /training2.txt
 /training_wavs/
-
+/src.orig/

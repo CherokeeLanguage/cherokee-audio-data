@@ -1,38 +1,38 @@
-Ahő:li
+x Ahő:li
 Jiɂő:li
-Hihő:li
+x Hihő:li
 Ahő:li
 O:síyo
 Síyo
-x
+|Hi or hello.
 jigo:lǐ:yéɂa
 Higo:lǐ:yéɂa
-A:go:lǐ:yéɂa
+A:go:lǐ:yéɂa||0010-Chapter_1_1.1_Set_A_03_He-She_is_reading-000000000.mp3
 Anigo:lǐ:yéɂa
-Inigo:lǐ:yéɂa
+x Inigo:lǐ:yéɂa
 Osdigo:lǐ:yéɂa
 Sdigo:lǐ:yéɂa
 Idigo:lǐ:yéɂa
 Ojigo:lǐ:yéɂa
-Ijigo:lǐ:yéɂa
-Gade:dv́sga
+x Ijigo:lǐ:yéɂa
+Gade:tv́sga
 Hade:tv́sga
 Ade:tv́sga
 Anade:tv́sga
 Inade:tv́sga
 Osdade:tv́sga
-Sdade:tv́sga
+x Sdade:tv́sga
 Idade:tv́sga
 Ojade:tv́sga
 Ijade:tv́sga
 Go:lì:ga
 Gohlga
-E:ji
+x E:ji
 Agiji
 Jaji
 U:ji
-Sv̌:kta dù:du:líha
-Digo:hwe:li dejigo:lǐ:yéɂa
+Sv̌:kta dù:du:líha.
+Digo:hwe:li dejigo:lǐ:yéɂa.
 À:giyó:siha
 Jayó:siha
 U:yó:siha
@@ -44,13 +44,13 @@ Degiyó:siha
 Dogiyó:siha
 Dejiyó:siha
 à:gwadu:líha
-Jadu:líha
+x Jadu:líha
 ù:du:líha
 ù:nadu:líha
 Ginadu:líha
 Oginadu:líha
 Sdadu:líha
-Igadu:líha
+x Igadu:líha
 Ogadu:líha
 Ijadu:líha
 Na asgay gawó:niha.
@@ -60,31 +60,33 @@ Uwodujvɂi dekáno:gí:ɂa.
 Go:lì:ga
 U:nv̌:di gadì:tásga.
 Na asgaya sda̋:y gawó:niha.
-Ijalì:sdâ:yv:hv́sga.
-Danino:gí:ɂa.
+x Ijalì:sdâ:yv:hv́sga.
+x Danino:gí:ɂa.
 Idada:dǒ:lî:sdiha.
 À:hnigíɂa
 a:hnigi
 Galì:sdâ:yv:hv́sga. Galisdà:yv:hv̀:ga.
-Aniwó:niha. Aniwò:nǐ:hi
-À:gihyóha. Agiyhga.
+x Aniwó:niha. Aniwò:nǐ:hi
+À:gihyóha. Agiyhgā.
 Hadì:tásga
-Hadǐ:ta
-Dehigí:ɂa Tiga!
-Dehino:gí:ɂa Tihnó:gi!
-Ő:sda Nidehv́:neha. Ő:sda nitv́:ga!
-Desdigo:lǐ:ya. Disdigo:lǐ:ya!
+Hadǐ:tā
+Dehigí:ɂa tiga!
+Dehino:gí:ɂa tihnó:gī!
+Ő:sda nidehv́:neha.
+Ő:sda nitv́:gā!
+Desdigo:lǐ:ya. Disdigo:lǐ:yā!
 Dehiga
 Tiga
-Dehatv:dâ:sdiha. Tatv:dà:sda!
-Desdino:gí. Disdihnó:gi!
-Hatv:dà:sda. Ijatv:dà:sda. Sdatv:dà:sda.
+Dehatv:dâ:sdiha. Tatv:dà:sdā!
+Desdino:gí.
+Disdihnó:gī!
+Hatv:dà:sdā. Ijatv:dà:sdā. Sdatv:dà:sdā.
 Hatv:dâ:sdiha. Ijatv:dâ:sdiha. Sdatv:dâ:sdiha.
-Tigo:lǐ:ya. Dijigo:lǐ:ya. Disdigo:lǐ:ya
+Tigo:lǐ:yā. Dijigo:lǐ:yā. Disdigo:lǐ:yā.
 Dehigo:lǐ:yéɂa. Dejigo:lǐ:yéɂa. Desdigo:lǐ:yéɂa.
-Hiwò:nǐ:hi. Ijiwò:nǐ:hi. Sdiwò:nǐ:hi.
+Hiwò:nǐ:hī. Ijiwò:nǐ:hī. Sdiwò:nǐ:hī.
 Hiwó:niha. Ijiwó:niha. Sdiwó:niha.
-Hohwelvga. Ijohwelvga. Sdohwelvga.
+Hohwelvgā. Ijohwelvgā. Sdohwelvgā.
 Hohweliɂa. Ijohweli. Sdohweliɂa.
 Gawó:niha
 Gawó:ni:sgó:ɂi
@@ -94,58 +96,62 @@ Anigo:lǐ:yéɂa
 Anigo:lǐ:yê:sgó:ɂi
 Ijadu:líha
 Ijadu:lǐ:sgóɂi
-Osdv:hnisdíha. Osdv:hnisdǐ:sgóɂi.
+Osdv:hnisdíha.||0099-Chapter_2_2.4_2.4.5-000000000.mp3
+Osdv:hnisdǐ:sgóɂi.
 Gawó:ni:sgó:ɂi
 Gawó:ni:sgesdi
-E:lí:si jitǎ:ga Gv:jahlv́sgesdi, ale
+E:lí:si jitǎ:ga gv:jahlv́sgesdi, ale
 e:ji dahyahkě:tsgesdi nǔ:na.
 Ju:nadale:hnv̋:da digawasvgi
 dasu:yv́:sgesdi e:lí:si.
 Ganvdadî:sgesdi yagwadvnedii agwada:sdàyhdi.
-Gadehlo:hgwâ:sgó:ɂi
-Gadehlo:hgwâ:sgesdi
+Gadelo:hgwâ:sgó:ɂi
+Gadelo:hgwâ:sgesdi
 Anigo:lǐ:yê:sgó:ɂi
 Anigo:lǐ:yê:sgesdi
 Ijanhtó:ɂi
 Ijanhté:sdi
-Osdv:hnisdǐ:sgó. Osdv:hnisdǐ:sgesdi.
+Osdv:hnisdǐ:sgó.
+Osdv:hnisdǐ:sgesdi.
 Kò:hi̋ sv:hiye̋:yi, ojada:sdâ:yv:hvsgesdi.
 Igv̌:yiɂhno, sv̀:gi ale unvgu:hǐ:sdí:sgi dejigv:halǐ:sgesdi.
 Ő:sda
 nigvnehesdi sugeda.
 Ugama ojadvnvɂisdisgesdi.
 Gawó:niha. Uwonisvɂi.
-Analì:sdâ:yv:hv́sga. Unalisdayvhnvɂi.
+Analì:sdâ:yv:hv́sga. Unalsdayvhnvɂi.
 Sdigo:lǐ:yéɂa. Sdigoliyeɂvɂi.
-Go:lì:ga Uwohlijvɂi
-Hinoheha. Janohetlvɂi.
-Wahya uyotleɂi, adisgvɂi.
-Gado usdi?
-jatvganeɂi?
-Ő:sda dunanelohnv,
-jadisgvɂi.
-Ganagatiju wijedoleɂi?
-Kohi sanale, ugodi agwalisdayvhnvɂi.
-x Gado hadisgo hiɂa?
-Hiɂahno
-Hiɂiɂnahv?
-Sigwu jinihiwi.
-Gado hada?
-Gajanulige hniwi.
-Gado uyelv hiɂa?
-Gado usdi?
-Usganolige hniwi.
-Dogi?
+Go:lì:ga.
+Ù:wohljv̌:ɂi
+Hihno:héha. Jahno:hě:hlv́:ɂi.
+Wahya Ù:yo:hlě:ɂi, À:dǐ:sgv̌ɂi.
+Gadō u:sdi
+jatv:gâ:ně:ɂi?
+Ő:sda dú:nane:lǒ:hnv́,
+jadǐ:sgv̌ɂi.
+Gagáɂnaktiju wijě:dô:lě̌:ɂi?
+Kò:hí suná:le̋, Ǔ:gò:di agwalsdâ:yv:hnv̌:ɂi.
+Gadò hà:dǐ:sgó hiɂa?||0134-Chapter_3_3.1_3.1.1-000000000.mp3
+x Hiɂahnò
+x Hiɂiɂnahv?
+Sǐ:gwu jinihiwī.
+Gadò hada?
+Ga:janű:lige̋ hniwī.
+Gadò ù:yelv hiɂa?
+Gadō u:sdi?
+U:sganő:lige̋ hniwī.
+Dò:gi?
 O:síyo
 Síyo
-Hadlv disdegvɂi?
-digegvɂi.
-Hila yijadetiyvda?
-Yagwadetiyvda.
-Hadlv hinela?
+Ha:dlv disdé:gv̌ɂi?
+Digé:gv̌ɂi.
+Hila̋ ija:de:tiyv̋:da.
+Yagwa:de:tiyv̋:da.
+Ha:dlv hině:la?||0150-Chapter_3_3.2_3.2.14-000000000.mp3
+
 Jinela.
 Donadagohvɂi.
-Dodadagohvɂi
+Dodadagohvɂi.
 Taɂline donadagohvɂi
 Howagwu.
 Tohiju?
@@ -156,14 +162,14 @@ Hawa
 Gado dejadoɂa?
 dagwadoɂa.
 Ő:sda
-Osigwu
-Hadlv tegvɂi?
-Hadlv dijegvɂi?
+Osígwu
+Ha:dlv tegvɂi?
+Ha:dlv dijegvɂi?
 Gado usdi idinohe kohi iga?
-Hiɂa ijigo:lǐ:ya.
+Hiɂa ijigo:lǐ:yā.
 Gado usdi adi hiɂa?
 x Ő:sda hnadvga.
-Ő:sda nijadvga.
+Ő:sda nijadvgā.
 Ahidaju gohlisdi?
 Ijohlgaɂju?
 Gado usdi ijanhta?
@@ -176,21 +182,21 @@ Gado usdi adelogwasdi kohi iga?
 ugandadvɂi idihili.
 Hohlgiɂju?
 Vtla ahani yedoha.
-Nihina?
-Hadlv?
-Hilaya?
+Nihinà?
+Ha:dlv?
+Hilâ:yv̋?
 Gado galistanvsga?
-Gago unvta?
+Gago unhta?
 Gago sdalinoheha?
 Gado usdi jaduliha?
 Gado usdi dejaksesdi?
-Hilayv wigvwahtvhidasdi jaduliha?
+Hilâ:yv̋ wigvwahtvhidasdi jaduliha?
 Gado advneha?
 Gado adiha?
 Nihinahv?
-Hadlv hega?
-Hadlv danadelogwaɂa?
-Hadlv dejalvwisdaneha?
+Ha:dlv hé:ga?
+Ha:dlv danadelogwaɂa?
+Ha:dlv dejalvwisdaneha?
 Gawonisgohv?
 Agasgaju?
 Kahwis jaduliha?
@@ -223,7 +229,7 @@ nagwadvhnadega nihinahv?
 x Gawonisgi Taɂli Utloyigwu
 x Gawonisgi Sagwu Gado dejadoɂa?
 Gawonisgi Taɂli Liwi dagwado nihihna?
-x Gawonisgi Sagwu, Meli dagwadoɂa. Hadlv tegvɂi?
+x Gawonisgi Sagwu, Meli dagwadoɂa. Ha:dlv tegvɂi?
 Gawonisgi Taɂli Daligwa digegvɂi, Nihinahv?
 x Gawonisgi Sagwu Dlayigoɂi.
 Sagwu.
@@ -284,32 +290,32 @@ Sudaline
 Galigwogine
 Chaneline
 Sohneline
-Hila atliilisv?
+Hila̋ atliilisv?
 Iyasetlv
 Udalula
 Ulosvsdi
-Hilayv dvdalenvhi?
-Hilayv dvlisgwadi?
+Hilâ:yv̋ dvdalenvhi?
+Hilâ:yv̋ dvlisgwadi?
 Sgigadu iyatawostanv udalula
 sgohi
 Sgigadu iyatawostanv
 ulosvsdi sgohi
 Sagwu ayetli
-Hila iyuwahnilv?
-Hila atliili?
-Hilayv tesi?
+Hila̋ iyuwahnilv?
+Hila̋ atliili?
+Hilâ:yv̋ tesi?
 Chanela iyuwahnilv.
 Chanela atliili.
 Sutliloda
 Ijutliloda (iyutliloda) ?
 Iyatawostanv
 Adela
-Hila jugvwalodi?
+Hila̋ jugvwalodi?
 Taɂlisgo adelv jugvwalhdi.
 Dajahwasis?
 Gado usdi
 jaduli jahwahisdi?
-Hila yiga
+Hila̋ yiga
 dejaduliha?
 Hisgi yiga dagwaduliha.
 Dasehiha
@@ -531,7 +537,7 @@ Dagihyvsduha
 Gadogwu?
 Na asgaya, agehya udiwisga.
 Janvjeɂiju?
-Hadlv jehisdaneha?
+Ha:dlv jehisdaneha?
 Akisgwotli agwehisdaneha.
 Aganaktiju ayaɂa?
 Aksgwohananeɂa.
@@ -576,7 +582,7 @@ Wahaya nigawesgvɂi
 aktvganv.
 Wanigeɂi yasvhila.
 Gohusdi Ő:sda asvga.
-Hadlv higohwti?
+Ha:dlv higohwti?
 AnŐ:sda anisvgi
 unijilvsgi.
 Agowatvdi
@@ -749,15 +755,15 @@ x He/she is a Cherokee speaker, right?
 x Gadoɂgi hadisge?
 x Yonaɂgi, hada?
 x Ayaɂgi?
-x Hadlvgi?
-Hadlv hega?
-Hilayv tesi?
+x Ha:dlvgi?
+Ha:dlv hega?
+Hilâ:yv̋ tesi?
 Naɂvs hedoha?
 Witedoliju?
-Hadlv unenvsei?
+Ha:dlv unenvsei?
 Sudali atliilisv dadesi.
 Hilaɂiyv tiluhji?
-Hadlv hweda?
+Ha:dlv hweda?
 Dajiluhji.  Tiluhji. Dagaluhji. Dvniluhji.
 Dadiluhji
 Jiluhga
@@ -819,9 +825,9 @@ Ina digesvɂi waninela.
 Nikvɂi anedolidohoɂi.
 Ahani iyvɂi dvniluhji.
 Juhyvdlvɂi
-Hadlv?
-Hadlv hega?
-Hadlv hwikti?
+Ha:dlv?
+Ha:dlv hega?
+Ha:dlv hwikti?
 Juganowv ididla wojigti.
 Digilvwisdanediɂi gega.
 Juganowvɂi
@@ -831,7 +837,7 @@ Dikalvgvɂi
 Wudeligvɂi
 Eladi
 Ididla
-Hadlv ididla?
+Ha:dlv ididla?
 Dagilvwisdanelvɂi. Dagilvwisdanelega.
 Agwalsdayvhnvɂi. Galisdayvhnega.
 Unasuhnvɂi. Anasuhnega.
@@ -859,18 +865,18 @@ Asgaya, ageya
 osdihilidoha.
 Eligwus yisdvjasi?
 Uweti gotlvhnv diktulena agiha.
-Hila iyudetiyvda?
+Hila̋ iyudetiyvda?
 Gago uwotlvneɂi?
 Eligwudv yisgwajasi.
 Jiyu atlawidisgi
 Eligwuju yigvjasi?
 Asgaya, ageya jijaneha
-Hadlv iyvɂi hiktiya?
+Ha:dlv iyvɂi hiktiya?
 Jiyu atlawidisgi gajanidoha.
 Unajododi julewisdodi didla wigaɂa.
 Tla yigasgwajasi.
 Unajododi julewisdodi jigatiya.
-Hilayv tajahni jiyu atlawidisgi?
+Hilâ:yv̋ tajahni jiyu atlawidisgi?
 Ugohniyoga.
 Jiyu
 Digajanuli
@@ -902,7 +908,7 @@ Gaɂi. Haɂi. Aɂi. Anaɂi. Idaɂi.
 Jiyu junidisdiɂi diktiya Jani. Ayulagwiyi widayedoli,
 joɂihno iyunadodagwasdi igohida wedohesdi. Nuna anisogwilv, Italiyi, Anisgwaniyaɂi, nogwule
 Anidvjiyi widodvhwatvhidoli nahiyu.
-Sigwuhno tlega uktidisdiɂi, jiyu atlawidisgi ugohniyoga. Janiɂhno dohiyu uwvnvga
+Sǐ:gwuhno tlega uktidisdiɂi, jiyu atlawidisgi ugohniyoga. Janiɂhno dohiyu uwvnvga
 jiyu ujodi.
 Uwvnvga
 Ahani Chicago utana gaduhvɂi jinela. Yudahahno nasgi “Windy City,” anosehoɂi. Ujatihno
@@ -1010,7 +1016,7 @@ Eligwudv.
 Gado usdi jvhnisda?
 Kahwiju jagaɂa?
 Diniyotli nigohilv duniyosisgoɂi.
-Hadlv idalisdayvnega?
+Ha:dlv idalisdayvnega?
 Dejiyosiju?
 Alsdayvhdiɂi kanvsulv
 Yvgi
@@ -1129,7 +1135,7 @@ Vtla yuditlega,
 unesiyvdla.
 Uhyvdladisdi ale uwutohdi gesesdi kohi svhiyeyi, anadiha.
 Aganvgi.
-Hilayv dvgahnani?
+Hilâ:yv̋ dvgahnani?
 Ugahnanidena.
 Ulogila
 Galogaladiɂa,
