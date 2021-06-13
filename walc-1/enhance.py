@@ -1,6 +1,7 @@
 #!/usr/bin/env -S conda run -n cherokee-audio-data python
 
 import shutil
+from argparse import Namespace
 
 from denoiser.enhance import *
 from pydub import AudioSegment
@@ -13,7 +14,7 @@ if __name__ == "__main__":
     src_enhanced: str = os.path.join(os.getcwd(), "src")
     src_tmp: str = os.path.join(os.getcwd(), "tmp.src.noisy")
 
-    args = parser.parse_args()
+    args: Namespace = parser.parse_args()
 
     logging.basicConfig(stream=sys.stderr, level=args.verbose)
     logger.debug(args)
@@ -22,9 +23,9 @@ if __name__ == "__main__":
     args.out_dir = src_enhanced
     args.noisy_dir = src_tmp
 
-    args.dns48 = True
+    # args.dns48 = True
     # args.dns64 = True
-    # args.master64 = True
+    args.master64 = True
 
     # clean up any previous files
     for folder in [src_enhanced, src_tmp]:

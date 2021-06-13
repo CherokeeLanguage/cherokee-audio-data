@@ -85,7 +85,7 @@ if __name__ == "__main__":
     silence_threshold: float = -40.0
     silence_min_duration: int = 250  # 225  # ms
     max_target_duration: int = 10000  # ms
-    gap_break_duration: int = 750  # 675  # ms
+    gap_break_duration: int = 425  # 675  # ms
 
     workdir: str = os.path.dirname(sys.argv[0])
     if workdir.strip() != "":
@@ -113,8 +113,6 @@ if __name__ == "__main__":
             continue
 
         data: AudioSegment = AudioSegment.from_file(audio_file).set_channels(1)
-        data = effects.low_pass_filter(data, 14000)
-        data = effects.high_pass_filter(data, 350)
         data = normalize(data)
 
         segments = detect_sound(data, silence_threshold, silence_min_duration)
@@ -137,10 +135,10 @@ if __name__ == "__main__":
 
             chunk_mp3 = f"{tix:04d}-{audio_file}".replace("/", "_").replace(" ", "_").replace("__", "_")
             chunk_mp3 = os.path.splitext(chunk_mp3)[0]
-            output_file = f"mp3/{chunk_mp3}-{int(segment_start):06d}.mp3"
+            output_file = f"mp3/{chunk_mp3}-{int(segment_start):09d}.mp3"
             tix += 1
             print(f"Saving {output_file}.")
-            normalized.export(output_file, format="mp3", parameters=["-qscale:a", "0"])
+            normalized.export(output_file, format="mp3", parameters=["-qscale:a", "2"])
             splits.append(output_file)
 
             duration: float = normalized.duration_seconds
@@ -150,8 +148,9 @@ if __name__ == "__main__":
             if max_length < duration:
                 max_length = duration
 
+    work_subfolder: str = os.path.basename(workdir)
     msg: str = "\n"
-    msg += f"Work directory: {workdir}\n"
+    msg += f"Work directory: {work_subfolder}\n"
     msg += "\n"
     msg += f"Total splits: {len(splits):,}\n"
     msg += "\n"
