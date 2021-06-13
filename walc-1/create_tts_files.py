@@ -1,12 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S conda run -n cherokee-audio-data python
+
 import os
 import sys
-import string
 import unicodedata as ud
 import random
-import re
 import pathlib
-import subprocess
 from shutil import rmtree
 from pydub import AudioSegment
 import pydub.effects as effects
@@ -15,30 +13,33 @@ from builtins import list
 
 if __name__ == "__main__":
 
-    if sys.argv[0].strip() != "" and os.path.dirname(sys.argv[0]) != "":
-        os.chdir(os.path.dirname(sys.argv[0]))
+    os.chdir(os.path.dirname(__file__))
 
-    MASTER_TEXTS: list = ["selected.txt"]
+    MASTER_TEXTS: list = ["data-chr.txt", "data-en.txt"]
     max_duration: float = 10.0
 
     # cleanup any previous runs
-    for dir in ["linear_spectrograms", "spectrograms", "wav"]:
-        rmtree(dir, ignore_errors=True)
+    for folder in ["linear_spectrograms", "spectrograms", "wav"]:
+        rmtree(folder, ignore_errors=True)
 
     pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
 
     entries: dict = {}
+    MASTER_TEXT: str
     for MASTER_TEXT in MASTER_TEXTS:
         with open(MASTER_TEXT, "r") as f:
+            lang: str = "chr"
+            if MASTER_TEXT.endswith("-en.txt"):
+                lang = "en"
             for line in f:
                 fields = line.split("|")
                 speaker: str = fields[0].strip()
                 mp3: str = fields[1].strip()
                 text: str = ud.normalize("NFD", fields[2].strip())
                 dedupeKey = speaker + "|" + mp3 + "|" + text
-                if text.strip() == "" or "x" in text.lower():
+                if not text.strip():
                     continue
-                entries[dedupeKey] = (speaker, mp3, text)
+                entries[dedupeKey] = (speaker, lang, mp3, text)
 
     print(f"Loaded {len(entries):,} entries with audio and text.")
 
@@ -67,12 +68,17 @@ if __name__ == "__main__":
 
     entry_id: int = 1
 
-    shortestLength: float = -1
-    longestLength: float = 0.0
-    totalLength: float = 0.0
+    chr_shortestLength: float = -1
+    chr_longestLength: float = 0.0
+    chr_totalLength: float = 0.0
+
+    en_shortestLength: float = -1
+    en_longestLength: float = 0.0
+    en_totalLength: float = 0.0
+
     print("Creating wavs")
     rows: list = []
-    for speaker, mp3, text in entries.values():
+    for speaker, lang, mp3, text in entries.values():
         wav: str = "wav/" + os.path.splitext(os.path.basename(mp3))[0] + ".wav"
         text: str = ud.normalize('NFD', text)
         mp3_segment: AudioSegment = AudioSegment.from_file(mp3)
@@ -88,28 +94,62 @@ if __name__ == "__main__":
         audio = audio.set_channels(1)
         audio = audio.set_frame_rate(22050)
         audio.export(wav, format="wav")
-        totalLength += audio.duration_seconds
-        if shortestLength < 0 or shortestLength > audio.duration_seconds:
-            shortestLength = audio.duration_seconds
-        if longestLength < audio.duration_seconds:
-            longestLength = audio.duration_seconds
+        if lang == "chr":
+            chr_totalLength += audio.duration_seconds
+            if chr_shortestLength < 0 or chr_shortestLength > audio.duration_seconds:
+                chr_shortestLength = audio.duration_seconds
+            if chr_longestLength < audio.duration_seconds:
+                chr_longestLength = audio.duration_seconds
+        elif lang == "en":
+            en_totalLength += audio.duration_seconds
+            if en_shortestLength < 0 or en_shortestLength > audio.duration_seconds:
+                en_shortestLength = audio.duration_seconds
+            if en_longestLength < audio.duration_seconds:
+                en_longestLength = audio.duration_seconds
+        else:
+            raise Exception(f"Language not handled: {lang}")
         vid: str = speaker
         if vid in voiceids.keys():
             vid = voiceids[vid]
         if vid == "?":
             vid = default_voice_id
-        rows.append(f"{entry_id:06d}|{vid}|chr|{wav}|||{text}|")
+        rows.append(f"{entry_id:06d}|{vid}|{lang}|{wav}|||{text}|")
         entry_id += 1
 
-    minutes = int(totalLength / 60)
-    seconds = int(totalLength % 60 + 0.5)
-    print(f"Total duration: {minutes:,}:{seconds:02}")
+    stats: str = ""
+    minutes: int
+    seconds: int
 
-    seconds = shortestLength
-    print(f"Shortest duration: {seconds:05.2f}")
+    stats += "Folder: "
+    stats += os.path.basename(os.path.dirname(__file__))
+    stats += "\n"
 
-    seconds = longestLength
-    print(f"Longest duration: {seconds:05.2f}")
+    minutes = int(chr_totalLength / 60)
+    seconds = int(chr_totalLength % 60 + 0.5)
+    stats += f"Total duration [chr]: {minutes:,}:{seconds:02}\n"
+    stats += f"Shortest duration [chr]: {chr_shortestLength:05.2f}\n"
+    stats += f"Longest duration [chr]: {chr_longestLength:05.2f}\n"
+    stats += "\n"
+
+    minutes = int(en_totalLength / 60)
+    seconds = int(en_totalLength % 60 + 0.5)
+    stats += f"Total duration [en]: {minutes:,}:{seconds:02}\n"
+    stats += f"Shortest duration [en]: {en_shortestLength:05.2f}\n"
+    stats += f"Longest duration [en]: {en_longestLength:05.2f}\n"
+    stats += "\n"
+
+    trainSize: int = int(len(rows) * .95)
+    valSize: int = len(rows) - trainSize
+
+    stats += f"Train size: {trainSize}\n"
+    stats += f"Val size: {valSize}\n"
+    stats += f"All size: {len(rows)}\n"
+    stats += "\n"
+    stats += "\n"
+
+    print(stats)
+    with open("data-stats.txt", "w") as f:
+        f.write(stats)
 
     print("Creating training files")
     # save all copy before shuffling
@@ -120,8 +160,6 @@ if __name__ == "__main__":
 
     # create train/val sets
     random.Random(voice_id).shuffle(rows)
-    trainSize: int = (int)(len(rows) * .95)
-    valSize: int = len(rows) - trainSize
 
     with open("train.txt", "w") as f:
         for line in rows[:trainSize]:
@@ -132,10 +170,5 @@ if __name__ == "__main__":
         for line in rows[trainSize:]:
             f.write(line)
             f.write("\n")
-
-    print(f"Train size: {trainSize}")
-    print(f"Val size: {valSize}")
-    print(f"All size: {len(rows)}")
-    print("Folder:", pathlib.Path(".").resolve().name)
 
     sys.exit()
