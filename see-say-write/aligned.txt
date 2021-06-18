@@ -206,7 +206,7 @@ Di:da:sdù:di̋.
 |Number two.
 Sǔ:dáli diga:sgilo dù:nadu:lí.
 |Number three.
-Gi:hli agiganǎ:díɂa.
+Gi:hli à:giganǎ:díɂa.
 |Reviewing the last
 |four lessons
 Dū.
@@ -308,7 +308,7 @@ Sī.
 x|A new syllable. Ha.
 x|the key word À:giyó:siha.
 |Number one.
-Ogina:li̋ ù:yó:siha.
+Ò:gina:li̋ ù:yó:siha.
 x|Number two.
 Hadǐ:da!
 |Number three.
@@ -339,7 +339,7 @@ x|
 Gi:hli
 dù:niyó:siha.
 |Number three.
-Sasa uniga:sga.
+Sasa ù:niga:sga.
 |Lesson twenty two.
 x|xxx ne
 x|xxx Ganè:ga.
@@ -415,7 +415,7 @@ Ha:wiya.
 |Number one.
 Wiɂsi.
 x|Number two...Ahwi dunihyo
-na aniwǐ:na.
+na à:niwǐ:na.
 |Number three.
 Gi:hli
 dà:suhwísga.
@@ -481,7 +481,7 @@ x|new...
 x|key... tiyohali
 :Number one.
 Gi:hli ù:lití:si
-ogina:li̋:ɂi.
+ò:gina:li̋:ɂi.
 |Number two.
 Ajaɂdi ga:tíga na asgaya.
 |Number three
@@ -553,7 +553,7 @@ Dō. Lā.
 x|new jo
 x|key Jǒ:lani.
 |Number one.
-Jǒ:lani ukiɂla
+Jǒ:lani ù:kiɂla
 wě:sa.
 |Number two.
 Joɂi iyáni wě:sa
