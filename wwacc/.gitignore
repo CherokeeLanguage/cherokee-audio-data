@@ -1,0 +1,28 @@
+/src/
+/mp3/
+/wav/
+/train.txt
+/val.txt
+/all.txt
+/ma-split.txt
+/mp3-aligned/
+/aeneas.txt
+/espeak.txt
+/alignments.txt
+/mp3-long/
+/durbin-feeling-longer-sequences.txt
+/src.prev/
+/mp3-augmented/
+/Duyuktv-20210418T220328Z-001.zip
+/src.noisy/
+/Duyuktv/
+/split_audio.txt
+/Willard Walker - Advanced Conversational Cherokee-20210418T203853Z-001.zip
+/Willard Walker - Advanced Conversational Cherokee/
+/src.enhanced/
+/src.noisy/
+/selected.txt
+/training.txt
+/training1.txt
+/training2.txt
+/split_audio-stats.txt
