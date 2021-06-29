@@ -1,6 +1,6 @@
-x
-x
-x
+|Conversational Cherokee
+|Willard Walker
+|Chapter Two
 Gá:gō nà:sgi?
 Ja:li Táɂlidí:hihi
 Ja:ni u:du:ji.
@@ -17,7 +17,7 @@ v:v. ǔ:ha.
 Ja:lisgo uwǎ:sa
 eha Ja:ni u:du:ji?
 u:do:hiyű. uwǎ:sagwu.
-x Chapter 3
+|Chapter Three
 Kò:hi̋ i:ga Joɂi:ne̋ i:ga.
 aga:sga ale u:nǐ:jati yv:wi diga:dú:hv̋ dvne:si
 dodidánaɂnv ale Ja:ni Táɂldí:hihi na:sgwu daye:si adláditlaɂíɂi.
@@ -35,10 +35,10 @@ Ja:ni ju:do ge:líɂa dunadu:li di:je dihnuwo
 ale yíg go:hű:sdi.
 ale u:do:hiyű juwodu digatvdi
 du:níha
-didánaɂnv́:ɂi.
+didánaɂnv́:ɂi.||0040-WWConvoCherokee-03-000129845.mp3
 nahna a:se dvnè:si Kò:hi̋ i:ga,
 wanédohnv ge:salíni junidlisdíɂi.
-x Chapter 4
+|Chapter Four
 O:síyo.
 ayv Ja:ni Táɂlidí:hihi.
 O:síyo. Wi:li uwódige:i digwadóɂida. Tò:hi̋ju?
@@ -54,11 +54,11 @@ dayv́hvsgisgo nasgwu Jalagi gawóniha?
 nvhgiha ikane:jv kané:goɂi
 “o:siyo,
 howa,
-he:sdi, ale “v́:tla”. Yó:wanega
+he:sdi, ale “v́:tla”. Yó:wanega.
 x
-osdi osdiwóniha, a:sehno íɂagilv́kwdi
+osdi. osdiwóniha, a:sehno íɂagilv́kwdi
 Jalagi agiwonihisdíɂi.
-x Chapter 5
+|Chapter Five|0066-WWConvoCherokee-05-000003115.mp3
 Ja:ni jaha:sgo adladítlaɂi?
 v:v
 uwéti agiha,
@@ -78,7 +78,7 @@ galo:gwe agihdíɂi.
 hiɂano
 jagwv:ya tla o:sda yigi.
 kola igáɂi adé:la dejaha?
-x sgigatdu ade:lv́ɂi.
+sgigatdu yade:lv́ɂi.
 x Chapter 6 [missing]
 x
 x
@@ -100,19 +100,23 @@ x
 x
 x
 x
-x Chapter 7
+|Chapter Seven
+
+
 li:si déɂudóɂa agisdayv́hvsgi,
-gahligwogi diniyóhli dogini:kaha. jalagi ogil lvkw
-x ...di ogiwonihisdíɂi sidanelv ogidotlv́sv́ɂi ale agwadu:li diniyóhli
-jalagi uni goliyé:díɂi, a:sehno tla yunádu:liha
-unigoliyé:díɂi. desdi
+gahligwogi diniyóhli dogini:kaha.
+x jalagi ogil lvkw...di ogiwonihisdíɂi sidanelv ogi...
+dotlv́sv́ɂi ale agwadu:li diniyóhl jalagi uni goliyé:díɂi, a:sehno
+tla yunádu:liha unigoliyé:díɂi.
+x desdi
 x desdiyósihásgoɂ
-x ge:líɂa.  sami jayósisgoɂ igáɂi agiyósi! udohiyu iginilv́kwdi
+x ge:líɂa. sami jayósisgoɂ igáɂi agiyósi! udohiyu iginilv́kwdi
 x iginilv́kwdi
 sv:gi inage éh,
 tóka, dóka, ja:niɂ
 x
-galadv igitlaha ahlsdayvdi.
+galadv igitlaha
+ahlsdayvdi.
 Sa:mi, hahlsdv:tluga; jvsagwu hahlsde:la.
 déjiyósisgésdi, ijahlsdayvhvgagwu.
 x Chapter 8

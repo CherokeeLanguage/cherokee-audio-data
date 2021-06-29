@@ -1,9 +1,9 @@
 
 Work directory: wwacc
 
-Total splits: 247
+Total splits: 190
 
-Min duration: 0.26 seconds
-Max duration: 8.40 seconds
-Total duration: 594.90 seconds
+Min duration: 0.49 seconds
+Max duration: 9.94 seconds
+Total duration: 643.16 seconds
 

@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
     # args.dns48 = True
     # args.dns64 = True
-    args.master64 = True
+    # args.master64 = True
 
     # clean up any previous files
     for folder in [src_enhanced, src_tmp]:
