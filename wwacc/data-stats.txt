@@ -1,0 +1,14 @@
+Folder: wwacc
+Total duration [chr]: 8:26
+Shortest duration [chr]: 00.64
+Longest duration [chr]: 09.96
+
+Total duration [en]: 0:12
+Shortest duration [en]: 01.13
+Longest duration [en]: 02.15
+
+Train size: 141
+Val size: 8
+All size: 149
+
+

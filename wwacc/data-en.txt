@@ -1,0 +1,8 @@
+01-f-wwacc|mp3/0001-WWConvoCherokee-02-000000955.mp3|Conversational Cherokee
+01-f-wwacc|mp3/0002-WWConvoCherokee-02-000004705.mp3|Willard Walker
+01-m-wwacc|mp3/0003-WWConvoCherokee-02-000012015.mp3|Chapter Two
+01-m-wwacc|mp3/0020-WWConvoCherokee-03-000002425.mp3|Chapter Three
+01-m-wwacc|mp3/0041-WWConvoCherokee-04-000004085.mp3|Chapter Four
+01-m-wwacc|mp3/0061-WWConvoCherokee-05-000003115.mp3|Chapter Five
+01-m-wwacc|mp3/0103-WWConvoCherokee-07-000003495.mp3|Chapter Seven
+01-m-wwacc|mp3/0162-WWConvoCherokee-10-000004515.mp3|Chapter 10

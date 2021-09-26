@@ -1,0 +1,149 @@
+000001|01-m-wwacc|chr|wav/0004-WWConvoCherokee-02-000015875.wav|||Gá:gō nà:sgi?|
+000002|01-m-wwacc|chr|wav/0005-WWConvoCherokee-02-000021415.wav|||Ja:li Táɂlidí:hihi|
+000003|01-m-wwacc|chr|wav/0006-WWConvoCherokee-02-000027895.wav|||Ja:ni u:du:ji.|
+000004|01-m-wwacc|chr|wav/0007-WWConvoCherokee-02-000034235.wav|||Ǔ:ha ǔ:tana adladí:tlaɂi.|
+000005|01-m-wwacc|chr|wav/0008-WWConvoCherokee-02-000042115.wav|||diga:dú:hv̋ dayé:si ge:líɂa.|
+000006|01-m-wwacc|chr|wav/0009-WWConvoCherokee-02-000049935.wav|||Ha:dlv Ja:ni na:gwu?|
+000007|01-m-wwacc|chr|wav/0010-WWConvoCherokee-02-000055825.wav|||Daligwa ge:líɂa|
+000008|01-m-wwacc|chr|wav/0011-WWConvoCherokee-02-000059735.wav|||we:dó:ha. Ja:li nahna sgwu dayé:si.|
+000009|01-m-wwacc|chr|wav/0012-WWConvoCherokee-02-000069795.wav|||Ja:ni Táɂldí:hihi ő:sda asgaya.|
+000010|01-m-wwacc|chr|wav/0013-WWConvoCherokee-02-000077915.wav|||u:do:hiyű.|
+000011|01-m-wwacc|chr|wav/0014-WWConvoCherokee-02-000081245.wav|||Ja:li ő:sda na:sgwu.|
+000012|01-m-wwacc|chr|wav/0015-WWConvoCherokee-02-000086915.wav|||Ja:nisgo ǔ:ha adladí:tlaɂi na:sgwu?|
+000013|01-m-wwacc|chr|wav/0016-WWConvoCherokee-02-000092845.wav|||v:v. ǔ:ha.|
+000014|01-m-wwacc|chr|wav/0017-WWConvoCherokee-02-000097895.wav|||Ja:lisgo uwǎ:sa|
+000015|01-m-wwacc|chr|wav/0018-WWConvoCherokee-02-000101525.wav|||eha Ja:ni u:du:ji?|
+000016|01-m-wwacc|chr|wav/0019-WWConvoCherokee-02-000106935.wav|||u:do:hiyű. uwǎ:sagwu.|
+000017|01-m-wwacc|chr|wav/0021-WWConvoCherokee-03-000005145.wav|||Kò:hi̋ i:ga Joɂi:ne̋ i:ga.|
+000018|01-m-wwacc|chr|wav/0022-WWConvoCherokee-03-000010495.wav|||aga:sga ale u:nǐ:jati yv:wi diga:dú:hv̋ dvne:si|
+000019|01-m-wwacc|chr|wav/0023-WWConvoCherokee-03-000019645.wav|||dodidánaɂnv ale Ja:ni Táɂldí:hihi na:sgwu daye:si adláditlaɂíɂi.|
+000020|01-m-wwacc|chr|wav/0024-WWConvoCherokee-03-000037675.wav|||ge:sa ge:salíni udu:li ale goɂi|
+000021|01-m-wwacc|chr|wav/0025-WWConvoCherokee-03-000044655.wav|||ale yígi ije ahtlv́di.|
+000022|01-m-wwacc|chr|wav/0026-WWConvoCherokee-03-000055355.wav|||ju:dósgwu dvné:si. nvdigáhlsdohdi dunadu:li di:je dihnuwo|
+000023|01-m-wwacc|chr|wav/0027-WWConvoCherokee-03-000064885.wav|||ale juwo:dű|
+000024|01-m-wwacc|chr|wav/0028-WWConvoCherokee-03-000069925.wav|||digatvdi|
+000025|01-m-wwacc|chr|wav/0029-WWConvoCherokee-03-000076665.wav|||nani:ɂv unilv́kwdi unedasdi diga:dú:hv̋.|
+000026|01-m-wwacc|chr|wav/0030-WWConvoCherokee-03-000084135.wav|||u:do:hiyű.|
+000027|01-m-wwacc|chr|wav/0031-WWConvoCherokee-03-000087575.wav|||na:sgwu|
+000028|01-m-wwacc|chr|wav/0033-WWConvoCherokee-03-000100405.wav|||uwe:nvsdi diga:dú:hv̋. ge:líɂa.|
+000029|01-m-wwacc|chr|wav/0034-WWConvoCherokee-03-000107755.wav|||Ja:ni ju:do ge:líɂa dunadu:li di:je dihnuwo|
+000030|01-m-wwacc|chr|wav/0035-WWConvoCherokee-03-000116575.wav|||ale yíg go:hű:sdi.|
+000031|01-m-wwacc|chr|wav/0036-WWConvoCherokee-03-000122245.wav|||ale u:do:hiyű juwodu digatvdi|
+000032|01-m-wwacc|chr|wav/0037-WWConvoCherokee-03-000127615.wav|||du:níha|
+000033|01-m-wwacc|chr|wav/0038-WWConvoCherokee-03-000129845.wav|||didánaɂnv́:ɂi.|
+000034|01-m-wwacc|chr|wav/0039-WWConvoCherokee-03-000134135.wav|||nahna a:se dvnè:si Kò:hi̋ i:ga,|
+000035|01-m-wwacc|chr|wav/0040-WWConvoCherokee-03-000142835.wav|||wanédohnv ge:salíni junidlisdíɂi.|
+000036|01-m-wwacc|chr|wav/0042-WWConvoCherokee-04-000007535.wav|||O:síyo.|
+000037|01-m-wwacc|chr|wav/0043-WWConvoCherokee-04-000010015.wav|||ayv Ja:ni Táɂlidí:hihi.|
+000038|01-m-wwacc|chr|wav/0044-WWConvoCherokee-04-000013835.wav|||O:síyo. Wi:li uwódige:i digwadóɂida. Tò:hi̋ju?|
+000039|01-m-wwacc|chr|wav/0045-WWConvoCherokee-04-000021615.wav|||O:sǐ:gwu.|
+000040|01-m-wwacc|chr|wav/0046-WWConvoCherokee-04-000023785.wav|||U:do:hiyű Uwo:dű:hi i:ga i:gi.|
+000041|01-m-wwacc|chr|wav/0047-WWConvoCherokee-04-000029645.wav|||v:v, ő:sda i:ga.|
+000042|01-m-wwacc|chr|wav/0048-WWConvoCherokee-04-000034955.wav|||vginohise:lv:gi nihi jalagi hiwò:nǐ:sgv́ɂi.|
+000043|01-m-wwacc|chr|wav/0049-WWConvoCherokee-04-000043595.wav|||vtla. utlíɂigái yijiwóniha.|
+000044|01-m-wwacc|chr|wav/0050-WWConvoCherokee-04-000049045.wav|||Jiyó:wanega hye:no. Jiyó:wanega hye:no. A:sehno gayó:hli ijiwóniha.|
+000045|01-m-wwacc|chr|wav/0051-WWConvoCherokee-04-000060405.wav|||u:do:hiyű o:si:gwu hiwóniha.|
+000046|01-m-wwacc|chr|wav/0053-WWConvoCherokee-04-000070075.wav|||dayv́hvsgisgo nasgwu Jalagi gawóniha?|
+000047|01-m-wwacc|chr|wav/0054-WWConvoCherokee-04-000078045.wav|||nvhgiha ikane:jv kané:goɂi|
+000048|01-m-wwacc|chr|wav/0055-WWConvoCherokee-04-000084095.wav|||“o:siyo,|
+000049|01-m-wwacc|chr|wav/0056-WWConvoCherokee-04-000086335.wav|||howa,|
+000050|01-m-wwacc|chr|wav/0057-WWConvoCherokee-04-000089065.wav|||he:sdi, ale “v́:tla”. Yó:wanega.|
+000051|01-m-wwacc|chr|wav/0059-WWConvoCherokee-04-000102725.wav|||osdi. osdiwóniha, a:sehno íɂagilv́kwdi|
+000052|01-m-wwacc|chr|wav/0060-WWConvoCherokee-04-000112315.wav|||Jalagi agiwonihisdíɂi.|
+000053|01-m-wwacc|chr|wav/0062-WWConvoCherokee-05-000007325.wav|||Ja:ni jaha:sgo adladítlaɂi?|
+000054|01-m-wwacc|chr|wav/0063-WWConvoCherokee-05-000012465.wav|||v:v|
+000055|01-m-wwacc|chr|wav/0064-WWConvoCherokee-05-000014515.wav|||uwéti agiha,|
+000056|01-m-wwacc|chr|wav/0065-WWConvoCherokee-05-000021595.wav|||gesalinísgo jadlí:sdi?|
+000057|01-m-wwacc|chr|wav/0066-WWConvoCherokee-05-000026225.wav|||v:ɂv aginegísv svhi.|
+000058|01-m-wwacc|chr|wav/0067-WWConvoCherokee-05-000034445.wav|||diga:dú:hv̋ ine:na.|
+000059|01-m-wwacc|chr|wav/0068-WWConvoCherokee-05-000041325.wav|||hisgi dagi:kaha diniyóhli junala|
+000060|01-m-wwacc|chr|wav/0069-WWConvoCherokee-05-000049655.wav|||junalasulo|
+000061|01-m-wwacc|chr|wav/0070-WWConvoCherokee-05-000052675.wav|||yidunínaɂa ale uhsdíɂi|
+000062|01-m-wwacc|chr|wav/0071-WWConvoCherokee-05-000058395.wav|||tlasgwu yu:ne unv:di,|
+000063|01-m-wwacc|chr|wav/0072-WWConvoCherokee-05-000065945.wav|||Howa. Ine:na.|
+000064|01-m-wwacc|chr|wav/0073-WWConvoCherokee-05-000069825.wav|||tla jő:sda yida|
+000065|01-m-wwacc|chr|wav/0074-WWConvoCherokee-05-000074405.wav|||tla jő:sda yidagínaɂa digwahnuwo|
+000066|01-m-wwacc|chr|wav/0075-WWConvoCherokee-05-000080235.wav|||agwadu:li digine:sdiɂi,|
+000067|01-m-wwacc|chr|wav/0076-WWConvoCherokee-05-000086385.wav|||agwadu:lísgwu ije|
+000068|01-m-wwacc|chr|wav/0077-WWConvoCherokee-05-000092615.wav|||galo:gwe agihdíɂi.|
+000069|01-m-wwacc|chr|wav/0078-WWConvoCherokee-05-000098105.wav|||hiɂano|
+000070|01-m-wwacc|chr|wav/0079-WWConvoCherokee-05-000101045.wav|||jagwv:ya tla o:sda yigi.|
+000071|01-m-wwacc|chr|wav/0080-WWConvoCherokee-05-000107825.wav|||kola igáɂi adé:la dejaha?|
+000072|01-m-wwacc|chr|wav/0081-WWConvoCherokee-05-000115735.wav|||sgigatdu yade:lv́ɂi.|
+000073|01-m-wwacc|chr|wav/0104-WWConvoCherokee-07-000006705.wav|||lì:si deɂu:dó:ɂa agisdà:yv̌:hv:sgi,|
+000074|01-m-wwacc|chr|wav/0105-WWConvoCherokee-07-000012835.wav|||Galigwǒ:gi di:ni:yő:hli dò:gini:káha. Jalagi ogili|
+000075|01-m-wwacc|chr|wav/0107-WWConvoCherokee-07-000029265.wav|||ale À:gwadu:lí di:ni:yő:hl jalagi ù:ni go:lǐ:yê:di̋:ɂi, a:sé:hno hla|
+000076|01-m-wwacc|chr|wav/0108-WWConvoCherokee-07-000037755.wav|||yù:nadu:líha ù:nigo:lǐ:yê:di̋:ɂi. De:sdi.|
+000077|01-m-wwacc|chr|wav/0112-WWConvoCherokee-07-000064555.wav|||sv̀:gi Ǐ:náge̋ e,|
+000078|01-m-wwacc|chr|wav/0113-WWConvoCherokee-07-000067815.wav|||tö:ka, dö:ka, ja:niɂ|
+000079|01-m-wwacc|chr|wav/0116-WWConvoCherokee-07-000082225.wav|||Sa:mi, halisdv:hlù:ga; jv̌:sagwu halsdě:la.|
+000080|01-m-wwacc|chr|wav/0117-WWConvoCherokee-07-000091085.wav|||Dè:jiyó:si:sgé:sdi, i:jalsdà:yv:hv̀:gagwu.|
+000081|01-m-wwacc|chr|wav/0119-WWConvoCherokee-08-000006895.wav|||Gadō ű:sdi?|
+000082|01-m-wwacc|chr|wav/0120-WWConvoCherokee-08-000009995.wav|||Jitǎ:ga. wahyóɂi|
+000083|01-m-wwacc|chr|wav/0122-WWConvoCherokee-08-000020405.wav|||chuně:la Jitǎ:ga dò:ji dò:jihlv̋:gi.|
+000084|01-m-wwacc|chr|wav/0123-WWConvoCherokee-08-000027005.wav|||ù:nadu:lǐ:sgv̌:hno Ǐ:gá:da|
+000085|01-m-wwacc|chr|wav/0124-WWConvoCherokee-08-000030995.wav|||Jitǎ:ga dige:gi:nv̀:néhdi̋:ɂi.|
+000086|01-m-wwacc|chr|wav/0125-WWConvoCherokee-08-000036625.wav|||Á:ma eskv́hsi.|
+000087|01-m-wwacc|chr|wav/0126-WWConvoCherokee-08-000040565.wav|||Ji:sdu wahya agino:hisě:lv́:gi Ǐ:náge̋ E̋:hi.|
+000088|01-m-wwacc|chr|wav/0127-WWConvoCherokee-08-000047295.wav|||Sv̀:gi Ě:ha U:sdi̋ Ama Aye̋:hli u:tanő:ɂi|
+000089|01-m-wwacc|chr|wav/0128-WWConvoCherokee-08-000059395.wav|||amage̋:ɂi eskiné:hv̌:si|
+000090|01-m-wwacc|chr|wav/0129-WWConvoCherokee-08-000064775.wav|||wado.|
+000091|01-m-wwacc|chr|wav/0131-WWConvoCherokee-08-000071475.wav|||Kǎ:hwi?|
+000092|01-m-wwacc|chr|wav/0132-WWConvoCherokee-08-000074235.wav|||hla. Ǔ:gáma À:gwadu:líha|
+000093|01-m-wwacc|chr|wav/0133-WWConvoCherokee-08-000079745.wav|||Gadòhno hla yisgine:né:ha amage̋ɂi gaji:ne:néhdi̋:ɂi|
+000094|01-m-wwacc|chr|wav/0134-WWConvoCherokee-08-000087815.wav|||a:niwahya Suná:le̋?|
+000095|01-m-wwacc|chr|wav/0135-WWConvoCherokee-08-000091405.wav|||ji:sdu u:do:hiyű jalv́kwdane:ha amage̋:ɂi.|
+000096|01-m-wwacc|chr|wav/0137-WWConvoCherokee-08-000108185.wav|||hwě:dô:lv̌:hv?|
+000097|01-m-wwacc|chr|wav/0138-WWConvoCherokee-08-000111375.wav|||Hwě:dô:lv̌:ɂi|
+000098|01-m-wwacc|chr|wav/0140-WWConvoCherokee-09-000005865.wav|||jimi|
+000099|01-m-wwacc|chr|wav/0141-WWConvoCherokee-09-000007755.wav|||Sv̌:kta tigi, disgiwi̋:dv:si|
+000100|01-m-wwacc|chr|wav/0142-WWConvoCherokee-09-000012375.wav|||lu:si:li witiɂv́si,|
+000101|01-m-wwacc|chr|wav/0143-WWConvoCherokee-09-000017585.wav|||hwě:dô:hv̋:hno Kalsě:ji|
+000102|01-m-wwacc|chr|wav/0145-WWConvoCherokee-09-000025395.wav|||dő:ju?|
+000103|01-m-wwacc|chr|wav/0146-WWConvoCherokee-09-000028045.wav|||dige:lísdgi dodagó:tlv:ni.|
+000104|01-m-wwacc|chr|wav/0147-WWConvoCherokee-09-000033165.wav|||ka wi:li,|
+000105|01-m-wwacc|chr|wav/0148-WWConvoCherokee-09-000035595.wav|||A̋ɂda witiya|
+000106|01-m-wwacc|chr|wav/0149-WWConvoCherokee-09-000038085.wav|||À:yo:dǎ:hlahv̋ tidí:ga|
+000107|01-m-wwacc|chr|wav/0150-WWConvoCherokee-09-000043095.wav|||U:ka:hyő:dv̋:ɂi.|
+000108|01-m-wwacc|chr|wav/0151-WWConvoCherokee-09-000046995.wav|||Ye:li̋:gwu|
+000109|01-m-wwacc|chr|wav/0152-WWConvoCherokee-09-000049975.wav|||yaga:na|
+000110|01-m-wwacc|chr|wav/0153-WWConvoCherokee-09-000052235.wav|||Kò:hi̋ Usv̋:ɂi,|
+000111|01-m-wwacc|chr|wav/0155-WWConvoCherokee-09-000058945.wav|||À:si:ni je:nv́dagwu Ate:lǐ:do eskv́:si.|
+000112|01-m-wwacc|chr|wav/0157-WWConvoCherokee-09-000077645.wav|||U:do:hiyű tsgwi̋:sdi À:giha digilv̌:hwísdahdi.|
+000113|01-m-wwacc|chr|wav/0158-WWConvoCherokee-09-000084915.wav|||À:si Ju:ni:là:wisdi|
+000114|01-m-wwacc|chr|wav/0159-WWConvoCherokee-09-000088605.wav|||nige:nv̋:da Kò:hi̋ Usv̋:ɂi.|
+000115|01-m-wwacc|chr|wav/0160-WWConvoCherokee-09-000095955.wav|||tu:tagi Niga̋:da na digo:hwe:li. Ga:sgilv̋ distlv́ɂvsi|
+000116|01-m-wwacc|chr|wav/0161-WWConvoCherokee-09-000106905.wav|||udő:ju wē:g|
+000117|01-m-wwacc|chr|wav/0163-WWConvoCherokee-10-000008195.wav|||O:síyo dewidv.|
+000118|01-m-wwacc|chr|wav/0164-WWConvoCherokee-10-000012765.wav|||ehiyv̌:ha Jǒ:hlê:sdi.|
+000119|01-m-wwacc|chr|wav/0166-WWConvoCherokee-10-000024055.wav|||to:juwi? hla uhli I:ga go:hű:sdi.|
+000120|01-m-wwacc|chr|wav/0167-WWConvoCherokee-10-000029975.wav|||Gadò hè:lî:sgé:ɂi?|
+000121|01-m-wwacc|chr|wav/0168-WWConvoCherokee-10-000034475.wav|||gvyanv:hoga.|
+000122|01-m-wwacc|chr|wav/0170-WWConvoCherokee-10-000051615.wav|||Kalsě:ji nù:lsdâ:hnehaɂi.|
+000123|01-m-wwacc|chr|wav/0171-WWConvoCherokee-10-000056325.wav|||hv̀:, na V̀:sgigí?|
+000124|01-m-wwacc|chr|wav/0172-WWConvoCherokee-10-000061245.wav|||v:v,|
+000125|01-m-wwacc|chr|wav/0173-WWConvoCherokee-10-000063885.wav|||usv:hiye̋:yi ji:gè:sé:sdi yido:sgína:ti:nò:ga|
+000126|01-m-wwacc|chr|wav/0174-WWConvoCherokee-10-000071165.wav|||jò:giné:nv̀:sv̋:ɂi.|
+000127|01-m-wwacc|chr|wav/0175-WWConvoCherokee-10-000076545.wav|||howa:gwu|
+000128|01-m-wwacc|chr|wav/0176-WWConvoCherokee-10-000079795.wav|||ka|
+000129|01-m-wwacc|chr|wav/0177-WWConvoCherokee-10-000081305.wav|||inè:na|
+000130|01-m-wwacc|chr|wav/0178-WWConvoCherokee-10-000085415.wav|||nagwúna gè:sv̌:ɂi Gadō u:sdi Ù:danhta jado:da?|
+000131|01-m-wwacc|chr|wav/0179-WWConvoCherokee-10-000094815.wav|||tsgwi̋:sdi uhlv́gv:gi Usv̋:ɂi ji:gè:sv̌:gi,|
+000132|01-m-wwacc|chr|wav/0180-WWConvoCherokee-10-000101635.wav|||usdǐ:kadv Ó:si Kò:hi̋ Suná:le̋ɂi.|
+000133|01-m-wwacc|chr|wav/0181-WWConvoCherokee-10-000108475.wav|||widilúhjv̌:ɂi gáɂnakti̋:ɂi wisdiyv́hlv:ha,|
+000134|01-m-wwacc|chr|wav/0182-WWConvoCherokee-10-000116405.wav|||ayvhno Nv:wô:ti Dida:náɂnv̋:i dagè:si.|
+000135|01-m-wwacc|chr|wav/0183-WWConvoCherokee-10-000124125.wav|||nahna wigé:dó:hé:sdi Sà:gwű ji:gè:sé:sdi.|
+000136|01-m-wwacc|chr|wav/0184-WWConvoCherokee-10-000130395.wav|||v:v,|
+000137|01-m-wwacc|chr|wav/0185-WWConvoCherokee-10-000133315.wav|||ye:li̋:gwudv|
+000138|01-m-wwacc|chr|wav/0186-WWConvoCherokee-10-000136615.wav|||o:gini:sgwádv̋ gè:sé:sdi nà:hiyű:ɂi.|
+000139|01-m-wwacc|chr|wav/0187-WWConvoCherokee-10-000142855.wav|||howa,|
+000140|01-m-wwacc|chr|wav/0188-WWConvoCherokee-10-000144405.wav|||nà:hiyű ijilúhjvha dosdv́yanv:hohlv:ɂi.|
+000141|01-m-wwacc|chr|wav/0190-WWConvoCherokee-10-000161825.wav|||Gaɂdō atdi Kalisě:ji Nù:lsdâ:hneha. Ayó:negvɂdi?|
+000142|01-f-wwacc|en|wav/0001-WWConvoCherokee-02-000000955.wav|||Conversational Cherokee|
+000143|01-f-wwacc|en|wav/0002-WWConvoCherokee-02-000004705.wav|||Willard Walker|
+000144|01-m-wwacc|en|wav/0003-WWConvoCherokee-02-000012015.wav|||Chapter Two|
+000145|01-m-wwacc|en|wav/0020-WWConvoCherokee-03-000002425.wav|||Chapter Three|
+000146|01-m-wwacc|en|wav/0041-WWConvoCherokee-04-000004085.wav|||Chapter Four|
+000147|01-m-wwacc|en|wav/0061-WWConvoCherokee-05-000003115.wav|||Chapter Five|
+000148|01-m-wwacc|en|wav/0103-WWConvoCherokee-07-000003495.wav|||Chapter Seven|
+000149|01-m-wwacc|en|wav/0162-WWConvoCherokee-10-000004515.wav|||Chapter 10|
