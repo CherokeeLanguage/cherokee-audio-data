@@ -1,0 +1,43 @@
+name: CherokeeTrainingData
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - ca-certificates=2021.4.13
+  - certifi=2020.12.5
+  - ld_impl_linux-64=2.33.1
+  - libffi=3.3
+  - libgcc-ng=9.1.0
+  - libstdcxx-ng=9.1.0
+  - ncurses=6.2
+  - openssl=1.1.1k
+  - pip=21.0.1
+  - python=3.9.4
+  - readline=8.1
+  - setuptools=52.0.0
+  - sqlite=3.35.4
+  - tk=8.6.10
+  - tzdata=2020f
+  - wheel=0.36.2
+  - xz=5.2.5
+  - zlib=1.2.11
+  - pip:
+    - cffi==1.14.5
+    - colorlog==5.0.1
+    - denoiser==0.1.4
+    - hydra-colorlog==0.1.4
+    - hydra-core==0.11.3
+    - numpy==1.20.2
+    - omegaconf==1.4.1
+    - progressbar==2.5
+    - pycparser==2.20
+    - pydub==0.25.1
+    - pystoi==0.3.3
+    - pyyaml==5.4.1
+    - scipy==1.6.3
+    - six==1.15.0
+    - sounddevice==0.4.1
+    - torch==1.8.1
+    - torchaudio==0.8.1
+    - typing-extensions==3.7.4.3
+
