@@ -39,6 +39,8 @@ if __name__ == "__main__":
             lines.append(line.strip())
     print(f"Loaded {len(lines):,} text aligments")
 
+    print(f"{int(100 * len(lines) / len(mp3s)):,}%")
+
     entries_chr: list = list()
     entries_en: list = list()
 
