@@ -235,7 +235,7 @@
 02-m-walc1|mp3/0253-Chapter_4_4.1_4.1.23-000000000.mp3|táɂlsgǒ:hi joɂi
 02-m-walc1|mp3/0254-Chapter_4_4.1_4.1.24-000000000.mp3|táɂlsgǒ:hi nvhgi
 02-m-walc1|mp3/0255-Chapter_4_4.1_4.1.25-000000000.mp3|táɂlsgǒ:hi hisgi
-02-m-walc1|mp3/0256-Chapter_4_4.1_4.1.26-000000285.mp3|táɂlsgǒ:hi sudali
+02-m-walc1|mp3/0256-Chapter_4_4.1_4.1.26-000000285.mp3|táɂlsgǒ:hi Sǔ:dáli
 02-m-walc1|mp3/0257-Chapter_4_4.1_4.1.27-000000205.mp3|táɂlsgǒ:hi gahlgwǒ:gi
 02-m-walc1|mp3/0258-Chapter_4_4.1_4.1.28-000000000.mp3|táɂlsgǒ:hi chaně:la
 02-m-walc1|mp3/0259-Chapter_4_4.1_4.1.29-000000000.mp3|táɂlsgǒ:hi sóhně:la
@@ -250,7 +250,7 @@
 02-m-walc1|mp3/0268-Chapter_4_4.1_4.1.37-000000885.mp3|sgǒ:hítsgwa
 02-m-walc1|mp3/0269-Chapter_4_4.1_4.1.4-000000000.mp3|Nvhgi
 02-m-walc1|mp3/0270-Chapter_4_4.1_4.1.5-000000000.mp3|Hisgi
-02-m-walc1|mp3/0271-Chapter_4_4.1_4.1.6-000000445.mp3|Sudali
+02-m-walc1|mp3/0271-Chapter_4_4.1_4.1.6-000000445.mp3|Sǔ:dáli
 02-m-walc1|mp3/0272-Chapter_4_4.1_4.1.7-000000000.mp3|gahlgwǒ:gi
 02-m-walc1|mp3/0273-Chapter_4_4.1_4.1.8-000000165.mp3|chaně:la
 02-m-walc1|mp3/0274-Chapter_4_4.1_4.1.9-000000145.mp3|sóhně:la
@@ -327,3 +327,18 @@
 02-m-walc1|mp3/0347-Chapter_4_4.5_4.5.12-000000000.mp3|sóhně:la Jù:hnv́:si:yi̋
 02-m-walc1|mp3/0348-Chapter_4_4.5_4.5.13-000000185.mp3|Sgǒ:hi Jù:hnv́:si:yi̋
 02-m-walc1|mp3/0349-Chapter_4_4.5_4.5.2-000000000.mp3|Gasò:gwalv Ganv:hi̋:da
+02-m-walc1|mp3/0350-Chapter_4_4.5_4.5.3-000000000.mp3|Joɂi Jù:hnv́:si:yi̋
+02-m-walc1|mp3/0351-Chapter_4_4.5_4.5.4-000000000.mp3|Nvhgi Jù:hnv́:si:yi̋
+02-m-walc1|mp3/0352-Chapter_4_4.5_4.5.5-000000205.mp3|Ganv:hi̋:da
+02-m-walc1|mp3/0353-Chapter_4_4.5_4.5.5-000001865.mp3|nvhgi Jù:hnv́:si:yi̋
+02-m-walc1|mp3/0354-Chapter_4_4.5_4.5.6-000000000.mp3|Gǒ:sdà:yi
+02-m-walc1|mp3/0355-Chapter_4_4.5_4.5.7-000000000.mp3|Hisgi Jù:hnv́:si:yi̋
+02-m-walc1|mp3/0356-Chapter_4_4.5_4.5.8-000000000.mp3|Nokwsi
+02-m-walc1|mp3/0357-Chapter_4_4.5_4.5.9-000000165.mp3|Sǔ:dáli Jù:hnv́:si:yi̋
+01-chr|mp3/0358-Chapter_4_4.6_4.6.1-000000000.mp3|u:nadǒ:dágwohnv̋:ɂi
+02-m-walc1|mp3/0359-Chapter_4_4.6_4.6.2-000000000.mp3|Taɂli:ne̋ i:ga
+02-m-walc1|mp3/0360-Chapter_4_4.6_4.6.3-000000000.mp3|Joɂi:ne̋ i:ga
+02-m-walc1|mp3/0361-Chapter_4_4.6_4.6.4-000000000.mp3|Nvhgi:ne̋ iɂga
+02-m-walc1|mp3/0362-Chapter_4_4.6_4.6.5-000000255.mp3|Junhgi:lő:sdi
+02-m-walc1|mp3/0363-Chapter_4_4.6_4.6.6-000000000.mp3|ùnādǒ:dágwi:de̋:na
+02-m-walc1|mp3/0364-Chapter_4_4.6_4.6.7-000000000.mp3|ù:nadǒ:dágwà:sgv̋:ɂi

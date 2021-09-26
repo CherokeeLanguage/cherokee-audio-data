@@ -253,7 +253,7 @@ táɂlsgǒ:hi Táɂli
 táɂlsgǒ:hi joɂi
 táɂlsgǒ:hi nvhgi
 táɂlsgǒ:hi hisgi
-táɂlsgǒ:hi sudali
+táɂlsgǒ:hi Sǔ:dáli
 táɂlsgǒ:hi gahlgwǒ:gi
 táɂlsgǒ:hi chaně:la
 táɂlsgǒ:hi sóhně:la
@@ -268,7 +268,7 @@ sóhnélsgǒ:hi
 sgǒ:hítsgwa
 Nvhgi
 Hisgi||0270-Chapter_4_4.1_4.1.5-000000000.mp3
-Sudali
+Sǔ:dáli
 gahlgwǒ:gi
 chaně:la
 sóhně:la
@@ -347,21 +347,22 @@ chaně:la Jù:hnv́:si:yi̋
 sóhně:la Jù:hnv́:si:yi̋
 Sgǒ:hi Jù:hnv́:si:yi̋
 Gasò:gwalv Ganv:hi̋:da
+Joɂi Jù:hnv́:si:yi̋
+Nvhgi Jù:hnv́:si:yi̋
+Ganv:hi̋:da
+nvhgi Jù:hnv́:si:yi̋
+Gǒ:sdà:yi
+Hisgi Jù:hnv́:si:yi̋
+Nokwsi
+Sǔ:dáli Jù:hnv́:si:yi̋
+u:nadǒ:dágwohnv̋:ɂi
+Taɂli:ne̋ i:ga
+Joɂi:ne̋ i:ga
+Nvhgi:ne̋ iɂga
+Junhgi:lő:sdi
+ùnādǒ:dágwi:de̋:na
+ù:nadǒ:dágwà:sgv̋:ɂi
 
-Joɂi junvsiyi
-Nvhgi junvsiyi
-Ganvhida nvhgi junvsiyi
-Gosdayi
-Hisgi junvsiyi
-Nokwisi
-x Sudali junvsiyi
-Unadodagwonvɂi
-Taɂline iga
-Joɂine iga
-Nvhgine iga
-Junvgilosdi
-Unadodagwidena
-Unadodagwasgvɂi
 Kohi iga
 Iga
 Sanale iyv
@@ -766,7 +767,7 @@ Hilâ:yv̋ tesi?
 Naɂvs hedoha?
 Witedoliju?
 Ha:dlv unenvsei?
-Sudali atliilisv dadesi.
+Sǔ:dáli atliilisv dadesi.
 Hilaɂiyv tiluhji?
 Ha:dlv hweda?
 Dajiluhji.  Tiluhji. Dagaluhji. Dvniluhji.
@@ -945,7 +946,7 @@ Degalasutlvga
 Galitawoja
 Alsdayhdi gadvnvɂisda
 Dihnawo dejitvla
-Kohi sanale, sudali atliilisv jiyegi.
+Kohi sanale, Sǔ:dáli atliilisv jiyegi.
 xxx A:sé:hno 6:15 atliilisv jigadida. Doyiedasdii
 wijiyvha, dejindohgvhno dejinvgala. Nogwule utlisda gadawoja.
 Gadawoɂohna, deganiwoja. Deganiwoɂohnahno iga ehi
