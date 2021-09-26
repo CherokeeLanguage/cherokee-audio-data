@@ -286,3 +286,44 @@
 02-m-walc1|mp3/0305-Chapter_4_4.3_4.3.16-000000145.mp3|sgiga:ɂdu Iyátahwò:stanv̋
 02-m-walc1|mp3/0306-Chapter_4_4.3_4.3.16-000003415.mp3|u:lo:sv̋:sdi Sgǒ:hi
 02-m-walc1|mp3/0307-Chapter_4_4.3_4.3.17-000000000.mp3|Sà:gwű aye̋:hli
+02-m-walc1|mp3/0308-Chapter_4_4.3_4.3.2-000000000.mp3|Hila̋ Iyúwa:hnilv̋?
+02-m-walc1|mp3/0309-Chapter_4_4.3_4.3.3-000000000.mp3|Hila̋ àhlíɂili?
+02-m-walc1|mp3/0310-Chapter_4_4.3_4.3.4-000000475.mp3|Hilâ:yv̋ té:si?
+02-m-walc1|mp3/0311-Chapter_4_4.3_4.3.5-000000215.mp3|chaně:la Iyúwa:hnilv̋.
+02-m-walc1|mp3/0312-Chapter_4_4.3_4.3.6-000000175.mp3|chaně:la àhlíɂili.
+02-m-walc1|mp3/0313-Chapter_4_4.3_4.3.7-000000000.mp3|Sú:hli:lő:da
+02-m-walc1|mp3/0314-Chapter_4_4.3_4.3.8-000000000.mp3|Iyú:hli:lő:da
+02-m-walc1|mp3/0315-Chapter_4_4.3_4.3.9-000000000.mp3|Iyátahwò:stanv̋
+02-m-walc1|mp3/0316-Chapter_4_4.4_4.4.1-000000000.mp3|Adě:la
+02-m-walc1|mp3/0317-Chapter_4_4.4_4.4.10-000000000.mp3|Hila̋ Ju:gv:wahldóhdi?
+02-m-walc1|mp3/0318-Chapter_4_4.4_4.4.11-000000000.mp3|Taɂlsgo Adě:la Ju:gv:wahldóhdi.
+02-m-walc1|mp3/0319-Chapter_4_4.4_4.4.12-000000000.mp3|Dajahwasis?
+02-m-walc1|mp3/0320-Chapter_4_4.4_4.4.13-000000000.mp3|Gadō u:sdi
+02-m-walc1|mp3/0321-Chapter_4_4.4_4.4.13-000002225.mp3|jadu:lí jahwáhísdi?
+02-m-walc1|mp3/0322-Chapter_4_4.4_4.4.14-000000000.mp3|Hila̋ yǐ:ga̋?
+02-m-walc1|mp3/0323-Chapter_4_4.4_4.4.14-000002555.mp3|dejadu:líɂa?
+02-m-walc1|mp3/0324-Chapter_4_4.4_4.4.15-000000000.mp3|Hisgi yǐ:ga̋ dà:gwadu:líha.
+02-m-walc1|mp3/0325-Chapter_4_4.4_4.4.16-000000000.mp3|Dà:sehíha
+02-m-walc1|mp3/0326-Chapter_4_4.4_4.4.17-000000000.mp3|Taséga!
+02-m-walc1|mp3/0327-Chapter_4_4.4_4.4.18-000000000.mp3|E:li̋:gwuju yisgwà:tolsda?
+02-m-walc1|mp3/0328-Chapter_4_4.4_4.4.19-000000000.mp3|E:li̋:gwudv Adě:la yidegvyà:tolsda.
+02-m-walc1|mp3/0329-Chapter_4_4.4_4.4.2-000000000.mp3|U:hnő:sda
+02-m-walc1|mp3/0330-Chapter_4_4.4_4.4.20-000000000.mp3|Adě:la degvyà:tolsdíɂa.
+02-m-walc1|mp3/0331-Chapter_4_4.4_4.4.3-000000000.mp3|Gi:nű:tdi
+02-m-walc1|mp3/0333-Chapter_4_4.4_4.4.5-000000000.mp3|Hisgi Iyádánhtéhdi
+02-m-walc1|mp3/0334-Chapter_4_4.4_4.4.6-000000295.mp3|Sgǒ:hi Iyádánhtéhdi
+02-m-walc1|mp3/0335-Chapter_4_4.4_4.4.7-000000000.mp3|aye̋:hli
+02-m-walc1|mp3/0336-Chapter_4_4.4_4.4.8-000000000.mp3|Hiksgohi Adě:lv
+02-m-walc1|mp3/0337-Chapter_4_4.4_4.4.9-000000000.mp3|À:kiwásga.
+02-m-walc1|mp3/0338-Chapter_4_4.4_4.4_Buy_Future-000000000.mp3|Dvkihwasi. Dajahwasi. Dayù:hwasi. Dayù:nihwasi. Dà:gihwasi.
+02-m-walc1|mp3/0339-Chapter_4_4.4_4.4_Buy_Present-000000000.mp3|Akihwasgā. Jahwasgā. ù:hwasgā. ù:nihwasgā. Igihwasgā.
+02-m-walc1|mp3/0340-Chapter_4_4.4_4.4_Buy_Remote_Past-000000000.mp3|Akihwasv̌:ɂi. Jahwasv̌:ɂi. ù:hwasv̌:ɂi. ù:nihwasv̌:ɂi. Igihwasv̌:ɂi.
+02-m-walc1|mp3/0341-Chapter_4_4.4_4.4_Count_Present-000000000.mp3|De:gâ:sehíha. Dehâ:sehíha. Dâ:sehíha. Da:nâ:sehíha. Dè:dâ:sehíha.
+02-m-walc1|mp3/0342-Chapter_4_4.4_4.4_Count_Recent_Past-000000000.mp3|Degaségā. Dehaségā. Daségā. Da:naségā. Dè:daségā.
+02-m-walc1|mp3/0343-Chapter_4_4.4_4.4_Count_Remote_Past-000000000.mp3|Daksehlv́:ɂi. Dehasehlv́:ɂi. Dù:sehlv́:ɂi. Dù:nasehlv́:ɂi. Dè:gasehlv́:ɂi.
+02-m-walc1|mp3/0344-Chapter_4_4.5_4.5.1-000000415.mp3|Gasò:gwalv
+02-m-walc1|mp3/0345-Chapter_4_4.5_4.5.10-000000000.mp3|gahlgwǒ:gi Jù:hnv́:si:yi̋
+02-m-walc1|mp3/0346-Chapter_4_4.5_4.5.11-000000000.mp3|chaně:la Jù:hnv́:si:yi̋
+02-m-walc1|mp3/0347-Chapter_4_4.5_4.5.12-000000000.mp3|sóhně:la Jù:hnv́:si:yi̋
+02-m-walc1|mp3/0348-Chapter_4_4.5_4.5.13-000000185.mp3|Sgǒ:hi Jù:hnv́:si:yi̋
+02-m-walc1|mp3/0349-Chapter_4_4.5_4.5.2-000000000.mp3|Gasò:gwalv Ganv:hi̋:da

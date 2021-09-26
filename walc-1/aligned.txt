@@ -305,49 +305,49 @@ Sgǒ:hi
 sgiga:ɂdu Iyátahwò:stanv̋
 u:lo:sv̋:sdi Sgǒ:hi
 Sà:gwű aye̋:hli
-
-Hila̋ iyuwahnilv?
-Hila̋ atliili?
-Hilâ:yv̋ tesi?
-chaně:la iyuwahnilv.
-chaně:la atliili.
-Sutliloda
-Ijutliloda (iyutliloda) ?
+Hila̋ Iyúwa:hnilv̋?
+Hila̋ àhlíɂili?
+Hilâ:yv̋ té:si?
+chaně:la Iyúwa:hnilv̋.
+chaně:la àhlíɂili.
+Sú:hli:lő:da
+Iyú:hli:lő:da
 Iyátahwò:stanv̋
-Adela
-Hila̋ jugvwalodi?
-Taɂlisgo adelv jugvwalhdi.
+Adě:la
+Hila̋ Ju:gv:wahldóhdi?
+Taɂlsgo Adě:la Ju:gv:wahldóhdi.
 Dajahwasis?
 Gadō u:sdi
-jaduli jahwahisdi?
-Hila̋ yiga
+jadu:lí jahwáhísdi?
+Hila̋ yǐ:ga̋?
 dejadu:líɂa?
-Hisgi yiga dagwaduliha.
-Dasehiha
-Tasehga!
-Eligwuju yisgwatolsda?
-Eligwudv adela yidegvyatolsda.
-Uhnosda
-Adela degvyatolsdiha.
-Ginutodi
+Hisgi yǐ:ga̋ dà:gwadu:líha.
+Dà:sehíha
+Taséga!
+E:li̋:gwuju yisgwà:tolsda?
+E:li̋:gwudv Adě:la yidegvyà:tolsda.
+U:hnő:sda
+Adě:la degvyà:tolsdíɂa.
+Gi:nű:tdi
 x Sà:gwű iyadanvtehdi
-Hisgi iyadantehdi
-Sgǒ:hi iyadantehdi
+Hisgi Iyádánhtéhdi
+Sgǒ:hi Iyádánhtéhdi
 aye̋:hli
-Hiksgohi adelv
-Akihwasga
-Dvkihwasi. Dajahwasi. Dayuhwasi. Dayunihwasi. Dagihwasi.
-Akihwasga. Jahwasga. Uhwasga. Unihwasga. Igihwasga.
-Akihwasvɂi. Jahwasvɂi. Uhwasvɂi. Unihwasvɂi. Igihwasvɂi.
-Degasehiha. Dehasehiha. Dasehiha. Danasehiha. Dedasehiha.
-Degasehga. Dehasehga. Dasehga. Danasehga. Dedasehga.
-Dagwasetlvɂi. Dehasetlvɂi. Dusetlvɂi. Dunasetlvɂi. Degasetlvɂi.
-Gasogwalv
-gahlgwǒ:gi junvsiyi
-chaně:la junvsiyi
-sóhně:la junvsiyi
-Sgǒ:hi junvsiyi
-Gasogwalv ganvhida
+Hiksgohi Adě:lv
+À:kiwásga.
+Dvkihwasi. Dajahwasi. Dayù:hwasi. Dayù:nihwasi. Dà:gihwasi.
+Akihwasgā. Jahwasgā. ù:hwasgā. ù:nihwasgā. Igihwasgā.
+Akihwasv̌:ɂi. Jahwasv̌:ɂi. ù:hwasv̌:ɂi. ù:nihwasv̌:ɂi. Igihwasv̌:ɂi.
+De:gâ:sehíha. Dehâ:sehíha. Dâ:sehíha. Da:nâ:sehíha. Dè:dâ:sehíha.
+Degaségā. Dehaségā. Daségā. Da:naségā. Dè:daségā.
+Daksehlv́:ɂi. Dehasehlv́:ɂi. Dù:sehlv́:ɂi. Dù:nasehlv́:ɂi. Dè:gasehlv́:ɂi.
+Gasò:gwalv
+gahlgwǒ:gi Jù:hnv́:si:yi̋
+chaně:la Jù:hnv́:si:yi̋
+sóhně:la Jù:hnv́:si:yi̋
+Sgǒ:hi Jù:hnv́:si:yi̋
+Gasò:gwalv Ganv:hi̋:da
+
 Joɂi junvsiyi
 Nvhgi junvsiyi
 Ganvhida nvhgi junvsiyi
@@ -403,12 +403,12 @@ Ugvwiyuhi
 Didaniyisgi
 Ayosgi
 Digo:hwe:lisgi
-Adela aktiya
+Adě:la aktiya
 Dihnetldisgi
 Ditlilostanvhvsgi
 Aniyvwi
 Julvwisdaneh
-Adela Ugasesdi
+Adě:la Ugasesdi
 Dikdladisgi
 Adananv
 adagatidehi
@@ -627,8 +627,8 @@ Usganoli
 Uhyvsdi
 Unegujida
 Gvhnageɂi
-Adela unega
-Adela dalonige
+Adě:la unega
+Adě:la dalonige
 Uwodige
 Gigageɂi
 Unega
@@ -868,13 +868,13 @@ Adla ditlaɂi agiyochela kohi sanale.
 Ő:sda nidanvneli dagwaleli agwajeli.
 Asgaya, ageya
 osdihilidoha.
-Eligwus yisdvjasi?
+E:li̋:gwus yisdvjasi?
 Uweti gotlvhnv diktulena agiha.
 Hila̋ iyudetiyvda?
 Gago uwotlvneɂi?
-Eligwudv yisgwajasi.
+E:li̋:gwudv yisgwajasi.
 Jiyu atlawidisgi
-Eligwuju yigvjasi?
+E:li̋:gwuju yigvjasi?
 Asgaya, ageya jijaneha
 Ha:dlv iyvɂi hiktiya?
 Jiyu atlawidisgi gajanidoha.
@@ -1009,7 +1009,7 @@ Ojada:sdâ:yv:hvsga.
 Telido
 Aditasdi
 Ahyelsdi
-Eligwuju?
+E:li̋:gwuju?
 Gaduju digvjatlvnvɂi dunaduliha?
 yà:gwadǔ:la agigisdi.
 Nogwuju igadvnvstanvɂi igadanvsdiɂi?
@@ -1017,7 +1017,7 @@ Ama desginehvsi.
 Gadu ale hawiya dodiskvsi.
 Tuya gadu, selu gadu ale nuna
 dogitlaha.
-Eligwudv.
+E:li̋:gwudv.
 Gadō u:sdi jvhnisda?
 Kahwiju jagaɂa?
 Diniyotli nigohilv duniyosisgoɂi.
@@ -1026,7 +1026,7 @@ Dejiyosiju?
 Alsdayvhdiɂi kanvsulv
 Yvgi
 Aditohdi
-Gadō u:sdi ijaduli ijigisdiɂi?
+Gadō u:sdi ijadu:lí ijigisdiɂi?
 Hawiya
 Hawiya gvjatlvnv
 Gelisgi
