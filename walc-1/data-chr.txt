@@ -437,3 +437,41 @@
 01-chr|mp3/0485-Chapter_5_5.4_5.4_Put_on_Pants_Future-000002725.mp3|Tasu:lâ:ni
 01-chr|mp3/0486-Chapter_5_5.4_5.4_Put_on_Pants_Future-000004655.mp3|Dvsu:lâ:ni
 01-chr|mp3/0489-Chapter_5_5.4_5.4_Put_on_Pants_Present-000000405.mp3|Gá:su:líɂa. Há:su:líɂa. Á:su:líɂa. Dà:ná:su:líɂa. Dejá:su:líɂa
+01-chr|mp3/0490-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000000000.mp3|Agwasu:lâ:nv̌:ɂi
+01-chr|mp3/0491-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000003405.mp3|Jasu:lâ:nv̌:ɂi
+01-chr|mp3/0492-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000005805.mp3|Ù:su:lâ:nv̌:ɂi
+01-chr|mp3/0493-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000008105.mp3|Dù:ná:su:lâ:nv̌:ɂi
+01-chr|mp3/0494-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000011015.mp3|De:gá:su:lâ:nv̌:ɂi
+01-chr|mp3/0495-Chapter_5_5.5_5.5.1-000000335.mp3|Kano:ge̋:ni
+01-chr|mp3/0496-Chapter_5_5.5_5.5.10-000000000.mp3|Gà:di:ge̋:ni
+01-chr|mp3/0497-Chapter_5_5.5_5.5.11-000000000.mp3|Kanige̋:ni
+01-chr|mp3/0498-Chapter_5_5.5_5.5.12-000000000.mp3|Askő:li
+01-chr|mp3/0499-Chapter_5_5.5_5.5.13-000000000.mp3|Di:kasge̋:ni
+01-chr|mp3/0500-Chapter_5_5.5_5.5.14-000000000.mp3|Ahyuge̋:ni
+01-chr|mp3/0501-Chapter_5_5.5_5.5.15-000000000.mp3|Ganv̀:sge̋:ni
+01-chr|mp3/0503-Chapter_5_5.5_5.5.17-000000000.mp3|Kanâ:saɂdv̋
+01-chr|mp3/0504-Chapter_5_5.5_5.5.18-000000000.mp3|Ahő:li
+01-chr|mp3/0505-Chapter_5_5.5_5.5.19-000000000.mp3|Akiyu:sge̋:ni
+01-chr|mp3/0506-Chapter_5_5.5_5.5.2-000000000.mp3|Dikano:ge̋:ni
+01-chr|mp3/0507-Chapter_5_5.5_5.5.20-000000000.mp3|Uwò:ye̋:ni
+01-chr|mp3/0508-Chapter_5_5.5_5.5.21-000000000.mp3|Aye:lv̋
+01-chr|mp3/0509-Chapter_5_5.5_5.5.22-000000000.mp3|Kano:ge̋:ni. Hino:ge̋:ni. Jino:ge̋:ni.
+01-chr|mp3/0510-Chapter_5_5.5_5.5.23-000000000.mp3|Uwò:ye̋:ni. Jò:ye̋:ni. Agwò:ye̋:ni.
+01-chr|mp3/0511-Chapter_5_5.5_5.5.24-000000000.mp3|Ù:katv̋. Jakatv̋. À:gwakatv̋.
+01-chr|mp3/0512-Chapter_5_5.5_5.5.25-000000000.mp3|Gaɂle̋:ni. Hiɂle̋:ni. Jiɂle̋:ni.
+01-chr|mp3/0513-Chapter_5_5.5_5.5.26-000000425.mp3|Kanige̋:n.
+01-chr|mp3/0514-Chapter_5_5.5_5.5.26-000002335.mp3|Hinige̋:n
+01-chr|mp3/0515-Chapter_5_5.5_5.5.26-000004245.mp3|Jinige̋:n
+01-chr|mp3/0516-Chapter_5_5.5_5.5.27-000000000.mp3|Ahő:l.
+01-chr|mp3/0517-Chapter_5_5.5_5.5.27-000001435.mp3|Hihő:l.
+01-chr|mp3/0518-Chapter_5_5.5_5.5.27-000002895.mp3|Jihő:l.
+01-chr|mp3/0519-Chapter_5_5.5_5.5.28-000000385.mp3|Juwò:ye̋:n. Dijò:ye̋:n. Digwò:ye̋:n.
+01-chr|mp3/0522-Chapter_5_5.5_5.5.3-000000165.mp3|Ga:sohi̋
+01-chr|mp3/0523-Chapter_5_5.5_5.5.30-000000475.mp3|Digaɂle̋:ni. Tiɂle̋:ni. Dijiɂle̋:ni.
+01-chr|mp3/0524-Chapter_5_5.5_5.5.31-000000775.mp3|Dikanige̋:ni. Tinige̋:ni. Dijinige̋:ni.
+01-chr|mp3/0525-Chapter_5_5.5_5.5.4-000000355.mp3|Gane:ji̋
+01-chr|mp3/0526-Chapter_5_5.5_5.5.5-000000000.mp3|Gaɂle̋:ni
+01-chr|mp3/0527-Chapter_5_5.5_5.5.6-000000000.mp3|Ù:katv̋
+01-chr|mp3/0528-Chapter_5_5.5_5.5.7-000000000.mp3|Gá:ye:saɂdv̋
+01-chr|mp3/0529-Chapter_5_5.5_5.5.8-000000000.mp3|U:là:shde̋:ni
+01-chr|mp3/0530-Chapter_5_5.5_5.5.9-000000000.mp3|Agv:dage̋:ni

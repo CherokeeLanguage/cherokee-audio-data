@@ -437,5 +437,43 @@
 000437|01-chr|chr|wav/0485-Chapter_5_5.4_5.4_Put_on_Pants_Future-000002725.wav|||Tasu:lâ:ni|
 000438|01-chr|chr|wav/0486-Chapter_5_5.4_5.4_Put_on_Pants_Future-000004655.wav|||Dvsu:lâ:ni|
 000439|01-chr|chr|wav/0489-Chapter_5_5.4_5.4_Put_on_Pants_Present-000000405.wav|||Gá:su:líɂa. Há:su:líɂa. Á:su:líɂa. Dà:ná:su:líɂa. Dejá:su:líɂa|
-000440|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
-000441|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000440|01-chr|chr|wav/0490-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000000000.wav|||Agwasu:lâ:nv̌:ɂi|
+000441|01-chr|chr|wav/0491-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000003405.wav|||Jasu:lâ:nv̌:ɂi|
+000442|01-chr|chr|wav/0492-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000005805.wav|||Ù:su:lâ:nv̌:ɂi|
+000443|01-chr|chr|wav/0493-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000008105.wav|||Dù:ná:su:lâ:nv̌:ɂi|
+000444|01-chr|chr|wav/0494-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000011015.wav|||De:gá:su:lâ:nv̌:ɂi|
+000445|01-chr|chr|wav/0495-Chapter_5_5.5_5.5.1-000000335.wav|||Kano:ge̋:ni|
+000446|01-chr|chr|wav/0496-Chapter_5_5.5_5.5.10-000000000.wav|||Gà:di:ge̋:ni|
+000447|01-chr|chr|wav/0497-Chapter_5_5.5_5.5.11-000000000.wav|||Kanige̋:ni|
+000448|01-chr|chr|wav/0498-Chapter_5_5.5_5.5.12-000000000.wav|||Askő:li|
+000449|01-chr|chr|wav/0499-Chapter_5_5.5_5.5.13-000000000.wav|||Di:kasge̋:ni|
+000450|01-chr|chr|wav/0500-Chapter_5_5.5_5.5.14-000000000.wav|||Ahyuge̋:ni|
+000451|01-chr|chr|wav/0501-Chapter_5_5.5_5.5.15-000000000.wav|||Ganv̀:sge̋:ni|
+000452|01-chr|chr|wav/0503-Chapter_5_5.5_5.5.17-000000000.wav|||Kanâ:saɂdv̋|
+000453|01-chr|chr|wav/0504-Chapter_5_5.5_5.5.18-000000000.wav|||Ahő:li|
+000454|01-chr|chr|wav/0505-Chapter_5_5.5_5.5.19-000000000.wav|||Akiyu:sge̋:ni|
+000455|01-chr|chr|wav/0506-Chapter_5_5.5_5.5.2-000000000.wav|||Dikano:ge̋:ni|
+000456|01-chr|chr|wav/0507-Chapter_5_5.5_5.5.20-000000000.wav|||Uwò:ye̋:ni|
+000457|01-chr|chr|wav/0508-Chapter_5_5.5_5.5.21-000000000.wav|||Aye:lv̋|
+000458|01-chr|chr|wav/0509-Chapter_5_5.5_5.5.22-000000000.wav|||Kano:ge̋:ni. Hino:ge̋:ni. Jino:ge̋:ni.|
+000459|01-chr|chr|wav/0510-Chapter_5_5.5_5.5.23-000000000.wav|||Uwò:ye̋:ni. Jò:ye̋:ni. Agwò:ye̋:ni.|
+000460|01-chr|chr|wav/0511-Chapter_5_5.5_5.5.24-000000000.wav|||Ù:katv̋. Jakatv̋. À:gwakatv̋.|
+000461|01-chr|chr|wav/0512-Chapter_5_5.5_5.5.25-000000000.wav|||Gaɂle̋:ni. Hiɂle̋:ni. Jiɂle̋:ni.|
+000462|01-chr|chr|wav/0513-Chapter_5_5.5_5.5.26-000000425.wav|||Kanige̋:n.|
+000463|01-chr|chr|wav/0514-Chapter_5_5.5_5.5.26-000002335.wav|||Hinige̋:n|
+000464|01-chr|chr|wav/0515-Chapter_5_5.5_5.5.26-000004245.wav|||Jinige̋:n|
+000465|01-chr|chr|wav/0516-Chapter_5_5.5_5.5.27-000000000.wav|||Ahő:l.|
+000466|01-chr|chr|wav/0517-Chapter_5_5.5_5.5.27-000001435.wav|||Hihő:l.|
+000467|01-chr|chr|wav/0518-Chapter_5_5.5_5.5.27-000002895.wav|||Jihő:l.|
+000468|01-chr|chr|wav/0519-Chapter_5_5.5_5.5.28-000000385.wav|||Juwò:ye̋:n. Dijò:ye̋:n. Digwò:ye̋:n.|
+000469|01-chr|chr|wav/0522-Chapter_5_5.5_5.5.3-000000165.wav|||Ga:sohi̋|
+000470|01-chr|chr|wav/0523-Chapter_5_5.5_5.5.30-000000475.wav|||Digaɂle̋:ni. Tiɂle̋:ni. Dijiɂle̋:ni.|
+000471|01-chr|chr|wav/0524-Chapter_5_5.5_5.5.31-000000775.wav|||Dikanige̋:ni. Tinige̋:ni. Dijinige̋:ni.|
+000472|01-chr|chr|wav/0525-Chapter_5_5.5_5.5.4-000000355.wav|||Gane:ji̋|
+000473|01-chr|chr|wav/0526-Chapter_5_5.5_5.5.5-000000000.wav|||Gaɂle̋:ni|
+000474|01-chr|chr|wav/0527-Chapter_5_5.5_5.5.6-000000000.wav|||Ù:katv̋|
+000475|01-chr|chr|wav/0528-Chapter_5_5.5_5.5.7-000000000.wav|||Gá:ye:saɂdv̋|
+000476|01-chr|chr|wav/0529-Chapter_5_5.5_5.5.8-000000000.wav|||U:là:shde̋:ni|
+000477|01-chr|chr|wav/0530-Chapter_5_5.5_5.5.9-000000000.wav|||Agv:dage̋:ni|
+000478|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000479|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
