@@ -419,46 +419,46 @@ Higáɂnakti
 Ayv:wi
 Jiyv:wi. Hiyv:wi. À:niyv:wi.
 U:gv:wiyu:hi. À:gigv:wiyu:hi. Jagv:wiyu:hi. U:nigv:wiyu:hi.
-
-Dideyohvsgi
-Ganakti
-Junidlvgi diktiya
-Advnelisgi
-Dikanogisgi
-Didelogwasgi
-Ditiyohi
-Sidanelvɂi
-Josdadahnvtli
-Josdadalvɂi
-Gohusdi agwvni
-Agwadadujiyv achuja
-Agwadadujiyv agehyuja
-Taɂline eji
-Enisi
-Juniyvwi
-Edoda
-Eji
-Etlogi
-Eduji
+Di:de:hyǒ:hvsgi
+gáɂnakti
+Ju:ni:dlv̀:gi̋ diktǐ:ya.
+À:dv́:ne:lǐ:sgi
+Dikáno:gí:sgi
+Di:dě:hlo:gwà:sgi
+Di:tiyǒ:hi
+Sida:ně:lv̋
+Jo:sdada:hnv̋:hli
+Jo:sdada:lv̋:ɂi
+x Go:hű:sdi agwvni
+x Agwadadujiyv Achű:ja
+x Agwadadujiyv Age:hyű:ja
+Taɂline̋ è:ji
+e:nǐ:si
+x Juniyvwi
+E:do:da
+è:ji
+È:hlogi
+È:du:ji
 e:lí:si
-Eduda
-x Vgido (igido) ?
-AniKawi
-dijayvwi
-Anigodagewi
-Anijisgwa
-Anisahoni
-Aniwahaya
-Aniwodi
-Anigilohi
-Digiyvwi
-digiyvwi.
-Dihnawosdi
-Adadlosdi
-Diktinvtdi
-Alsgwanosdodi
-x Sgwala asulo
-Anisgaya ale anigehya anajanvsga.
+È:dù:da
+x I:gido
+x AniKawi
+x dijayvwi
+x Anigodagewi
+à:nijí:sgwa
+x Anisahoni
+à:niwahya
+x Aniwodi
+x Anigilohi
+x Digiyvwi
+x digiyvwi.
+Dihnawò:sdi
+Adà:dlǒ:sdi
+x Di:ktinv̋:tdi
+x Alsgwanosdodi
+x sgwala̋ À:su:lo
+Ani:sgaya ale Ani:gě:hya à:najanv:sga.
+
 Juwoduhi dunasanoha.
 Galjode uyvtlvɂi, ulsgwetuhgisvɂhno.
 Hadadloga.
@@ -587,7 +587,7 @@ Hanelhdaju? Hanhdlvɂvgaju?
 Wahaya nigawesgvɂi
 aktvganv.
 Wanigeɂi yasvhila.
-Gohusdi Ő:sda asvga.
+Go:hű:sdi Ő:sda asvga.
 Ha:dlv higohwti?
 AnŐ:sda anisvgi
 unijilvsgi.
@@ -597,8 +597,8 @@ Anelvdodi
 Alsvsdodi
 Gadò usd jagoheɂi?
 Hatvgvgaju?
-Gohusdi unetldi agiwisvga.
-Gohusdiju uganasdi jawisvga?
+Go:hű:sdi unetldi agiwisvga.
+Go:hű:sdiju uganasdi jawisvga?
 Uwoduhi
 Unegihldi
 Asamadi
@@ -641,7 +641,7 @@ Advhalige
 Ije iyusdi
 x Uwoduhi. Junoduhi. BLECK FULL OF ENGLISH.
 x Ő:sda svgata                    —>            AnŐ:sda svgata
-Uwodujv agehya. Junodujv anigehya.
+Uwodujv agehya. Junodujv Ani:gě:hya.
 Utana yona aɂi.
 Juntana yona anaɂi.
 x Uhyvdli                    —>                   Juhyvdli
@@ -652,7 +652,7 @@ x Gvhnage degahldi            —>
 x Digvhnage degahldi
 x go:hwe:li                    —>                   Digo:hwe:li
 x Unega go:hwe:li                —>                 Junega digo:hwe:li
-x Agehya uwoduhi.                  —>            Anigehya junoduhi
+x Agehya uwoduhi.                  —>            Ani:gě:hya junoduhi
 x Ijeɂi                            —>            Anijeɂi
 x Ijeɂiyusdi ugata                 —>            Anijeɂiyusdi unigata
 x Unega                            —>            Uninega
@@ -703,8 +703,8 @@ Kò:hi̋ i:ga uhyvdla ale agasga.
 Nasgi ahawi uwodigeɂi A:sé:hno na gatohga unega.
 Na asgaya
 ije iyusdi ulisuwida usula ale gvhnage dulasutla.
-Agehyuja
-dekahnogí:ɂa A:sé:hno anisgaya analsgiɂa.
+Age:hyű:ja
+dekahnogí:ɂa A:sé:hno Ani:sgaya analsgiɂa.
 Etlawe uwotla agayvlige A:sé:hno diniyotli
 dananelohvsga.
 Sogwili anatlaɂidohoɂi aleyigi anajvsiyesgoɂi.
@@ -921,7 +921,7 @@ Ahani Chicago utana gaduhvɂi Jině:la. Yudahahno nasgi “Windy City,” anoseh
 ina idigati dadanela.
 Nahnosgwu ugodi judalehnvda junalsdayvdi
 degotlvha ale dadananv degotlvwadisv ahani utana gaduhvɂi. Nigohilv
-udotlvso gohusdi iyadvndi ale agowatvdiɂi.
+udotlvso Go:hű:sdi iyadvndi ale agowatvdiɂi.
 Utana gaduhvɂi
 Anosehoɂi
 Judalehnvda
@@ -991,7 +991,7 @@ Galjode!
 Jayosihaju?
 Kahwiju jadu:líɂa?
 Jatadegiɂju?
-Gohusdiju jagisdi jadu:líɂa?
+Go:hű:sdiju jagisdi jadu:líɂa?
 Ijedolvi.
 Ehiyvha.
 Ejiyvha.

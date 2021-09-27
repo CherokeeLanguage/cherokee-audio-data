@@ -394,3 +394,26 @@
 01-chr|mp3/0419-Chapter_5_5.1_5.1.26-000000000.mp3|Ayv:wi
 01-chr|mp3/0420-Chapter_5_5.1_5.1.26-000001825.mp3|Jiyv:wi. Hiyv:wi. À:niyv:wi.
 01-chr|mp3/0421-Chapter_5_5.1_5.1.27-000000000.mp3|U:gv:wiyu:hi. À:gigv:wiyu:hi. Jagv:wiyu:hi. U:nigv:wiyu:hi.
+01-chr|mp3/0422-Chapter_5_5.1_5.1.3-000000000.mp3|Di:de:hyǒ:hvsgi
+01-chr|mp3/0423-Chapter_5_5.1_5.1.4-000000000.mp3|gáɂnakti
+01-chr|mp3/0424-Chapter_5_5.1_5.1.5-000000000.mp3|Ju:ni:dlv̀:gi̋ diktǐ:ya.
+01-chr|mp3/0425-Chapter_5_5.1_5.1.6-000000000.mp3|À:dv́:ne:lǐ:sgi
+01-chr|mp3/0426-Chapter_5_5.1_5.1.7-000000385.mp3|Dikáno:gí:sgi
+01-chr|mp3/0427-Chapter_5_5.1_5.1.8-000000000.mp3|Di:dě:hlo:gwà:sgi
+01-chr|mp3/0428-Chapter_5_5.1_5.1.9-000000000.mp3|Di:tiyǒ:hi
+01-chr|mp3/0429-Chapter_5_5.2_5.2.1-000000000.mp3|Sida:ně:lv̋
+01-chr|mp3/0430-Chapter_5_5.2_5.2.10-000000575.mp3|Jo:sdada:hnv̋:hli
+01-chr|mp3/0431-Chapter_5_5.2_5.2.11-000000000.mp3|Jo:sdada:lv̋:ɂi
+01-chr|mp3/0435-Chapter_5_5.2_5.2.15-000000355.mp3|Taɂline̋ è:ji
+01-chr|mp3/0436-Chapter_5_5.2_5.2.16-000000000.mp3|e:nǐ:si
+01-chr|mp3/0438-Chapter_5_5.2_5.2.3-000000455.mp3|E:do:da
+01-chr|mp3/0439-Chapter_5_5.2_5.2.4-000000000.mp3|è:ji
+01-chr|mp3/0440-Chapter_5_5.2_5.2.5-000000000.mp3|È:hlogi
+01-chr|mp3/0441-Chapter_5_5.2_5.2.6-000000295.mp3|È:du:ji
+01-chr|mp3/0442-Chapter_5_5.2_5.2.7-000000135.mp3|e:lí:si
+01-chr|mp3/0443-Chapter_5_5.2_5.2.8-000000000.mp3|È:dù:da
+01-chr|mp3/0448-Chapter_5_5.3_5.3.3-000000825.mp3|à:nijí:sgwa
+01-chr|mp3/0450-Chapter_5_5.3_5.3.5-000000145.mp3|à:niwahya
+01-chr|mp3/0455-Chapter_5_5.4_5.4.1-000000000.mp3|Dihnawò:sdi
+01-chr|mp3/0456-Chapter_5_5.4_5.4.10-000000235.mp3|Adà:dlǒ:sdi
+01-chr|mp3/0460-Chapter_5_5.4_5.4.14-000000000.mp3|Ani:sgaya ale Ani:gě:hya à:najanv:sga.
