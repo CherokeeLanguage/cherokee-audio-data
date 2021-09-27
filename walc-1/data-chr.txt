@@ -391,3 +391,6 @@
 01-chr|mp3/0416-Chapter_5_5.1_5.1.25-000000000.mp3|Agáɂnakti
 01-chr|mp3/0417-Chapter_5_5.1_5.1.25-000002185.mp3|Jigáɂnakti. À:nigáɂnakti.
 01-chr|mp3/0418-Chapter_5_5.1_5.1.25-000005495.mp3|Higáɂnakti
+01-chr|mp3/0419-Chapter_5_5.1_5.1.26-000000000.mp3|Ayv:wi
+01-chr|mp3/0420-Chapter_5_5.1_5.1.26-000001825.mp3|Jiyv:wi. Hiyv:wi. À:niyv:wi.
+01-chr|mp3/0421-Chapter_5_5.1_5.1.27-000000000.mp3|U:gv:wiyu:hi. À:gigv:wiyu:hi. Jagv:wiyu:hi. U:nigv:wiyu:hi.
