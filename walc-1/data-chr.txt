@@ -417,3 +417,23 @@
 01-chr|mp3/0455-Chapter_5_5.4_5.4.1-000000000.mp3|Dihnawò:sdi
 01-chr|mp3/0456-Chapter_5_5.4_5.4.10-000000235.mp3|Adà:dlǒ:sdi
 01-chr|mp3/0460-Chapter_5_5.4_5.4.14-000000000.mp3|Ani:sgaya ale Ani:gě:hya à:najanv:sga.
+01-chr|mp3/0462-Chapter_5_5.4_5.4.16-000000000.mp3|Gahljǒ:de Ù:yv:hlv̌:ɂi, Ù:lsgwé:tuhgí:sv̌:no.
+01-chr|mp3/0463-Chapter_5_5.4_5.4.17-000000000.mp3|Hadà:dlǒ:ga
+01-chr|mp3/0464-Chapter_5_5.4_5.4.18-000000145.mp3|Analà:sgali̋:sgi dù:nalsdu:lo
+01-chr|mp3/0466-Chapter_5_5.4_5.4.2-000000000.mp3|À:su:lo
+01-chr|mp3/0467-Chapter_5_5.4_5.4.3-000000235.mp3|dilà:sǔ:lo
+01-chr|mp3/0468-Chapter_5_5.4_5.4.4-000000575.mp3|Ahnawo
+01-chr|mp3/0469-Chapter_5_5.4_5.4.5-000000545.mp3|Di:lǐ:yo
+01-chr|mp3/0470-Chapter_5_5.4_5.4.6-000000000.mp3|Átihldi
+01-chr|mp3/0471-Chapter_5_5.4_5.4.7-000000595.mp3|Alsgwè:tuwo
+01-chr|mp3/0472-Chapter_5_5.4_5.4.8-000000215.mp3|Alsdu:lo
+01-chr|mp3/0473-Chapter_5_5.4_5.4.9-000000345.mp3|À:sano
+01-chr|mp3/0479-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000000000.mp3|De:gánì:wó:ɂa. Dehà:hnawó:ɂa.
+01-chr|mp3/0480-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000004045.mp3|Dà:hnawó:ɂa
+01-chr|mp3/0481-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000005935.mp3|Daná:hnawó:ɂa
+01-chr|mp3/0482-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000008405.mp3|Dedá:hnawó:ɂa
+01-chr|mp3/0483-Chapter_5_5.4_5.4_Put_on_Clothes_Remote_Past-000000000.mp3|Dagwahnawó:ɂv̌. Dejahnawó:ɂv̌. Duhnawó:ɂv̌. Dunahnawó:ɂv̌. Degahnawó:ɂv̌.
+01-chr|mp3/0484-Chapter_5_5.4_5.4_Put_on_Pants_Future-000000445.mp3|Dagasu:lâ:ni
+01-chr|mp3/0485-Chapter_5_5.4_5.4_Put_on_Pants_Future-000002725.mp3|Tasu:lâ:ni
+01-chr|mp3/0486-Chapter_5_5.4_5.4_Put_on_Pants_Future-000004655.mp3|Dvsu:lâ:ni
+01-chr|mp3/0489-Chapter_5_5.4_5.4_Put_on_Pants_Present-000000405.mp3|Gá:su:líɂa. Há:su:líɂa. Á:su:líɂa. Dà:ná:su:líɂa. Dejá:su:líɂa
