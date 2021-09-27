@@ -475,3 +475,11 @@
 01-chr|mp3/0528-Chapter_5_5.5_5.5.7-000000000.mp3|Gá:ye:saɂdv̋
 01-chr|mp3/0529-Chapter_5_5.5_5.5.8-000000000.mp3|U:là:shde̋:ni
 01-chr|mp3/0530-Chapter_5_5.5_5.5.9-000000000.mp3|Agv:dage̋:ni
+01-chr|mp3/0532-Chapter_5_5.6_5.6.10-000000275.mp3|U:hyv:dla à:giní:yvha
+01-chr|mp3/0539-Chapter_5_5.6_5.6.3-000000665.mp3|À:ksihwásga
+01-chr|mp3/0540-Chapter_5_5.6_5.6.4-000000000.mp3|Ù:sihwásga
+01-chr|mp3/0541-Chapter_5_5.6_5.6.5-000000575.mp3|Ù:di:hléhv́sga
+01-chr|mp3/0542-Chapter_5_5.6_5.6.6-000000000.mp3|U:hyv:dla ù:ní:yvha
+01-chr|mp3/0546-Chapter_5_5.7_5.7.1-000000000.mp3|Gadògwu?
+01-chr|mp3/0547-Chapter_5_5.7_5.7.10-000000285.mp3|Na asgaya, agehya Ù:dîwsga.
+01-chr|mp3/0549-Chapter_5_5.7_5.7.12-000000455.mp3|Ha:dlv je:sdâ:neha?

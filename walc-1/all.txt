@@ -475,5 +475,13 @@
 000475|01-chr|chr|wav/0528-Chapter_5_5.5_5.5.7-000000000.wav|||Gá:ye:saɂdv̋|
 000476|01-chr|chr|wav/0529-Chapter_5_5.5_5.5.8-000000000.wav|||U:là:shde̋:ni|
 000477|01-chr|chr|wav/0530-Chapter_5_5.5_5.5.9-000000000.wav|||Agv:dage̋:ni|
-000478|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
-000479|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000478|01-chr|chr|wav/0532-Chapter_5_5.6_5.6.10-000000275.wav|||U:hyv:dla à:giní:yvha|
+000479|01-chr|chr|wav/0539-Chapter_5_5.6_5.6.3-000000665.wav|||À:ksihwásga|
+000480|01-chr|chr|wav/0540-Chapter_5_5.6_5.6.4-000000000.wav|||Ù:sihwásga|
+000481|01-chr|chr|wav/0541-Chapter_5_5.6_5.6.5-000000575.wav|||Ù:di:hléhv́sga|
+000482|01-chr|chr|wav/0542-Chapter_5_5.6_5.6.6-000000000.wav|||U:hyv:dla ù:ní:yvha|
+000483|01-chr|chr|wav/0546-Chapter_5_5.7_5.7.1-000000000.wav|||Gadògwu?|
+000484|01-chr|chr|wav/0547-Chapter_5_5.7_5.7.10-000000285.wav|||Na asgaya, agehya Ù:dîwsga.|
+000485|01-chr|chr|wav/0549-Chapter_5_5.7_5.7.12-000000455.wav|||Ha:dlv je:sdâ:neha?|
+000486|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000487|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
