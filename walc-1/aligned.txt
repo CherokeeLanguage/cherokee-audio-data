@@ -645,11 +645,10 @@ x adaha:lige̋
 ijé:ɂiyű:sdi
 x Uwoduhi. Junoduhi. BLECK FULL OF ENGLISH.
 x Ő:sda svgata                    —>            AnŐ:sda svgata
-
-Uwodujv Agě:hya.
-Junodujv Ani:gě:hya.
-Utana yona aɂi.
-Juntana yona anaɂi.
+Uwo:dűjv Agě:hya.
+Ju:no:dűjv Ani:gě:hya.
+Ǔ:tana Yǒ:na Á:ɂi.
+Jǔ:ntana Yǒ:na à:na:ɂi.
 x Uhyvdli                    —>                   Juhyvdli
 x Uhyvdli aditasdi           —>                   Juhyvdli diditasdi
 x Gvhnageɂi                  —>
@@ -659,8 +658,10 @@ x Digvhnage degahldi
 x go:hwe:li                    —>                   Digo:hwe:li
 x U:ne̋:ga go:hwe:li                —>                 Junega digo:hwe:li
 x Agě:hya uwoduhi.                  —>            Ani:gě:hya junoduhi
-x Ijeɂi                            —>            Anijeɂi
-x Ijeɂiyusdi ugata                 —>            Anijeɂiyusdi unigata
+x Ijeɂi
+x Anijeɂi
+x Ijeɂiyusdi ugata                 —>
+x Anijeɂiyusdi unigata
 x U:ne̋:ga                            —>            Uninega
 x Na Sogwili U:ne̋:ga                 —>
 x Sogwili uninega
@@ -669,6 +670,7 @@ x Unegitldi gitli                  —>            Uninegitldi dinadalesgiyisgi
 x Ő:sda                             —>
 x AnŐ:sda
 Gv̋:hdi
+
 Galjode udlididla gadoga.
 Na wesa gasgilo hawinididla edoha.
 Odalvɂi galvladidla
@@ -755,8 +757,8 @@ Tla junhsdi yigi.
 Jalagi Gawó:ni:sgí. Tla jalagi Gawó:ni:sgí yigi.
 Ő:sda gesv.
 Tla Ő:sda yigeseɂi.
-Nvya utana geseɂi.
-Tla nvya utana yigeseɂi.
+Nvya Ǔ:tana geseɂi.
+Tla nvya Ǔ:tana yigeseɂi.
 Ő:sda gesesdi. Tla Ő:sda yigesesdi.
 Hiwó:nihaju? Tla hyiwó:niha.
 x Vsgika?
@@ -916,19 +918,19 @@ Hijanelvɂi. Ajanelvɂi. Anajanelvɂi. Edajanelvɂi.
 Gaɂisesdi. Haɂisesdi. Aɂisesdi. Anaɂisesdi. Idaɂisesdi.
 Gaɂisvɂi. Haɂisvɂi. Aɂisvɂi.
 Anaɂisvɂi. Idaɂisvɂi.
-Gaɂi. Haɂi. Aɂi. Anaɂi. Idaɂi.
+Gaɂi. Haɂi. Á:ɂi. à:na:ɂi. Idaɂi.
 Jiyu junidisdiɂi diktiya Jani. Ayulagwiyi widayedoli,
 joɂihno iyunadodagwasdi igohida wedohesdi. Nuna anisogwilv, Italiyi, Anisgwaniyaɂi, nogwule
 Anidvjiyi widodvhwatvhidoli nahiyu.
 Sǐ:gwuhno tlega uktidisdiɂi, jiyu atlawidisgi ugohniyoga. Janiɂhno dohiyu uwvnvga
 jiyu ujodi.
 Uwvnvga
-Ahani Chicago utana gaduhvɂi Jině:la. Yudahahno nasgi “Windy City,” anosehoɂi. Ujatihno
+Ahani Chicago Ǔ:tana gaduhvɂi Jině:la. Yudahahno nasgi “Windy City,” anosehoɂi. Ujatihno
 ina idigati dadanela.
 Nahnosgwu ugodi judalehnvda junalsdayvdi
-degotlvha ale dadananv degotlvwadisv ahani utana gaduhvɂi. Nigohilv
+degotlvha ale dadananv degotlvwadisv ahani Ǔ:tana gaduhvɂi. Nigohilv
 udotlvso Go:hű:sdi iyadvndi ale agowatvdiɂi.
-Utana gaduhvɂi
+Ǔ:tana gaduhvɂi
 Anosehoɂi
 Judalehnvda
 Dadananvɂi
