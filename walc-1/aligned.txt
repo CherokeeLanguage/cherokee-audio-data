@@ -667,27 +667,30 @@ x Na Sogwili U:ne̋:ga                 —>
 x Sogwili uninega
 x Unegitlvdi                     —>            Uninegitldi
 x Unegitldi gitli                  —>            Uninegitldi dinadalesgiyisgi
-x Ő:sda                             —>
+Ő:sda
+|Good
 x AnŐ:sda
 Gv̋:hdi
-
-Galjode udlididla gadoga.
-Na wesa gasgilo hawinididla edoha.
-Odalvɂi galvladidla
-aninohilidoha.
-Junilawisdi
-igvyididla danidoga.
-Na asgaya, Agě:hya gvnosasdi Gv̋:hdi
-gvnosasgo
-ahyateno.
+Gahljǒ:de udlidí:dla Gadô:ga.
+Na Wě:sa Ga:sgilo Hawí:nidí:dla E:dó:ha.
+Ò:dalv̋:ɂi
+Galv̌:ládi:dla
+x aninohilidoha.
+Ju:ni:là:wisdi
+Igv:yi̋ dí:dla dà:nidô:ga.
 Na asgaya, Agě:hya
-ganvgwalosdi Gv̋:hdi gvhniha.
-Ididla
-Na Agě:hya ale aya dijododi julewisdodiɂi didla wosdaɂi.
-Amegwo ididla anega.
+Gv:no:sásdi Gv̋:hdi
+Gv:no:sasgó
+ahyahtě:no.
+Na asgaya, Agě:hya
+ganv:gwalő:sdi Gv̋:hdi Gv:hníha.
+Idí:dla
+
+Na Agě:hya ale aya dijododi julewisdodiɂi dí:dla wosdaɂi.
+Amegwo idí:dla anega.
 Naɂvɂi
 Vdali naɂvɂi dunotlv.
-Udlididla
+udlidí:dla
 Ale
 Juhnogisdi udulisgvi, asesgini udlvgvɂi.
 Howa, hawa ale yigi anadisgoi.
@@ -718,8 +721,8 @@ dananelohvsga.
 Sogwili anatlaɂidohoɂi aleyigi anajvsiyesgoɂi.
 Gagedaju,
 gasakaɂke?
-Gitli aditlidoha, wesahno gatliha.
-Doyididla gedoɂa degatlilosdiha ale galjodeɂi aniyaɂa digigayvlige.
+Gitli aditlidoha, Wě:sahno gatliha.
+Doyidí:dla gedoɂa degatlilosdiha ale Gahljǒ:deɂi aniyaɂa digigayvlige.
 Aniluhgaju, anÀ:hnigíɂake?
 Na asgaya ijula jalagi ale yonega degawó:niha.
 Diniyotli
@@ -772,7 +775,7 @@ x Ayaɂgi?
 x Ha:dlvgi?
 Ha:dlv hega?
 Hilâ:yv̋ tesi?
-Naɂvs hedoha?
+Naɂvs hE:dó:ha?
 Witedoliju?
 Ha:dlv unenvsei?
 Sǔ:dáli atliilisv dadesi.
@@ -794,11 +797,11 @@ Dadedoli
 Geda. Heda. Eda.
 Aneda
 Ideda
-Gedoha
-Hedoha
-Edoha
-Anedoha
-Idedoha
+GE:dó:ha
+HE:dó:ha
+E:dó:ha
+AnE:dó:ha
+IdE:dó:ha
 Agwedolvi
 Jedolvi
 Uwedolvi
@@ -817,24 +820,24 @@ Uwenvsvi
 Unenvsvi. Igenvsvi.
 Ahani
 Udliyvɂi
-Galvladidla
-Eladidla
+Galv̌:ládi:dla
+Eladí:dla
 Ilvtlvɂi
-Hawinididla
-Geɂididla
+Hawí:ni dí:dla
+Geɂidí:dla
 Ina
 Naɂv
-Ididla
+Idí:dla
 Nikvɂi
 Tla ilvdlv
-Jogididla
+Jogidí:dla
 Vhnaɂi
 Ageɂi
-Age digadoga.
+Age diGadô:ga.
 Vhnai danino:gí:ɂa.
-Digwenvsvɂi ohnididla dagilvwisdaneha.
+Digwenvsvɂi ohnidí:dla dagilvwisdaneha.
 Gatiyoɂi wogedolv dodagwidena usvɂi jigesvɂi.
-Junilawisdiɂi didla wosdaɂi.
+Junilawisdiɂi dí:dla wosdaɂi.
 Ina digesvɂi waninela.
 Nikvɂi anedolidohoɂi.
 Ahani iyvɂi dvniluhji.
@@ -842,7 +845,7 @@ Juhyvdlvɂi
 Ha:dlv?
 Ha:dlv hega?
 Ha:dlv hwikti?
-Juganowv ididla wojigti.
+Juganowv idí:dla wojigti.
 Digilvwisdanediɂi gega.
 Juganowvɂi
 Galvladi
@@ -850,15 +853,15 @@ aye̋:hli
 Dikalvgvɂi
 Wudeligvɂi
 Eladi
-Ididla
-Ha:dlv ididla?
+Idí:dla
+Ha:dlv idí:dla?
 Dagilvwisdanelvɂi. Dagilvwisdanelega.
 Agwalsdayvhnvɂi. Galisdayvhnega.
 Unasuhnvɂi. Anasuhnega.
 Gaduɂi
 x ???
-Galvladidla
-x Eladidla
+Galv̌:ládi:dla
+x Eladí:dla
 Vhnaɂi
 Ageɂi
 Ahani
@@ -869,7 +872,7 @@ Agusa. Gusoɂi.
 Kolanv. Kolanvɂi.
 Ama. Amoɂi.
 Taluja. Talujohi.
-Gasgilo. Gasgilohi.
+Ga:sgilo. Ga:sgilohi.
 Unajododi
 Diktulena
 Gadō u:sdi diktulena jaha?
@@ -887,7 +890,7 @@ E:li̋:gwuju yigvjasi?
 Asgaya, ageya jijaneha
 Ha:dlv iyvɂi hiktiya?
 Jiyu atlawidisgi gajanidoha.
-Unajododi julewisdodi didla wigaɂa.
+Unajododi julewisdodi dí:dla wigaɂa.
 Tla yigasgwajasi.
 Unajododi julewisdodi jigatiya.
 Hilâ:yv̋ tajahni jiyu atlawidisgi?
@@ -995,7 +998,7 @@ Dajiwonisi. Tiwonisi. Dagawonisi. Dvniwonisi. Dadiwonisi.
 Jiwó:niha. Hiwó:niha. Gawó:niha. Aniwó:niha. Idiwó:niha.
 Agiwonisvɂi. Jawonisvɂi. Uwonisvɂi. Uniwonisvɂi.
 Igiwonisvɂi|0977-Chapter_8-8.2-8.2_Speak_Remote_Past-010095.mp3
-Galjode!
+Gahljǒ:de!
 Jayosihaju?
 Kahwiju jadu:líɂa?
 Jatadegiɂju?
@@ -1137,7 +1140,7 @@ Ganesohsga
 Ganesdaladiɂa
 x kanvyoladiɂa
 Galogiladiɂa
-Gadò galstanvhvsga doyi didla?
+Gadò galstanvhvsga doyi dí:dla?
 Agasgaju,
 ganesohsgaɂke?
 Kilagwu adalena asdutlidohvɂi.
@@ -1159,7 +1162,7 @@ Galijode waginvgoja Kò:hi̋ Saná:le̋, gutisgvɂi. Uwodujv gelisgo
 yuwutana.
 A:sé:hno doyu uhyvdlvi. Tla yagilvkwdi uhyvdla.
 A:sé:hno digilvwisdanelvsdi nagwalisdasi. Dijododi julewisdodi
-didla wigaɂisvɂi. Ajododihno wigajaɂvga nogwule agiganawohi.
+dí:dla wigaɂisvɂi. Ajododihno wigajaɂvga nogwule agiganawohi.
 Waginvgoja
 Gutisgvɂi
 Uwodujv

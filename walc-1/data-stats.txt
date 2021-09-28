@@ -1,14 +1,14 @@
 Folder: .
-Total duration [chr]: 17:46
+Total duration [chr]: 18:29
 Shortest duration [chr]: 00.65
 Longest duration [chr]: 09.38
 
-Total duration [en]: 0:02
-Shortest duration [en]: 00.93
+Total duration [en]: 0:03
+Shortest duration [en]: 00.74
 Longest duration [en]: 01.55
 
-Train size: 524
-Val size: 28
-All size: 552
+Train size: 543
+Val size: 29
+All size: 572
 
 

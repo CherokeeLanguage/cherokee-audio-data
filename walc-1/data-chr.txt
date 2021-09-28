@@ -44,81 +44,81 @@
 01-f-walc1|mp3/0052-Chapter_1_1.2_Set_B_17_You_two_want-000000505.mp3|Sdadu:líha
 01-f-walc1|mp3/0054-Chapter_1_1.2_Set_B_19_They_and_I_want-000000675.mp3|Ò:gadu:líha
 01-f-walc1|mp3/0055-Chapter_1_1.2_Set_B_20_You_all_want-000000585.mp3|Ì:jadu:líha
-01-chr|mp3/0056-Chapter_2_2.1_2.1.1-000000635.mp3|Na asgay gawó:niha.
-01-chr|mp3/0057-Chapter_2_2.1_2.1.10-000000000.mp3|Wù:lv̌:kwdv́:ɂi kano:gi̋:sdi káno:gí:ɂa.
-01-chr|mp3/0058-Chapter_2_2.1_2.1.2-000001355.mp3|À:nalì:sdâ:yv:hv́sga.
-01-chr|mp3/0059-Chapter_2_2.1_2.1.3-000001195.mp3|Uwodujvɂi dekáno:gí:ɂa.
-01-chr|mp3/0060-Chapter_2_2.1_2.1.4-000000345.mp3|Go:lì:ga
-01-chr|mp3/0061-Chapter_2_2.1_2.1.5-000000225.mp3|U:nv̌:di gadì:tásga.
-01-chr|mp3/0062-Chapter_2_2.1_2.1.6-000000865.mp3|Na asgaya sda̋:y gawó:niha.
-01-chr|mp3/0065-Chapter_2_2.1_2.1.9-000000145.mp3|Ì:dada:dǒ:lî:sdiha.
-01-chr|mp3/0066-Chapter_2_2.2_2.2.1-000000455.mp3|À:hnigíɂa
-01-chr|mp3/0067-Chapter_2_2.2_2.2.1-000002355.mp3|a:hnigi
-01-chr|mp3/0068-Chapter_2_2.2_2.2.2-000000715.mp3|Galì:sdâ:yv:hv́sga. Galisdà:yv:hv̀:ga.
-01-chr|mp3/0070-Chapter_2_2.2_2.2.4-000000995.mp3|À:gihyóha. Agiyhgā.
-01-chr|mp3/0071-Chapter_2_2.2_2.2.5-000000445.mp3|Hadì:tásga
-01-chr|mp3/0072-Chapter_2_2.2_2.2.5-000002385.mp3|Hadǐ:tā
-01-chr|mp3/0073-Chapter_2_2.3_2.3.1-000000575.mp3|De:higí:ɂa tiga!
-01-chr|mp3/0074-Chapter_2_2.3_2.3.2-000000135.mp3|De:hino:gí:ɂa tihnó:gī!
-01-chr|mp3/0075-Chapter_2_2.3_2.3.3-000000000.mp3|Ő:sda nide:hv́:neha.
-01-chr|mp3/0076-Chapter_2_2.3_2.3.3-000002995.mp3|Ő:sda nitv́:gā!
-01-chr|mp3/0077-Chapter_2_2.3_2.3.4-000000000.mp3|De:sdigo:lǐ:ya. Disdigo:lǐ:yā!
-01-chr|mp3/0078-Chapter_2_2.3_2.3.5-000000000.mp3|De:higa
-01-chr|mp3/0079-Chapter_2_2.3_2.3.5-000001915.mp3|Tiga
-01-chr|mp3/0080-Chapter_2_2.3_2.3.6-000000000.mp3|De:hatv:dâ:sdiha. Tatv:dà:sdā!
-01-chr|mp3/0081-Chapter_2_2.3_2.3.7-000000000.mp3|De:sdino:gí.
-01-chr|mp3/0082-Chapter_2_2.3_2.3.7-000002095.mp3|Disdihnó:gī!
-01-chr|mp3/0083-Chapter_2_2.3_2.3_Listen_Imperative-000000000.mp3|Hatv:dà:sdā. Ì:jatv:dà:sdā. Sdatv:dà:sdā.
-01-chr|mp3/0084-Chapter_2_2.3_2.3_Listen_Present-000000000.mp3|Hatv:dâ:sdiha. Ì:jatv:dâ:sdiha. Sdatv:dâ:sdiha.
-01-chr|mp3/0085-Chapter_2_2.3_2.3_Read_Imperative-000000000.mp3|Tigo:lǐ:yā. Dijigo:lǐ:yā. Disdigo:lǐ:yā.
-01-chr|mp3/0086-Chapter_2_2.3_2.3_Read_Present-000000000.mp3|De:higo:lǐ:yéɂa. Dé:jigo:lǐ:yéɂa. De:sdigo:lǐ:yéɂa.
-01-chr|mp3/0087-Chapter_2_2.3_2.3_Speak_Imperative-000000000.mp3|Hiwò:nǐ:hī. Ì:jiwò:nǐ:hī. Sdiwò:nǐ:hī.
-01-chr|mp3/0088-Chapter_2_2.3_2.3_Speak_Present-000000000.mp3|Hiwó:niha. Ì:jiwó:niha. Sdiwó:niha.
-01-chr|mp3/0089-Chapter_2_2.3_2.3_Write_Imperative-000000000.mp3|Hohwelvgā. Ì:johwelvgā. Sdohwelvgā.
-01-chr|mp3/0090-Chapter_2_2.3_2.3_Write_Present-000000185.mp3|Hohweliɂa. Ì:johweli. Sdohweliɂa.
-01-chr|mp3/0091-Chapter_2_2.4_2.4.1-000000000.mp3|Gawó:niha
-01-chr|mp3/0092-Chapter_2_2.4_2.4.1-000001905.mp3|Gawó:ni:sgó:ɂi
-01-chr|mp3/0093-Chapter_2_2.4_2.4.2-000000000.mp3|Gadè:lohgwáɂa
-01-chr|mp3/0094-Chapter_2_2.4_2.4.2-000002455.mp3|Gadehlo:hgwâ:sgó:ɂi
-01-chr|mp3/0095-Chapter_2_2.4_2.4.3-000000000.mp3|À:nigo:lǐ:yéɂa
-01-chr|mp3/0096-Chapter_2_2.4_2.4.3-000002775.mp3|À:nigo:lǐ:yê:sgó:ɂi
-01-chr|mp3/0097-Chapter_2_2.4_2.4.4-000000000.mp3|Ì:jadu:líha
-01-chr|mp3/0098-Chapter_2_2.4_2.4.4-000002365.mp3|Ì:jadu:lǐ:sgóɂi
-01-chr|mp3/0099-Chapter_2_2.4_2.4.5-000000000.mp3|Ò:sdv:hnisdíha.
-01-chr|mp3/0100-Chapter_2_2.4_2.4.5-000002165.mp3|Ò:sdv:hnisdǐ:sgóɂi.
-01-chr|mp3/0101-Chapter_2_2.5_2.5.1-000000000.mp3|Gawó:ni:sgó:ɂi
-01-chr|mp3/0102-Chapter_2_2.5_2.5.1-000003445.mp3|Gawó:ni:sgesdi
-01-chr|mp3/0103-Chapter_2_2.5_2.5.10-000000000.mp3|E:lí:si jitǎ:ga gv:jahlv́sgesdi, ale
-01-chr|mp3/0104-Chapter_2_2.5_2.5.10-000005735.mp3|e:ji dahyahkě:tsgesdi nǔ:na.
-01-chr|mp3/0105-Chapter_2_2.5_2.5.11-000000000.mp3|Ju:nadale:hnv̋:da digawasvgi
-01-chr|mp3/0106-Chapter_2_2.5_2.5.11-000004145.mp3|dasu:yv́:sgesdi e:lí:si.
-01-chr|mp3/0107-Chapter_2_2.5_2.5.12-000000000.mp3|Ganvdadî:sgesdi yà:gwadvnedii à:gwada:sdàyhdi.
-01-chr|mp3/0108-Chapter_2_2.5_2.5.2-000000000.mp3|Gadelo:hgwâ:sgó:ɂi
-01-chr|mp3/0109-Chapter_2_2.5_2.5.2-000002795.mp3|Gadelo:hgwâ:sgesdi
-01-chr|mp3/0110-Chapter_2_2.5_2.5.3-000000000.mp3|À:nigo:lǐ:yê:sgó:ɂi
-01-chr|mp3/0111-Chapter_2_2.5_2.5.3-000003065.mp3|À:nigo:lǐ:yê:sgesdi
-01-chr|mp3/0112-Chapter_2_2.5_2.5.4-000000000.mp3|Ì:janhtó:ɂi
-01-chr|mp3/0113-Chapter_2_2.5_2.5.4-000002245.mp3|Ì:janhté:sdi
-01-chr|mp3/0114-Chapter_2_2.5_2.5.5-000000000.mp3|Ò:sdv:hnisdǐ:sgó.
-01-chr|mp3/0115-Chapter_2_2.5_2.5.5-000002245.mp3|Ò:sdv:hnisdǐ:sgesdi.
-01-chr|mp3/0116-Chapter_2_2.5_2.5.6-000000000.mp3|Kò:hi̋ sv:hiye̋:yi, ò:jada:sdâ:yv:hvsgesdi.
-01-chr|mp3/0117-Chapter_2_2.5_2.5.7-000000000.mp3|Igv̌:yiɂhno, sv̀:gi ale unvgu:hǐ:sdí:sgi dejigv:halǐ:sgesdi.
-01-chr|mp3/0118-Chapter_2_2.5_2.5.8-000000435.mp3|Ő:sda
-01-chr|mp3/0119-Chapter_2_2.5_2.5.8-000002095.mp3|nigvnehesdi sugeda.
-01-chr|mp3/0120-Chapter_2_2.5_2.5.9-000000000.mp3|Ugama ò:jadvnvɂisdisgesdi.
-01-chr|mp3/0121-Chapter_2_2.6_2.6.1-000000000.mp3|Gawó:niha. Uwonisvɂi.
-01-chr|mp3/0122-Chapter_2_2.6_2.6.2-000000000.mp3|Analì:sdâ:yv:hv́sga. Ù:nalsdayvhnvɂi.
-01-chr|mp3/0123-Chapter_2_2.6_2.6.3-000000000.mp3|Sdigo:lǐ:yéɂa. Sdigoliyeɂvɂi.
-01-chr|mp3/0124-Chapter_2_2.6_2.6.4-000000000.mp3|Go:lì:ga.
-01-chr|mp3/0125-Chapter_2_2.6_2.6.4-000001585.mp3|Ù:wohljv̌:ɂi
-01-chr|mp3/0126-Chapter_2_2.6_2.6.5-000000175.mp3|Hihno:héha. Jahno:hě:hlv́:ɂi.
-01-chr|mp3/0127-Chapter_2_2.6_2.6.6-000000000.mp3|Wahya Ù:yo:hlě:ɂi, À:dǐ:sgv̌ɂi.
-01-chr|mp3/0128-Chapter_2_2.6_2.6.7-000000135.mp3|Gadō u:sdi
-01-chr|mp3/0129-Chapter_2_2.6_2.6.7-000002205.mp3|jatv:gâ:ně:ɂi?
-01-chr|mp3/0130-Chapter_2_2.6_2.6.8-000000000.mp3|Ő:sda dú:nane:lǒ:hnv́,
-01-chr|mp3/0131-Chapter_2_2.6_2.6.8-000003475.mp3|jadǐ:sgv̌ɂi.
-01-chr|mp3/0132-Chapter_2_2.6_2.6.9-000000375.mp3|Gagáɂnaktiju wijě:dô:lě̌:ɂi?
-01-chr|mp3/0133-Chapter_2_2.6_2.6_This_morning_I_ate_a_lot-000000000.mp3|Kò:hí Saná:le̋, Ǔ:gò:di à:gwalsdâ:yv:hnv̌:ɂi.
+01-m-walc1|mp3/0056-Chapter_2_2.1_2.1.1-000000635.mp3|Na asgay gawó:niha.
+01-m-walc1|mp3/0057-Chapter_2_2.1_2.1.10-000000000.mp3|Wù:lv̌:kwdv́:ɂi kano:gi̋:sdi káno:gí:ɂa.
+01-m-walc1|mp3/0058-Chapter_2_2.1_2.1.2-000001355.mp3|À:nalì:sdâ:yv:hv́sga.
+01-m-walc1|mp3/0059-Chapter_2_2.1_2.1.3-000001195.mp3|Uwodujvɂi dekáno:gí:ɂa.
+01-m-walc1|mp3/0060-Chapter_2_2.1_2.1.4-000000345.mp3|Go:lì:ga
+01-m-walc1|mp3/0061-Chapter_2_2.1_2.1.5-000000225.mp3|U:nv̌:di gadì:tásga.
+01-m-walc1|mp3/0062-Chapter_2_2.1_2.1.6-000000865.mp3|Na asgaya sda̋:y gawó:niha.
+01-m-walc1|mp3/0065-Chapter_2_2.1_2.1.9-000000145.mp3|Ì:dada:dǒ:lî:sdiha.
+01-m-walc1|mp3/0066-Chapter_2_2.2_2.2.1-000000455.mp3|À:hnigíɂa
+01-m-walc1|mp3/0067-Chapter_2_2.2_2.2.1-000002355.mp3|a:hnigi
+01-m-walc1|mp3/0068-Chapter_2_2.2_2.2.2-000000715.mp3|Galì:sdâ:yv:hv́sga. Galisdà:yv:hv̀:ga.
+01-m-walc1|mp3/0070-Chapter_2_2.2_2.2.4-000000995.mp3|À:gihyóha. Agiyhgā.
+01-m-walc1|mp3/0071-Chapter_2_2.2_2.2.5-000000445.mp3|Hadì:tásga
+01-m-walc1|mp3/0072-Chapter_2_2.2_2.2.5-000002385.mp3|Hadǐ:tā
+01-m-walc1|mp3/0073-Chapter_2_2.3_2.3.1-000000575.mp3|De:higí:ɂa tiga!
+01-m-walc1|mp3/0074-Chapter_2_2.3_2.3.2-000000135.mp3|De:hino:gí:ɂa tihnó:gī!
+01-m-walc1|mp3/0075-Chapter_2_2.3_2.3.3-000000000.mp3|Ő:sda nide:hv́:neha.
+01-m-walc1|mp3/0076-Chapter_2_2.3_2.3.3-000002995.mp3|Ő:sda nitv́:gā!
+01-m-walc1|mp3/0077-Chapter_2_2.3_2.3.4-000000000.mp3|De:sdigo:lǐ:ya. Disdigo:lǐ:yā!
+01-m-walc1|mp3/0078-Chapter_2_2.3_2.3.5-000000000.mp3|De:higa
+01-m-walc1|mp3/0079-Chapter_2_2.3_2.3.5-000001915.mp3|Tiga
+01-m-walc1|mp3/0080-Chapter_2_2.3_2.3.6-000000000.mp3|De:hatv:dâ:sdiha. Tatv:dà:sdā!
+01-m-walc1|mp3/0081-Chapter_2_2.3_2.3.7-000000000.mp3|De:sdino:gí.
+01-m-walc1|mp3/0082-Chapter_2_2.3_2.3.7-000002095.mp3|Disdihnó:gī!
+01-m-walc1|mp3/0083-Chapter_2_2.3_2.3_Listen_Imperative-000000000.mp3|Hatv:dà:sdā. Ì:jatv:dà:sdā. Sdatv:dà:sdā.
+01-m-walc1|mp3/0084-Chapter_2_2.3_2.3_Listen_Present-000000000.mp3|Hatv:dâ:sdiha. Ì:jatv:dâ:sdiha. Sdatv:dâ:sdiha.
+01-m-walc1|mp3/0085-Chapter_2_2.3_2.3_Read_Imperative-000000000.mp3|Tigo:lǐ:yā. Dijigo:lǐ:yā. Disdigo:lǐ:yā.
+01-m-walc1|mp3/0086-Chapter_2_2.3_2.3_Read_Present-000000000.mp3|De:higo:lǐ:yéɂa. Dé:jigo:lǐ:yéɂa. De:sdigo:lǐ:yéɂa.
+01-m-walc1|mp3/0087-Chapter_2_2.3_2.3_Speak_Imperative-000000000.mp3|Hiwò:nǐ:hī. Ì:jiwò:nǐ:hī. Sdiwò:nǐ:hī.
+01-m-walc1|mp3/0088-Chapter_2_2.3_2.3_Speak_Present-000000000.mp3|Hiwó:niha. Ì:jiwó:niha. Sdiwó:niha.
+01-m-walc1|mp3/0089-Chapter_2_2.3_2.3_Write_Imperative-000000000.mp3|Hohwelvgā. Ì:johwelvgā. Sdohwelvgā.
+01-m-walc1|mp3/0090-Chapter_2_2.3_2.3_Write_Present-000000185.mp3|Hohweliɂa. Ì:johweli. Sdohweliɂa.
+01-m-walc1|mp3/0091-Chapter_2_2.4_2.4.1-000000000.mp3|Gawó:niha
+01-m-walc1|mp3/0092-Chapter_2_2.4_2.4.1-000001905.mp3|Gawó:ni:sgó:ɂi
+01-m-walc1|mp3/0093-Chapter_2_2.4_2.4.2-000000000.mp3|Gadè:lohgwáɂa
+01-m-walc1|mp3/0094-Chapter_2_2.4_2.4.2-000002455.mp3|Gadehlo:hgwâ:sgó:ɂi
+01-m-walc1|mp3/0095-Chapter_2_2.4_2.4.3-000000000.mp3|À:nigo:lǐ:yéɂa
+01-m-walc1|mp3/0096-Chapter_2_2.4_2.4.3-000002775.mp3|À:nigo:lǐ:yê:sgó:ɂi
+01-m-walc1|mp3/0097-Chapter_2_2.4_2.4.4-000000000.mp3|Ì:jadu:líha
+01-m-walc1|mp3/0098-Chapter_2_2.4_2.4.4-000002365.mp3|Ì:jadu:lǐ:sgóɂi
+01-m-walc1|mp3/0099-Chapter_2_2.4_2.4.5-000000000.mp3|Ò:sdv:hnisdíha.
+01-m-walc1|mp3/0100-Chapter_2_2.4_2.4.5-000002165.mp3|Ò:sdv:hnisdǐ:sgóɂi.
+01-m-walc1|mp3/0101-Chapter_2_2.5_2.5.1-000000000.mp3|Gawó:ni:sgó:ɂi
+01-m-walc1|mp3/0102-Chapter_2_2.5_2.5.1-000003445.mp3|Gawó:ni:sgesdi
+01-m-walc1|mp3/0103-Chapter_2_2.5_2.5.10-000000000.mp3|E:lí:si jitǎ:ga gv:jahlv́sgesdi, ale
+01-m-walc1|mp3/0104-Chapter_2_2.5_2.5.10-000005735.mp3|e:ji dahyahkě:tsgesdi nǔ:na.
+01-m-walc1|mp3/0105-Chapter_2_2.5_2.5.11-000000000.mp3|Ju:nadale:hnv̋:da digawasvgi
+01-m-walc1|mp3/0106-Chapter_2_2.5_2.5.11-000004145.mp3|dasu:yv́:sgesdi e:lí:si.
+01-m-walc1|mp3/0107-Chapter_2_2.5_2.5.12-000000000.mp3|Ganvdadî:sgesdi yà:gwadvnedii à:gwada:sdàyhdi.
+01-m-walc1|mp3/0108-Chapter_2_2.5_2.5.2-000000000.mp3|Gadelo:hgwâ:sgó:ɂi
+01-m-walc1|mp3/0109-Chapter_2_2.5_2.5.2-000002795.mp3|Gadelo:hgwâ:sgesdi
+01-m-walc1|mp3/0110-Chapter_2_2.5_2.5.3-000000000.mp3|À:nigo:lǐ:yê:sgó:ɂi
+01-m-walc1|mp3/0111-Chapter_2_2.5_2.5.3-000003065.mp3|À:nigo:lǐ:yê:sgesdi
+01-m-walc1|mp3/0112-Chapter_2_2.5_2.5.4-000000000.mp3|Ì:janhtó:ɂi
+01-m-walc1|mp3/0113-Chapter_2_2.5_2.5.4-000002245.mp3|Ì:janhté:sdi
+01-m-walc1|mp3/0114-Chapter_2_2.5_2.5.5-000000000.mp3|Ò:sdv:hnisdǐ:sgó.
+01-m-walc1|mp3/0115-Chapter_2_2.5_2.5.5-000002245.mp3|Ò:sdv:hnisdǐ:sgesdi.
+01-m-walc1|mp3/0116-Chapter_2_2.5_2.5.6-000000000.mp3|Kò:hi̋ sv:hiye̋:yi, ò:jada:sdâ:yv:hvsgesdi.
+01-m-walc1|mp3/0117-Chapter_2_2.5_2.5.7-000000000.mp3|Igv̌:yiɂhno, sv̀:gi ale unvgu:hǐ:sdí:sgi dejigv:halǐ:sgesdi.
+01-m-walc1|mp3/0118-Chapter_2_2.5_2.5.8-000000435.mp3|Ő:sda
+01-m-walc1|mp3/0119-Chapter_2_2.5_2.5.8-000002095.mp3|nigvnehesdi sugeda.
+01-m-walc1|mp3/0120-Chapter_2_2.5_2.5.9-000000000.mp3|Ugama ò:jadvnvɂisdisgesdi.
+01-m-walc1|mp3/0121-Chapter_2_2.6_2.6.1-000000000.mp3|Gawó:niha. Uwonisvɂi.
+01-m-walc1|mp3/0122-Chapter_2_2.6_2.6.2-000000000.mp3|Analì:sdâ:yv:hv́sga. Ù:nalsdayvhnvɂi.
+01-m-walc1|mp3/0123-Chapter_2_2.6_2.6.3-000000000.mp3|Sdigo:lǐ:yéɂa. Sdigoliyeɂvɂi.
+01-m-walc1|mp3/0124-Chapter_2_2.6_2.6.4-000000000.mp3|Go:lì:ga.
+01-m-walc1|mp3/0125-Chapter_2_2.6_2.6.4-000001585.mp3|Ù:wohljv̌:ɂi
+01-m-walc1|mp3/0126-Chapter_2_2.6_2.6.5-000000175.mp3|Hihno:héha. Jahno:hě:hlv́:ɂi.
+01-m-walc1|mp3/0127-Chapter_2_2.6_2.6.6-000000000.mp3|Wahya Ù:yo:hlě:ɂi, À:dǐ:sgv̌ɂi.
+01-m-walc1|mp3/0128-Chapter_2_2.6_2.6.7-000000135.mp3|Gadō u:sdi
+01-m-walc1|mp3/0129-Chapter_2_2.6_2.6.7-000002205.mp3|jatv:gâ:ně:ɂi?
+01-m-walc1|mp3/0130-Chapter_2_2.6_2.6.8-000000000.mp3|Ő:sda dú:nane:lǒ:hnv́,
+01-m-walc1|mp3/0131-Chapter_2_2.6_2.6.8-000003475.mp3|jadǐ:sgv̌ɂi.
+01-m-walc1|mp3/0132-Chapter_2_2.6_2.6.9-000000375.mp3|Gagáɂnaktiju wijě:dô:lě̌:ɂi?
+01-m-walc1|mp3/0133-Chapter_2_2.6_2.6_This_morning_I_ate_a_lot-000000000.mp3|Kò:hí Saná:le̋, Ǔ:gò:di à:gwalsdâ:yv:hnv̌:ɂi.
 03-f-walc1|mp3/0134-Chapter_3_3.1_3.1.1-000000000.mp3|Gadò hà:dǐ:sgó hiɂa?
 03-f-walc1|mp3/0137-Chapter_3_3.1_3.1.3-000000255.mp3|Sǐ:gwu jinihiwī.
 03-f-walc1|mp3/0138-Chapter_3_3.1_3.1.4-000000000.mp3|Gadò hada?
@@ -335,7 +335,7 @@
 02-m-walc1|mp3/0355-Chapter_4_4.5_4.5.7-000000000.mp3|Hisgi Jù:hnv́:si:yi̋
 02-m-walc1|mp3/0356-Chapter_4_4.5_4.5.8-000000000.mp3|Nokwsi
 02-m-walc1|mp3/0357-Chapter_4_4.5_4.5.9-000000165.mp3|Sǔ:dáli Jù:hnv́:si:yi̋
-01-chr|mp3/0358-Chapter_4_4.6_4.6.1-000000000.mp3|u:nadǒ:dágwohnv̋:ɂi
+01-m-walc1|mp3/0358-Chapter_4_4.6_4.6.1-000000000.mp3|u:nadǒ:dágwohnv̋:ɂi
 02-m-walc1|mp3/0359-Chapter_4_4.6_4.6.2-000000000.mp3|Taɂli:ne̋ i:ga
 02-m-walc1|mp3/0360-Chapter_4_4.6_4.6.3-000000000.mp3|Joɂi:ne̋ i:ga
 02-m-walc1|mp3/0361-Chapter_4_4.6_4.6.4-000000000.mp3|Nvhgi:ne̋ iɂga
@@ -373,148 +373,148 @@
 02-m-walc1|mp3/0394-Chapter_4_4.9_4.9.5-000002815.mp3|Ahyv:dladi:sgó:ɂi
 02-m-walc1|mp3/0395-Chapter_4_4.9_4.9.6-000000405.mp3|Jí:sgwa da:nino:gí:ɂa Kò:hi̋ Saná:le̋, Go:ge̋:yiɂdv Nigalsti:ha!
 02-m-walc1|mp3/0397-Chapter_4_4.9_4.9.8-000000000.mp3|Gadò tadv́:ne:li Kò:hi̋ Go:gi?
-01-chr|mp3/0398-Chapter_5_5.1_5.1.1-000000000.mp3|yv:wi
-01-chr|mp3/0399-Chapter_5_5.1_5.1.10-000000000.mp3|Ahljadő:hvsgi
-01-chr|mp3/0400-Chapter_5_5.1_5.1.11-000000000.mp3|À:lsgí:sgi
-01-chr|mp3/0401-Chapter_5_5.1_5.1.12-000000000.mp3|Di:da:hnv:wi̋:sgi
-01-chr|mp3/0402-Chapter_5_5.1_5.1.13-000000000.mp3|U:gv:wiyu:hi
-01-chr|mp3/0403-Chapter_5_5.1_5.1.14-000000000.mp3|Di:da:nǐ:yi̋:sgi
-01-chr|mp3/0404-Chapter_5_5.1_5.1.15-000000000.mp3|Áyosgi
-01-chr|mp3/0405-Chapter_5_5.1_5.1.16-000000135.mp3|Digo:hwě:lî:sgi
-01-chr|mp3/0406-Chapter_5_5.1_5.1.17-000000000.mp3|Adě:la À:ktǐ:ya
-01-chr|mp3/0407-Chapter_5_5.1_5.1.18-000000000.mp3|dinehldǐ:sgi̋:gi
-01-chr|mp3/0409-Chapter_5_5.1_5.1.2-000000000.mp3|Ani:yv:wi
-01-chr|mp3/0410-Chapter_5_5.1_5.1.20-000000000.mp3|Ju:lv̌:hwísdà:ne̋
-01-chr|mp3/0411-Chapter_5_5.1_5.1.21-000000000.mp3|Adě:la Ù:kse:sdi
-01-chr|mp3/0412-Chapter_5_5.1_5.1.22-000000135.mp3|Dikdladì:sgi
-01-chr|mp3/0413-Chapter_5_5.1_5.1.23-000000000.mp3|À:da:náɂnv̋
-01-chr|mp3/0416-Chapter_5_5.1_5.1.25-000000000.mp3|Agáɂnakti
-01-chr|mp3/0417-Chapter_5_5.1_5.1.25-000002185.mp3|Jigáɂnakti. À:nigáɂnakti.
-01-chr|mp3/0418-Chapter_5_5.1_5.1.25-000005495.mp3|Higáɂnakti
-01-chr|mp3/0419-Chapter_5_5.1_5.1.26-000000000.mp3|Ayv:wi
-01-chr|mp3/0420-Chapter_5_5.1_5.1.26-000001825.mp3|Jiyv:wi. Hiyv:wi. À:niyv:wi.
-01-chr|mp3/0421-Chapter_5_5.1_5.1.27-000000000.mp3|U:gv:wiyu:hi. À:gigv:wiyu:hi. Jagv:wiyu:hi. U:nigv:wiyu:hi.
-01-chr|mp3/0422-Chapter_5_5.1_5.1.3-000000000.mp3|Di:de:hyǒ:hvsgi
-01-chr|mp3/0423-Chapter_5_5.1_5.1.4-000000000.mp3|gáɂnakti
-01-chr|mp3/0424-Chapter_5_5.1_5.1.5-000000000.mp3|Ju:ni:dlv̀:gi̋ diktǐ:ya.
-01-chr|mp3/0425-Chapter_5_5.1_5.1.6-000000000.mp3|À:dv́:ne:lǐ:sgi
-01-chr|mp3/0426-Chapter_5_5.1_5.1.7-000000385.mp3|Dikáno:gí:sgi
-01-chr|mp3/0427-Chapter_5_5.1_5.1.8-000000000.mp3|Di:dě:hlo:gwà:sgi
-01-chr|mp3/0428-Chapter_5_5.1_5.1.9-000000000.mp3|Di:tiyǒ:hi
-01-chr|mp3/0429-Chapter_5_5.2_5.2.1-000000000.mp3|Sida:ně:lv̋
-01-chr|mp3/0430-Chapter_5_5.2_5.2.10-000000575.mp3|Jo:sdada:hnv̋:hli
-01-chr|mp3/0431-Chapter_5_5.2_5.2.11-000000000.mp3|Jo:sdada:lv̋:ɂi
-01-chr|mp3/0435-Chapter_5_5.2_5.2.15-000000355.mp3|Taɂline̋ è:ji
-01-chr|mp3/0436-Chapter_5_5.2_5.2.16-000000000.mp3|e:nǐ:si
-01-chr|mp3/0438-Chapter_5_5.2_5.2.3-000000455.mp3|E:do:da
-01-chr|mp3/0439-Chapter_5_5.2_5.2.4-000000000.mp3|è:ji
-01-chr|mp3/0440-Chapter_5_5.2_5.2.5-000000000.mp3|È:hlogi
-01-chr|mp3/0441-Chapter_5_5.2_5.2.6-000000295.mp3|È:du:ji
-01-chr|mp3/0442-Chapter_5_5.2_5.2.7-000000135.mp3|e:lí:si
-01-chr|mp3/0443-Chapter_5_5.2_5.2.8-000000000.mp3|È:dù:da
-01-chr|mp3/0448-Chapter_5_5.3_5.3.3-000000825.mp3|à:nijí:sgwa
-01-chr|mp3/0450-Chapter_5_5.3_5.3.5-000000145.mp3|à:niwahya
-01-chr|mp3/0455-Chapter_5_5.4_5.4.1-000000000.mp3|Dihnawò:sdi
-01-chr|mp3/0456-Chapter_5_5.4_5.4.10-000000235.mp3|Adà:dlǒ:sdi
-01-chr|mp3/0460-Chapter_5_5.4_5.4.14-000000000.mp3|Ani:sgaya ale Ani:gě:hya à:najanv:sga.
-01-chr|mp3/0462-Chapter_5_5.4_5.4.16-000000000.mp3|Gahljǒ:de Ù:yv:hlv̌:ɂi, Ù:lsgwé:tuhgí:sv̌:no.
-01-chr|mp3/0463-Chapter_5_5.4_5.4.17-000000000.mp3|Hadà:dlǒ:ga
-01-chr|mp3/0464-Chapter_5_5.4_5.4.18-000000145.mp3|Analà:sgali̋:sgi dù:nalsdu:lo
-01-chr|mp3/0466-Chapter_5_5.4_5.4.2-000000000.mp3|À:su:lo
-01-chr|mp3/0467-Chapter_5_5.4_5.4.3-000000235.mp3|dilà:sǔ:lo
-01-chr|mp3/0468-Chapter_5_5.4_5.4.4-000000575.mp3|Ahnawo
-01-chr|mp3/0469-Chapter_5_5.4_5.4.5-000000545.mp3|Di:lǐ:yo
-01-chr|mp3/0470-Chapter_5_5.4_5.4.6-000000000.mp3|Átihldi
-01-chr|mp3/0471-Chapter_5_5.4_5.4.7-000000595.mp3|Alsgwè:tuwo
-01-chr|mp3/0472-Chapter_5_5.4_5.4.8-000000215.mp3|Alsdu:lo
-01-chr|mp3/0473-Chapter_5_5.4_5.4.9-000000345.mp3|À:sano
-01-chr|mp3/0479-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000000000.mp3|De:gánì:wó:ɂa. Dehà:hnawó:ɂa.
-01-chr|mp3/0480-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000004045.mp3|Dà:hnawó:ɂa
-01-chr|mp3/0481-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000005935.mp3|Daná:hnawó:ɂa
-01-chr|mp3/0482-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000008405.mp3|Dedá:hnawó:ɂa
-01-chr|mp3/0483-Chapter_5_5.4_5.4_Put_on_Clothes_Remote_Past-000000000.mp3|Dagwahnawó:ɂv̌. Dejahnawó:ɂv̌. Duhnawó:ɂv̌. Dunahnawó:ɂv̌. Degahnawó:ɂv̌.
-01-chr|mp3/0484-Chapter_5_5.4_5.4_Put_on_Pants_Future-000000445.mp3|Dagasu:lâ:ni
-01-chr|mp3/0485-Chapter_5_5.4_5.4_Put_on_Pants_Future-000002725.mp3|Tasu:lâ:ni
-01-chr|mp3/0486-Chapter_5_5.4_5.4_Put_on_Pants_Future-000004655.mp3|Dvsu:lâ:ni
-01-chr|mp3/0489-Chapter_5_5.4_5.4_Put_on_Pants_Present-000000405.mp3|Gá:su:líɂa. Há:su:líɂa. Á:su:líɂa. Dà:ná:su:líɂa. Dejá:su:líɂa
-01-chr|mp3/0490-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000000000.mp3|Agwasu:lâ:nv̌:ɂi
-01-chr|mp3/0491-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000003405.mp3|Jasu:lâ:nv̌:ɂi
-01-chr|mp3/0492-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000005805.mp3|Ù:su:lâ:nv̌:ɂi
-01-chr|mp3/0493-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000008105.mp3|Dù:ná:su:lâ:nv̌:ɂi
-01-chr|mp3/0494-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000011015.mp3|De:gá:su:lâ:nv̌:ɂi
-01-chr|mp3/0495-Chapter_5_5.5_5.5.1-000000335.mp3|Kano:ge̋:ni
-01-chr|mp3/0496-Chapter_5_5.5_5.5.10-000000000.mp3|Gà:di:ge̋:ni
-01-chr|mp3/0497-Chapter_5_5.5_5.5.11-000000000.mp3|Kanige̋:ni
-01-chr|mp3/0498-Chapter_5_5.5_5.5.12-000000000.mp3|Askő:li
-01-chr|mp3/0499-Chapter_5_5.5_5.5.13-000000000.mp3|Di:kasge̋:ni
-01-chr|mp3/0500-Chapter_5_5.5_5.5.14-000000000.mp3|Ahyuge̋:ni
-01-chr|mp3/0501-Chapter_5_5.5_5.5.15-000000000.mp3|Ganv̀:sge̋:ni
-01-chr|mp3/0503-Chapter_5_5.5_5.5.17-000000000.mp3|Kanâ:saɂdv̋
-01-chr|mp3/0504-Chapter_5_5.5_5.5.18-000000000.mp3|Ahő:li
-01-chr|mp3/0505-Chapter_5_5.5_5.5.19-000000000.mp3|Akiyu:sge̋:ni
-01-chr|mp3/0506-Chapter_5_5.5_5.5.2-000000000.mp3|Dikano:ge̋:ni
-01-chr|mp3/0507-Chapter_5_5.5_5.5.20-000000000.mp3|Uwò:ye̋:ni
-01-chr|mp3/0508-Chapter_5_5.5_5.5.21-000000000.mp3|Aye:lv̋
-01-chr|mp3/0509-Chapter_5_5.5_5.5.22-000000000.mp3|Kano:ge̋:ni. Hino:ge̋:ni. Jino:ge̋:ni.
-01-chr|mp3/0510-Chapter_5_5.5_5.5.23-000000000.mp3|Uwò:ye̋:ni. Jò:ye̋:ni. Agwò:ye̋:ni.
-01-chr|mp3/0511-Chapter_5_5.5_5.5.24-000000000.mp3|Ù:katv̋. Jakatv̋. À:gwakatv̋.
-01-chr|mp3/0512-Chapter_5_5.5_5.5.25-000000000.mp3|Gaɂle̋:ni. Hiɂle̋:ni. Jiɂle̋:ni.
-01-chr|mp3/0513-Chapter_5_5.5_5.5.26-000000425.mp3|Kanige̋:n.
-01-chr|mp3/0514-Chapter_5_5.5_5.5.26-000002335.mp3|Hinige̋:n
-01-chr|mp3/0515-Chapter_5_5.5_5.5.26-000004245.mp3|Jinige̋:n
-01-chr|mp3/0516-Chapter_5_5.5_5.5.27-000000000.mp3|Ahő:l.
-01-chr|mp3/0517-Chapter_5_5.5_5.5.27-000001435.mp3|Hihő:l.
-01-chr|mp3/0518-Chapter_5_5.5_5.5.27-000002895.mp3|Jihő:l.
-01-chr|mp3/0519-Chapter_5_5.5_5.5.28-000000385.mp3|Juwò:ye̋:n. Dijò:ye̋:n. Digwò:ye̋:n.
-01-chr|mp3/0522-Chapter_5_5.5_5.5.3-000000165.mp3|Ga:sohi̋
-01-chr|mp3/0523-Chapter_5_5.5_5.5.30-000000475.mp3|Digaɂle̋:ni. Tiɂle̋:ni. Dijiɂle̋:ni.
-01-chr|mp3/0524-Chapter_5_5.5_5.5.31-000000775.mp3|Dikanige̋:ni. Tinige̋:ni. Dijinige̋:ni.
-01-chr|mp3/0525-Chapter_5_5.5_5.5.4-000000355.mp3|Gane:ji̋
-01-chr|mp3/0526-Chapter_5_5.5_5.5.5-000000000.mp3|Gaɂle̋:ni
-01-chr|mp3/0527-Chapter_5_5.5_5.5.6-000000000.mp3|Ù:katv̋
-01-chr|mp3/0528-Chapter_5_5.5_5.5.7-000000000.mp3|Gá:ye:saɂdv̋
-01-chr|mp3/0529-Chapter_5_5.5_5.5.8-000000000.mp3|U:là:shde̋:ni
-01-chr|mp3/0530-Chapter_5_5.5_5.5.9-000000000.mp3|Agv:dage̋:ni
-01-chr|mp3/0532-Chapter_5_5.6_5.6.10-000000275.mp3|U:hyv:dla à:giní:yvha
-01-chr|mp3/0539-Chapter_5_5.6_5.6.3-000000665.mp3|À:ksihwásga
-01-chr|mp3/0540-Chapter_5_5.6_5.6.4-000000000.mp3|Ù:sihwásga
-01-chr|mp3/0541-Chapter_5_5.6_5.6.5-000000575.mp3|Ù:di:hléhv́sga
-01-chr|mp3/0542-Chapter_5_5.6_5.6.6-000000000.mp3|U:hyv:dla ù:ní:yvha
-01-chr|mp3/0546-Chapter_5_5.7_5.7.1-000000000.mp3|Gadò:gwu?
-01-chr|mp3/0547-Chapter_5_5.7_5.7.10-000000285.mp3|Na asgaya, Agě:hya Ù:dîwsga.
-01-chr|mp3/0549-Chapter_5_5.7_5.7.12-000000455.mp3|Ha:dlv je:sdâ:neha?
-01-chr|mp3/0550-Chapter_5_5.7_5.7.13-000000835.mp3|à:ksgwo:hli̋ à:gwe:hisdâ:neha
-01-chr|mp3/0551-Chapter_5_5.7_5.7.14-000000000.mp3|Agáɂnaktiju À:yáa?
-01-chr|mp3/0553-Chapter_5_5.7_5.7.16-000000000.mp3|Na asgaya
-01-chr|mp3/0555-Chapter_5_5.7_5.7.17-000000000.mp3|Ago:lǐ:yéɂa
-01-chr|mp3/0557-Chapter_5_5.7_5.7.19-000000605.mp3|Ù:dlv́:gv̌:ɂi
-01-chr|mp3/0561-Chapter_5_5.7_5.7.4-000000000.mp3|gáɂnaktiɂju wijě:dô:lv̌:ɂi?
-01-chr|mp3/0562-Chapter_5_5.7_5.7.5-000000285.mp3|Gadō u:sd ada gáɂnakti?
-01-chr|mp3/0563-Chapter_5_5.7_5.7.6-000000000.mp3|Jiskő:l agwesdâ:hneha
-01-chr|mp3/0566-Chapter_5_5.7_5.7.9-000000135.mp3|Ju:ni:dlv̀:gi̋ U:niyv:sdi
-01-chr|mp3/0567-Chapter_5_5.8_5.8.1-000000475.mp3|Gadō u:sdi̋ jadanhta?
-01-chr|mp3/0568-Chapter_5_5.8_5.8.10-000000000.mp3|Ù:hi:sóhd à:gwadanhta
-01-chr|mp3/0569-Chapter_5_5.8_5.8.11-000000000.mp3|O:síjuke jadanhta?
-01-chr|mp3/0570-Chapter_5_5.8_5.8.12-000000000.mp3|U:yő à:gwadanhta
-01-chr|mp3/0574-Chapter_5_5.8_5.8.16-000000000.mp3|Ujò:séhdi à:gwadanhta
-01-chr|mp3/0577-Chapter_5_5.8_5.8.19-000000000.mp3|Dà:gwadalé:cheha
-01-chr|mp3/0578-Chapter_5_5.8_5.8.2-000000000.mp3|Tò:hi̋:ju?
-01-chr|mp3/0579-Chapter_5_5.8_5.8.3-000000000.mp3|Galiɂě:lî:ga
-01-chr|mp3/0580-Chapter_5_5.8_5.8.4-000000000.mp3|À:kinǎ:lv́hi
-01-chr|mp3/0581-Chapter_5_5.8_5.8.5-000000000.mp3|À:kinǎ:lv́ga
-01-chr|mp3/0582-Chapter_5_5.8_5.8.6-000000000.mp3|Ő:sda à:gwadanhta.
-01-chr|mp3/0583-Chapter_5_5.8_5.8.7-000000000.mp3|Jì:sgâ:ha
-01-chr|mp3/0586-Chapter_5_5.9_5.9.1-000000000.mp3|À:tv̋:gô:di
-01-chr|mp3/0587-Chapter_5_5.9_5.9.10-000000455.mp3|Ju:hnjő:sdi Agì:sdi
-01-chr|mp3/0590-Chapter_5_5.9_5.9.13-000000305.mp3|Wahaya Nigawè:sgv̋
-01-chr|mp3/0593-Chapter_5_5.9_5.9.15-000000000.mp3|Go:hű:sdi Ő:sda À:sv̂:ga.
-01-chr|mp3/0594-Chapter_5_5.9_5.9.16-000000000.mp3|Ha:dlv Hi:gò:wahtí?
-01-chr|mp3/0595-Chapter_5_5.9_5.9.17-000000000.mp3|Anő:sda Anisv̀:gi
-01-chr|mp3/0596-Chapter_5_5.9_5.9.17-000003005.mp3|ù:ni:ji:lv̋:sgi
-01-chr|mp3/0597-Chapter_5_5.9_5.9.2-000000000.mp3|À:gowahtv́hdi
-01-chr|mp3/0601-Chapter_5_5.9_5.9.6-000000000.mp3|Gadō usd jago:hé:ɂi?
-01-chr|mp3/0602-Chapter_5_5.9_5.9.7-000000000.mp3|hatv:gv̀:gaju?
-01-chr|mp3/0604-Chapter_5_5.9_5.9.9-000000000.mp3|Go:hű:sdiju?
+01-m-walc1|mp3/0398-Chapter_5_5.1_5.1.1-000000000.mp3|yv:wi
+01-m-walc1|mp3/0399-Chapter_5_5.1_5.1.10-000000000.mp3|Ahljadő:hvsgi
+01-m-walc1|mp3/0400-Chapter_5_5.1_5.1.11-000000000.mp3|À:lsgí:sgi
+01-m-walc1|mp3/0401-Chapter_5_5.1_5.1.12-000000000.mp3|Di:da:hnv:wi̋:sgi
+01-m-walc1|mp3/0402-Chapter_5_5.1_5.1.13-000000000.mp3|U:gv:wiyu:hi
+01-m-walc1|mp3/0403-Chapter_5_5.1_5.1.14-000000000.mp3|Di:da:nǐ:yi̋:sgi
+01-m-walc1|mp3/0404-Chapter_5_5.1_5.1.15-000000000.mp3|Áyosgi
+01-m-walc1|mp3/0405-Chapter_5_5.1_5.1.16-000000135.mp3|Digo:hwě:lî:sgi
+01-m-walc1|mp3/0406-Chapter_5_5.1_5.1.17-000000000.mp3|Adě:la À:ktǐ:ya
+01-m-walc1|mp3/0407-Chapter_5_5.1_5.1.18-000000000.mp3|dinehldǐ:sgi̋:gi
+01-m-walc1|mp3/0409-Chapter_5_5.1_5.1.2-000000000.mp3|Ani:yv:wi
+01-m-walc1|mp3/0410-Chapter_5_5.1_5.1.20-000000000.mp3|Ju:lv̌:hwísdà:ne̋
+01-m-walc1|mp3/0411-Chapter_5_5.1_5.1.21-000000000.mp3|Adě:la Ù:kse:sdi
+01-m-walc1|mp3/0412-Chapter_5_5.1_5.1.22-000000135.mp3|Dikdladì:sgi
+01-m-walc1|mp3/0413-Chapter_5_5.1_5.1.23-000000000.mp3|À:da:náɂnv̋
+01-m-walc1|mp3/0416-Chapter_5_5.1_5.1.25-000000000.mp3|Agáɂnakti
+01-m-walc1|mp3/0417-Chapter_5_5.1_5.1.25-000002185.mp3|Jigáɂnakti. À:nigáɂnakti.
+01-m-walc1|mp3/0418-Chapter_5_5.1_5.1.25-000005495.mp3|Higáɂnakti
+01-m-walc1|mp3/0419-Chapter_5_5.1_5.1.26-000000000.mp3|Ayv:wi
+01-m-walc1|mp3/0420-Chapter_5_5.1_5.1.26-000001825.mp3|Jiyv:wi. Hiyv:wi. À:niyv:wi.
+01-m-walc1|mp3/0421-Chapter_5_5.1_5.1.27-000000000.mp3|U:gv:wiyu:hi. À:gigv:wiyu:hi. Jagv:wiyu:hi. U:nigv:wiyu:hi.
+01-m-walc1|mp3/0422-Chapter_5_5.1_5.1.3-000000000.mp3|Di:de:hyǒ:hvsgi
+01-m-walc1|mp3/0423-Chapter_5_5.1_5.1.4-000000000.mp3|gáɂnakti
+01-m-walc1|mp3/0424-Chapter_5_5.1_5.1.5-000000000.mp3|Ju:ni:dlv̀:gi̋ diktǐ:ya.
+01-m-walc1|mp3/0425-Chapter_5_5.1_5.1.6-000000000.mp3|À:dv́:ne:lǐ:sgi
+01-m-walc1|mp3/0426-Chapter_5_5.1_5.1.7-000000385.mp3|Dikáno:gí:sgi
+01-m-walc1|mp3/0427-Chapter_5_5.1_5.1.8-000000000.mp3|Di:dě:hlo:gwà:sgi
+01-m-walc1|mp3/0428-Chapter_5_5.1_5.1.9-000000000.mp3|Di:tiyǒ:hi
+01-m-walc1|mp3/0429-Chapter_5_5.2_5.2.1-000000000.mp3|Sida:ně:lv̋
+01-m-walc1|mp3/0430-Chapter_5_5.2_5.2.10-000000575.mp3|Jo:sdada:hnv̋:hli
+01-m-walc1|mp3/0431-Chapter_5_5.2_5.2.11-000000000.mp3|Jo:sdada:lv̋:ɂi
+01-m-walc1|mp3/0435-Chapter_5_5.2_5.2.15-000000355.mp3|Taɂline̋ è:ji
+01-m-walc1|mp3/0436-Chapter_5_5.2_5.2.16-000000000.mp3|e:nǐ:si
+01-m-walc1|mp3/0438-Chapter_5_5.2_5.2.3-000000455.mp3|E:do:da
+01-m-walc1|mp3/0439-Chapter_5_5.2_5.2.4-000000000.mp3|è:ji
+01-m-walc1|mp3/0440-Chapter_5_5.2_5.2.5-000000000.mp3|È:hlogi
+01-m-walc1|mp3/0441-Chapter_5_5.2_5.2.6-000000295.mp3|È:du:ji
+01-m-walc1|mp3/0442-Chapter_5_5.2_5.2.7-000000135.mp3|e:lí:si
+01-m-walc1|mp3/0443-Chapter_5_5.2_5.2.8-000000000.mp3|È:dù:da
+01-m-walc1|mp3/0448-Chapter_5_5.3_5.3.3-000000825.mp3|à:nijí:sgwa
+01-m-walc1|mp3/0450-Chapter_5_5.3_5.3.5-000000145.mp3|à:niwahya
+01-m-walc1|mp3/0455-Chapter_5_5.4_5.4.1-000000000.mp3|Dihnawò:sdi
+01-m-walc1|mp3/0456-Chapter_5_5.4_5.4.10-000000235.mp3|Adà:dlǒ:sdi
+01-m-walc1|mp3/0460-Chapter_5_5.4_5.4.14-000000000.mp3|Ani:sgaya ale Ani:gě:hya à:najanv:sga.
+01-m-walc1|mp3/0462-Chapter_5_5.4_5.4.16-000000000.mp3|Gahljǒ:de Ù:yv:hlv̌:ɂi, Ù:lsgwé:tuhgí:sv̌:no.
+01-m-walc1|mp3/0463-Chapter_5_5.4_5.4.17-000000000.mp3|Hadà:dlǒ:ga
+01-m-walc1|mp3/0464-Chapter_5_5.4_5.4.18-000000145.mp3|Analà:sgali̋:sgi dù:nalsdu:lo
+01-m-walc1|mp3/0466-Chapter_5_5.4_5.4.2-000000000.mp3|À:su:lo
+01-m-walc1|mp3/0467-Chapter_5_5.4_5.4.3-000000235.mp3|dilà:sǔ:lo
+01-m-walc1|mp3/0468-Chapter_5_5.4_5.4.4-000000575.mp3|Ahnawo
+01-m-walc1|mp3/0469-Chapter_5_5.4_5.4.5-000000545.mp3|Di:lǐ:yo
+01-m-walc1|mp3/0470-Chapter_5_5.4_5.4.6-000000000.mp3|Átihldi
+01-m-walc1|mp3/0471-Chapter_5_5.4_5.4.7-000000595.mp3|Alsgwè:tuwo
+01-m-walc1|mp3/0472-Chapter_5_5.4_5.4.8-000000215.mp3|Alsdu:lo
+01-m-walc1|mp3/0473-Chapter_5_5.4_5.4.9-000000345.mp3|À:sano
+01-m-walc1|mp3/0479-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000000000.mp3|De:gánì:wó:ɂa. Dehà:hnawó:ɂa.
+01-m-walc1|mp3/0480-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000004045.mp3|Dà:hnawó:ɂa
+01-m-walc1|mp3/0481-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000005935.mp3|Daná:hnawó:ɂa
+01-m-walc1|mp3/0482-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000008405.mp3|Dedá:hnawó:ɂa
+01-m-walc1|mp3/0483-Chapter_5_5.4_5.4_Put_on_Clothes_Remote_Past-000000000.mp3|Dagwahnawó:ɂv̌. Dejahnawó:ɂv̌. Duhnawó:ɂv̌. Dunahnawó:ɂv̌. Degahnawó:ɂv̌.
+01-m-walc1|mp3/0484-Chapter_5_5.4_5.4_Put_on_Pants_Future-000000445.mp3|Dagasu:lâ:ni
+01-m-walc1|mp3/0485-Chapter_5_5.4_5.4_Put_on_Pants_Future-000002725.mp3|Tasu:lâ:ni
+01-m-walc1|mp3/0486-Chapter_5_5.4_5.4_Put_on_Pants_Future-000004655.mp3|Dvsu:lâ:ni
+01-m-walc1|mp3/0489-Chapter_5_5.4_5.4_Put_on_Pants_Present-000000405.mp3|Gá:su:líɂa. Há:su:líɂa. Á:su:líɂa. Dà:ná:su:líɂa. Dejá:su:líɂa
+01-m-walc1|mp3/0490-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000000000.mp3|Agwasu:lâ:nv̌:ɂi
+01-m-walc1|mp3/0491-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000003405.mp3|Jasu:lâ:nv̌:ɂi
+01-m-walc1|mp3/0492-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000005805.mp3|Ù:su:lâ:nv̌:ɂi
+01-m-walc1|mp3/0493-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000008105.mp3|Dù:ná:su:lâ:nv̌:ɂi
+01-m-walc1|mp3/0494-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000011015.mp3|De:gá:su:lâ:nv̌:ɂi
+01-m-walc1|mp3/0495-Chapter_5_5.5_5.5.1-000000335.mp3|Kano:ge̋:ni
+01-m-walc1|mp3/0496-Chapter_5_5.5_5.5.10-000000000.mp3|Gà:di:ge̋:ni
+01-m-walc1|mp3/0497-Chapter_5_5.5_5.5.11-000000000.mp3|Kanige̋:ni
+01-m-walc1|mp3/0498-Chapter_5_5.5_5.5.12-000000000.mp3|Askő:li
+01-m-walc1|mp3/0499-Chapter_5_5.5_5.5.13-000000000.mp3|Di:kasge̋:ni
+01-m-walc1|mp3/0500-Chapter_5_5.5_5.5.14-000000000.mp3|Ahyuge̋:ni
+01-m-walc1|mp3/0501-Chapter_5_5.5_5.5.15-000000000.mp3|Ganv̀:sge̋:ni
+01-m-walc1|mp3/0503-Chapter_5_5.5_5.5.17-000000000.mp3|Kanâ:saɂdv̋
+01-m-walc1|mp3/0504-Chapter_5_5.5_5.5.18-000000000.mp3|Ahő:li
+01-m-walc1|mp3/0505-Chapter_5_5.5_5.5.19-000000000.mp3|Akiyu:sge̋:ni
+01-m-walc1|mp3/0506-Chapter_5_5.5_5.5.2-000000000.mp3|Dikano:ge̋:ni
+01-m-walc1|mp3/0507-Chapter_5_5.5_5.5.20-000000000.mp3|Uwò:ye̋:ni
+01-m-walc1|mp3/0508-Chapter_5_5.5_5.5.21-000000000.mp3|Aye:lv̋
+01-m-walc1|mp3/0509-Chapter_5_5.5_5.5.22-000000000.mp3|Kano:ge̋:ni. Hino:ge̋:ni. Jino:ge̋:ni.
+01-m-walc1|mp3/0510-Chapter_5_5.5_5.5.23-000000000.mp3|Uwò:ye̋:ni. Jò:ye̋:ni. Agwò:ye̋:ni.
+01-m-walc1|mp3/0511-Chapter_5_5.5_5.5.24-000000000.mp3|Ù:katv̋. Jakatv̋. À:gwakatv̋.
+01-m-walc1|mp3/0512-Chapter_5_5.5_5.5.25-000000000.mp3|Gaɂle̋:ni. Hiɂle̋:ni. Jiɂle̋:ni.
+01-m-walc1|mp3/0513-Chapter_5_5.5_5.5.26-000000425.mp3|Kanige̋:n.
+01-m-walc1|mp3/0514-Chapter_5_5.5_5.5.26-000002335.mp3|Hinige̋:n
+01-m-walc1|mp3/0515-Chapter_5_5.5_5.5.26-000004245.mp3|Jinige̋:n
+01-m-walc1|mp3/0516-Chapter_5_5.5_5.5.27-000000000.mp3|Ahő:l.
+01-m-walc1|mp3/0517-Chapter_5_5.5_5.5.27-000001435.mp3|Hihő:l.
+01-m-walc1|mp3/0518-Chapter_5_5.5_5.5.27-000002895.mp3|Jihő:l.
+01-m-walc1|mp3/0519-Chapter_5_5.5_5.5.28-000000385.mp3|Juwò:ye̋:n. Dijò:ye̋:n. Digwò:ye̋:n.
+01-m-walc1|mp3/0522-Chapter_5_5.5_5.5.3-000000165.mp3|Ga:sohi̋
+01-m-walc1|mp3/0523-Chapter_5_5.5_5.5.30-000000475.mp3|Digaɂle̋:ni. Tiɂle̋:ni. Dijiɂle̋:ni.
+01-m-walc1|mp3/0524-Chapter_5_5.5_5.5.31-000000775.mp3|Dikanige̋:ni. Tinige̋:ni. Dijinige̋:ni.
+01-m-walc1|mp3/0525-Chapter_5_5.5_5.5.4-000000355.mp3|Gane:ji̋
+01-m-walc1|mp3/0526-Chapter_5_5.5_5.5.5-000000000.mp3|Gaɂle̋:ni
+01-m-walc1|mp3/0527-Chapter_5_5.5_5.5.6-000000000.mp3|Ù:katv̋
+01-m-walc1|mp3/0528-Chapter_5_5.5_5.5.7-000000000.mp3|Gá:ye:saɂdv̋
+01-m-walc1|mp3/0529-Chapter_5_5.5_5.5.8-000000000.mp3|U:là:shde̋:ni
+01-m-walc1|mp3/0530-Chapter_5_5.5_5.5.9-000000000.mp3|Agv:dage̋:ni
+01-m-walc1|mp3/0532-Chapter_5_5.6_5.6.10-000000275.mp3|U:hyv:dla à:giní:yvha
+01-m-walc1|mp3/0539-Chapter_5_5.6_5.6.3-000000665.mp3|À:ksihwásga
+01-m-walc1|mp3/0540-Chapter_5_5.6_5.6.4-000000000.mp3|Ù:sihwásga
+01-m-walc1|mp3/0541-Chapter_5_5.6_5.6.5-000000575.mp3|Ù:di:hléhv́sga
+01-m-walc1|mp3/0542-Chapter_5_5.6_5.6.6-000000000.mp3|U:hyv:dla ù:ní:yvha
+01-m-walc1|mp3/0546-Chapter_5_5.7_5.7.1-000000000.mp3|Gadò:gwu?
+01-m-walc1|mp3/0547-Chapter_5_5.7_5.7.10-000000285.mp3|Na asgaya, Agě:hya Ù:dîwsga.
+01-m-walc1|mp3/0549-Chapter_5_5.7_5.7.12-000000455.mp3|Ha:dlv je:sdâ:neha?
+01-m-walc1|mp3/0550-Chapter_5_5.7_5.7.13-000000835.mp3|à:ksgwo:hli̋ à:gwe:hisdâ:neha
+01-m-walc1|mp3/0551-Chapter_5_5.7_5.7.14-000000000.mp3|Agáɂnaktiju À:yáa?
+01-m-walc1|mp3/0553-Chapter_5_5.7_5.7.16-000000000.mp3|Na asgaya
+01-m-walc1|mp3/0555-Chapter_5_5.7_5.7.17-000000000.mp3|Ago:lǐ:yéɂa
+01-m-walc1|mp3/0557-Chapter_5_5.7_5.7.19-000000605.mp3|Ù:dlv́:gv̌:ɂi
+01-m-walc1|mp3/0561-Chapter_5_5.7_5.7.4-000000000.mp3|gáɂnaktiɂju wijě:dô:lv̌:ɂi?
+01-m-walc1|mp3/0562-Chapter_5_5.7_5.7.5-000000285.mp3|Gadō u:sd ada gáɂnakti?
+01-m-walc1|mp3/0563-Chapter_5_5.7_5.7.6-000000000.mp3|Jiskő:l agwesdâ:hneha
+01-m-walc1|mp3/0566-Chapter_5_5.7_5.7.9-000000135.mp3|Ju:ni:dlv̀:gi̋ U:niyv:sdi
+01-m-walc1|mp3/0567-Chapter_5_5.8_5.8.1-000000475.mp3|Gadō u:sdi̋ jadanhta?
+01-m-walc1|mp3/0568-Chapter_5_5.8_5.8.10-000000000.mp3|Ù:hi:sóhd à:gwadanhta
+01-m-walc1|mp3/0569-Chapter_5_5.8_5.8.11-000000000.mp3|O:síjuke jadanhta?
+01-m-walc1|mp3/0570-Chapter_5_5.8_5.8.12-000000000.mp3|U:yő à:gwadanhta
+01-m-walc1|mp3/0574-Chapter_5_5.8_5.8.16-000000000.mp3|Ujò:séhdi à:gwadanhta
+01-m-walc1|mp3/0577-Chapter_5_5.8_5.8.19-000000000.mp3|Dà:gwadalé:cheha
+01-m-walc1|mp3/0578-Chapter_5_5.8_5.8.2-000000000.mp3|Tò:hi̋:ju?
+01-m-walc1|mp3/0579-Chapter_5_5.8_5.8.3-000000000.mp3|Galiɂě:lî:ga
+01-m-walc1|mp3/0580-Chapter_5_5.8_5.8.4-000000000.mp3|À:kinǎ:lv́hi
+01-m-walc1|mp3/0581-Chapter_5_5.8_5.8.5-000000000.mp3|À:kinǎ:lv́ga
+01-m-walc1|mp3/0582-Chapter_5_5.8_5.8.6-000000000.mp3|Ő:sda à:gwadanhta.
+01-m-walc1|mp3/0583-Chapter_5_5.8_5.8.7-000000000.mp3|Jì:sgâ:ha
+01-m-walc1|mp3/0586-Chapter_5_5.9_5.9.1-000000000.mp3|À:tv̋:gô:di
+01-m-walc1|mp3/0587-Chapter_5_5.9_5.9.10-000000455.mp3|Ju:hnjő:sdi Agì:sdi
+01-m-walc1|mp3/0590-Chapter_5_5.9_5.9.13-000000305.mp3|Wahaya Nigawè:sgv̋
+01-m-walc1|mp3/0593-Chapter_5_5.9_5.9.15-000000000.mp3|Go:hű:sdi Ő:sda À:sv̂:ga.
+01-m-walc1|mp3/0594-Chapter_5_5.9_5.9.16-000000000.mp3|Ha:dlv Hi:gò:wahtí?
+01-m-walc1|mp3/0595-Chapter_5_5.9_5.9.17-000000000.mp3|Anő:sda Anisv̀:gi
+01-m-walc1|mp3/0596-Chapter_5_5.9_5.9.17-000003005.mp3|ù:ni:ji:lv̋:sgi
+01-m-walc1|mp3/0597-Chapter_5_5.9_5.9.2-000000000.mp3|À:gowahtv́hdi
+01-m-walc1|mp3/0601-Chapter_5_5.9_5.9.6-000000000.mp3|Gadō usd jago:hé:ɂi?
+01-m-walc1|mp3/0602-Chapter_5_5.9_5.9.7-000000000.mp3|hatv:gv̀:gaju?
+01-m-walc1|mp3/0604-Chapter_5_5.9_5.9.9-000000000.mp3|Go:hű:sdiju?
 04-f-walc1|mp3/0606-Chapter_6_6.1_6.1.1-000000000.mp3|Uwo:dű:hi
 04-f-walc1|mp3/0607-Chapter_6_6.1_6.1.10-000000345.mp3|Uɂné:gihldi
 04-f-walc1|mp3/0608-Chapter_6_6.1_6.1.11-000000000.mp3|Asama̋:di
@@ -548,3 +548,22 @@
 04-f-walc1|mp3/0642-Chapter_6_6.2_6.2.6-000000145.mp3|Sakǒ:níge̋:ɂi
 04-f-walc1|mp3/0643-Chapter_6_6.2_6.2.7-000000000.mp3|Gǐ:gáge̋ ù:sgǒ:lv̋
 04-f-walc1|mp3/0645-Chapter_6_6.2_6.2.9-000000335.mp3|ijé:ɂiyű:sdi
+04-f-walc1|mp3/0648-Chapter_6_6.3_6.3.11-000000645.mp3|Uwo:dűjv Agě:hya.
+04-f-walc1|mp3/0649-Chapter_6_6.3_6.3.11-000003405.mp3|Ju:no:dűjv Ani:gě:hya.
+04-f-walc1|mp3/0650-Chapter_6_6.3_6.3.12-000000000.mp3|Ǔ:tana Yǒ:na Á:ɂi.
+04-f-walc1|mp3/0651-Chapter_6_6.3_6.3.12-000003485.mp3|Jǔ:ntana Yǒ:na à:na:ɂi.
+04-f-walc1|mp3/0670-Chapter_6_6.3_6.3.9-000000000.mp3|Ő:sda
+04-f-walc1|mp3/0673-Chapter_6_6.4_6.4.1-000000000.mp3|Gv̋:hdi
+04-f-walc1|mp3/0674-Chapter_6_6.4_6.4.10-000000000.mp3|Gahljǒ:de udlidí:dla Gadô:ga.
+04-f-walc1|mp3/0675-Chapter_6_6.4_6.4.11-000000000.mp3|Na Wě:sa Ga:sgilo Hawí:nidí:dla E:dó:ha.
+04-f-walc1|mp3/0676-Chapter_6_6.4_6.4.12-000000000.mp3|Ò:dalv̋:ɂi
+04-f-walc1|mp3/0677-Chapter_6_6.4_6.4.12-000001775.mp3|Galv̌:ládi:dla
+04-f-walc1|mp3/0679-Chapter_6_6.4_6.4.13-000000000.mp3|Ju:ni:là:wisdi
+04-f-walc1|mp3/0680-Chapter_6_6.4_6.4.13-000002255.mp3|Igv:yi̋ dí:dla dà:nidô:ga.
+04-f-walc1|mp3/0681-Chapter_6_6.4_6.4.2-000000000.mp3|Na asgaya, Agě:hya
+04-f-walc1|mp3/0682-Chapter_6_6.4_6.4.2-000002815.mp3|Gv:no:sásdi Gv̋:hdi
+04-f-walc1|mp3/0683-Chapter_6_6.4_6.4.2-000005465.mp3|Gv:no:sasgó
+04-f-walc1|mp3/0684-Chapter_6_6.4_6.4.2-000007775.mp3|ahyahtě:no.
+04-f-walc1|mp3/0685-Chapter_6_6.4_6.4.3-000000000.mp3|Na asgaya, Agě:hya
+04-f-walc1|mp3/0686-Chapter_6_6.4_6.4.3-000003155.mp3|ganv:gwalő:sdi Gv̋:hdi Gv:hníha.
+04-f-walc1|mp3/0687-Chapter_6_6.4_6.4.4-000000000.mp3|Idí:dla
