@@ -544,23 +544,23 @@ x Agihyukwadiɂa
 x Agilotiha
 x Dagihyvsduha
 Gadò:gwu?
-Na asgaya, agehya Ù:dîwsga.
-x Janvjeɂiju?
+Na asgaya, Agě:hya Ù:dîwsga.
+x Janv́:jv̌:ɂiju?
 Ha:dlv je:sdâ:neha?
-
-Akisgwotli agwehisdaneha.
-Aganaktiju ayaɂa?
-Aksgwohananeɂa.
+à:ksgwo:hli̋ à:gwe:hisdâ:neha
+Agáɂnaktiju À:yáa?
+x Aksgwohananeɂa.
 Na asgaya
-agehya uhodvjeɂi.
+x Agě:hya uhodvjeɂi.
 Ago:lǐ:yéɂa
-Junidlvgi diktiya
-Udlvgvɂi
-x Aginvjvɂi
-Kanvwodi
-Jehisdanelidoɂaju?
-Ganaktiɂju wijedolvɂi?
-Gadō u:sdi ada aganakti?
+x Ju:ni:dlv̀:gi̋ diktǐ:ya
+Ù:dlv́:gv̌:ɂi
+x à:ginv́:jv̌:ɂi
+x Kanvwodi
+x Jehisdanelǐ:dô:ɂaju?
+gáɂnaktiɂju wijě:dô:lv̌:ɂi?
+Gadō u:sd ada Agáɂnakti?
+
 Jiskol agwesdaneha.
 Agitsgilawvgi.
 Aganagati
@@ -645,7 +645,7 @@ Advhalige
 Ije iyusdi
 x Uwoduhi. Junoduhi. BLECK FULL OF ENGLISH.
 x Ő:sda svgata                    —>            AnŐ:sda svgata
-Uwodujv agehya. Junodujv Ani:gě:hya.
+Uwodujv Agě:hya. Junodujv Ani:gě:hya.
 Utana yona aɂi.
 Juntana yona anaɂi.
 x Uhyvdli                    —>                   Juhyvdli
@@ -656,7 +656,7 @@ x Gvhnage degahldi            —>
 x Digvhnage degahldi
 x go:hwe:li                    —>                   Digo:hwe:li
 x Unega go:hwe:li                —>                 Junega digo:hwe:li
-x Agehya uwoduhi.                  —>            Ani:gě:hya junoduhi
+x Agě:hya uwoduhi.                  —>            Ani:gě:hya junoduhi
 x Ijeɂi                            —>            Anijeɂi
 x Ijeɂiyusdi ugata                 —>            Anijeɂiyusdi unigata
 x Unega                            —>            Uninega
@@ -673,13 +673,13 @@ Odalvɂi galvladidla
 aninohilidoha.
 Junilawisdi
 igvyididla danidoga.
-Na asgaya, agehya gvnosasdi Gv̋:hdi
+Na asgaya, Agě:hya gvnosasdi Gv̋:hdi
 gvnosasgo
 ahyateno.
-Na asgaya, agehya
+Na asgaya, Agě:hya
 ganvgwalosdi Gv̋:hdi gvhniha.
 Ididla
-Na agehya ale aya dijododi julewisdodiɂi didla wosdaɂi.
+Na Agě:hya ale aya dijododi julewisdodiɂi didla wosdaɂi.
 Amegwo ididla anega.
 Naɂvɂi
 Vdali naɂvɂi dunotlv.
@@ -693,9 +693,9 @@ Asesgini
 -hno
 Nidigalisdodi. -hehno.
 Vsgihnv iyusdi
-Asgaya ale agehya aniwó:niha.
+Asgaya ale Agě:hya aniwó:niha.
 Uwenvsdi ù:du:líha A:sé:hno agasga.
-Sà:gwű asgaya ale Sà:gwű agehya.
+Sà:gwű asgaya ale Sà:gwű Agě:hya.
 Analsgiɂa
 Gatliha
 Degatlilosdiha
@@ -1079,7 +1079,7 @@ Svgi
 Sugeda
 Ganhga|1064-Chapter_8-8.6-8.6.1-000285.mp3
 Asgaya kahwi aginehvsi.
-x Na agehya ama
+x Na Agě:hya ama
 x hwinehvsi.
 Kahwiɂju janehvsi?
 Duya dodiskvsi.
