@@ -1,4 +1,4 @@
-#!/usr/bin/env -S conda run -n cherokee-audio-data python
+#!/usr/bin/env -S conda run -n CherokeeTrainingData python
 
 import os
 import sys
