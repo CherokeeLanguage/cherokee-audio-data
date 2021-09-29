@@ -1,4 +1,4 @@
-Folder: .
+Folder: walc-1
 Total duration [chr]: 20:04
 Shortest duration [chr]: 00.65
 Longest duration [chr]: 09.38
