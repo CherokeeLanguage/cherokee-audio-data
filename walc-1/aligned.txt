@@ -651,10 +651,10 @@ Ju:no:dűjv Ani:gě:hya.
 Jǔ:ntana Yǒ:na à:na:ɂi.
 x Uhyvdli                    —>                   Juhyvdli
 x Uhyvdli aditasdi           —>                   Juhyvdli diditasdi
-x Gvhnageɂi                  —>
-x Digvhnageɂi
-x Gvhnage degahldi            —>
-x Digvhnage degahldi
+x Gv̌:hnáge̋ɂi                  —>
+x DiGv̌:hnáge̋ɂi
+x Gv̌:hnáge̋ degahldi            —>
+x DiGv̌:hnáge̋ degahldi
 x go:hwe:li                    —>                   Digo:hwe:li
 x U:ne̋:ga go:hwe:li                —>                 Junega digo:hwe:li
 x Agě:hya uwoduhi.                  —>            Ani:gě:hya junoduhi
@@ -663,8 +663,8 @@ x Anijeɂi
 x Ijeɂiyusdi ugata                 —>
 x Anijeɂiyusdi unigata
 x U:ne̋:ga                            —>            Uninega
-x Na Sogwili U:ne̋:ga                 —>
-x Sogwili uninega
+x Na Sǒ:gwíli U:ne̋:ga                 —>
+x Sǒ:gwíli uninega
 x Unegitlvdi                     —>            Uninegitldi
 x Unegitldi gitli                  —>            Uninegitldi dinadalesgiyisgi
 Ő:sda
@@ -685,47 +685,51 @@ ahyahtě:no.
 Na asgaya, Agě:hya
 ganv:gwalő:sdi Gv̋:hdi Gv:hníha.
 Idí:dla
-
-Na Agě:hya ale aya dijododi julewisdodiɂi dí:dla wosdaɂi.
-Amegwo idí:dla anega.
-Naɂvɂi
-Vdali naɂvɂi dunotlv.
+x Na Agě:hya ale aya dijododi julewisdodiɂi dí:dla wosdaɂi.
+Amé:gwő idí:dla à:né:ga.
+Naɂv̋:ɂi
+V:dali Naɂv̋:ɂi dù:nǒ:hlv́:ɂi.
 udlidí:dla
 Ale
-Juhnogisdi udulisgvi, asesgini udlvgvɂi.
-Howa, hawa ale yigi anadisgoi.
+Ju:hno:gì:sdi Ù:du:lǐ:sgv̌:ɂi, ǎ:sé:sgíni Ù:dlv́:gv̌:ɂi.
+Howa, hawa ale yigi
+À:nadî:sgó:ɂi
 A:sé:hno
 Ale yigi
-Asesgini
--hno
-Nidigalisdodi. -hehno.
-Vsgihnv iyusdi
+ǎ:sé:sgíni
+hno
+x Nidigalisdodi. -hehno.
+V̀:sgihnv́
+iyű:sdi
 Asgaya ale Agě:hya aniwó:niha.
-Uwenvsdi ù:du:líha A:sé:hno agasga.
+Uwe:nv̀:sdi ù:du:líha A:sé:hno À:ga:sga.
 Sà:gwű asgaya ale Sà:gwű Agě:hya.
-Analsgiɂa
-Gatliha
-Degatlilosdiha
+À:nalsgí:ɂa
+Gahlíha
+Degà:hli:ló:sdiha
 Degawó:niha
 Gawó:niha
-Dunotla
+Dù:nǒ:hla
 Analì:sdâ:yv:hv́sga
-Kò:hi̋ i:ga uhyvdla ale agasga.
-Nasgi ahawi uwodigeɂi A:sé:hno na gatohga U:ne̋:ga.
+Kò:hi̋ i:ga U:hyv:dla ale À:ga:sga.
+Nà:sgi ahawi Uwǒ:díge̋:ɂi A:sé:hno na Gà:tohga U:ne̋:ga.
 Na asgaya
-ije iyusdi ulisuwida usula ale gvhnage dulasutla.
+Ijéɂiyű:sdi Ulsǔ:hwi:da Ú:su:la ale Gv̌:hnáge̋ Dù:lâ:su:hla.
 Age:hyű:ja
-dekahnogí:ɂa A:sé:hno Ani:sgaya analsgiɂa.
-Etlawe uwotla agayvlige A:sé:hno diniyotli
-dananelohvsga.
-Sogwili anatlaɂidohoɂi aleyigi anajvsiyesgoɂi.
-Gagedaju,
-gasakaɂke?
-Gitli aditlidoha, Wě:sahno gatliha.
-Doyidí:dla gedoɂa degatlilosdiha ale Gahljǒ:deɂi aniyaɂa digigayvlige.
+x dekahnogí:ɂa A:sé:hno Ani:sgaya analsgiɂa.
+E:hlawe̋ Ù:wǒ:hla Agayv̌:líge̋ A:sé:hno Di:ni:yő:hli
+Dá:nane:lǒ:hv́sga.
+Sǒ:gwíli anà:hláɂiɂdó:hó:ɂi ale yigi
+x anajvsiyesgoɂi.
+Ga:ge̋:daju,
+x gasakaɂke?
+x Gi:hli aditlidoha, Wě:sahno Gahlíha.
+Dǒ:yi dí:dla Gě:dô:a de:gádlì:ló:sdiha ale
+Gahljǒ:deɂi À:niyáa digigayv̌:líge̋.
+
 Aniluhgaju, anÀ:hnigíɂake?
 Na asgaya ijula jalagi ale yonega degawó:niha.
-Diniyotli
+Di:ni:yő:hli
 analì:sdâ:yv:hv́sga
 nahno junatana
 danatlinoheha.
@@ -766,7 +770,7 @@ Tla nvya Ǔ:tana yigeseɂi.
 Hiwó:nihaju? Tla hyiwó:niha.
 x Vsgika?
 x Gawó:nihaɂka?
-x Gitliɂka geseɂi?
+x Gi:hliɂka geseɂi?
 Jalagi Gawó:ni:sgí, doka?
 x He/she is a Cherokee speaker, right?
 x Gadòɂgi hadisge?
@@ -968,13 +972,13 @@ Gadawoja
 Dejindohgv
 dejinvgala
 Dejitesga
-Doyi edasdi wijiyvha
+Dǒ:yi edasdi wijiyvha
 x Saná:le̋ ehi galisdà:yv:hv̀:ga
 Deganiwoja
 Gago gawó:niha?
 Jalagiju sdiwonisgi?
 Adelogwaɂa uwò:nǐ:hisdiɂi.
-Jalagi dvniwonisi diniyotli.
+Jalagi dvniwonisi Di:ni:yő:hli.
 Nudale aniwó:niha.
 Jalagi hilinoheda.
 Kò:hi̋ josdatlinohesgv.
@@ -1032,7 +1036,7 @@ dogitlaha.
 E:li̋:gwudv.
 Gadō u:sdi jvhnisda?
 Kahwiju jagaɂa?
-Diniyotli nigohilv duniyosisgoɂi.
+Di:ni:yő:hli nigohilv duniyosisgoɂi.
 Ha:dlv idalisdayvnega?
 Dejiyosiju?
 Alsdayvhdiɂi kanvsulv
@@ -1110,7 +1114,7 @@ Ganeha
 Aha
 Jiya
 Gvnosasdi jiya hyatenoɂi.
-Gitli ganhga
+Gi:hli ganhga
 ayesdvdiɂi.
 Gadō u:sdi
 x jaha ahani?
@@ -1140,11 +1144,11 @@ Ganesohsga
 Ganesdaladiɂa
 x kanvyoladiɂa
 Galogiladiɂa
-Gadò galstanvhvsga doyi dí:dla?
-Agasgaju,
+Gadò galstanvhvsga Dǒ:yi dí:dla?
+À:ga:sgaju,
 ganesohsgaɂke?
 Kilagwu adalena asdutlidohvɂi.
-Doyu uwoduhi doyi.
+Doyu uwoduhi Dǒ:yi.
 Yinawoga,
 gotv naɂv
 hidogesdi.
@@ -1170,7 +1174,7 @@ x Gelisgo
 Uhyvdlvɂi
 Digilvwisdanelvsdi
 Wigajaɂvga
-Agasga
+À:ga:sga
 Gutiha
 Ahyvdladiɂa
 Uditlega
