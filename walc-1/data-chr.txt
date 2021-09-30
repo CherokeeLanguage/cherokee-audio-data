@@ -600,5 +600,89 @@
 04-f-walc1|mp3/0721-Chapter_6_6.6_6.6.20-000007195.mp3|Dá:nane:lǒ:hv́sga.
 04-f-walc1|mp3/0722-Chapter_6_6.6_6.6.21-000000375.mp3|Sǒ:gwíli anà:hláɂiɂdó:hó:ɂi ale yigi
 04-f-walc1|mp3/0724-Chapter_6_6.6_6.6.22-000000000.mp3|Ga:ge̋:daju,
+04-f-walc1|mp3/0726-Chapter_6_6.6_6.6.3-000000000.mp3|Gi:hli adhlidô:ha, Wě:sahno Gahlíha.
 04-f-walc1|mp3/0727-Chapter_6_6.6_6.6.4-000000215.mp3|Dǒ:yi dí:dla Gě:dô:a de:gádlì:ló:sdiha ale
 04-f-walc1|mp3/0728-Chapter_6_6.6_6.6.4-000006155.mp3|Gahljǒ:deɂi À:niyáa digigayv̌:líge̋.
+04-f-walc1|mp3/0729-Chapter_6_6.6_6.6.5-000000000.mp3|À:niɂluhgaju? À:nahnigíɂake?
+04-f-walc1|mp3/0730-Chapter_6_6.6_6.6.6-000000000.mp3|Na asgaya
+04-f-walc1|mp3/0731-Chapter_6_6.6_6.6.6-000001885.mp3|Ǐ:jú:la jalagi ale Yó:ne:ga
+04-f-walc1|mp3/0732-Chapter_6_6.6_6.6.6-000005685.mp3|degawó:niha.
+04-f-walc1|mp3/0733-Chapter_6_6.6_6.6.7-000000000.mp3|Di:ni:yő:hli
+04-f-walc1|mp3/0734-Chapter_6_6.6_6.6.7-000002375.mp3|À:nalì:sdâ:yv:hv́sga
+04-f-walc1|mp3/0735-Chapter_6_6.6_6.6.7-000005065.mp3|nahno
+04-f-walc1|mp3/0736-Chapter_6_6.6_6.6.7-000006645.mp3|Jǔ:natana
+04-f-walc1|mp3/0737-Chapter_6_6.6_6.6.7-000008645.mp3|Dà:nahlino:héha.
+04-f-walc1|mp3/0738-Chapter_6_6.6_6.6.8-000000000.mp3|Adtlidô:ha
+04-f-walc1|mp3/0739-Chapter_6_6.6_6.6.9-000000000.mp3|Dekáno:gí:ɂa
+04-f-walc1|mp3/0740-Chapter_6_6.7_6.7.1-000000000.mp3|Ka!
+04-f-walc1|mp3/0741-Chapter_6_6.7_6.7.10-000000000.mp3|Dó:ka? Doha?
+04-f-walc1|mp3/0742-Chapter_6_6.7_6.7.11-000000000.mp3|Ka! Idalě:nawu!
+04-f-walc1|mp3/0743-Chapter_6_6.7_6.7.12-000000000.mp3|Nű:la! Ina:hnigi!
+04-f-walc1|mp3/0744-Chapter_6_6.7_6.7.13-000000000.mp3|Hna!
+04-f-walc1|mp3/0745-Chapter_6_6.7_6.7.14-000000000.mp3|Ni!
+04-f-walc1|mp3/0746-Chapter_6_6.7_6.7.14-000001445.mp3|higo:hwahtaju?
+04-f-walc1|mp3/0747-Chapter_6_6.7_6.7.15-000000000.mp3|Nű:la! à:lsdàyvhdiɂi!
+04-f-walc1|mp3/0748-Chapter_6_6.7_6.7.16-000000315.mp3|Si! WiGá:ɂi.
+04-f-walc1|mp3/0749-Chapter_6_6.7_6.7.17-000000000.mp3|Ayo! À:kinâ:sgwaló:ja
+04-f-walc1|mp3/0750-Chapter_6_6.7_6.7.18-000000000.mp3|Uwo:dù:jv̌:ɂi, Dó:ka?
+04-f-walc1|mp3/0751-Chapter_6_6.7_6.7.19-000000000.mp3|Vv,
+04-f-walc1|mp3/0752-Chapter_6_6.7_6.7.19-000001655.mp3|Kǎ:hwi À:wadu:líha.
+04-f-walc1|mp3/0753-Chapter_6_6.7_6.7.2-000000000.mp3|Nű:la!
+04-f-walc1|mp3/0754-Chapter_6_6.7_6.7.20-000000000.mp3|Ni! Gá:gō dà:yáɂi?
+04-f-walc1|mp3/0755-Chapter_6_6.7_6.7.3-000000000.mp3|Ni!
+04-f-walc1|mp3/0756-Chapter_6_6.7_6.7.4-000000000.mp3|Ayo!
+04-f-walc1|mp3/0757-Chapter_6_6.7_6.7.5-000000295.mp3|sgigí?
+04-f-walc1|mp3/0759-Chapter_6_6.7_6.7.7-000000000.mp3|Vhla
+04-f-walc1|mp3/0760-Chapter_6_6.7_6.7.8-000000000.mp3|Vv
+04-f-walc1|mp3/0761-Chapter_6_6.7_6.7.9-000000335.mp3|Si!
+04-f-walc1|mp3/0762-Chapter_6_6.8_6.8.1-000000145.mp3|Hla yijiwó:niha.
+04-f-walc1|mp3/0763-Chapter_6_6.8_6.8.2-000000545.mp3|Hla
+04-f-walc1|mp3/0764-Chapter_6_6.8_6.8.2-000001725.mp3|yà:gwadu:líha.
+04-f-walc1|mp3/0766-Chapter_6_6.8_6.8.3-000002325.mp3|Hla Junsdi yigi.
+04-f-walc1|mp3/0767-Chapter_6_6.8_6.8.4-000000000.mp3|Jalagi Gawó:ni:sgí.
+04-f-walc1|mp3/0768-Chapter_6_6.8_6.8.4-000002575.mp3|Hla jalagi Gawó:ni:sgí yigi.
+04-f-walc1|mp3/0769-Chapter_6_6.8_6.8.5-000000000.mp3|Ő:sda gè:sv̌.
+04-f-walc1|mp3/0770-Chapter_6_6.8_6.8.5-000002325.mp3|Hla Ő:sda yigè:sé:ɂi.
+04-f-walc1|mp3/0771-Chapter_6_6.8_6.8.6-000000000.mp3|Nv̀:ya Ǔ:tana gè:sé:ɂi.
+04-f-walc1|mp3/0772-Chapter_6_6.8_6.8.6-000004735.mp3|Hla Nv̀:ya Ǔ:tana yigè:sé:ɂi.
+04-f-walc1|mp3/0773-Chapter_6_6.8_6.8.7-000000000.mp3|Ő:sda gè:sé:sdi.
+04-f-walc1|mp3/0774-Chapter_6_6.8_6.8.7-000002435.mp3|Hla Ő:sda yigè:sé:sdi.
+04-f-walc1|mp3/0775-Chapter_6_6.8_6.8.8-000000000.mp3|Hiwó:nihaju? Hla hyiwó:niha.
+05-f-walc1|mp3/0779-Chapter_6_6.9_6.9.4-000000225.mp3|Jalagi Gawó:ni:sgí, Dó:ka?
+06-f-walc1|mp3/0786-Chapter_7_7.1_7.1.1-000000765.mp3|Ha:dlv hé:ga?
+06-f-walc1|mp3/0787-Chapter_7_7.1_7.1.2-000000205.mp3|Hilâ:yv̋ tè:si?
+06-f-walc1|mp3/0788-Chapter_7_7.1_7.1.3-000000685.mp3|Naɂvs he:dó:ha?
+06-f-walc1|mp3/0789-Chapter_7_7.1_7.1.4-000000000.mp3|Witě:dô:liju?
+06-f-walc1|mp3/0790-Chapter_7_7.1_7.1.5-000000000.mp3|Ha:dlv ù:ne:nv́:sé:ɂi?
+06-f-walc1|mp3/0792-Chapter_7_7.1_7.1.7-000000265.mp3|Hilâ iyv̋ tilúhji?
+06-f-walc1|mp3/0793-Chapter_7_7.1_7.1.8-000000000.mp3|Ha:dlv hwě:da?
+06-f-walc1|mp3/0794-Chapter_7_7.1_7.1_Arrive_Future-000000415.mp3|Dajiɂlúhji.
+06-f-walc1|mp3/0795-Chapter_7_7.1_7.1_Arrive_Future-000002185.mp3|Tiɂlúhji. Dagaɂlúhji.
+06-f-walc1|mp3/0796-Chapter_7_7.1_7.1_Arrive_Future-000005395.mp3|Dv̀:niɂlúhji.
+06-f-walc1|mp3/0797-Chapter_7_7.1_7.1_Arrive_Future-000007805.mp3|Dà:diɂlúhji.
+06-f-walc1|mp3/0798-Chapter_7_7.1_7.1_Arrive_Present-000000495.mp3|Jíɂluhga
+06-f-walc1|mp3/0799-Chapter_7_7.1_7.1_Arrive_Present-000002785.mp3|Híɂluhga
+06-f-walc1|mp3/0800-Chapter_7_7.1_7.1_Arrive_Present-000004555.mp3|Gaɂluhga
+06-f-walc1|mp3/0801-Chapter_7_7.1_7.1_Arrive_Present-000006265.mp3|à:niɂluhga.
+06-f-walc1|mp3/0802-Chapter_7_7.1_7.1_Arrive_Present-000007965.mp3|i:diɂluhga
+06-f-walc1|mp3/0803-Chapter_7_7.1_7.1_Arrive_Remote_Past-000000000.mp3|à:gilúhjv̌
+06-f-walc1|mp3/0804-Chapter_7_7.1_7.1_Arrive_Remote_Past-000002005.mp3|Jalúhjv̌:ɂi. Ù:lúhjv̌:ɂi.
+06-f-walc1|mp3/0805-Chapter_7_7.1_7.1_Arrive_Remote_Past-000005555.mp3|Ù:nilúhjv̌:ɂi. I:gilúhjv̌:ɂi
+06-f-walc1|mp3/0806-Chapter_7_7.1_7.1_Be_At_Future-000000585.mp3|Dagě:dô:li
+06-f-walc1|mp3/0807-Chapter_7_7.1_7.1_Be_At_Future-000002615.mp3|Tě:dô:li
+06-f-walc1|mp3/0808-Chapter_7_7.1_7.1_Be_At_Future-000004995.mp3|Dayě:dô:li
+06-f-walc1|mp3/0809-Chapter_7_7.1_7.1_Be_At_Future-000007085.mp3|Dv̀:ně:dô:li
+06-f-walc1|mp3/0810-Chapter_7_7.1_7.1_Be_At_Future-000009015.mp3|Dà:dě:dô:li
+06-f-walc1|mp3/0811-Chapter_7_7.1_7.1_Be_At_Immediate_Past-000000000.mp3|Gě:da. Hě:da. ě:da.
+06-f-walc1|mp3/0812-Chapter_7_7.1_7.1_Be_At_Immediate_Past-000004375.mp3|À:ně:da.
+06-f-walc1|mp3/0813-Chapter_7_7.1_7.1_Be_At_Immediate_Past-000006445.mp3|I:dě:da
+06-f-walc1|mp3/0814-Chapter_7_7.1_7.1_Be_At_Present-000000435.mp3|Ge:dó:ha
+06-f-walc1|mp3/0815-Chapter_7_7.1_7.1_Be_At_Present-000002535.mp3|He:dó:ha
+06-f-walc1|mp3/0816-Chapter_7_7.1_7.1_Be_At_Present-000004535.mp3|E:dó:ha
+06-f-walc1|mp3/0817-Chapter_7_7.1_7.1_Be_At_Present-000006445.mp3|À:ne:dó:ha
+06-f-walc1|mp3/0818-Chapter_7_7.1_7.1_Be_At_Present-000008355.mp3|I:de:dó:ha
+06-f-walc1|mp3/0819-Chapter_7_7.1_7.1_Be_At_Remote_Past-000000000.mp3|À:gwě:dô:lv̌:ɂi
+06-f-walc1|mp3/0820-Chapter_7_7.1_7.1_Be_At_Remote_Past-000002855.mp3|Jě:dô:lv̌:ɂi
+06-f-walc1|mp3/0821-Chapter_7_7.1_7.1_Be_At_Remote_Past-000005325.mp3|Ù:wě:dô:lv̌:ɂi
+06-f-walc1|mp3/0822-Chapter_7_7.1_7.1_Be_At_Remote_Past-000007525.mp3|Ù:ně:dô:lv̌:ɂi
+06-f-walc1|mp3/0823-Chapter_7_7.1_7.1_Be_At_Remote_Past-000009795.mp3|I:gě:dô:lv̌:ɂi
