@@ -821,33 +821,34 @@ Jě:dô:lv̌:ɂi
 Ù:wě:dô:lv̌:ɂi
 Ù:ně:dô:lv̌:ɂi
 I:gě:dô:lv̌:ɂi
-
-Dagesi
-Tesi. Dayesi. Dvnesi. Dadesi.
-Gega
+Dagé:si
+Té:si. Dayé:si. Dvné:si. Dà:dé:si.
+Gé:ga
 hé:ga
-Ega
-Anega
-Idega
-Agwenvsvi
-Jenvsvi
-Uwenvsvi
-Unenvsvi. Igenvsvi.
-Ahani
+é:ga
+à:né:ga
+I:dé:ga
+à:gwe:nv́:sv̌:ɂi
+Je:nv́:sv̌:ɂi
+ù:we:nv́:sv̌:ɂi
+ù:ne:nv́:sv̌:ɂi.
+I:ge:nv́:sv̌:ɂi.
+Áhani
 Udliyvɂi
 Galv̌:ládi:dla
-Eladí:dla
-Ilvtlvɂi
+E:ladi:dla
+ilvhdlv̋:ɂi
 Hawí:ni dí:dla
 Geɂidí:dla
-Ina
+I̋:na
 Naɂv
 Idí:dla
-Nikvɂi
-Hla ilvdlv
-Jogidí:dla
-Vhnaɂi
-Ageɂi
+Nikv̋:ɂi
+Hlá ilv́hdlv
+Jo:gidí:dla
+V̀:hna̋ɂi
+Á:ge̋ɂi
+
 Age diGadô:ga.
 Vhnai danino:gí:ɂa.
 Digwenvsvɂi ohnidí:dla dagilvwisdaneha.
@@ -876,7 +877,7 @@ Unasuhnvɂi. Anasuhnega.
 Gaduɂi
 x ???
 Galv̌:ládi:dla
-x Eladí:dla
+x E:ladi:dla
 Vhnaɂi
 Ageɂi
 Ahani

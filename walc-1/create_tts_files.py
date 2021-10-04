@@ -1,11 +1,12 @@
-
-
+#!/usr/bin/env -S python3
 import os
 import sys
 import unicodedata as ud
 import random
 import pathlib
 from shutil import rmtree
+
+from progressbar import progressbar
 from pydub import AudioSegment
 import pydub.effects as effects
 from split_audio import detect_sound
@@ -77,8 +78,15 @@ if __name__ == "__main__":
     en_totalLength: float = 0.0
 
     print("Creating wavs")
+
+    bar = progressbar.ProgressBar(maxval=len(entries))
+    bar.start()
+
+    idx: int = 0
     rows: list = []
     for speaker, lang, mp3, text in entries.values():
+        idx += 1
+        bar.update(idx)
         wav: str = "wav/" + os.path.splitext(os.path.basename(mp3))[0] + ".wav"
         text: str = ud.normalize('NFD', text)
         mp3_segment: AudioSegment = AudioSegment.from_file(mp3)
@@ -115,6 +123,8 @@ if __name__ == "__main__":
             vid = default_voice_id
         rows.append(f"{entry_id:06d}|{vid}|{lang}|{wav}|||{text}|")
         entry_id += 1
+
+    bar.finish()
 
     stats: str = ""
     minutes: int

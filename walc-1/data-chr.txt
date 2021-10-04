@@ -686,3 +686,30 @@
 06-f-walc1|mp3/0821-Chapter_7_7.1_7.1_Be_At_Remote_Past-000005325.mp3|Ù:wě:dô:lv̌:ɂi
 06-f-walc1|mp3/0822-Chapter_7_7.1_7.1_Be_At_Remote_Past-000007525.mp3|Ù:ně:dô:lv̌:ɂi
 06-f-walc1|mp3/0823-Chapter_7_7.1_7.1_Be_At_Remote_Past-000009795.mp3|I:gě:dô:lv̌:ɂi
+06-f-walc1|mp3/0824-Chapter_7_7.1_7.1_Go_Future-000000355.mp3|Dagé:si
+06-f-walc1|mp3/0825-Chapter_7_7.1_7.1_Go_Future-000002255.mp3|Té:si. Dayé:si. Dvné:si. Dà:dé:si.
+06-f-walc1|mp3/0826-Chapter_7_7.1_7.1_Go_Present-000000685.mp3|Gé:ga
+06-f-walc1|mp3/0827-Chapter_7_7.1_7.1_Go_Present-000002395.mp3|hé:ga
+06-f-walc1|mp3/0828-Chapter_7_7.1_7.1_Go_Present-000003985.mp3|é:ga
+06-f-walc1|mp3/0829-Chapter_7_7.1_7.1_Go_Present-000005595.mp3|à:né:ga
+06-f-walc1|mp3/0830-Chapter_7_7.1_7.1_Go_Present-000007505.mp3|I:dé:ga
+06-f-walc1|mp3/0831-Chapter_7_7.1_7.1_Go_Remote_Past-000000355.mp3|à:gwe:nv́:sv̌:ɂi
+06-f-walc1|mp3/0832-Chapter_7_7.1_7.1_Go_Remote_Past-000002865.mp3|Je:nv́:sv̌:ɂi
+06-f-walc1|mp3/0833-Chapter_7_7.1_7.1_Go_Remote_Past-000004825.mp3|ù:we:nv́:sv̌:ɂi
+06-f-walc1|mp3/0834-Chapter_7_7.1_7.1_Go_Remote_Past-000007305.mp3|ù:ne:nv́:sv̌:ɂi.
+06-f-walc1|mp3/0835-Chapter_7_7.1_7.1_Go_Remote_Past-000009425.mp3|I:ge:nv́:sv̌:ɂi.
+06-f-walc1|mp3/0836-Chapter_7_7.2_7.2.1-000000000.mp3|Áhani
+06-f-walc1|mp3/0837-Chapter_7_7.2_7.2.10-000000000.mp3|Udliyvɂi
+06-f-walc1|mp3/0838-Chapter_7_7.2_7.2.11-000000000.mp3|Galv̌:ládi:dla
+06-f-walc1|mp3/0839-Chapter_7_7.2_7.2.12-000000000.mp3|E:ladi:dla
+06-f-walc1|mp3/0840-Chapter_7_7.2_7.2.13-000000000.mp3|ilvhdlv̋:ɂi
+06-f-walc1|mp3/0841-Chapter_7_7.2_7.2.14-000000000.mp3|Hawí:ni dí:dla
+06-f-walc1|mp3/0842-Chapter_7_7.2_7.2.15-000000135.mp3|Geɂidí:dla
+06-f-walc1|mp3/0843-Chapter_7_7.2_7.2.16-000000000.mp3|I̋:na
+06-f-walc1|mp3/0844-Chapter_7_7.2_7.2.2-000000000.mp3|Naɂv
+06-f-walc1|mp3/0845-Chapter_7_7.2_7.2.3-000000000.mp3|Idí:dla
+06-f-walc1|mp3/0846-Chapter_7_7.2_7.2.4-000000265.mp3|Nikv̋:ɂi
+06-f-walc1|mp3/0847-Chapter_7_7.2_7.2.6-000000135.mp3|Hlá ilv́hdlv
+06-f-walc1|mp3/0848-Chapter_7_7.2_7.2.7-000000000.mp3|Jo:gidí:dla
+06-f-walc1|mp3/0849-Chapter_7_7.2_7.2.8-000000000.mp3|V̀:hna̋ɂi
+06-f-walc1|mp3/0850-Chapter_7_7.2_7.2.9-000000195.mp3|Á:ge̋ɂi
