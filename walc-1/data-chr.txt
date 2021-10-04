@@ -726,3 +726,29 @@
 06-f-walc1|mp3/0861-Chapter_7_7.4_7.4.10-000000000.mp3|Ha:dlv?
 06-f-walc1|mp3/0862-Chapter_7_7.4_7.4.11-000000155.mp3|Ha:dlv hé:ga?
 06-f-walc1|mp3/0863-Chapter_7_7.4_7.4.12-000000000.mp3|Ha:dlv hwikti?
+06-f-walc1|mp3/0864-Chapter_7_7.4_7.4.13-000000000.mp3|Jǔ:gá:nawv̋ idí:dla wò:jigti.
+06-f-walc1|mp3/0865-Chapter_7_7.4_7.4.14-000000245.mp3|Di:gilv̌:hwísdà:nehdiɂi Gé:ga.
+06-f-walc1|mp3/0866-Chapter_7_7.4_7.4.2-000000175.mp3|Jǔ:gá:nawv̋ɂi
+06-f-walc1|mp3/0867-Chapter_7_7.4_7.4.3-000000325.mp3|Galv́:ladi
+06-f-walc1|mp3/0868-Chapter_7_7.4_7.4.4-000000000.mp3|aye̋:hli
+06-f-walc1|mp3/0869-Chapter_7_7.4_7.4.5-000000195.mp3|Dikalv̌:gv̋:ɂi
+06-f-walc1|mp3/0870-Chapter_7_7.4_7.4.6-000000000.mp3|Wǔ:dé:lì:gv̋:ɂi
+06-f-walc1|mp3/0871-Chapter_7_7.4_7.4.7-000000185.mp3|E:ladi
+06-f-walc1|mp3/0872-Chapter_7_7.4_7.4.8-000000000.mp3|Idí:dla
+06-f-walc1|mp3/0873-Chapter_7_7.4_7.4.9-000000000.mp3|Ha:dlv idí:dla?
+06-f-walc1|mp3/0874-Chapter_7_7.5_7.5.1-000000145.mp3|Dà:gilv̌:hwísdà:ne:lv̌:ɂi. Dà:gilv̌:hwísdà:ne:lé:ga.
+06-f-walc1|mp3/0875-Chapter_7_7.5_7.5.2-000000000.mp3|À:gwalsdâ:yv:hnv̌:ɂi. Galisdâ:yv:hné:ga.
+06-f-walc1|mp3/0876-Chapter_7_7.5_7.5.3-000000000.mp3|Ù:nasǔ:hnv́:ɂi. À:nasǔ:hné:ga.
+06-f-walc1|mp3/0877-Chapter_7_7.6_7.6.1-000000000.mp3|Gadúɂi.
+06-f-walc1|mp3/0878-Chapter_7_7.6_7.6.10-000000000.mp3|Akti:si.
+06-f-walc1|mp3/0879-Chapter_7_7.6_7.6.2-000000245.mp3|Galv̌:ládi:dla
+06-f-walc1|mp3/0881-Chapter_7_7.6_7.6.4-000000445.mp3|Ù:hna̋ɂi
+06-f-walc1|mp3/0882-Chapter_7_7.6_7.6.5-000000000.mp3|Á:ge̋ɂi
+06-f-walc1|mp3/0883-Chapter_7_7.6_7.6.6-000000000.mp3|Áhani
+06-f-walc1|mp3/0884-Chapter_7_7.6_7.6.7-000000000.mp3|I̋:na
+06-f-walc1|mp3/0885-Chapter_7_7.6_7.6.8-000000000.mp3|aye̋:hli
+06-f-walc1|mp3/0886-Chapter_7_7.6_7.6.9-000000245.mp3|Aksganíni
+06-f-walc1|mp3/0887-Chapter_7_7.7_7.7.1-000000485.mp3|Agǔ:sa. Gǔ:só:ɂi.
+06-f-walc1|mp3/0888-Chapter_7_7.7_7.7.2-000000000.mp3|Kò:lvnv. Kò:lvnv̋:ɂi.
+06-f-walc1|mp3/0889-Chapter_7_7.7_7.7.3-000000000.mp3|Ama. Amó:ɂi.
+06-f-walc1|mp3/0890-Chapter_7_7.7_7.7.4-000000000.mp3|Talǔ:ja. Talǔ:jó:hi.
