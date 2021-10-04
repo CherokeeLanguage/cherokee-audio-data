@@ -776,3 +776,10 @@
 06-f-walc1|mp3/0926-Chapter_7_7.8_7.8_Drive_Progressive_Past-000000000.mp3|Jiɂíɂlǐ:dô:hv̌:ɂi
 06-f-walc1|mp3/0927-Chapter_7_7.8_7.8_Drive_Progressive_Past-000003055.mp3|hihíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.
 06-f-walc1|mp3/0928-Chapter_7_7.8_7.8_Drive_Progressive_Past-000008085.mp3|ahíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.  I:dihíɂlǐ:dô:hv̌:ɂi.
+06-f-walc1|mp3/0938-Chapter_7_7.8_7.8_Walk_Future-000000000.mp3|Gá:ɂi:sé:sdi. Há:ɂi:sé:sdi. á:ɂi:sé:sdi. à:ná:ɂi:sé:sdi. I:dá:ɂi:sé:sdi.
+06-f-walc1|mp3/0939-Chapter_7_7.8_7.8_Walk_Past-000001315.mp3|Gá:ɂi:sv̌:ɂi.
+06-f-walc1|mp3/0940-Chapter_7_7.8_7.8_Walk_Past-000003115.mp3|Há:ɂi:sv̌:ɂi.
+06-f-walc1|mp3/0941-Chapter_7_7.8_7.8_Walk_Past-000005055.mp3|á:ɂi:sv̌:ɂi.
+06-f-walc1|mp3/0942-Chapter_7_7.8_7.8_Walk_Past-000007495.mp3|à:ná:ɂi:sv̌:ɂi. I:dá:ɂi:sv̌:ɂi.
+06-f-walc1|mp3/0943-Chapter_7_7.8_7.8_Walk_Present-000000225.mp3|Gá:ɂi.
+06-f-walc1|mp3/0944-Chapter_7_7.8_7.8_Walk_Present-000001575.mp3|Há:ɂi. Á:ɂi. à:ná:ɂi. I:dá:ɂi.

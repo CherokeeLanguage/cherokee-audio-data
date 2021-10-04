@@ -776,7 +776,14 @@
 000776|06-f-walc1|chr|wav/0926-Chapter_7_7.8_7.8_Drive_Progressive_Past-000000000.wav|||Jiɂíɂlǐ:dô:hv̌:ɂi|
 000777|06-f-walc1|chr|wav/0927-Chapter_7_7.8_7.8_Drive_Progressive_Past-000003055.wav|||hihíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.|
 000778|06-f-walc1|chr|wav/0928-Chapter_7_7.8_7.8_Drive_Progressive_Past-000008085.wav|||ahíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.  I:dihíɂlǐ:dô:hv̌:ɂi.|
-000779|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
-000780|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
-000781|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
-000782|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
+000779|06-f-walc1|chr|wav/0938-Chapter_7_7.8_7.8_Walk_Future-000000000.wav|||Gá:ɂi:sé:sdi. Há:ɂi:sé:sdi. á:ɂi:sé:sdi. à:ná:ɂi:sé:sdi. I:dá:ɂi:sé:sdi.|
+000780|06-f-walc1|chr|wav/0939-Chapter_7_7.8_7.8_Walk_Past-000001315.wav|||Gá:ɂi:sv̌:ɂi.|
+000781|06-f-walc1|chr|wav/0940-Chapter_7_7.8_7.8_Walk_Past-000003115.wav|||Há:ɂi:sv̌:ɂi.|
+000782|06-f-walc1|chr|wav/0941-Chapter_7_7.8_7.8_Walk_Past-000005055.wav|||á:ɂi:sv̌:ɂi.|
+000783|06-f-walc1|chr|wav/0942-Chapter_7_7.8_7.8_Walk_Past-000007495.wav|||à:ná:ɂi:sv̌:ɂi. I:dá:ɂi:sv̌:ɂi.|
+000784|06-f-walc1|chr|wav/0943-Chapter_7_7.8_7.8_Walk_Present-000000225.wav|||Gá:ɂi.|
+000785|06-f-walc1|chr|wav/0944-Chapter_7_7.8_7.8_Walk_Present-000001575.wav|||Há:ɂi. Á:ɂi. à:ná:ɂi. I:dá:ɂi.|
+000786|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000787|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000788|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
+000789|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
