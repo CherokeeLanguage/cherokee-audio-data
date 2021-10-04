@@ -755,3 +755,24 @@
 06-f-walc1|mp3/0891-Chapter_7_7.7_7.7.5-000000000.mp3|Ga:sgilo. Ga:sgilohi.
 06-f-walc1|mp3/0893-Chapter_7_7.8_7.8.10-000000335.mp3|Dì:ktule̋:na
 06-f-walc1|mp3/0894-Chapter_7_7.8_7.8.11-000000000.mp3|Gadō u:sdi Dì:ktule̋:na jaha?
+06-f-walc1|mp3/0896-Chapter_7_7.8_7.8.13-000000000.mp3|Ő:sda nidv̀:nane:li Dagwalé:li à:gwaje:li.
+06-f-walc1|mp3/0897-Chapter_7_7.8_7.8.14-000000255.mp3|Asgaya, Agě:hya
+06-f-walc1|mp3/0898-Chapter_7_7.8_7.8.14-000002935.mp3|Ò:sdihíɂlǐ:dô:ha
+06-f-walc1|mp3/0900-Chapter_7_7.8_7.8.16-000000000.mp3|Uwe̋:ti Go:hlv:hnv̋ Dì:ktule̋:na à:giha.
+06-f-walc1|mp3/0901-Chapter_7_7.8_7.8.17-000000225.mp3|Hila̋ iyu:de:tiyv̋:da?
+06-f-walc1|mp3/0902-Chapter_7_7.8_7.8.18-000000175.mp3|Gá:gō Ù:wo:hlv:hnv̌:ɂi?
+06-f-walc1|mp3/0904-Chapter_7_7.8_7.8.2-000000325.mp3|Jǐ:yu ahlawi:tdi̋:sgi
+06-f-walc1|mp3/0907-Chapter_7_7.8_7.8.22-000000000.mp3|Ha:dlv iyv̋:ɂi hi:ktǐ:ya?
+06-f-walc1|mp3/0913-Chapter_7_7.8_7.8.28-000000000.mp3|Ù:go:hnǐ:yô:ga
+06-f-walc1|mp3/0914-Chapter_7_7.8_7.8.3-000000265.mp3|Jǐ:yu
+06-f-walc1|mp3/0916-Chapter_7_7.8_7.8.5-000000605.mp3|Nv:nǒ:hi
+06-f-walc1|mp3/0917-Chapter_7_7.8_7.8.6-000000000.mp3|Ajǐ:la Nv:nǒ:hi
+06-f-walc1|mp3/0918-Chapter_7_7.8_7.8.7-000000000.mp3|Dagwalé:lu
+06-f-walc1|mp3/0921-Chapter_7_7.8_7.8_Drive_Habitual-000000000.mp3|Jiɂíɂlǐ:dô:hó:ɂi
+06-f-walc1|mp3/0922-Chapter_7_7.8_7.8_Drive_Habitual-000002625.mp3|hihíɂlǐ:dô:hó:ɂi. ahíɂlǐ:dô:hó:ɂi.
+06-f-walc1|mp3/0923-Chapter_7_7.8_7.8_Drive_Habitual-000006825.mp3|à:nihíɂlǐ:dô:hó:ɂi. I:dihíɂlǐ:dô:hó:ɂi.
+06-f-walc1|mp3/0924-Chapter_7_7.8_7.8_Drive_Present-000000585.mp3|Jiɂíɂlǐ:dô:ha.
+06-f-walc1|mp3/0925-Chapter_7_7.8_7.8_Drive_Present-000002505.mp3|Hihíɂlǐ:dô:ha. Ahíɂlǐ:dô:ha. À:nihíɂlǐ:dô:ha. I:dihíɂlǐ:dô:ha.
+06-f-walc1|mp3/0926-Chapter_7_7.8_7.8_Drive_Progressive_Past-000000000.mp3|Jiɂíɂlǐ:dô:hv̌:ɂi
+06-f-walc1|mp3/0927-Chapter_7_7.8_7.8_Drive_Progressive_Past-000003055.mp3|hihíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.
+06-f-walc1|mp3/0928-Chapter_7_7.8_7.8_Drive_Progressive_Past-000008085.mp3|ahíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.  I:dihíɂlǐ:dô:hv̌:ɂi.

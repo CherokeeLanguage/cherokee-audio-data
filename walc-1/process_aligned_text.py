@@ -34,6 +34,10 @@ if __name__ == "__main__":
         for line in f:
             if len(line.strip()) == 0:
                 break
+            if line.strip().lower().startswith("#end"):
+                break
+            if line.strip().startswith("#"):
+                continue
             lines.append(line.strip())
     print(f"Loaded {len(lines):,} text aligments")
 
