@@ -1,5 +1,3 @@
-#!/usr/bin/env -S conda run -n cherokee-audio-data python
-
 import re
 
 import json

@@ -1,4 +1,3 @@
-#!/usr/bin/env -S python3
 import os
 import sys
 import unicodedata as ud

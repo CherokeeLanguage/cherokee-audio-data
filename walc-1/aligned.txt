@@ -848,19 +848,20 @@ Hlá ilv́hdlv
 Jo:gidí:dla
 V̀:hna̋ɂi
 Á:ge̋ɂi
-
-Age diGadô:ga.
-Vhnai danino:gí:ɂa.
-Digwenvsvɂi ohnidí:dla dagilvwisdaneha.
-Gatiyoɂi wogedolv dodagwidena usvɂi jigesvɂi.
-Junilawisdiɂi dí:dla wosdaɂi.
-Ina digesvɂi waninela.
-Nikvɂi anedolidohoɂi.
-Ahani iyvɂi dvniluhji.
-Juhyvdlvɂi
+Á:ge̋ digadô:ga.
+V̀:hna̋ dà:nino:gí:ɂa.
+Di:wé:nv̀:sv̋:ɂi o:hnidí:dla dà:gilv̌:hwísdà:neha.
+Gǎ:tí:yő:ɂi wò:gě:dô:lv̌ dǒ:dágwi:de̋:na Usv̋:ɂi jigè:sv̌:ɂi.
+ju:ni:là:wisdi̋:ɂi dí:dla wò:sdá:ɂi.
+I̋:na digè:sv̌:ɂi wà:nině:la.
+Nikv̋:ɂi à:ně:dô:lǐ:dô:hó:ɂi.
+Áhani
+iyv̋:ɂi dv̀:niɂlúhji
+Jǔ:hyv́:dlv̋:ɂi
 Ha:dlv?
 Ha:dlv hé:ga?
 Ha:dlv hwikti?
+
 Juganowv idí:dla wojigti.
 Digilvwisdanediɂi gega.
 Juganowvɂi
@@ -880,8 +881,8 @@ Galv̌:ládi:dla
 x E:ladi:dla
 Vhnaɂi
 Ageɂi
-Ahani
-Ina
+Áhani
+I̋:na
 aye̋:hli
 x ???
 Agusa. Gusoɂi.
@@ -904,7 +905,7 @@ E:li̋:gwudv yisgwajasi.
 Jiyu atlawidisgi
 E:li̋:gwuju yigvjasi?
 Asgaya, ageya jijaneha
-Ha:dlv iyvɂi hiktiya?
+Ha:dlv iyv̋:ɂi hiktiya?
 Jiyu atlawidisgi gajanidoha.
 Unajododi julewisdodi dí:dla wigaɂa.
 Hla yigasgwajasi.
@@ -944,16 +945,16 @@ Anidvjiyi widodvhwatvhidoli nahiyu.
 Sǐ:gwuhno tlega uktidisdiɂi, jiyu atlawidisgi ugohniyoga. Janiɂhno dohiyu uwvnvga
 jiyu ujodi.
 Uwvnvga
-Ahani Chicago Ǔ:tana gaduhvɂi Jině:la. Yudahahno nasgi “Windy City,” anosehoɂi. Ujatihno
-ina idigati dadanela.
+Áhani Chicago Ǔ:tana gaduhvɂi Jině:la. Yudahahno nasgi “Windy City,” anosehoɂi. Ujatihno
+I̋:na idigati dadanela.
 Nahnosgwu ugodi judalehnvda junalsdayvdi
-degotlvha ale dadananv degotlvwadisv ahani Ǔ:tana gaduhvɂi. Nigohilv
+degotlvha ale dadananv degotlvwadisv Áhani Ǔ:tana gaduhvɂi. Nigohilv
 udotlvso Go:hű:sdi iyadvndi ale agowatvdiɂi.
 Ǔ:tana gaduhvɂi
 Anosehoɂi
 Judalehnvda
 Dadananvɂi
-Ina Idigati
+I̋:na Idigati
 Dadanela
 Ugodi
 Junalsdayvdi
@@ -1003,7 +1004,7 @@ Gawò:nǐ:hisdi. Atlinohedi. Atlinohedodi.
 Jimi
 osdatlinoheha.
 Jalagi ale Yó:ne:ga
-daniwonisgo gatiyoɂi.
+daniwonisgo Gǎ:tí:yő:ɂi.
 Dajilinohetani. Tilinohetani. Dvtlinohetani. Dvnatlinohetani.
 Dayedalinohetani.
 Jilinohediha. Hilinohediha. Atlinohediha. Anatlinohediha.
@@ -1129,7 +1130,7 @@ Gvnosasdi jiya hyatenoɂi.
 Gi:hli ganhga
 ayesdvdiɂi.
 Gadō u:sdi
-x jaha ahani?
+x jaha Áhani?
 Ama desginehvsi.
 Aginaɂesdi. Janaɂesdi. Unaɂesdi. Uninaɂesdi.
 Aginaɂv. Janaɂv. Unaɂv. Uninaɂv.

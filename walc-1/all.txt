@@ -713,7 +713,20 @@
 000713|06-f-walc1|chr|wav/0848-Chapter_7_7.2_7.2.7-000000000.wav|||Jo:gidí:dla|
 000714|06-f-walc1|chr|wav/0849-Chapter_7_7.2_7.2.8-000000000.wav|||V̀:hna̋ɂi|
 000715|06-f-walc1|chr|wav/0850-Chapter_7_7.2_7.2.9-000000195.wav|||Á:ge̋ɂi|
-000716|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
-000717|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
-000718|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
-000719|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
+000716|06-f-walc1|chr|wav/0851-Chapter_7_7.3_7.3.1-000000000.wav|||Á:ge̋ digadô:ga.|
+000717|06-f-walc1|chr|wav/0852-Chapter_7_7.3_7.3.2-000000485.wav|||V̀:hna̋ dà:nino:gí:ɂa.|
+000718|06-f-walc1|chr|wav/0853-Chapter_7_7.3_7.3.3-000000000.wav|||Di:wé:nv̀:sv̋:ɂi o:hnidí:dla dà:gilv̌:hwísdà:neha.|
+000719|06-f-walc1|chr|wav/0854-Chapter_7_7.3_7.3.4-000000000.wav|||Gǎ:tí:yő:ɂi wò:gě:dô:lv̌ dǒ:dágwi:de̋:na Usv̋:ɂi jigè:sv̌:ɂi.|
+000720|06-f-walc1|chr|wav/0855-Chapter_7_7.3_7.3.5-000000000.wav|||ju:ni:là:wisdi̋:ɂi dí:dla wò:sdá:ɂi.|
+000721|06-f-walc1|chr|wav/0856-Chapter_7_7.3_7.3.6-000000000.wav|||I̋:na digè:sv̌:ɂi wà:nině:la.|
+000722|06-f-walc1|chr|wav/0857-Chapter_7_7.3_7.3.7-000000000.wav|||Nikv̋:ɂi à:ně:dô:lǐ:dô:hó:ɂi.|
+000723|06-f-walc1|chr|wav/0858-Chapter_7_7.3_7.3.8-000000000.wav|||Áhani|
+000724|06-f-walc1|chr|wav/0859-Chapter_7_7.3_7.3.8-000001425.wav|||iyv̋:ɂi dv̀:niɂlúhji|
+000725|06-f-walc1|chr|wav/0860-Chapter_7_7.4_7.4.1-000000000.wav|||Jǔ:hyv́:dlv̋:ɂi|
+000726|06-f-walc1|chr|wav/0861-Chapter_7_7.4_7.4.10-000000000.wav|||Ha:dlv?|
+000727|06-f-walc1|chr|wav/0862-Chapter_7_7.4_7.4.11-000000155.wav|||Ha:dlv hé:ga?|
+000728|06-f-walc1|chr|wav/0863-Chapter_7_7.4_7.4.12-000000000.wav|||Ha:dlv hwikti?|
+000729|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000730|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000731|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
+000732|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
