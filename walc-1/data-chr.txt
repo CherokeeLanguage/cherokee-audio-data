@@ -752,3 +752,6 @@
 06-f-walc1|mp3/0888-Chapter_7_7.7_7.7.2-000000000.mp3|Kò:lvnv. Kò:lvnv̋:ɂi.
 06-f-walc1|mp3/0889-Chapter_7_7.7_7.7.3-000000000.mp3|Ama. Amó:ɂi.
 06-f-walc1|mp3/0890-Chapter_7_7.7_7.7.4-000000000.mp3|Talǔ:ja. Talǔ:jó:hi.
+06-f-walc1|mp3/0891-Chapter_7_7.7_7.7.5-000000000.mp3|Ga:sgilo. Ga:sgilohi.
+06-f-walc1|mp3/0893-Chapter_7_7.8_7.8.10-000000335.mp3|Dì:ktule̋:na
+06-f-walc1|mp3/0894-Chapter_7_7.8_7.8.11-000000000.mp3|Gadō u:sdi Dì:ktule̋:na jaha?

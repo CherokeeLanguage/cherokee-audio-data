@@ -752,7 +752,10 @@
 000752|06-f-walc1|chr|wav/0888-Chapter_7_7.7_7.7.2-000000000.wav|||Kò:lvnv. Kò:lvnv̋:ɂi.|
 000753|06-f-walc1|chr|wav/0889-Chapter_7_7.7_7.7.3-000000000.wav|||Ama. Amó:ɂi.|
 000754|06-f-walc1|chr|wav/0890-Chapter_7_7.7_7.7.4-000000000.wav|||Talǔ:ja. Talǔ:jó:hi.|
-000755|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
-000756|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
-000757|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
-000758|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
+000755|06-f-walc1|chr|wav/0891-Chapter_7_7.7_7.7.5-000000000.wav|||Ga:sgilo. Ga:sgilohi.|
+000756|06-f-walc1|chr|wav/0893-Chapter_7_7.8_7.8.10-000000335.wav|||Dì:ktule̋:na|
+000757|06-f-walc1|chr|wav/0894-Chapter_7_7.8_7.8.11-000000000.wav|||Gadō u:sdi Dì:ktule̋:na jaha?|
+000758|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000759|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000760|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
+000761|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
