@@ -809,9 +809,19 @@
 000809|04-m-walc1|chr|wav/0980-Chapter_8_8.1_8.1.13-000000000.wav|||Álsdàyhdi gadv:nv:ɂisdā|
 000810|04-m-walc1|chr|wav/0981-Chapter_8_8.1_8.1.14-000000000.wav|||Dihnawo deji:tv́:lā|
 000811|04-m-walc1|chr|wav/0982-Chapter_8_8.1_8.1.15-000000000.wav|||Kò:hi̋ Saná:le̋, Sǔ:dáli àhlíɂilǐ:sv Jiyé:gī.|
-000812|04-m-walc1|chr|wav/0985-Chapter_8_8.1_8.1.15-000024165.wav|||Gadawó:ɂohna, de:ganìwǒ:jā. Deganiwoɂohnahno i:ga e̋:hi.|
-000813|04-m-walc1|chr|wav/0986-Chapter_8_8.1_8.1.15-000031695.wav|||álsdàyhdi gadvnvɂisda. Gahlgwǒ:gi àhlíɂilǐ:sv gà:nigī.|
-000814|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
-000815|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
-000816|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
-000817|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
+000812|04-m-walc1|chr|wav/0984-Chapter_8_8.1_8.1.15-000015355.wav|||wijiyv̌:hā, De:jinhdóhgv̋hno de:jinv:galā. Nǒ:gwúle uhli̋:sda Gadawǒ:jā.|
+000813|04-m-walc1|chr|wav/0985-Chapter_8_8.1_8.1.15-000024165.wav|||Gadawó:ɂohna, de:ganìwǒ:jā. Deganiwoɂohnahno i:ga e̋:hi.|
+000814|04-m-walc1|chr|wav/0986-Chapter_8_8.1_8.1.15-000031695.wav|||álsdàyhdi gadvnvɂisda. Gahlgwǒ:gi àhlíɂilǐ:sv gà:nigī.|
+000815|04-m-walc1|chr|wav/0987-Chapter_8_8.1_8.1.2-000000135.wav|||iyè:gi|
+000816|04-m-walc1|chr|wav/0988-Chapter_8_8.1_8.1.3-000000135.wav|||Gadv:nv́:ɂisdíha|
+000817|04-m-walc1|chr|wav/0989-Chapter_8_8.1_8.1.4-000000000.wav|||Gadawǒ:jā|
+000818|04-m-walc1|chr|wav/0990-Chapter_8_8.1_8.1.5-000000285.wav|||De:jinidóhgv̋|
+000819|04-m-walc1|chr|wav/0991-Chapter_8_8.1_8.1.5-000002695.wav|||de:jinv:galā|
+000820|04-m-walc1|chr|wav/0992-Chapter_8_8.1_8.1.6-000000000.wav|||De:jî:tě:sga|
+000821|04-m-walc1|chr|wav/0993-Chapter_8_8.1_8.1.7-000000000.wav|||Dǒ:yi e:dà:sdi wijiyv̌:hā.|
+000822|04-m-walc1|chr|wav/0995-Chapter_8_8.1_8.1.9-000000000.wav|||de:ganìwǒ:jā|
+000823|04-m-walc1|chr|wav/0996-Chapter_8_8.2_8.2.1-000000000.wav|||Gá:gō gawó:niha?|
+000824|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000825|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000826|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
+000827|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|

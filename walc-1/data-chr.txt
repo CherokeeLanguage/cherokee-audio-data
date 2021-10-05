@@ -809,5 +809,15 @@
 04-m-walc1|mp3/0980-Chapter_8_8.1_8.1.13-000000000.mp3|Álsdàyhdi gadv:nv:ɂisdā
 04-m-walc1|mp3/0981-Chapter_8_8.1_8.1.14-000000000.mp3|Dihnawo deji:tv́:lā
 04-m-walc1|mp3/0982-Chapter_8_8.1_8.1.15-000000000.mp3|Kò:hi̋ Saná:le̋, Sǔ:dáli àhlíɂilǐ:sv Jiyé:gī.
+04-m-walc1|mp3/0984-Chapter_8_8.1_8.1.15-000015355.mp3|wijiyv̌:hā, De:jinhdóhgv̋hno de:jinv:galā. Nǒ:gwúle uhli̋:sda Gadawǒ:jā.
 04-m-walc1|mp3/0985-Chapter_8_8.1_8.1.15-000024165.mp3|Gadawó:ɂohna, de:ganìwǒ:jā. Deganiwoɂohnahno i:ga e̋:hi.
 04-m-walc1|mp3/0986-Chapter_8_8.1_8.1.15-000031695.mp3|álsdàyhdi gadvnvɂisda. Gahlgwǒ:gi àhlíɂilǐ:sv gà:nigī.
+04-m-walc1|mp3/0987-Chapter_8_8.1_8.1.2-000000135.mp3|iyè:gi
+04-m-walc1|mp3/0988-Chapter_8_8.1_8.1.3-000000135.mp3|Gadv:nv́:ɂisdíha
+04-m-walc1|mp3/0989-Chapter_8_8.1_8.1.4-000000000.mp3|Gadawǒ:jā
+04-m-walc1|mp3/0990-Chapter_8_8.1_8.1.5-000000285.mp3|De:jinidóhgv̋
+04-m-walc1|mp3/0991-Chapter_8_8.1_8.1.5-000002695.mp3|de:jinv:galā
+04-m-walc1|mp3/0992-Chapter_8_8.1_8.1.6-000000000.mp3|De:jî:tě:sga
+04-m-walc1|mp3/0993-Chapter_8_8.1_8.1.7-000000000.mp3|Dǒ:yi e:dà:sdi wijiyv̌:hā.
+04-m-walc1|mp3/0995-Chapter_8_8.1_8.1.9-000000000.mp3|de:ganìwǒ:jā
+04-m-walc1|mp3/0996-Chapter_8_8.2_8.2.1-000000000.mp3|Gá:gō gawó:niha?
