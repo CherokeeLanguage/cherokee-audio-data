@@ -1,14 +1,14 @@
 Folder: walc-1
-Total duration [chr]: 25:45
+Total duration [chr]: 26:58
 Shortest duration [chr]: 00.58
-Longest duration [chr]: 09.38
+Longest duration [chr]: 10.05
 
 Total duration [en]: 0:06
 Shortest duration [en]: 00.74
 Longest duration [en]: 02.89
 
-Train size: 749
-Val size: 40
-All size: 789
+Train size: 776
+Val size: 41
+All size: 817
 
 

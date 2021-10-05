@@ -783,3 +783,31 @@
 06-f-walc1|mp3/0942-Chapter_7_7.8_7.8_Walk_Past-000007495.mp3|à:ná:ɂi:sv̌:ɂi. I:dá:ɂi:sv̌:ɂi.
 06-f-walc1|mp3/0943-Chapter_7_7.8_7.8_Walk_Present-000000225.mp3|Gá:ɂi.
 06-f-walc1|mp3/0944-Chapter_7_7.8_7.8_Walk_Present-000001575.mp3|Há:ɂi. Á:ɂi. à:ná:ɂi. I:dá:ɂi.
+06-f-walc1|mp3/0950-Chapter_7_7.9_7.9.1-000024645.mp3|Sǐ:gwuhno hle̋:ga u:ktǐ:dî:sdiɂi, jǐ:yu ahlawi:tdi̋:sgi ù:go:hnǐ:yô:ga. Já:niɂhno do:hiyu ù:wa:nv́:ga
+06-f-walc1|mp3/0951-Chapter_7_7.9_7.9.1-000034965.mp3|Jǐ:yu u:jò:di.
+06-f-walc1|mp3/0952-Chapter_7_7.9_7.9.10-000000000.mp3|ù:wa:nv́:ga
+06-f-walc1|mp3/0954-Chapter_7_7.9_7.9.11-000009835.mp3|I̋:na ǐ:digati dà:da:ně:la.
+06-f-walc1|mp3/0955-Chapter_7_7.9_7.9.11-000013305.mp3|Nahnosgwu ǔ:gò:di ju:dale:hnv̋:da jù:nalsdàyhdi̋.
+06-f-walc1|mp3/0958-Chapter_7_7.9_7.9.12-000000000.mp3|Ǔ:tani ga:dú:hv̋:ɂi
+06-f-walc1|mp3/0959-Chapter_7_7.9_7.9.13-000000165.mp3|à:nò:séhóɂi
+06-f-walc1|mp3/0960-Chapter_7_7.9_7.9.14-000000000.mp3|ju:dale:hnv̋:da
+06-f-walc1|mp3/0961-Chapter_7_7.9_7.9.15-000000000.mp3|Dà:da:náɂnv̋:i
+06-f-walc1|mp3/0962-Chapter_7_7.9_7.9.16-000000195.mp3|I̋:na ǐ:digati
+06-f-walc1|mp3/0963-Chapter_7_7.9_7.9.17-000000000.mp3|Dà:da:ně:lv̋
+06-f-walc1|mp3/0964-Chapter_7_7.9_7.9.18-000000000.mp3|ǔ:gò:di
+06-f-walc1|mp3/0965-Chapter_7_7.9_7.9.19-000000000.mp3|jù:nalsdàyhdi̋ɂi
+06-f-walc1|mp3/0966-Chapter_7_7.9_7.9.2-000000000.mp3|dì:ktǐ:ya
+06-f-walc1|mp3/0970-Chapter_7_7.9_7.9.4-000000000.mp3|Iyú:nadǒ:dagwà:sdi
+06-f-walc1|mp3/0971-Chapter_7_7.9_7.9.5-000000000.mp3|Ǐ:gó:hi̋:da
+06-f-walc1|mp3/0972-Chapter_7_7.9_7.9.6-000000000.mp3|wè:dó:hé:sdi
+06-f-walc1|mp3/0974-Chapter_7_7.9_7.9.8-000000000.mp3|Nà:hiyű
+06-f-walc1|mp3/0975-Chapter_7_7.9_7.9.9-000000000.mp3|Ù:go:hnǐ:yô:ga
+04-m-walc1|mp3/0976-Chapter_8_8.1_8.1.1-000000605.mp3|Gadi:dí:ɂa
+04-m-walc1|mp3/0977-Chapter_8_8.1_8.1.10-000000000.mp3|Gà:nigī
+04-m-walc1|mp3/0978-Chapter_8_8.1_8.1.11-000000000.mp3|De:gálâ:su:hlv̂:gā
+04-m-walc1|mp3/0979-Chapter_8_8.1_8.1.12-000000575.mp3|Galì:tawǒ:jā
+04-m-walc1|mp3/0980-Chapter_8_8.1_8.1.13-000000000.mp3|Álsdàyhdi gadv:nv:ɂisdā
+04-m-walc1|mp3/0981-Chapter_8_8.1_8.1.14-000000000.mp3|Dihnawo deji:tv́:lā
+04-m-walc1|mp3/0982-Chapter_8_8.1_8.1.15-000000000.mp3|Kò:hi̋ Saná:le̋, Sǔ:dáli àhlíɂilǐ:sv Jiyé:gī.
+04-m-walc1|mp3/0985-Chapter_8_8.1_8.1.15-000024165.mp3|Gadawó:ɂohna, de:ganìwǒ:jā. Deganiwoɂohnahno i:ga e̋:hi.
+04-m-walc1|mp3/0986-Chapter_8_8.1_8.1.15-000031695.mp3|álsdàyhdi gadvnvɂisda. Gahlgwǒ:gi àhlíɂilǐ:sv gà:nigī.
