@@ -194,7 +194,7 @@
 000194|03-f-walc1|chr|wav/0211-Chapter_3_3.5_3.5.1-000013205.wav|||Gahlgwǒ:gi iyagwade:tiyv̋:da. Nǎ:gwu na jigi Tvlsi Jině:la A:sé:hno gò:di Ganv:hi̋:da,|
 000195|03-f-walc1|chr|wav/0212-Chapter_3_3.5_3.5.1-000022565.wav|||Oklahoma|
 000196|03-f-walc1|chr|wav/0213-Chapter_3_3.5_3.5.1-000024365.wav|||Digé:gv̌ɂi.|
-000197|03-f-walc1|chr|wav/0214-Chapter_3_3.5_3.5.1-000026665.wav|||Jalagi degadè:lohgwáɂa alesgwu dijalagi degadè:lohgwáɂa digigo:lǐ:yê:diɂi̋|
+000197|03-f-walc1|chr|wav/0214-Chapter_3_3.5_3.5.1-000026665.wav|||Jalagi degadè:lohgwáɂa alesgwu dijalagi degadè:lohgwáɂa digigo:lǐ:yê:di̋|
 000198|03-f-walc1|chr|wav/0216-Chapter_3_3.5_3.5.1-000042505.wav|||yà:gwadǔ:la|
 000199|03-f-walc1|chr|wav/0217-Chapter_3_3.5_3.5.1-000044545.wav|||degade:hlohgwáɂohnv̌:ɂi.|
 000200|03-f-walc1|chr|wav/0218-Chapter_3_3.5_3.5.2-000000465.wav|||Degade:hlohgwáɂohnv̌:ɂi|
@@ -621,7 +621,7 @@
 000621|04-f-walc1|chr|wav/0744-Chapter_6_6.7_6.7.13-000000000.wav|||Hna!|
 000622|04-f-walc1|chr|wav/0745-Chapter_6_6.7_6.7.14-000000000.wav|||Ni!|
 000623|04-f-walc1|chr|wav/0746-Chapter_6_6.7_6.7.14-000001445.wav|||higo:hwahtaju?|
-000624|04-f-walc1|chr|wav/0747-Chapter_6_6.7_6.7.15-000000000.wav|||Nű:la! à:lsdàyvhdiɂi!|
+000624|04-f-walc1|chr|wav/0747-Chapter_6_6.7_6.7.15-000000000.wav|||Nű:la! à:lsdàyvhdi̋ɂi!|
 000625|04-f-walc1|chr|wav/0748-Chapter_6_6.7_6.7.16-000000315.wav|||Si! WiGá:ɂi.|
 000626|04-f-walc1|chr|wav/0749-Chapter_6_6.7_6.7.17-000000000.wav|||Ayo! À:kinâ:sgwaló:ja|
 000627|04-f-walc1|chr|wav/0750-Chapter_6_6.7_6.7.18-000000000.wav|||Uwo:dù:jv̌:ɂi, Dó:ka?|
@@ -727,7 +727,7 @@
 000727|06-f-walc1|chr|wav/0862-Chapter_7_7.4_7.4.11-000000155.wav|||Ha:dlv hé:ga?|
 000728|06-f-walc1|chr|wav/0863-Chapter_7_7.4_7.4.12-000000000.wav|||Ha:dlv hwikti?|
 000729|06-f-walc1|chr|wav/0864-Chapter_7_7.4_7.4.13-000000000.wav|||Jǔ:gá:nawv̋ idí:dla wò:jigti.|
-000730|06-f-walc1|chr|wav/0865-Chapter_7_7.4_7.4.14-000000245.wav|||Di:gilv̌:hwísdà:nehdiɂi Gé:ga.|
+000730|06-f-walc1|chr|wav/0865-Chapter_7_7.4_7.4.14-000000245.wav|||Di:gilv̌:hwísdà:nehdi̋ɂi Gé:ga.|
 000731|06-f-walc1|chr|wav/0866-Chapter_7_7.4_7.4.2-000000175.wav|||Jǔ:gá:nawv̋ɂi|
 000732|06-f-walc1|chr|wav/0867-Chapter_7_7.4_7.4.3-000000325.wav|||Galv́:ladi|
 000733|06-f-walc1|chr|wav/0868-Chapter_7_7.4_7.4.4-000000000.wav|||aye̋:hli|
@@ -783,7 +783,7 @@
 000783|06-f-walc1|chr|wav/0942-Chapter_7_7.8_7.8_Walk_Past-000007495.wav|||à:ná:ɂi:sv̌:ɂi. I:dá:ɂi:sv̌:ɂi.|
 000784|06-f-walc1|chr|wav/0943-Chapter_7_7.8_7.8_Walk_Present-000000225.wav|||Gá:ɂi.|
 000785|06-f-walc1|chr|wav/0944-Chapter_7_7.8_7.8_Walk_Present-000001575.wav|||Há:ɂi. Á:ɂi. à:ná:ɂi. I:dá:ɂi.|
-000786|06-f-walc1|chr|wav/0950-Chapter_7_7.9_7.9.1-000024645.wav|||Sǐ:gwuhno hle̋:ga u:ktǐ:dî:sdiɂi, jǐ:yu ahlawi:tdi̋:sgi ù:go:hnǐ:yô:ga. Já:niɂhno do:hiyu ù:wa:nv́:ga|
+000786|06-f-walc1|chr|wav/0950-Chapter_7_7.9_7.9.1-000024645.wav|||Sǐ:gwuhno hle̋:ga u:ktǐ:dî:sdi̋ɂi, jǐ:yu ahlawi:tdi̋:sgi ù:go:hnǐ:yô:ga. Já:niɂhno do:hiyu ù:wa:nv́:ga|
 000787|06-f-walc1|chr|wav/0951-Chapter_7_7.9_7.9.1-000034965.wav|||Jǐ:yu u:jò:di.|
 000788|06-f-walc1|chr|wav/0952-Chapter_7_7.9_7.9.10-000000000.wav|||ù:wa:nv́:ga|
 000789|06-f-walc1|chr|wav/0954-Chapter_7_7.9_7.9.11-000009835.wav|||I̋:na ǐ:digati dà:da:ně:la.|
@@ -821,7 +821,16 @@
 000821|04-m-walc1|chr|wav/0993-Chapter_8_8.1_8.1.7-000000000.wav|||Dǒ:yi e:dà:sdi wijiyv̌:hā.|
 000822|04-m-walc1|chr|wav/0995-Chapter_8_8.1_8.1.9-000000000.wav|||de:ganìwǒ:jā|
 000823|04-m-walc1|chr|wav/0996-Chapter_8_8.2_8.2.1-000000000.wav|||Gá:gō gawó:niha?|
-000824|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
-000825|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
-000826|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
-000827|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
+000824|04-m-walc1|chr|wav/0997-Chapter_8_8.2_8.2.10-000000000.wav|||Jalagiju sdiwó:ni̋:sgi?|
+000825|04-m-walc1|chr|wav/0998-Chapter_8_8.2_8.2.11-000000000.wav|||À:de:hlohgwáɂa uwò:nǐ:hisdi̋:ɂi.|
+000826|04-m-walc1|chr|wav/0999-Chapter_8_8.2_8.2.12-000000175.wav|||Jalagi dv̀:niwó:ni:si di:ni:yő:hli.|
+000827|04-m-walc1|chr|wav/1000-Chapter_8_8.2_8.2.13-000000000.wav|||Nǔ:dále̋ aniwó:niha.|
+000828|04-m-walc1|chr|wav/1001-Chapter_8_8.2_8.2.14-000000000.wav|||Jalagi hihlíno:he:da.|
+000829|04-m-walc1|chr|wav/1002-Chapter_8_8.2_8.2.15-000000000.wav|||Kò:hi̋|
+000830|04-m-walc1|chr|wav/1003-Chapter_8_8.2_8.2.15-000001435.wav|||jò:sdà:hlino:hě:sgv̌.|
+000831|04-m-walc1|chr|wav/1004-Chapter_8_8.2_8.2.2-000000000.wav|||Na a:nitaɂli aniwó:niha.|
+000832|04-m-walc1|chr|wav/1005-Chapter_8_8.2_8.2.3-000000000.wav|||Gadō u:sdi hì:no:héha?|
+000833|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000834|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000835|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
+000836|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|

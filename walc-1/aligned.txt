@@ -211,7 +211,7 @@ Yó:ne:ga Gv̋:hdi. Táɂlsgǒ:hi
 Gahlgwǒ:gi iyagwade:tiyv̋:da. Nǎ:gwu na jigi Tvlsi Jině:la A:sé:hno gò:di Ganv:hi̋:da,
 Oklahoma
 Digé:gv̌ɂi.
-Jalagi degadè:lohgwáɂa alesgwu dijalagi degadè:lohgwáɂa digigo:lǐ:yê:diɂi̋
+Jalagi degadè:lohgwáɂa alesgwu dijalagi degadè:lohgwáɂa digigo:lǐ:yê:di̋
 x digwowelodiɂhno. Jalagi digwadeyodi
 yà:gwadǔ:la
 degade:hlohgwáɂohnv̌:ɂi.
@@ -685,7 +685,7 @@ ahyahtě:no.
 Na asgaya, Agě:hya
 ganv:gwalő:sdi Gv̋:hdi Gv:hníha.
 Idí:dla
-x Na Agě:hya ale aya dijododi julewisdodiɂi dí:dla wosdaɂi.
+x Na Agě:hya ale aya dijododi julewisdodi̋ɂi dí:dla wosdaɂi.
 Amé:gwő idí:dla à:né:ga.
 Naɂv̋:ɂi
 V:dali Naɂv̋:ɂi dù:nǒ:hlv́:ɂi.
@@ -744,7 +744,7 @@ Nű:la! Ina:hnigi!
 Hna!
 Ni!
 higo:hwahtaju?
-Nű:la! à:lsdàyvhdiɂi!
+Nű:la! à:lsdàyvhdi̋ɂi!
 Si! WiGá:ɂi.
 Ayo! À:kinâ:sgwaló:ja
 Uwo:dù:jv̌:ɂi, Dó:ka?
@@ -862,7 +862,7 @@ Ha:dlv?
 Ha:dlv hé:ga?
 Ha:dlv hwikti?
 Jǔ:gá:nawv̋ idí:dla wò:jigti.
-Di:gilv̌:hwísdà:nehdiɂi Gé:ga.
+Di:gilv̌:hwísdà:nehdi̋ɂi Gé:ga.
 Jǔ:gá:nawv̋ɂi
 Galv́:ladi
 aye̋:hli
@@ -942,19 +942,19 @@ Há:ɂi:sv̌:ɂi.
 à:ná:ɂi:sv̌:ɂi. I:dá:ɂi:sv̌:ɂi.
 Gá:ɂi.
 Há:ɂi. Á:ɂi. à:ná:ɂi. I:dá:ɂi.
-x Jǐ:yu junidisdiɂi di:ktǐ:ya Já:ni
+x Jǐ:yu junidisdi̋ɂi di:ktǐ:ya Já:ni
 x Ayulagwiyi
 x widayedoli,
 x joɂihno Iyú:nadǒ:dagwà:sdi Ǐ:gó:hi̋:da wè:dó:hé:sdi. Nuna anisogwilv, Italiyi, Anisgwaniyaɂi, Nǒ:gwúle
 x Anidvjiyi widodvhwatvhidoli Nà:hiyű.
-Sǐ:gwuhno hle̋:ga u:ktǐ:dî:sdiɂi, jǐ:yu ahlawi:tdi̋:sgi ù:go:hnǐ:yô:ga. Já:niɂhno do:hiyu ù:wa:nv́:ga
+Sǐ:gwuhno hle̋:ga u:ktǐ:dî:sdi̋ɂi, jǐ:yu ahlawi:tdi̋:sgi ù:go:hnǐ:yô:ga. Já:niɂhno do:hiyu ù:wa:nv́:ga
 Jǐ:yu u:jò:di.
 ù:wa:nv́:ga
 x Áhani Chicago Ǔ:tana ga:dú:hv̋:ɂi Jině:la. Yudahahno nasgi “Windy City,” anosehoɂi. Ujatihno
 I̋:na ǐ:digati dà:da:ně:la.
 Nahnosgwu ǔ:gò:di ju:dale:hnv̋:da jù:nalsdàyhdi̋.
 x degotlvha ale dadananv degotlvwadisv Áhani Ǔ:tana ga:dú:hv̋:ɂi. Nigǒ:hí:lv̋
-x udotlvso Go:hű:sdi iyadvndi ale agowatvdiɂi.
+x udotlvso Go:hű:sdi iyadvndi ale agowatvdi̋ɂi.
 Ǔ:tani ga:dú:hv̋:ɂi
 à:nò:séhóɂi
 ju:dale:hnv̋:da
@@ -964,8 +964,8 @@ Dà:da:ně:lv̋
 ǔ:gò:di
 jù:nalsdàyhdi̋ɂi
 dì:ktǐ:ya
-x Agowatvdiɂi
-x Iyadvnediɂi
+x Agowatvdi̋ɂi
+x Iyadvnedi̋ɂi
 x Ayulagwiyi
 Iyú:nadǒ:dagwà:sdi
 Ǐ:gó:hi̋:da
@@ -994,15 +994,16 @@ Dǒ:yi e:dà:sdi wijiyv̌:hā.
 x Saná:le̋ e̋:hi galisdà:yv:hv̀:ga
 de:ganìwǒ:jā
 Gá:gō gawó:niha?
+Jalagiju sdiwó:ni̋:sgi?
+À:de:hlohgwáɂa uwò:nǐ:hisdi̋:ɂi.
+Jalagi dv̀:niwó:ni:si di:ni:yő:hli.
+Nǔ:dále̋ aniwó:niha.
+Jalagi hihlíno:he:da.
+Kò:hi̋
+jò:sdà:hlino:hě:sgv̌.
+Na a:nitaɂli aniwó:niha.
+Gadō u:sdi hì:no:héha?
 
-Jalagiju sdiwonisgi?
-Adelogwaɂa uwò:nǐ:hisdiɂi.
-Jalagi dvniwonisi Di:ni:yő:hli.
-Nudale aniwó:niha.
-Jalagi hilinoheda.
-Kò:hi̋ josdatlinohesgv.
-Na anitaɂli aniwó:niha.
-Gadō u:sdi hinoheha?
 Kohiyv dayojiwonisi.
 Inatlanohetlvɂi.
 Ő:sda jinatlanohvli.
@@ -1034,11 +1035,11 @@ Dejvyadanilvgi.
 Ijanaɂvga.
 x Ihedolvɂi.
 Halisdelagwu!
-Alsdayhdiɂi!
+Alsdayhdi̋ɂi!
 Jayosihaɂju?
 Inalisdayvhnuga!
 Gadō u:sdi tigi?
-Junalisdayvdiɂi.
+Junalisdayvdi̋ɂi.
 Gadō u:sdi hv:hnisdíha?
 Ojada:sdâ:yv:hvsga.
 Telido
@@ -1047,7 +1048,7 @@ Ahyelsdi
 E:li̋:gwuju?
 Gaduju digvjatlvnvɂi dunaduliha?
 yà:gwadǔ:la agigisdi.
-Nogwuju igadvnvstanvɂi igadanvsdiɂi?
+Nogwuju igadvnvstanvɂi igadanvsdi̋ɂi?
 Ama desginehvsi.
 Gadu ale hawiya dodiskvsi.
 Tuya gadu, selu gadu ale nuna
@@ -1058,10 +1059,10 @@ Kǎ:hwiju jagaɂa?
 Di:ni:yő:hli Nigǒ:hí:lv̋ duniyosisgoɂi.
 Ha:dlv idalisdayvnega?
 Dejiyosiju?
-Alsdayvhdiɂi kanvsulv
+Alsdayvhdi̋ɂi kanvsulv
 Yvgi
 Aditohdi
-Gadō u:sdi ijadu:lí ijigisdiɂi?
+Gadō u:sdi ijadu:lí ijigisdi̋ɂi?
 Hawiya
 Hawiya gvjatlvnv
 Gelisgi
@@ -1134,7 +1135,7 @@ Aha
 Jiya
 Gvnosasdi jiya hyatenoɂi.
 Gi:hli ganhga
-ayesdvdiɂi.
+ayesdvdi̋ɂi.
 Gadō u:sdi
 x jaha Áhani?
 Ama desginehvsi.
