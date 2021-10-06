@@ -336,8 +336,8 @@ aye̋:hli
 Hiksgohi Adě:lv
 À:kiwásga.
 Dvkihwasi. Dajahwasi. Dayù:hwasi. Dayù:nihwasi. Dà:gihwasi.
-Akihwasgā. Jahwasgā. ù:hwasgā. ù:nihwasgā. Igihwasgā.
-Akihwasv̌:ɂi. Jahwasv̌:ɂi. ù:hwasv̌:ɂi. ù:nihwasv̌:ɂi. Igihwasv̌:ɂi.
+Akihwasgā. Jahwasgā. ù:hwasgā. ù:nihwasgā. Ì:gihwasgā.
+Akihwasv̌:ɂi. Jahwasv̌:ɂi. ù:hwasv̌:ɂi. ù:nihwasv̌:ɂi. Ì:gihwasv̌:ɂi.
 De:gâ:sehíha. Dehâ:sehíha. Dâ:sehíha. Da:nâ:sehíha. Dè:dâ:sehíha.
 Degaségā. Dehaségā. Daségā. Da:naségā. Dè:daségā.
 Daksehlv́:ɂi. Dehasehlv́:ɂi. Dù:sehlv́:ɂi. Dù:nasehlv́:ɂi. Dè:gasehlv́:ɂi.
@@ -441,7 +441,7 @@ E:do:da
 È:du:ji
 e:lí:si
 È:dù:da
-x I:gido
+x Ì:gido
 x AniKawi
 x dijayvwi
 x Anigodagewi
@@ -799,10 +799,10 @@ Jíɂluhga
 Híɂluhga
 Gaɂluhga
 à:niɂluhga.
-i:diɂluhga
+ì:diɂluhga
 à:gilúhjv̌
 Jalúhjv̌:ɂi. Ù:lúhjv̌:ɂi.
-Ù:nilúhjv̌:ɂi. I:gilúhjv̌:ɂi
+Ù:nilúhjv̌:ɂi. Ì:gilúhjv̌:ɂi
 Dagě:dô:li
 Tě:dô:li
 Dayě:dô:li
@@ -810,29 +810,29 @@ Dv̀:ně:dô:li
 Dà:dě:dô:li
 Gě:da. Hě:da. ě:da.
 À:ně:da.
-I:dě:da
+Ì:dě:da
 Ge:dó:ha
 He:dó:ha
 E:dó:ha
 À:ne:dó:ha
-I:de:dó:ha
+Ì:de:dó:ha
 À:gwě:dô:lv̌:ɂi
 Jě:dô:lv̌:ɂi
 Ù:wě:dô:lv̌:ɂi
 Ù:ně:dô:lv̌:ɂi
-I:gě:dô:lv̌:ɂi
+Ì:gě:dô:lv̌:ɂi
 Dagé:si
 Té:si. Dayé:si. Dvné:si. Dà:dé:si.
 Gé:ga
 hé:ga
 é:ga
 à:né:ga
-I:dé:ga
+Ì:dé:ga
 à:gwe:nv́:sv̌:ɂi
 Je:nv́:sv̌:ɂi
 ù:we:nv́:sv̌:ɂi
 ù:ne:nv́:sv̌:ɂi.
-I:ge:nv́:sv̌:ɂi.
+Ì:ge:nv́:sv̌:ɂi.
 Áhani
 Udliyvɂi
 Galv̌:ládi:dla
@@ -920,28 +920,28 @@ x A:dla Ditlaɂi
 x Ajododi
 Jiɂíɂlǐ:dô:hó:ɂi
 hihíɂlǐ:dô:hó:ɂi. ahíɂlǐ:dô:hó:ɂi.
-à:nihíɂlǐ:dô:hó:ɂi. I:dihíɂlǐ:dô:hó:ɂi.
+à:nihíɂlǐ:dô:hó:ɂi. Ì:dihíɂlǐ:dô:hó:ɂi.
 Jiɂíɂlǐ:dô:ha.
-Hihíɂlǐ:dô:ha. Ahíɂlǐ:dô:ha. À:nihíɂlǐ:dô:ha. I:dihíɂlǐ:dô:ha.
+Hihíɂlǐ:dô:ha. Ahíɂlǐ:dô:ha. À:nihíɂlǐ:dô:ha. Ì:dihíɂlǐ:dô:ha.
 Jiɂíɂlǐ:dô:hv̌:ɂi
 hihíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.
-ahíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.  I:dihíɂlǐ:dô:hv̌:ɂi.
+ahíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.  Ì:dihíɂlǐ:dô:hv̌:ɂi.
 x Dajijaneli
 x Tijaneli
 x Dvjaneli
 x Dvnajaneli. Dayedajaneli.
 x Jijaneha. Hijaneha. Ajaneha.
 x Anajaneha.
-x Idajaneha.
+x Ì:dajaneha.
 x xxx Jijanelvɂi
 x Hijanelvɂi. Ajanelvɂi. Anajanelvɂi. Edajanelvɂi.
-Gá:ɂi:sé:sdi. Há:ɂi:sé:sdi. á:ɂi:sé:sdi. à:ná:ɂi:sé:sdi. I:dá:ɂi:sé:sdi.
+Gá:ɂi:sé:sdi. Há:ɂi:sé:sdi. á:ɂi:sé:sdi. à:ná:ɂi:sé:sdi. Ì:dá:ɂi:sé:sdi.
 Gá:ɂi:sv̌:ɂi.
 Há:ɂi:sv̌:ɂi.
 á:ɂi:sv̌:ɂi.
-à:ná:ɂi:sv̌:ɂi. I:dá:ɂi:sv̌:ɂi.
+à:ná:ɂi:sv̌:ɂi. Ì:dá:ɂi:sv̌:ɂi.
 Gá:ɂi.
-Há:ɂi. Á:ɂi. à:ná:ɂi. I:dá:ɂi.
+Há:ɂi. Á:ɂi. à:ná:ɂi. Ì:dá:ɂi.
 x Jǐ:yu junidisdi̋ɂi di:ktǐ:ya Já:ni
 x Ayulagwiyi
 x widayedoli,
@@ -1011,18 +1011,19 @@ Jimi
 ò:sdahlino:héha
 Jalagi ale Yó:ne:ga
 dà:niwó:ni:sgó gǎ:tí:yő:ɂi.
-
-Dajilinohetani. Tilinohetani. Dvtlinohetani. Dvnatlinohetani.
-Dayedalinohetani.
-Jilinohediha. Hilinohediha. Atlinohediha. Anatlinohediha.
-Edalinohediha.
-Jilinohetanvɂi. Hilinohetanvɂi. Utlinohetanvɂi. Unatlinohetanvɂi.
-Edalinohetanvɂi.
-Dajiwonisi. Tiwonisi. Dagawonisi. Dvniwonisi. Dadiwonisi.
-Jiwó:niha. Hiwó:niha. Gawó:niha. Aniwó:niha. Idiwó:niha.
-Agiwonisvɂi. Jawonisvɂi. Uwonisvɂi. Uniwonisvɂi.
-Igiwonisvɂi|0977-Chapter_8-8.2-8.2_Speak_Remote_Past-010095.mp3
+x Dajilinohetani. Tilinohetani. Dvtlinohetani. Dvnatlinohetani.
+x Dayedalinohetani.
+x Jilinohediha. Hilinohediha. Atlinohediha. Anatlinohediha.
+x Edalinohediha.
+x Jilinohetanvɂi. Hilinohetanvɂi. Utlinohetanvɂi. Unatlinohetanvɂi.
+x Edalinohetanvɂi.
+Da:jiwó:ni:si. Tiwó:ni:si. Da:gawó:ni:si.
+Dv̀:niwó:ni:si. Dà:diwó:ni:si.
+Jiwó:niha. Hiwó:niha. Gawó:niha. À:niwó:niha. Ì:diwó:niha.
+À:giwó:ni:sv̌:ɂi.
+Jawó:ni:sv̌:ɂi. Ù:wó:ni:sv̌:ɂi. Ù:niwó:ni:sv̌:ɂi. Ì:giwó:ni:sv̌:ɂi.
 Gahljǒ:de!
+
 Jayosihaju?
 Kǎ:hwiju jadu:líɂa?
 Jatadegiɂju?
