@@ -838,9 +838,32 @@
 04-m-walc1|mp3/1011-Chapter_8_8.2_8.2.8-000001765.mp3|ò:sdahlino:héha
 04-m-walc1|mp3/1012-Chapter_8_8.2_8.2.9-000000000.mp3|Jalagi ale Yó:ne:ga
 04-m-walc1|mp3/1013-Chapter_8_8.2_8.2.9-000003575.mp3|dà:niwó:ni:sgó gǎ:tí:yő:ɂi.
-04-m-walc1|mp3/1020-Chapter_8_8.2_8.2_Speak_Future-000000000.mp3|Da:jiwó:ni:si. Tiwó:ni:si. Dagawó:ni:s.
+04-m-walc1|mp3/1020-Chapter_8_8.2_8.2_Speak_Future-000000000.mp3|Da:jiwó:ni:si. Tiwó:ni:si. Da:gawó:ni:si.
 04-m-walc1|mp3/1021-Chapter_8_8.2_8.2_Speak_Future-000005955.mp3|Dv̀:niwó:ni:si. Dà:diwó:ni:si.
 04-m-walc1|mp3/1022-Chapter_8_8.2_8.2_Speak_Present-000000195.mp3|Jiwó:niha. Hiwó:niha. Gawó:niha. À:niwó:niha. Ì:diwó:niha.
 04-m-walc1|mp3/1023-Chapter_8_8.2_8.2_Speak_Remote_Past-000000000.mp3|À:giwó:ni:sv̌:ɂi.
 04-m-walc1|mp3/1024-Chapter_8_8.2_8.2_Speak_Remote_Past-000002865.mp3|Jawó:ni:sv̌:ɂi. Ù:wó:ni:sv̌:ɂi. Ù:niwó:ni:sv̌:ɂi. Ì:giwó:ni:sv̌:ɂi.
 04-m-walc1|mp3/1025-Chapter_8_8.3_8.3.1-000000000.mp3|Gahljǒ:de!
+04-m-walc1|mp3/1026-Chapter_8_8.3_8.3.10-000000000.mp3|Jayó:sihaju?
+04-m-walc1|mp3/1027-Chapter_8_8.3_8.3.11-000000000.mp3|Kǎ:hwiju jadu:líɂa?
+04-m-walc1|mp3/1028-Chapter_8_8.3_8.3.12-000000375.mp3|Jatade:gíɂju?
+04-m-walc1|mp3/1029-Chapter_8_8.3_8.3.13-000000235.mp3|Go:hű:sdiju jagì:sdi jadu:líɂa?
+04-m-walc1|mp3/1030-Chapter_8_8.3_8.3.14-000000000.mp3|ì:jě:dô:lv:ɂi
+04-m-walc1|mp3/1031-Chapter_8_8.3_8.3.2-000000000.mp3|ehiyv̌:ha
+04-m-walc1|mp3/1032-Chapter_8_8.3_8.3.3-000000000.mp3|Ejiyv̌:ha
+04-m-walc1|mp3/1033-Chapter_8_8.3_8.3.4-000000445.mp3|De:gv:yadani:lv́:gi.
+04-m-walc1|mp3/1034-Chapter_8_8.3_8.3.5-000000000.mp3|Dè:jv:yadani:lv́:gi.
+04-m-walc1|mp3/1037-Chapter_8_8.3_8.3.8-000000000.mp3|Halisdě:lagwu!
+04-m-walc1|mp3/1038-Chapter_8_8.3_8.3.9-000000000.mp3|a:lsdàyhdi̋:ɂi!
+04-m-walc1|mp3/1039-Chapter_8_8.4_8.4.1-000000000.mp3|Jayó:sihaju?
+04-m-walc1|mp3/1040-Chapter_8_8.4_8.4.10-000000000.mp3|Ì:nalisdâ:yv:hnú:ga!
+04-m-walc1|mp3/1041-Chapter_8_8.4_8.4.11-000000165.mp3|Gadō u:sdi tigi?
+04-m-walc1|mp3/1042-Chapter_8_8.4_8.4.12-000000000.mp3|Jù:nà:lsdàyhdi̋:ɂi.
+04-m-walc1|mp3/1043-Chapter_8_8.4_8.4.13-000000475.mp3|Gadō u:sdi hv:hnisdíha?
+04-m-walc1|mp3/1044-Chapter_8_8.4_8.4.14-000000945.mp3|Ojada:sdâ:yv:hvsga.
+04-m-walc1|mp3/1045-Chapter_8_8.4_8.4.15-000000000.mp3|te:lǐ:do
+04-m-walc1|mp3/1046-Chapter_8_8.4_8.4.16-000000000.mp3|Adǐ:tasdi
+04-m-walc1|mp3/1047-Chapter_8_8.4_8.4.17-000000000.mp3|Ahyelsdi
+04-m-walc1|mp3/1048-Chapter_8_8.4_8.4.18-000000000.mp3|E:li̋:gwuju?
+04-m-walc1|mp3/1049-Chapter_8_8.4_8.4.19-000000000.mp3|Ga̋:duju digv:jahlánv̋:ɂi dù:nadu:líha?
+04-m-walc1|mp3/1050-Chapter_8_8.4_8.4.2-000000000.mp3|yà:gwadǔ:la agigisdi.
