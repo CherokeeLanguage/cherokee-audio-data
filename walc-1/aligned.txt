@@ -117,7 +117,7 @@ Kò:hi̋ sv:hiye̋:yi, ò:jada:sdâ:yv:hvsgesdi.
 Igv̌:yiɂhno, sv̀:gi ale unvgu:hǐ:sdí:sgi dejigv:halǐ:sgesdi.
 Ő:sda
 nigvnehesdi sugeda.
-Ugama ò:jadvnvɂisdisgesdi.
+Ǔ:gáma ò:jadvnvɂisdisgesdi.
 Gawó:niha. Uwonisvɂi.
 Analì:sdâ:yv:hv́sga. Ù:nalsdayvhnvɂi.
 Sdigo:lǐ:yéɂa. Sdigoliyeɂvɂi.
@@ -573,7 +573,7 @@ x Agwadanuhldi. Jinala.
 x O:sígwu nagwadvhnadega.
 Ujò:séhdi à:gwadanhta
 x À:kdlv́:ga
-x U:do:hiyű osaɂni à:gwadanhta.
+x U:do:hiyű osÁɂni à:gwadanhta.
 Dà:gwadalé:cheha
 Tò:hi̋:ju?
 Galiɂě:lî:ga
@@ -945,7 +945,7 @@ Há:ɂi. Á:ɂi. à:ná:ɂi. Ì:dá:ɂi.
 x Jǐ:yu junidisdi̋ɂi di:ktǐ:ya Já:ni
 x Ayulagwiyi
 x widayedoli,
-x joɂihno Iyú:nadǒ:dagwà:sdi Ǐ:gó:hi̋:da wè:dó:hé:sdi. Nuna anisogwilv, Italiyi, Anisgwaniyaɂi, Nǒ:gwúle
+x joɂihno Iyú:nadǒ:dagwà:sdi Ǐ:gó:hi̋:da wè:dó:hé:sdi. Nǔ:na anisogwilv, Italiyi, Anisgwaniyaɂi, Nǒ:gwúle
 x Anidvjiyi widodvhwatvhidoli Nà:hiyű.
 Sǐ:gwuhno hle̋:ga u:ktǐ:dî:sdi̋ɂi, jǐ:yu ahlawi:tdi̋:sgi ù:go:hnǐ:yô:ga. Já:niɂhno do:hiyu ù:wa:nv́:ga
 Jǐ:yu u:jò:di.
@@ -1050,64 +1050,64 @@ Ga̋:duju digv:jahlánv̋:ɂi dù:nadu:líha?
 yà:gwadǔ:la agigisdi.
 x Nǒ:gwuju igadvnvstanvɂi Ì:gadanv̌:sdi̋ɂi?
 Ama de:sgi:né:hv̀:si.
-
-Gadu ale hawiya dodiskvsi.
-Tuya gadu, selu gadu ale nuna
-dogitlaha.
+Ga̋:du ale Hawi:ya dò:diskv̀:si.
+Tǔ:ya Ga̋:du, Sě:lu Ga̋:du ale Nǔ:na
+x dogitlaha.
 E:li̋:gwudv.
-Gadō u:sdi jvhnisda?
-Kǎ:hwiju jagaɂa?
-Di:ni:yő:hli Nigǒ:hí:lv̋ duniyosisgoɂi.
-Ha:dlv idalisdayvnega?
-Dejiyosiju?
-Alsdayvhdi̋ɂi kanvsulv
-Yvgi
-Aditohdi
+Gadō u:sdi jv:hnisda?
+x Kǎ:hwiju jagaɂa?
+Di:ni:yő:hli nigǒ:hí:lv̋ dù:niyó:si:sgó:ɂi.
+Ha:dlv ì:dalsdâ:yv:hné:ga?
+Dè:jiyó:siju?
+à:lsdàyhdi̋:ɂi kanv́:su:lv̋
+Yv:gi
+Adi:tóhdi
 Gadō u:sdi ijadu:lí ijigisdi̋ɂi?
-Hawiya
-Hawiya gvjatlvnv
-Gelisgi
-Gadu
-U:nv̌:di gaduhnvɂi
-Kaliseji
-Gadu uganasda
+Hawi:ya
+Hawi:ya gv:jahlv́nv́.
+Ge:li̋:stgi
+Ga̋:du
+U:nv̌:di ga:du:hnv̋:ɂi
+Kalisě:ji
+Ga̋:dū u:gana̋:sda
 Kǎ:hwi
-Inage e̋:hi svgi
-Ama
-Ugaloga aganvhi
-Ugama
-Nuna
-Digalvnvhi
-Asusdi
-Udatanvhi
-Juweji
-Agosdagisdi
-Nuna digvjatlvnv
-Gadu digvjatlvnvɂi
-Unitelvladi
-Asuyanaɂv
+Ǐ:náge̋ e̋:hi Sv̀:gi
+Ama.
+U:galǒ:ga à:ganv̋:hi
+Ǔ:gáma
+Nǔ:na
+Digalv̀:nv:hi
+Asú:sdi
+x Udatanvhi
+Juwě:ji
+Agó:sdagî:sdi
+Nǔ:na digv:jahlánv̋.
+Ga̋:du digv:jahlánv̋:ɂi
+x Unitelvladi
+x Asuyanaɂv
 Ajaɂdi
-Gotlvhnvɂi
-Dikwayodi
+Go:hlv:hnv̋:ɂi
+Di:kwayő:di
 x Unijilv unihyvsdi
-Ama
+Á:ma
 U:nv̌:di
-Udanehnv
-Ganvji
-Sikwa hawiya
-Ahawi hawiya
-Aɂni
-Selu
-Nuna disdagayvtanv
-Gvna
-Nuna gadawitanvɂi
-Selu gadu
+x Udanehnv
+Ganv̀:ji
+Sihgwa Hawi:ya
+Ahawi Hawi:ya
+Áɂni
+Sě:lu
+x Nǔ:na disdagayvtanv
+Gv́:na
+x Nǔ:na gadawitanvɂi
+Sě:lu Ga̋:du
+
 Asdvhatli
 Ganohena
-Tuya
+Tǔ:ya
 Daligwa
 Unvguhisdisgi
-Svgi
+Sv̀:gi
 Sugeda
 Ganhga|1064-Chapter_8-8.6-8.6.1-000285.mp3
 Asgaya Kǎ:hwi aginehvsi.
@@ -1118,7 +1118,7 @@ Duya dodiskvsi.
 Gadō u:sdi chvsi?
 Gadu
 hwiɂvsi.
-Tuya witiɂvsi.
+Tǔ:ya witiɂvsi.
 go:hwe:li sginvsi.
 x Digo:hwe:li dodisginvsi.
 x Digo:hwe:li dodisginvsi.
