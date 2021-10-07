@@ -964,7 +964,11 @@
 000964|04-m-walc1|chr|wav/1164-Chapter_8_8.7_8.7.13-000000555.wav|||À:nâ:ga:líha|
 000965|04-m-walc1|chr|wav/1165-Chapter_8_8.7_8.7.14-000000000.wav|||À:hyv:dagwalóɂa|
 000966|04-m-walc1|chr|wav/1166-Chapter_8_8.7_8.7.15-000000000.wav|||Tő:ɂi|
-000967|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
-000968|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
-000969|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
-000970|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
+000967|04-m-walc1|chr|wav/1167-Chapter_8_8.7_8.7.16-000000000.wav|||À:hyahtv̌:hv́sga|
+000968|04-m-walc1|chr|wav/1168-Chapter_8_8.7_8.7.17-000000725.wav|||Gane:sôysga|
+000969|04-m-walc1|chr|wav/1169-Chapter_8_8.7_8.7.18-000000000.wav|||Ganě:sdáladiɂa|
+000970|04-m-walc1|chr|wav/1173-Chapter_8_8.7_8.7.21-000000000.wav|||À:ga:sgaju,|
+000971|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000972|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000973|04-f-walc1|en|wav/0671-Chapter_6_6.3_6.3.9-000001555.wav|||Good|
+000974|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|

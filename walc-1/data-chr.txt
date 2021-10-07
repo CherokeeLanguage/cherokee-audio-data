@@ -964,3 +964,7 @@
 04-m-walc1|mp3/1164-Chapter_8_8.7_8.7.13-000000555.mp3|À:nâ:ga:líha
 04-m-walc1|mp3/1165-Chapter_8_8.7_8.7.14-000000000.mp3|À:hyv:dagwalóɂa
 04-m-walc1|mp3/1166-Chapter_8_8.7_8.7.15-000000000.mp3|Tő:ɂi
+04-m-walc1|mp3/1167-Chapter_8_8.7_8.7.16-000000000.mp3|À:hyahtv̌:hv́sga
+04-m-walc1|mp3/1168-Chapter_8_8.7_8.7.17-000000725.mp3|Gane:sôysga
+04-m-walc1|mp3/1169-Chapter_8_8.7_8.7.18-000000000.mp3|Ganě:sdáladiɂa
+04-m-walc1|mp3/1173-Chapter_8_8.7_8.7.21-000000000.mp3|À:ga:sgaju,
