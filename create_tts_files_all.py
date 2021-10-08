@@ -4,8 +4,9 @@ import sys
 
 
 def main():
-    if sys.argv[0].strip() != "":
-        os.chdir(os.path.dirname(sys.argv[0]))
+    if sys.argv[0].strip():
+        if os.path.dirname(sys.argv[0]):
+            os.chdir()
 
     exec_list: list[str] = []
     for (dirpath, dirnames, filenames) in os.walk("."):

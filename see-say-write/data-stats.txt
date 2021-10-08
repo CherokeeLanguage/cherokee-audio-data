@@ -1,4 +1,4 @@
-Folder: .
+Folder: see-say-write
 Total duration [chr]: 17:02
 Shortest duration [chr]: 00.49
 Longest duration [chr]: 10.02
