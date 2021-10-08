@@ -34,7 +34,7 @@ if __name__ == "__main__":
                 fields = line.split("|")
                 speaker: str = fields[0].strip()
                 mp3: str = fields[1].strip()
-                text: str = ud.normalize("NFD", fields[2].strip())
+                text: str = ud.normalize("NFC", fields[2].strip())
                 dedupeKey = speaker + "|" + mp3 + "|" + text
                 if not text.strip():
                     continue

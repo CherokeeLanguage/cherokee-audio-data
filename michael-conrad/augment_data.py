@@ -51,7 +51,7 @@ if __name__ == "__main__":
         for line in f:
             spkr: str = line.split("|")[0].strip()
             mp3: str = line.split("|")[1].strip()
-            text: str = ud.normalize("NFD", line.split("|")[2].strip())
+            text: str = ud.normalize("NFC", line.split("|")[2].strip())
             if text == "":
                 continue
             
@@ -120,7 +120,7 @@ if __name__ == "__main__":
                         f.write("|")
                         f.write(f"{mp3_output}")
                         f.write("|")
-                        f.write(ud.normalize("NFD", current_txt.strip()))
+                        f.write(ud.normalize("NFC", current_txt.strip()))
                         f.write("\n")
                     
             speaker:str = rand.choice(speakers)

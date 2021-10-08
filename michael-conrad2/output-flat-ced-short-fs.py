@@ -21,7 +21,7 @@ if __name__ == "__main__":
     entries:list=[]
     with open(ced_text, "r") as f:
         for line in f:
-            line = ud.normalize("NFD", line)
+            line = ud.normalize("NFC", line)
             fields:list
             fields = line.split("|")
             if len(fields)<8:
