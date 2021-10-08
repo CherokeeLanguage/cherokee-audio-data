@@ -1,0 +1,945 @@
+000877|04-m-walc1|chr|wav/1061-Chapter_8_8.4_8.4.5-000000000.wav|||Dè:jiyó:siju?|
+000611|04-f-walc1|chr|wav/0734-Chapter_6_6.6_6.6.7-000002375.wav|||À:nalì:sdâ:yv:hv́sga|
+000694|06-f-walc1|chr|wav/0829-Chapter_7_7.1_7.1_Go_Present-000005595.wav|||à:né:ga|
+000646|04-f-walc1|chr|wav/0771-Chapter_6_6.8_6.8.6-000000000.wav|||Nv̀:ya Ǔ:tana gè:sé:ɂi.|
+000036|01-f-walc1|chr|wav/0043-Chapter_1_1.2_Set_B_08_All_of_us_are_hungry-000000000.wav|||Dè:giyó:siha|
+000290|02-m-walc1|chr|wav/0309-Chapter_4_4.3_4.3.3-000000000.wav|||Hila̋ àhlíɂili?|
+000365|02-m-walc1|chr|wav/0385-Chapter_4_4.8_4.8.6-000000000.wav|||De:halǔ:yi|
+000911|04-m-walc1|chr|wav/1101-Chapter_8_8.5_8.5.41-000000205.wav|||Gv́:na|
+000158|03-f-walc1|chr|wav/0174-Chapter_3_3.3_3.3.16-000000165.wav|||Gadō u:sdi ì:janhta?|
+000846|04-m-walc1|chr|wav/1025-Chapter_8_8.3_8.3.1-000000000.wav|||Gahljǒ:de!|
+000376|01-m-walc1|chr|wav/0398-Chapter_5_5.1_5.1.1-000000000.wav|||yv:wi|
+000367|02-m-walc1|chr|wav/0388-Chapter_4_4.8_4.8.9-000000000.wav|||Du:lì:sdi|
+000422|01-m-walc1|chr|wav/0464-Chapter_5_5.4_5.4.18-000000145.wav|||Analà:sgali̋:sgi dù:nalsdu:lo|
+000248|02-m-walc1|chr|wav/0266-Chapter_4_4.1_4.1.35-000000135.wav|||nélsgǒ:hi|
+000075|01-m-walc1|chr|wav/0087-Chapter_2_2.3_2.3_Speak_Imperative-000000000.wav|||Hiwò:nǐ:hī. Ì:jiwò:nǐ:hī. Sdiwò:nǐ:hī.|
+000822|04-m-walc1|chr|wav/0995-Chapter_8_8.1_8.1.9-000000000.wav|||de:ganìwǒ:jā|
+000143|03-f-walc1|chr|wav/0157-Chapter_3_3.2_3.2.2-000002105.wav|||O:síju? O:síju nijadvhnadé:ga?|
+000717|06-f-walc1|chr|wav/0852-Chapter_7_7.3_7.3.2-000000485.wav|||V̀:hna̋ dà:nino:gí:ɂa.|
+000085|01-m-walc1|chr|wav/0097-Chapter_2_2.4_2.4.4-000000000.wav|||Ì:jadu:líha|
+000670|06-f-walc1|chr|wav/0805-Chapter_7_7.1_7.1_Arrive_Remote_Past-000005555.wav|||Ù:nilúhjv̌:ɂi. Ì:gilúhjv̌:ɂi|
+000168|03-f-walc1|chr|wav/0184-Chapter_3_3.4_3.4.1-000000000.wav|||Nihinà?|
+000815|04-m-walc1|chr|wav/0987-Chapter_8_8.1_8.1.2-000000135.wav|||iyè:gi|
+000942|04-m-walc1|chr|wav/1141-Chapter_8_8.6_8.6.8-000000000.wav|||Gadō u:sdi|
+000347|02-m-walc1|chr|wav/0367-Chapter_4_4.7_4.7.2-000000000.wav|||Saná:le̋ iyv̋|
+000397|01-m-walc1|chr|wav/0422-Chapter_5_5.1_5.1.3-000000000.wav|||Di:de:hyǒ:hvsgi|
+000197|03-f-walc1|chr|wav/0214-Chapter_3_3.5_3.5.1-000026665.wav|||Jalagi degadè:lohgwáɂa alesgwu dijalagi degadè:lohgwáɂa digigo:lǐ:yê:di̋|
+000705|06-f-walc1|chr|wav/0840-Chapter_7_7.2_7.2.13-000000000.wav|||ilvhdlv̋:ɂi|
+000663|06-f-walc1|chr|wav/0798-Chapter_7_7.1_7.1_Arrive_Present-000000495.wav|||Jíɂluhga|
+000189|03-f-walc1|chr|wav/0205-Chapter_3_3.4_3.4.9-000000000.wav|||Gá:gō?|
+000737|06-f-walc1|chr|wav/0872-Chapter_7_7.4_7.4.8-000000000.wav|||Idí:dla|
+000153|03-f-walc1|chr|wav/0168-Chapter_3_3.3_3.3.10-000000000.wav|||Hiɂa ì:jigo:lǐ:yā.|
+000542|04-f-walc1|chr|wav/0636-Chapter_6_6.2_6.2.11-000000000.wav|||Adě:la dalǒ:níge̋|
+000654|06-f-walc1|chr|wav/0788-Chapter_7_7.1_7.1.3-000000685.wav|||Naɂvs he:dó:ha?|
+000369|02-m-walc1|chr|wav/0390-Chapter_4_4.9_4.9.2-000000000.wav|||Go:ge̋:yi|
+000917|04-m-walc1|chr|wav/1110-Chapter_8_8.5_8.5.9-000000000.wav|||Sù:gě:da|
+000918|04-m-walc1|chr|wav/1111-Chapter_8_8.6_8.6.1-000000285.wav|||Ganhga|
+000261|02-m-walc1|chr|wav/0280-Chapter_4_4.2_4.2.14-000000000.wav|||niga:ɂdusi:ne̋|
+000725|06-f-walc1|chr|wav/0860-Chapter_7_7.4_7.4.1-000000000.wav|||Jǔ:hyv́:dlv̋:ɂi|
+000181|03-f-walc1|chr|wav/0197-Chapter_3_3.4_3.4.21-000000000.wav|||Ha:dlv da:nadè:lohgwáɂa?|
+000580|04-f-walc1|chr|wav/0699-Chapter_6_6.5_6.5.4-000000000.wav|||ǎ:sé:sgíni|
+000145|03-f-walc1|chr|wav/0159-Chapter_3_3.2_3.2.21-000000185.wav|||Hawa|
+000083|01-m-walc1|chr|wav/0095-Chapter_2_2.4_2.4.3-000000000.wav|||À:nigo:lǐ:yéɂa|
+000382|01-m-walc1|chr|wav/0404-Chapter_5_5.1_5.1.15-000000000.wav|||Áyosgi|
+000614|04-f-walc1|chr|wav/0737-Chapter_6_6.6_6.6.7-000008645.wav|||Dà:nahlino:héha.|
+000214|03-f-walc1|chr|wav/0232-Chapter_3_3.6_3.6.4-000000000.wav|||Gawó:ni:sgí Táɂli: U:hlő:yigwu.|
+000070|01-m-walc1|chr|wav/0082-Chapter_2_2.3_2.3.7-000002095.wav|||Disdihnó:gī!|
+000843|04-m-walc1|chr|wav/1022-Chapter_8_8.2_8.2_Speak_Present-000000195.wav|||Jiwó:niha. Hiwó:niha. Gawó:niha. À:niwó:niha. Ì:diwó:niha.|
+000222|02-m-walc1|chr|wav/0240-Chapter_4_4.1_4.1.10-000000000.wav|||Sgǒ:hi.|
+000907|04-m-walc1|chr|wav/1096-Chapter_8_8.5_8.5.37-000000355.wav|||Sihgwa Hawi:ya|
+000709|06-f-walc1|chr|wav/0844-Chapter_7_7.2_7.2.2-000000000.wav|||Naɂv|
+000700|06-f-walc1|chr|wav/0835-Chapter_7_7.1_7.1_Go_Remote_Past-000009425.wav|||Ì:ge:nv́:sv̌:ɂi.|
+000671|06-f-walc1|chr|wav/0806-Chapter_7_7.1_7.1_Be_At_Future-000000585.wav|||Dagě:dô:li|
+000444|01-m-walc1|chr|wav/0494-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000011015.wav|||De:gá:su:lâ:nv̌:ɂi|
+000720|06-f-walc1|chr|wav/0855-Chapter_7_7.3_7.3.5-000000000.wav|||ju:ni:là:wisdi̋:ɂi dí:dla wò:sdá:ɂi.|
+000696|06-f-walc1|chr|wav/0831-Chapter_7_7.1_7.1_Go_Remote_Past-000000355.wav|||à:gwe:nv́:sv̌:ɂi|
+000371|02-m-walc1|chr|wav/0392-Chapter_4_4.9_4.9.4-000000000.wav|||U:la:gǒ:hv:sdi|
+000077|01-m-walc1|chr|wav/0089-Chapter_2_2.3_2.3_Write_Imperative-000000000.wav|||Hohwelvgā. Ì:johwelvgā. Sdohwelvgā.|
+000283|02-m-walc1|chr|wav/0302-Chapter_4_4.3_4.3.14-000000000.wav|||Hilâ:yv̋ dvlsgwadí?|
+000024|01-f-walc1|chr|wav/0031-Chapter_1_1.2_1.2.2-000000000.wav|||Agiji|
+000879|04-m-walc1|chr|wav/1063-Chapter_8_8.4_8.4.7-000000000.wav|||Yv:gi|
+000839|04-m-walc1|chr|wav/1012-Chapter_8_8.2_8.2.9-000000000.wav|||Jalagi ale Yó:ne:ga|
+000221|02-m-walc1|chr|wav/0239-Chapter_4_4.1_4.1.1-000000175.wav|||Sà:gwű.|
+000519|04-f-walc1|chr|wav/0607-Chapter_6_6.1_6.1.10-000000345.wav|||Uɂné:gihldi|
+000105|01-m-walc1|chr|wav/0117-Chapter_2_2.5_2.5.7-000000000.wav|||Igv̌:yiɂhno, sv̀:gi ale unvgu:hǐ:sdí:sgi dejigv:halǐ:sgesdi.|
+000972|04-m-walc1|chr|wav/1176-Chapter_8_8.7_8.7.23-000000000.wav|||Do:yű Uwo:dű:hi Dǒ:yi.|
+000844|04-m-walc1|chr|wav/1023-Chapter_8_8.2_8.2_Speak_Remote_Past-000000000.wav|||À:giwó:ni:sv̌:ɂi.|
+000599|04-f-walc1|chr|wav/0720-Chapter_6_6.6_6.6.20-000000000.wav|||E:hlawe̋ Ù:wǒ:hla Agayv̌:líge̋ A:sé:hno Di:ni:yő:hli|
+000667|06-f-walc1|chr|wav/0802-Chapter_7_7.1_7.1_Arrive_Present-000007965.wav|||ì:diɂluhga|
+000051|01-m-walc1|chr|wav/0060-Chapter_2_2.1_2.1.4-000000345.wav|||Go:lì:ga|
+000540|04-f-walc1|chr|wav/0634-Chapter_6_6.2_6.2.1-000000000.wav|||Gv̌:hnáge̋:ɂi|
+000957|04-m-walc1|chr|wav/1157-Chapter_8_8.6_8.6_Have_Neutral_Future-000000000.wav|||À:gihé:sdi. Jahé:sdi. Ù:hé:sdi. Ù:nihé:sdi.|
+000987|04-m-walc1|chr|wav/1200-Chapter_8_8.7_8.7.37-000000000.wav|||ù:hyv:dlv̌:ɂi|
+000080|01-m-walc1|chr|wav/0092-Chapter_2_2.4_2.4.1-000001905.wav|||Gawó:ni:sgó:ɂi|
+000913|04-m-walc1|chr|wav/1104-Chapter_8_8.5_8.5.44-000000000.wav|||Asdv̌:hahli|
+000276|02-m-walc1|chr|wav/0295-Chapter_4_4.2_4.2.8-000000255.wav|||chaně:line̋|
+000092|01-m-walc1|chr|wav/0104-Chapter_2_2.5_2.5.10-000005735.wav|||e:ji dahyahkě:tsgesdi nǔ:na.|
+000506|01-m-walc1|chr|wav/0583-Chapter_5_5.8_5.8.7-000000000.wav|||Jì:sgâ:ha|
+000579|04-f-walc1|chr|wav/0698-Chapter_6_6.5_6.5.3-000000000.wav|||Ale yigi|
+000443|01-m-walc1|chr|wav/0493-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000008105.wav|||Dù:ná:su:lâ:nv̌:ɂi|
+000157|03-f-walc1|chr|wav/0173-Chapter_3_3.3_3.3.15-000000000.wav|||Ì:johlgaɂju?|
+000767|06-f-walc1|chr|wav/0914-Chapter_7_7.8_7.8.3-000000265.wav|||Jǐ:yu|
+000018|01-f-walc1|chr|wav/0023-Chapter_1_1.1_Set_A_16_He-She_and_I_are_diving-000000000.wav|||Ò:sdade:tv́sga|
+000074|01-m-walc1|chr|wav/0086-Chapter_2_2.3_2.3_Read_Present-000000000.wav|||De:higo:lǐ:yéɂa. Dé:jigo:lǐ:yéɂa. De:sdigo:lǐ:yéɂa.|
+000098|01-m-walc1|chr|wav/0110-Chapter_2_2.5_2.5.3-000000000.wav|||À:nigo:lǐ:yê:sgó:ɂi|
+000322|02-m-walc1|chr|wav/0342-Chapter_4_4.4_4.4_Count_Recent_Past-000000000.wav|||Degaségā. Dehaségā. Daségā. Da:naségā. Dè:daségā.|
+000988|04-m-walc1|chr|wav/1203-Chapter_8_8.7_8.7.4-000000605.wav|||À:ga:sga|
+000995|05-f-walc1|en|wav/0780-Chapter_6_6.9_6.9.4-000004185.wav|||He or she is a Cherokee speaker, right?|
+000786|06-f-walc1|chr|wav/0950-Chapter_7_7.9_7.9.1-000024645.wav|||Sǐ:gwuhno hle̋:ga u:ktǐ:dî:sdi̋ɂi, jǐ:yu ahlawi:tdi̋:sgi ù:go:hnǐ:yô:ga. Já:niɂhno do:hiyu ù:wa:nv́:ga|
+000553|04-f-walc1|chr|wav/0650-Chapter_6_6.3_6.3.12-000000000.wav|||Ǔ:tana Yǒ:na Á:ɂi.|
+000349|02-m-walc1|chr|wav/0369-Chapter_4_4.7_4.7.4-000000000.wav|||Sv:hi|
+000257|02-m-walc1|chr|wav/0275-Chapter_4_4.2_4.2.1-000000000.wav|||Sà:gwú:hi:ne̋. Agv̌:yi.|
+000520|04-f-walc1|chr|wav/0608-Chapter_6_6.1_6.1.11-000000000.wav|||Asama̋:di|
+000325|02-m-walc1|chr|wav/0345-Chapter_4_4.5_4.5.10-000000000.wav|||gahlgwǒ:gi Jù:hnv́:si:yi̋|
+000389|01-m-walc1|chr|wav/0412-Chapter_5_5.1_5.1.22-000000135.wav|||Dikdladì:sgi|
+000110|01-m-walc1|chr|wav/0122-Chapter_2_2.6_2.6.2-000000000.wav|||Analì:sdâ:yv:hv́sga. Ù:nalsdayvhnvɂi.|
+000513|01-m-walc1|chr|wav/0596-Chapter_5_5.9_5.9.17-000003005.wav|||ù:ni:ji:lv̋:sgi|
+000762|06-f-walc1|chr|wav/0901-Chapter_7_7.8_7.8.17-000000225.wav|||Hila̋ iyu:de:tiyv̋:da?|
+000551|04-f-walc1|chr|wav/0648-Chapter_6_6.3_6.3.11-000000645.wav|||Uwo:dűjv Agě:hya.|
+000681|06-f-walc1|chr|wav/0816-Chapter_7_7.1_7.1_Be_At_Present-000004535.wav|||E:dó:ha|
+000708|06-f-walc1|chr|wav/0843-Chapter_7_7.2_7.2.16-000000000.wav|||I̋:na|
+000198|03-f-walc1|chr|wav/0216-Chapter_3_3.5_3.5.1-000042505.wav|||yà:gwadǔ:la|
+000023|01-f-walc1|chr|wav/0029-Chapter_1_1.1_Set_A_22_He-she_understands-000000455.wav|||Gohlga|
+000527|04-f-walc1|chr|wav/0618-Chapter_6_6.1_6.1.20-000000000.wav|||Nu:dánhtv̋:na|
+000794|06-f-walc1|chr|wav/0961-Chapter_7_7.9_7.9.15-000000000.wav|||Dà:da:náɂnv̋:i|
+000139|03-f-walc1|chr|wav/0153-Chapter_3_3.2_3.2.17-000000000.wav|||dò:dada:go:hv:ɂi|
+000655|06-f-walc1|chr|wav/0789-Chapter_7_7.1_7.1.4-000000000.wav|||Witě:dô:liju?|
+000266|02-m-walc1|chr|wav/0285-Chapter_4_4.2_4.2.19-000000000.wav|||sóhněla:dusi:ne̋|
+000803|06-f-walc1|chr|wav/0974-Chapter_7_7.9_7.9.8-000000000.wav|||Nà:hiyű|
+000412|01-m-walc1|chr|wav/0441-Chapter_5_5.2_5.2.6-000000295.wav|||È:du:ji|
+000682|06-f-walc1|chr|wav/0817-Chapter_7_7.1_7.1_Be_At_Present-000006445.wav|||À:ne:dó:ha|
+000674|06-f-walc1|chr|wav/0809-Chapter_7_7.1_7.1_Be_At_Future-000007085.wav|||Dv̀:ně:dô:li|
+000776|06-f-walc1|chr|wav/0926-Chapter_7_7.8_7.8_Drive_Progressive_Past-000000000.wav|||Jiɂíɂlǐ:dô:hv̌:ɂi|
+000919|04-m-walc1|chr|wav/1112-Chapter_8_8.6_8.6.10-000000000.wav|||Asgaya|
+000135|03-f-walc1|chr|wav/0149-Chapter_3_3.2_3.2.13-000000235.wav|||Yagwa:de:tiyv̋:da.|
+000111|01-m-walc1|chr|wav/0123-Chapter_2_2.6_2.6.3-000000000.wav|||Sdigo:lǐ:yéɂa. Sdigoliyeɂvɂi.|
+000778|06-f-walc1|chr|wav/0928-Chapter_7_7.8_7.8_Drive_Progressive_Past-000008085.wav|||ahíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.  Ì:dihíɂlǐ:dô:hv̌:ɂi.|
+000664|06-f-walc1|chr|wav/0799-Chapter_7_7.1_7.1_Arrive_Present-000002785.wav|||Híɂluhga|
+000769|06-f-walc1|chr|wav/0917-Chapter_7_7.8_7.8.6-000000000.wav|||Ajǐ:la Nv:nǒ:hi|
+000706|06-f-walc1|chr|wav/0841-Chapter_7_7.2_7.2.14-000000000.wav|||Hawí:ni dí:dla|
+000837|04-m-walc1|chr|wav/1010-Chapter_8_8.2_8.2.8-000000000.wav|||Jimi|
+000404|01-m-walc1|chr|wav/0429-Chapter_5_5.2_5.2.1-000000000.wav|||Sida:ně:lv̋|
+000892|04-m-walc1|chr|wav/1076-Chapter_8_8.5_8.5.19-000000175.wav|||U:galǒ:ga à:ganv̋:hi|
+000345|02-m-walc1|chr|wav/0365-Chapter_4_4.7_4.7.1-000000000.wav|||Kò:hi̋ I:ga|
+000848|04-m-walc1|chr|wav/1027-Chapter_8_8.3_8.3.11-000000000.wav|||Kǎ:hwiju jadu:líɂa?|
+000845|04-m-walc1|chr|wav/1024-Chapter_8_8.2_8.2_Speak_Remote_Past-000002865.wav|||Jawó:ni:sv̌:ɂi. Ù:wó:ni:sv̌:ɂi. Ù:niwó:ni:sv̌:ɂi. Ì:giwó:ni:sv̌:ɂi.|
+000089|01-m-walc1|chr|wav/0101-Chapter_2_2.5_2.5.1-000000000.wav|||Gawó:ni:sgó:ɂi|
+000227|02-m-walc1|chr|wav/0245-Chapter_4_4.1_4.1.15-000000275.wav|||sgiga:ɂdu|
+000488|01-m-walc1|chr|wav/0553-Chapter_5_5.7_5.7.16-000000000.wav|||Na asgaya|
+000301|02-m-walc1|chr|wav/0320-Chapter_4_4.4_4.4.13-000000000.wav|||Gadō u:sdi|
+000657|06-f-walc1|chr|wav/0792-Chapter_7_7.1_7.1.7-000000265.wav|||Hilâ iyv̋ tilúhji?|
+000615|04-f-walc1|chr|wav/0738-Chapter_6_6.6_6.6.8-000000000.wav|||Adtlidô:ha|
+000868|04-m-walc1|chr|wav/1049-Chapter_8_8.4_8.4.19-000000000.wav|||Ga̋:duju digv:jahlánv̋:ɂi dù:nadu:líha?|
+000502|01-m-walc1|chr|wav/0579-Chapter_5_5.8_5.8.3-000000000.wav|||Galiɂě:lî:ga|
+000273|02-m-walc1|chr|wav/0292-Chapter_4_4.2_4.2.5-000000000.wav|||hisgine̋|
+000079|01-m-walc1|chr|wav/0091-Chapter_2_2.4_2.4.1-000000000.wav|||Gawó:niha|
+000210|03-f-walc1|chr|wav/0228-Chapter_3_3.6_3.6.15-000000000.wav|||Ő:sda jidenádò:hlgi|
+000970|04-m-walc1|chr|wav/1173-Chapter_8_8.7_8.7.21-000000000.wav|||À:ga:sgaju,|
+000885|04-m-walc1|chr|wav/1069-Chapter_8_8.5_8.5.12-000000325.wav|||Ga̋:du|
+000344|02-m-walc1|chr|wav/0364-Chapter_4_4.6_4.6.7-000000000.wav|||ù:nadǒ:dágwà:sgv̋:ɂi|
+000569|04-f-walc1|chr|wav/0687-Chapter_6_6.4_6.4.4-000000000.wav|||Idí:dla|
+000436|01-m-walc1|chr|wav/0484-Chapter_5_5.4_5.4_Put_on_Pants_Future-000000445.wav|||Dagasu:lâ:ni|
+000630|04-f-walc1|chr|wav/0753-Chapter_6_6.7_6.7.2-000000000.wav|||Nű:la!|
+000446|01-m-walc1|chr|wav/0496-Chapter_5_5.5_5.5.10-000000000.wav|||Gà:di:ge̋:ni|
+000291|02-m-walc1|chr|wav/0310-Chapter_4_4.3_4.3.4-000000475.wav|||Hilâ:yv̋ té:si?|
+000167|03-f-walc1|chr|wav/0183-Chapter_3_3.3_3.3.9-000000000.wav|||V̀:hla áhani ye:dó:ha|
+000730|06-f-walc1|chr|wav/0865-Chapter_7_7.4_7.4.14-000000245.wav|||Di:gilv̌:hwísdà:nehdi̋ɂi Gé:ga.|
+000116|01-m-walc1|chr|wav/0128-Chapter_2_2.6_2.6.7-000000135.wav|||Gadō u:sdi|
+000112|01-m-walc1|chr|wav/0124-Chapter_2_2.6_2.6.4-000000000.wav|||Go:lì:ga.|
+000564|04-f-walc1|chr|wav/0682-Chapter_6_6.4_6.4.2-000002815.wav|||Gv:no:sásdi Gv̋:hdi|
+000284|02-m-walc1|chr|wav/0303-Chapter_4_4.3_4.3.15-000000475.wav|||sgiga:ɂdu Iyátahwò:stanv̋ u:da:lǔ:la̋|
+000151|03-f-walc1|chr|wav/0165-Chapter_3_3.2_3.2.8-000000205.wav|||Ha:dlv té:gv̌ɂi?|
+000983|04-m-walc1|chr|wav/1192-Chapter_8_8.7_8.7.32-000005015.wav|||Gu:tǐ:sgv̌:ɂi. Uwo:dű:jv gè:lî:sgó yù:wu:tahna.|
+000363|02-m-walc1|chr|wav/0383-Chapter_4_4.8_4.8.4-000000000.wav|||Kawo:hni|
+000164|03-f-walc1|chr|wav/0180-Chapter_3_3.3_3.3.6-000000475.wav|||Gadō ű:sdi à:de:hlohgwà:sdi kò:hi̋ iga?|
+000790|06-f-walc1|chr|wav/0955-Chapter_7_7.9_7.9.11-000013305.wav|||Nahnosgwu ǔ:gò:di ju:dale:hnv̋:da jù:nalsdàyhdi̋.|
+000656|06-f-walc1|chr|wav/0790-Chapter_7_7.1_7.1.5-000000000.wav|||Ha:dlv ù:ne:nv́:sé:ɂi?|
+000544|04-f-walc1|chr|wav/0638-Chapter_6_6.2_6.2.2-000000155.wav|||Gǐ:gáge̋ɂi|
+000525|04-f-walc1|chr|wav/0616-Chapter_6_6.1_6.1.19-000000000.wav|||Uwőhldi|
+000058|01-m-walc1|chr|wav/0070-Chapter_2_2.2_2.2.4-000000995.wav|||À:gihyóha. Agiyhgā.|
+000650|04-f-walc1|chr|wav/0775-Chapter_6_6.8_6.8.8-000000000.wav|||Hiwó:nihaju? Hla hyiwó:niha.|
+000285|02-m-walc1|chr|wav/0304-Chapter_4_4.3_4.3.15-000005165.wav|||Sgǒ:hi|
+000511|01-m-walc1|chr|wav/0594-Chapter_5_5.9_5.9.16-000000000.wav|||Ha:dlv Hi:gò:wahtí?|
+000455|01-m-walc1|chr|wav/0506-Chapter_5_5.5_5.5.2-000000000.wav|||Dikano:ge̋:ni|
+000353|02-m-walc1|chr|wav/0373-Chapter_4_4.7_4.7.8-000000000.wav|||Usv̋|
+000735|06-f-walc1|chr|wav/0870-Chapter_7_7.4_7.4.6-000000000.wav|||Wǔ:dé:lì:gv̋:ɂi|
+000850|04-m-walc1|chr|wav/1029-Chapter_8_8.3_8.3.13-000000235.wav|||Go:hű:sdiju jagì:sdi jadu:líɂa?|
+000595|04-f-walc1|chr|wav/0715-Chapter_6_6.6_6.6.18-000000000.wav|||Nà:sgi ahawi Uwǒ:díge̋:ɂi A:sé:hno na Gà:tohga U:ne̋:ga.|
+000409|01-m-walc1|chr|wav/0438-Chapter_5_5.2_5.2.3-000000455.wav|||E:do:da|
+000253|02-m-walc1|chr|wav/0271-Chapter_4_4.1_4.1.6-000000445.wav|||Sǔ:dáli|
+000508|01-m-walc1|chr|wav/0587-Chapter_5_5.9_5.9.10-000000455.wav|||Ju:hnjő:sdi Agì:sdi|
+000899|04-m-walc1|chr|wav/1084-Chapter_8_8.5_8.5.26-000000325.wav|||Nǔ:na digv:jahlánv̋.|
+000057|01-m-walc1|chr|wav/0068-Chapter_2_2.2_2.2.2-000000715.wav|||Galì:sdâ:yv:hv́sga. Galisdà:yv:hv̀:ga.|
+000076|01-m-walc1|chr|wav/0088-Chapter_2_2.3_2.3_Speak_Present-000000000.wav|||Hiwó:niha. Ì:jiwó:niha. Sdiwó:niha.|
+000690|06-f-walc1|chr|wav/0825-Chapter_7_7.1_7.1_Go_Future-000002255.wav|||Té:si. Dayé:si. Dvné:si. Dà:dé:si.|
+000858|04-m-walc1|chr|wav/1039-Chapter_8_8.4_8.4.1-000000000.wav|||Jayó:sihaju?|
+000642|04-f-walc1|chr|wav/0767-Chapter_6_6.8_6.8.4-000000000.wav|||Jalagi Gawó:ni:sgí.|
+000516|01-m-walc1|chr|wav/0602-Chapter_5_5.9_5.9.7-000000000.wav|||hatv:gv̀:gaju?|
+000342|02-m-walc1|chr|wav/0362-Chapter_4_4.6_4.6.5-000000255.wav|||Junhgi:lő:sdi|
+000028|01-f-walc1|chr|wav/0035-Chapter_1_1.2_1.2.6-000000000.wav|||Digo:hwe:li de:jigo:lǐ:yéɂa.|
+000087|01-m-walc1|chr|wav/0099-Chapter_2_2.4_2.4.5-000000000.wav|||Ò:sdv:hnisdíha.|
+000375|02-m-walc1|chr|wav/0397-Chapter_4_4.9_4.9.8-000000000.wav|||Gadò tadv́:ne:li Kò:hi̋ Go:gi?|
+000056|01-m-walc1|chr|wav/0067-Chapter_2_2.2_2.2.1-000002355.wav|||a:hnigi|
+000937|04-m-walc1|chr|wav/1131-Chapter_8_8.6_8.6.22-000003095.wav|||hwidì:si.|
+000381|01-m-walc1|chr|wav/0403-Chapter_5_5.1_5.1.14-000000000.wav|||Di:da:nǐ:yi̋:sgi|
+000897|04-m-walc1|chr|wav/1082-Chapter_8_8.5_8.5.24-000000195.wav|||Juwě:ji|
+000622|04-f-walc1|chr|wav/0745-Chapter_6_6.7_6.7.14-000000000.wav|||Ni!|
+000316|02-m-walc1|chr|wav/0336-Chapter_4_4.4_4.4.8-000000000.wav|||Hiksgohi Adě:lv|
+000840|04-m-walc1|chr|wav/1013-Chapter_8_8.2_8.2.9-000003575.wav|||dà:niwó:ni:sgó gǎ:tí:yő:ɂi.|
+000293|02-m-walc1|chr|wav/0312-Chapter_4_4.3_4.3.6-000000175.wav|||chaně:la àhlíɂili.|
+000916|04-m-walc1|chr|wav/1109-Chapter_8_8.5_8.5.8-000000000.wav|||Sv̀:gi|
+000812|04-m-walc1|chr|wav/0984-Chapter_8_8.1_8.1.15-000015355.wav|||wijiyv̌:hā, De:jinhdóhgv̋hno de:jinv:galā. Nǒ:gwúle uhli̋:sda Gadawǒ:jā.|
+000962|04-m-walc1|chr|wav/1162-Chapter_8_8.7_8.7.11-000000000.wav|||À:ga:nawo:sga|
+000746|06-f-walc1|chr|wav/0882-Chapter_7_7.6_7.6.5-000000000.wav|||Á:ge̋ɂi|
+000156|03-f-walc1|chr|wav/0172-Chapter_3_3.3_3.3.14-000000000.wav|||Ahi̋:daju go:hlísdi?|
+000742|06-f-walc1|chr|wav/0877-Chapter_7_7.6_7.6.1-000000000.wav|||Gadúɂi.|
+000860|04-m-walc1|chr|wav/1041-Chapter_8_8.4_8.4.11-000000165.wav|||Gadō u:sdi tigi?|
+000408|01-m-walc1|chr|wav/0436-Chapter_5_5.2_5.2.16-000000000.wav|||e:nǐ:si|
+000190|03-f-walc1|chr|wav/0206-Chapter_3_3.5_3.5.1-000000000.wav|||O:síyo,|
+000823|04-m-walc1|chr|wav/0996-Chapter_8_8.2_8.2.1-000000000.wav|||Gá:gō gawó:niha?|
+000438|01-m-walc1|chr|wav/0486-Chapter_5_5.4_5.4_Put_on_Pants_Future-000004655.wav|||Dvsu:lâ:ni|
+000472|01-m-walc1|chr|wav/0525-Chapter_5_5.5_5.5.4-000000355.wav|||Gane:ji̋|
+000990|04-m-walc1|chr|wav/1206-Chapter_8_8.7_8.7.7-000000000.wav|||Ù:di:hléhga|
+000299|02-m-walc1|chr|wav/0318-Chapter_4_4.4_4.4.11-000000000.wav|||Taɂlsgo Adě:la Ju:gv:wahldóhdi.|
+000140|03-f-walc1|chr|wav/0154-Chapter_3_3.2_3.2.18-000000000.wav|||Táɂli:ne̋ dò:nada:go:hv:ɂi.|
+000953|04-m-walc1|chr|wav/1153-Chapter_8_8.6_8.6_Have_Long_Past-000000000.wav|||à:gwv̌:yv́. jv̌:yv́. ù:wǎ:yv́. ù:nv̌:yv́.|
+000811|04-m-walc1|chr|wav/0982-Chapter_8_8.1_8.1.15-000000000.wav|||Kò:hi̋ Saná:le̋, Sǔ:dáli àhlíɂilǐ:sv Jiyé:gī.|
+000262|02-m-walc1|chr|wav/0281-Chapter_4_4.2_4.2.15-000000000.wav|||sgiga:ɂdusi:ne̋|
+000263|02-m-walc1|chr|wav/0282-Chapter_4_4.2_4.2.16-000000000.wav|||da:la:dusi:ne̋|
+000179|03-f-walc1|chr|wav/0195-Chapter_3_3.4_3.4.2-000000665.wav|||Nihina:hv́?|
+000789|06-f-walc1|chr|wav/0954-Chapter_7_7.9_7.9.11-000009835.wav|||I̋:na ǐ:digati dà:da:ně:la.|
+000411|01-m-walc1|chr|wav/0440-Chapter_5_5.2_5.2.5-000000000.wav|||È:hlogi|
+000119|01-m-walc1|chr|wav/0131-Chapter_2_2.6_2.6.8-000003475.wav|||jadǐ:sgv̌ɂi.|
+000099|01-m-walc1|chr|wav/0111-Chapter_2_2.5_2.5.3-000003065.wav|||À:nigo:lǐ:yê:sgesdi|
+000882|04-m-walc1|chr|wav/1066-Chapter_8_8.5_8.5.1-000000305.wav|||Hawi:ya|
+000093|01-m-walc1|chr|wav/0105-Chapter_2_2.5_2.5.11-000000000.wav|||Ju:nadale:hnv̋:da digawasvgi|
+000478|01-m-walc1|chr|wav/0532-Chapter_5_5.6_5.6.10-000000275.wav|||U:hyv:dla à:giní:yvha|
+000905|04-m-walc1|chr|wav/1093-Chapter_8_8.5_8.5.34-000000275.wav|||U:nv̌:di|
+000903|04-m-walc1|chr|wav/1090-Chapter_8_8.5_8.5.31-000000000.wav|||Di:kwayő:di|
+000764|06-f-walc1|chr|wav/0904-Chapter_7_7.8_7.8.2-000000325.wav|||Jǐ:yu ahlawi:tdi̋:sgi|
+000986|04-m-walc1|chr|wav/1199-Chapter_8_8.7_8.7.36-000000000.wav|||gè:lî:sgó|
+000590|04-f-walc1|chr|wav/0710-Chapter_6_6.6_6.6.13-000000000.wav|||Degawó:niha|
+000760|06-f-walc1|chr|wav/0898-Chapter_7_7.8_7.8.14-000002935.wav|||Ò:sdihíɂlǐ:dô:ha|
+000756|06-f-walc1|chr|wav/0893-Chapter_7_7.8_7.8.10-000000335.wav|||Dì:ktule̋:na|
+000956|04-m-walc1|chr|wav/1156-Chapter_8_8.6_8.6_Have_Long_Present-000005445.wav|||Ù:nv̌:ya.|
+000131|03-f-walc1|chr|wav/0145-Chapter_3_3.2_3.2.1-000002365.wav|||Síyo|
+000420|01-m-walc1|chr|wav/0462-Chapter_5_5.4_5.4.16-000000000.wav|||Gahljǒ:de Ù:yv:hlv̌:ɂi, Ù:lsgwé:tuhgí:sv̌:no.|
+000922|04-m-walc1|chr|wav/1115-Chapter_8_8.6_8.6.11-000000000.wav|||Agě:hya ama|
+000378|01-m-walc1|chr|wav/0400-Chapter_5_5.1_5.1.11-000000000.wav|||À:lsgí:sgi|
+000763|06-f-walc1|chr|wav/0902-Chapter_7_7.8_7.8.18-000000175.wav|||Gá:gō Ù:wo:hlv:hnv̌:ɂi?|
+000390|01-m-walc1|chr|wav/0413-Chapter_5_5.1_5.1.23-000000000.wav|||À:da:náɂnv̋|
+000120|01-m-walc1|chr|wav/0132-Chapter_2_2.6_2.6.9-000000375.wav|||Gagáɂnaktiju wijě:dô:lě̌:ɂi?|
+000680|06-f-walc1|chr|wav/0815-Chapter_7_7.1_7.1_Be_At_Present-000002535.wav|||He:dó:ha|
+000749|06-f-walc1|chr|wav/0885-Chapter_7_7.6_7.6.8-000000000.wav|||aye̋:hli|
+000176|03-f-walc1|chr|wav/0192-Chapter_3_3.4_3.4.17-000000345.wav|||Hilâ:yv̋ wigvwahtv:hǐ:dâ:sdi jadu:líɂa?|
+000160|03-f-walc1|chr|wav/0176-Chapter_3_3.3_3.3.3-000000000.wav|||E:li̋:gwus yigv:yà:tv:dv:hv̀:ga?|
+000427|01-m-walc1|chr|wav/0470-Chapter_5_5.4_5.4.6-000000000.wav|||Átihldi|
+000068|01-m-walc1|chr|wav/0080-Chapter_2_2.3_2.3.6-000000000.wav|||De:hatv:dâ:sdiha. Tatv:dà:sdā!|
+000591|04-f-walc1|chr|wav/0711-Chapter_6_6.6_6.6.14-000000000.wav|||Gawó:niha|
+000178|03-f-walc1|chr|wav/0194-Chapter_3_3.4_3.4.19-000000355.wav|||Gadò À:diha?|
+000234|02-m-walc1|chr|wav/0252-Chapter_4_4.1_4.1.22-000000000.wav|||táɂlsgǒ:hi Táɂli|
+000798|06-f-walc1|chr|wav/0965-Chapter_7_7.9_7.9.19-000000000.wav|||jù:nalsdàyhdi̋ɂi|
+000621|04-f-walc1|chr|wav/0744-Chapter_6_6.7_6.7.13-000000000.wav|||Hna!|
+000563|04-f-walc1|chr|wav/0681-Chapter_6_6.4_6.4.2-000000000.wav|||Na asgaya, Agě:hya|
+000578|04-f-walc1|chr|wav/0697-Chapter_6_6.5_6.5.2-000000000.wav|||A:sé:hno|
+000326|02-m-walc1|chr|wav/0346-Chapter_4_4.5_4.5.11-000000000.wav|||chaně:la Jù:hnv́:si:yi̋|
+000255|02-m-walc1|chr|wav/0273-Chapter_4_4.1_4.1.8-000000165.wav|||chaně:la|
+000959|04-m-walc1|chr|wav/1159-Chapter_8_8.6_8.6_Have_Neutral_Present-000000000.wav|||À:giha. Jaha. Ù:ha. Ù:niha.|
+000781|06-f-walc1|chr|wav/0940-Chapter_7_7.8_7.8_Walk_Past-000003115.wav|||Há:ɂi:sv̌:ɂi.|
+000440|01-m-walc1|chr|wav/0490-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000000000.wav|||Agwasu:lâ:nv̌:ɂi|
+000496|01-m-walc1|chr|wav/0568-Chapter_5_5.8_5.8.10-000000000.wav|||Ù:hi:sóhd à:gwadanhta|
+000030|01-f-walc1|chr|wav/0037-Chapter_1_1.2_Set_B_02_You_are_hungry-000000475.wav|||Jayó:siha|
+000461|01-m-walc1|chr|wav/0512-Chapter_5_5.5_5.5.25-000000000.wav|||Gaɂle̋:ni. Hiɂle̋:ni. Jiɂle̋:ni.|
+000587|04-f-walc1|chr|wav/0707-Chapter_6_6.6_6.6.10-000000000.wav|||À:nalsgí:ɂa|
+000554|04-f-walc1|chr|wav/0651-Chapter_6_6.3_6.3.12-000003485.wav|||Jǔ:ntana Yǒ:na à:na:ɂi.|
+000526|04-f-walc1|chr|wav/0617-Chapter_6_6.1_6.1.2-000000000.wav|||U:da̋nhti|
+000183|03-f-walc1|chr|wav/0199-Chapter_3_3.4_3.4.3-000000000.wav|||Gawó:ni:sgó:hv́?|
+000914|04-m-walc1|chr|wav/1106-Chapter_8_8.5_8.5.5-000000205.wav|||Tǔ:ya|
+000118|01-m-walc1|chr|wav/0130-Chapter_2_2.6_2.6.8-000000000.wav|||Ő:sda dú:nane:lǒ:hnv́,|
+000560|04-f-walc1|chr|wav/0677-Chapter_6_6.4_6.4.12-000001775.wav|||Galv̌:ládi:dla|
+000537|04-f-walc1|chr|wav/0631-Chapter_6_6.1_6.1.7-000000000.wav|||U:sganő:li|
+000102|01-m-walc1|chr|wav/0114-Chapter_2_2.5_2.5.5-000000000.wav|||Ò:sdv:hnisdǐ:sgó.|
+000268|02-m-walc1|chr|wav/0287-Chapter_4_4.2_4.2.20-000000000.wav|||táɂlsgǒ:hine̋|
+000581|04-f-walc1|chr|wav/0700-Chapter_6_6.5_6.5.5-000000135.wav|||hno|
+000629|04-f-walc1|chr|wav/0752-Chapter_6_6.7_6.7.19-000001655.wav|||Kǎ:hwi À:wadu:líha.|
+000114|01-m-walc1|chr|wav/0126-Chapter_2_2.6_2.6.5-000000175.wav|||Hihno:héha. Jahno:hě:hlv́:ɂi.|
+000624|04-f-walc1|chr|wav/0747-Chapter_6_6.7_6.7.15-000000000.wav|||Nű:la! à:lsdàyvhdi̋ɂi!|
+000410|01-m-walc1|chr|wav/0439-Chapter_5_5.2_5.2.4-000000000.wav|||è:ji|
+000048|01-m-walc1|chr|wav/0057-Chapter_2_2.1_2.1.10-000000000.wav|||Wù:lv̌:kwdv́:ɂi kano:gi̋:sdi káno:gí:ɂa.|
+000466|01-m-walc1|chr|wav/0517-Chapter_5_5.5_5.5.27-000001435.wav|||Hihő:l.|
+000623|04-f-walc1|chr|wav/0746-Chapter_6_6.7_6.7.14-000001445.wav|||higo:hwahtaju?|
+000795|06-f-walc1|chr|wav/0962-Chapter_7_7.9_7.9.16-000000195.wav|||I̋:na ǐ:digati|
+000604|04-f-walc1|chr|wav/0727-Chapter_6_6.6_6.6.4-000000215.wav|||Dǒ:yi dí:dla Gě:dô:a de:gádlì:ló:sdiha ale|
+000842|04-m-walc1|chr|wav/1021-Chapter_8_8.2_8.2_Speak_Future-000005955.wav|||Dv̀:niwó:ni:si. Dà:diwó:ni:si.|
+000103|01-m-walc1|chr|wav/0115-Chapter_2_2.5_2.5.5-000002245.wav|||Ò:sdv:hnisdǐ:sgesdi.|
+000323|02-m-walc1|chr|wav/0343-Chapter_4_4.4_4.4_Count_Remote_Past-000000000.wav|||Daksehlv́:ɂi. Dehasehlv́:ɂi. Dù:sehlv́:ɂi. Dù:nasehlv́:ɂi. Dè:gasehlv́:ɂi.|
+000773|06-f-walc1|chr|wav/0923-Chapter_7_7.8_7.8_Drive_Habitual-000006825.wav|||à:nihíɂlǐ:dô:hó:ɂi. Ì:dihíɂlǐ:dô:hó:ɂi.|
+000676|06-f-walc1|chr|wav/0811-Chapter_7_7.1_7.1_Be_At_Immediate_Past-000000000.wav|||Gě:da. Hě:da. ě:da.|
+000565|04-f-walc1|chr|wav/0683-Chapter_6_6.4_6.4.2-000005465.wav|||Gv:no:sasgó|
+000008|01-f-walc1|chr|wav/0011-Chapter_1_1.1_Set_A_04_They_are_reading-000000375.wav|||À:nigo:lǐ:yéɂa|
+000327|02-m-walc1|chr|wav/0347-Chapter_4_4.5_4.5.12-000000000.wav|||sóhně:la Jù:hnv́:si:yi̋|
+000321|02-m-walc1|chr|wav/0341-Chapter_4_4.4_4.4_Count_Present-000000000.wav|||De:gâ:sehíha. Dehâ:sehíha. Dâ:sehíha. Da:nâ:sehíha. Dè:dâ:sehíha.|
+000042|01-f-walc1|chr|wav/0050-Chapter_1_1.2_Set_B_15_You_and_I_want-000000675.wav|||Ginadu:líha|
+000449|01-m-walc1|chr|wav/0499-Chapter_5_5.5_5.5.13-000000000.wav|||Di:kasge̋:ni|
+000952|04-m-walc1|chr|wav/1152-Chapter_8_8.6_8.6_Have_Long_Future-000000000.wav|||à:wgv̌:yê:sdi. Jv̌:yê:sdi. ù:wv̌:yê:sdi. ù:nv̌:yê:sdi.|
+000974|04-m-walc1|chr|wav/1178-Chapter_8_8.7_8.7.24-000002535.wav|||Gǒ:tv̋ naɂv|
+000311|02-m-walc1|chr|wav/0330-Chapter_4_4.4_4.4.20-000000000.wav|||Adě:la degvyà:tolsdíɂa.|
+000254|02-m-walc1|chr|wav/0272-Chapter_4_4.1_4.1.7-000000000.wav|||gahlgwǒ:gi|
+000976|04-m-walc1|chr|wav/1180-Chapter_8_8.7_8.7.25-000000000.wav|||V̀:tla yù:di:hléhga,|
+000743|06-f-walc1|chr|wav/0878-Chapter_7_7.6_7.6.10-000000000.wav|||Akti:si.|
+000192|03-f-walc1|chr|wav/0209-Chapter_3_3.5_3.5.1-000008185.wav|||Dà:gwadó|
+000387|01-m-walc1|chr|wav/0410-Chapter_5_5.1_5.1.20-000000000.wav|||Ju:lv̌:hwísdà:ne̋|
+000753|06-f-walc1|chr|wav/0889-Chapter_7_7.7_7.7.3-000000000.wav|||Ama. Amó:ɂi.|
+000612|04-f-walc1|chr|wav/0735-Chapter_6_6.6_6.6.7-000005065.wav|||nahno|
+000402|01-m-walc1|chr|wav/0427-Chapter_5_5.1_5.1.8-000000000.wav|||Di:dě:hlo:gwà:sgi|
+000819|04-m-walc1|chr|wav/0991-Chapter_8_8.1_8.1.5-000002695.wav|||de:jinv:galā|
+000507|01-m-walc1|chr|wav/0586-Chapter_5_5.9_5.9.1-000000000.wav|||À:tv̋:gô:di|
+000137|03-f-walc1|chr|wav/0151-Chapter_3_3.2_3.2.15-000000000.wav|||Jině:la.|
+000020|01-f-walc1|chr|wav/0026-Chapter_1_1.1_Set_A_19_They_and_I_are_diving-000000205.wav|||Ò:jade:tv́sga|
+000530|04-f-walc1|chr|wav/0622-Chapter_6_6.1_6.1.23-000000000.wav|||Ǔ:kv̀:hisdi|
+000647|04-f-walc1|chr|wav/0772-Chapter_6_6.8_6.8.6-000004735.wav|||Hla Nv̀:ya Ǔ:tana yigè:sé:ɂi.|
+000910|04-m-walc1|chr|wav/1099-Chapter_8_8.5_8.5.4-000000175.wav|||Sě:lu|
+000556|04-f-walc1|chr|wav/0673-Chapter_6_6.4_6.4.1-000000000.wav|||Gv̋:hdi|
+000218|03-f-walc1|chr|wav/0236-Chapter_3_3.6_3.6.7-000003255.wav|||Mè:li Dà:gwadó:ɂa. Ha:dlv té:gv́ɂi?|
+000037|01-f-walc1|chr|wav/0044-Chapter_1_1.2_Set_B_09_They_and_I_are_hungry-000000475.wav|||Dò:giyó:siha|
+000747|06-f-walc1|chr|wav/0883-Chapter_7_7.6_7.6.6-000000000.wav|||Áhani|
+000021|01-f-walc1|chr|wav/0027-Chapter_1_1.1_Set_A_20_You_all_are_diving-000000245.wav|||Ì:jade:tv́sga|
+000144|03-f-walc1|chr|wav/0158-Chapter_3_3.2_3.2.20-000000195.wav|||Howa|
+000229|02-m-walc1|chr|wav/0247-Chapter_4_4.1_4.1.17-000000000.wav|||gahlgwǎ:du|
+000884|04-m-walc1|chr|wav/1068-Chapter_8_8.5_8.5.11-000000135.wav|||Ge:li̋:stgi|
+000979|04-m-walc1|chr|wav/1185-Chapter_8_8.7_8.7.29-000000000.wav|||Ù:ga:hnani:de̋:nā.|
+000219|03-f-walc1|chr|wav/0237-Chapter_3_3.6_3.6.8-000000000.wav|||Gawó:ni:sgí Táɂli: Daligwa digé:gv́ɂi, Nihinahv?|
+000628|04-f-walc1|chr|wav/0751-Chapter_6_6.7_6.7.19-000000000.wav|||Vv,|
+000330|02-m-walc1|chr|wav/0350-Chapter_4_4.5_4.5.3-000000000.wav|||Joɂi Jù:hnv́:si:yi̋|
+000698|06-f-walc1|chr|wav/0833-Chapter_7_7.1_7.1_Go_Remote_Past-000004825.wav|||ù:we:nv́:sv̌:ɂi|
+000401|01-m-walc1|chr|wav/0426-Chapter_5_5.1_5.1.7-000000385.wav|||Dikáno:gí:sgi|
+000225|02-m-walc1|chr|wav/0243-Chapter_4_4.1_4.1.13-000000000.wav|||joɂga:ɂdu|
+000510|01-m-walc1|chr|wav/0593-Chapter_5_5.9_5.9.15-000000000.wav|||Go:hű:sdi Ő:sda À:sv̂:ga.|
+000174|03-f-walc1|chr|wav/0190-Chapter_3_3.4_3.4.15-000000185.wav|||Gadō u:sdi jadu:líha?|
+000504|01-m-walc1|chr|wav/0581-Chapter_5_5.8_5.8.5-000000000.wav|||À:kinǎ:lv́ga|
+000318|02-m-walc1|chr|wav/0338-Chapter_4_4.4_4.4_Buy_Future-000000000.wav|||Dvkihwasi. Dajahwasi. Dayù:hwasi. Dayù:nihwasi. Dà:gihwasi.|
+000101|01-m-walc1|chr|wav/0113-Chapter_2_2.5_2.5.4-000002245.wav|||Ì:janhté:sdi|
+000231|02-m-walc1|chr|wav/0249-Chapter_4_4.1_4.1.2-000000000.wav|||Táɂli|
+000954|04-m-walc1|chr|wav/1154-Chapter_8_8.6_8.6_Have_Long_Present-000000000.wav|||À:gwv̌:ya. Jv̌:ya.|
+000498|01-m-walc1|chr|wav/0570-Chapter_5_5.8_5.8.12-000000000.wav|||U:yő à:gwadanhta|
+000541|04-f-walc1|chr|wav/0635-Chapter_6_6.2_6.2.10-000000000.wav|||Adě:la U:ne̋:ga|
+000547|04-f-walc1|chr|wav/0641-Chapter_6_6.2_6.2.5-000000000.wav|||adalǒ:níge̋ɂi|
+000065|01-m-walc1|chr|wav/0077-Chapter_2_2.3_2.3.4-000000000.wav|||De:sdigo:lǐ:ya. Disdigo:lǐ:yā!|
+000275|02-m-walc1|chr|wav/0294-Chapter_4_4.2_4.2.7-000000000.wav|||gahlgwǒ:gine̋|
+000026|01-f-walc1|chr|wav/0033-Chapter_1_1.2_1.2.4-000000275.wav|||U:ji|
+000782|06-f-walc1|chr|wav/0941-Chapter_7_7.8_7.8_Walk_Past-000005055.wav|||á:ɂi:sv̌:ɂi.|
+000754|06-f-walc1|chr|wav/0890-Chapter_7_7.7_7.7.4-000000000.wav|||Talǔ:ja. Talǔ:jó:hi.|
+000186|03-f-walc1|chr|wav/0202-Chapter_3_3.4_3.4.6-000000000.wav|||Gawó:nihaju, De:káno:gí:ɂke?|
+000639|04-f-walc1|chr|wav/0763-Chapter_6_6.8_6.8.2-000000545.wav|||Hla|
+000405|01-m-walc1|chr|wav/0430-Chapter_5_5.2_5.2.10-000000575.wav|||Jo:sdada:hnv̋:hli|
+000600|04-f-walc1|chr|wav/0721-Chapter_6_6.6_6.6.20-000007195.wav|||Dá:nane:lǒ:hv́sga.|
+000723|06-f-walc1|chr|wav/0858-Chapter_7_7.3_7.3.8-000000000.wav|||Áhani|
+000066|01-m-walc1|chr|wav/0078-Chapter_2_2.3_2.3.5-000000000.wav|||De:higa|
+000889|04-m-walc1|chr|wav/1073-Chapter_8_8.5_8.5.16-000000000.wav|||Kǎ:hwi|
+000108|01-m-walc1|chr|wav/0120-Chapter_2_2.5_2.5.9-000000000.wav|||Ǔ:gáma ò:jadvnvɂisdisgesdi.|
+000452|01-m-walc1|chr|wav/0503-Chapter_5_5.5_5.5.17-000000000.wav|||Kanâ:saɂdv̋|
+000535|04-f-walc1|chr|wav/0629-Chapter_6_6.1_6.1.5-000000000.wav|||U:gana̋:sda|
+000635|04-f-walc1|chr|wav/0759-Chapter_6_6.7_6.7.7-000000000.wav|||Vhla|
+000207|03-f-walc1|chr|wav/0225-Chapter_3_3.6_3.6.12-000000000.wav|||Nihihnò|
+000531|04-f-walc1|chr|wav/0624-Chapter_6_6.1_6.1.25-000000000.wav|||Uhli̋:sda|
+000949|04-m-walc1|chr|wav/1149-Chapter_8_8.6_8.6_Have_Living_Future-000000145.wav|||à:gi:kahé:sdi. ja:kahé:sdi. ù:wa:kahé:sdi. ù:ni:kahé:sdi.|
+000252|02-m-walc1|chr|wav/0270-Chapter_4_4.1_4.1.5-000000000.wav|||Hisgi|
+000605|04-f-walc1|chr|wav/0728-Chapter_6_6.6_6.6.4-000006155.wav|||Gahljǒ:deɂi À:niyáa digigayv̌:líge̋.|
+000124|03-f-walc1|chr|wav/0138-Chapter_3_3.1_3.1.4-000000000.wav|||Gadò hada?|
+000777|06-f-walc1|chr|wav/0927-Chapter_7_7.8_7.8_Drive_Progressive_Past-000003055.wav|||hihíɂlǐ:dô:hv̌:ɂi. à:nihíɂlǐ:dô:hv̌:ɂi.|
+000557|04-f-walc1|chr|wav/0674-Chapter_6_6.4_6.4.10-000000000.wav|||Gahljǒ:de udlidí:dla Gadô:ga.|
+000641|04-f-walc1|chr|wav/0766-Chapter_6_6.8_6.8.3-000002325.wav|||Hla Junsdi yigi.|
+000437|01-m-walc1|chr|wav/0485-Chapter_5_5.4_5.4_Put_on_Pants_Future-000002725.wav|||Tasu:lâ:ni|
+000340|02-m-walc1|chr|wav/0360-Chapter_4_4.6_4.6.3-000000000.wav|||Joɂi:ne̋ i:ga|
+000260|02-m-walc1|chr|wav/0279-Chapter_4_4.2_4.2.13-000000000.wav|||joɂga:ɂdusi:ne̋|
+000141|03-f-walc1|chr|wav/0155-Chapter_3_3.2_3.2.19-000000000.wav|||Howagwu.|
+000929|04-m-walc1|chr|wav/1122-Chapter_8_8.6_8.6.16-000000000.wav|||Tǔ:ya witiɂvsi.|
+000638|04-f-walc1|chr|wav/0762-Chapter_6_6.8_6.8.1-000000145.wav|||Hla yijiwó:niha.|
+000027|01-f-walc1|chr|wav/0034-Chapter_1_1.2_1.2.5-000000785.wav|||Sv̌:kta dù:du:líha.|
+000549|04-f-walc1|chr|wav/0643-Chapter_6_6.2_6.2.7-000000000.wav|||Gǐ:gáge̋ ù:sgǒ:lv̋|
+000955|04-m-walc1|chr|wav/1155-Chapter_8_8.6_8.6_Have_Long_Present-000003195.wav|||Ù:wǎ:ya.|
+000053|01-m-walc1|chr|wav/0062-Chapter_2_2.1_2.1.6-000000865.wav|||Na asgaya sda̋:y gawó:niha.|
+000891|04-m-walc1|chr|wav/1075-Chapter_8_8.5_8.5.18-000000315.wav|||Ama.|
+000736|06-f-walc1|chr|wav/0871-Chapter_7_7.4_7.4.7-000000185.wav|||E:ladi|
+000924|04-m-walc1|chr|wav/1117-Chapter_8_8.6_8.6.12-000000000.wav|||Kǎ:hwiɂju janehvsi?|
+000392|01-m-walc1|chr|wav/0417-Chapter_5_5.1_5.1.25-000002185.wav|||Jigáɂnakti. À:nigáɂnakti.|
+000920|04-m-walc1|chr|wav/1113-Chapter_8_8.6_8.6.10-000001615.wav|||Kǎ:hwi|
+000950|04-m-walc1|chr|wav/1150-Chapter_8_8.6_8.6_Have_Living_Past-000000000.wav|||à:gi:kahv̌. ja:kahv̌. ù:wa:kahv̌. ù:ni:kahv̌.|
+000610|04-f-walc1|chr|wav/0733-Chapter_6_6.6_6.6.7-000000000.wav|||Di:ni:yő:hli|
+000943|04-m-walc1|chr|wav/1143-Chapter_8_8.6_8.6.8-000003745.wav|||Áhani?|
+000125|03-f-walc1|chr|wav/0139-Chapter_3_3.1_3.1.5-000000465.wav|||Ga:janű:lige̋ hniwī.|
+000810|04-m-walc1|chr|wav/0981-Chapter_8_8.1_8.1.14-000000000.wav|||Dihnawo deji:tv́:lā|
+000980|04-m-walc1|chr|wav/1186-Chapter_8_8.7_8.7.3-000000475.wav|||Ù:lô:gi:la.|
+000592|04-f-walc1|chr|wav/0712-Chapter_6_6.6_6.6.15-000000000.wav|||Dù:nǒ:hla|
+000900|04-m-walc1|chr|wav/1085-Chapter_8_8.5_8.5.27-000000325.wav|||Ga̋:du digv:jahlánv̋:ɂi|
+000523|04-f-walc1|chr|wav/0612-Chapter_6_6.1_6.1.15-000000000.wav|||E̋:gwa|
+000543|04-f-walc1|chr|wav/0637-Chapter_6_6.2_6.2.12-000000235.wav|||Uwǒ:díge̋|
+000836|04-m-walc1|chr|wav/1009-Chapter_8_8.2_8.2.7-000000000.wav|||Gawò:nǐ:hisdi. à:hlino:hehdi. à:hlino:hehdodi.|
+000598|04-f-walc1|chr|wav/0718-Chapter_6_6.6_6.6.2-000000000.wav|||Age:hyű:ja|
+000666|06-f-walc1|chr|wav/0801-Chapter_7_7.1_7.1_Arrive_Present-000006265.wav|||à:niɂluhga.|
+000661|06-f-walc1|chr|wav/0796-Chapter_7_7.1_7.1_Arrive_Future-000005395.wav|||Dv̀:niɂlúhji.|
+000982|04-m-walc1|chr|wav/1190-Chapter_8_8.7_8.7.31-000002895.wav|||À:hyahtv̌:hv́sgó:ɂi.|
+000685|06-f-walc1|chr|wav/0820-Chapter_7_7.1_7.1_Be_At_Remote_Past-000002855.wav|||Jě:dô:lv̌:ɂi|
+000825|04-m-walc1|chr|wav/0998-Chapter_8_8.2_8.2.11-000000000.wav|||À:de:hlohgwáɂa uwò:nǐ:hisdi̋:ɂi.|
+000244|02-m-walc1|chr|wav/0262-Chapter_4_4.1_4.1.31-000000245.wav|||nvksgǒ:hi|
+000434|01-m-walc1|chr|wav/0482-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000008405.wav|||Dedá:hnawó:ɂa|
+000575|04-f-walc1|chr|wav/0694-Chapter_6_6.5_6.5.10-000000000.wav|||Ju:hno:gì:sdi Ù:du:lǐ:sgv̌:ɂi, ǎ:sé:sgíni Ù:dlv́:gv̌:ɂi.|
+000989|04-m-walc1|chr|wav/1204-Chapter_8_8.7_8.7.5-000000000.wav|||Gu:tíha|
+000130|03-f-walc1|chr|wav/0144-Chapter_3_3.2_3.2.1-000000435.wav|||O:síyo|
+000977|04-m-walc1|chr|wav/1182-Chapter_8_8.7_8.7.26-000000000.wav|||Ù:hyv:dlì:sdi ale Uwu:tohdi gè:sé:sdi Kò:hi̋ sv:hiye̋:ye, À:nadiha.|
+000849|04-m-walc1|chr|wav/1028-Chapter_8_8.3_8.3.12-000000375.wav|||Jatade:gíɂju?|
+000078|01-m-walc1|chr|wav/0090-Chapter_2_2.3_2.3_Write_Present-000000185.wav|||Hohweliɂa. Ì:johweli. Sdohweliɂa.|
+000272|02-m-walc1|chr|wav/0291-Chapter_4_4.2_4.2.4-000000195.wav|||nvhgine̋|
+000626|04-f-walc1|chr|wav/0749-Chapter_6_6.7_6.7.17-000000000.wav|||Ayo! À:kinâ:sgwaló:ja|
+000115|01-m-walc1|chr|wav/0127-Chapter_2_2.6_2.6.6-000000000.wav|||Wahya Ù:yo:hlě:ɂi, À:dǐ:sgv̌ɂi.|
+000487|01-m-walc1|chr|wav/0551-Chapter_5_5.7_5.7.14-000000000.wav|||Agáɂnaktiju À:yáa?|
+000279|02-m-walc1|chr|wav/0298-Chapter_4_4.3_4.3.10-000000000.wav|||Iyaséhlv|
+000947|04-m-walc1|chr|wav/1147-Chapter_8_8.6_8.6_Have_Flexible_Past-000002295.wav|||Janáv̌. ù:náv̌. ù:nináv̌.|
+000938|04-m-walc1|chr|wav/1132-Chapter_8_8.6_8.6.23-000000000.wav|||Digo:hwě:lò:di dòdisgidì:si.|
+000734|06-f-walc1|chr|wav/0869-Chapter_7_7.4_7.4.5-000000195.wav|||Dikalv̌:gv̋:ɂi|
+000117|01-m-walc1|chr|wav/0129-Chapter_2_2.6_2.6.7-000002205.wav|||jatv:gâ:ně:ɂi?|
+000165|03-f-walc1|chr|wav/0181-Chapter_3_3.3_3.3.7-000000000.wav|||Ù:ganhdáɂdv̋ ì:dihílv́.|
+000514|01-m-walc1|chr|wav/0597-Chapter_5_5.9_5.9.2-000000000.wav|||À:gowahtv́hdi|
+000808|04-m-walc1|chr|wav/0979-Chapter_8_8.1_8.1.12-000000575.wav|||Galì:tawǒ:jā|
+000546|04-f-walc1|chr|wav/0640-Chapter_6_6.2_6.2.4-000000000.wav|||dalǒ:níge̋ɂi|
+000431|01-m-walc1|chr|wav/0479-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000000000.wav|||De:gánì:wó:ɂa. Dehà:hnawó:ɂa.|
+000724|06-f-walc1|chr|wav/0859-Chapter_7_7.3_7.3.8-000001425.wav|||iyv̋:ɂi dv̀:niɂlúhji|
+000012|01-f-walc1|chr|wav/0016-Chapter_1_1.1_Set_A_09_They_and_I_are_reading-000000415.wav|||Ò:jigo:lǐ:yéɂa|
+000337|02-m-walc1|chr|wav/0357-Chapter_4_4.5_4.5.9-000000165.wav|||Sǔ:dáli Jù:hnv́:si:yi̋|
+000259|02-m-walc1|chr|wav/0278-Chapter_4_4.2_4.2.12-000000285.wav|||taɂldusi:ne̋|
+000791|06-f-walc1|chr|wav/0958-Chapter_7_7.9_7.9.12-000000000.wav|||Ǔ:tani ga:dú:hv̋:ɂi|
+000494|01-m-walc1|chr|wav/0566-Chapter_5_5.7_5.7.9-000000135.wav|||Ju:ni:dlv̀:gi̋ U:niyv:sdi|
+000277|02-m-walc1|chr|wav/0296-Chapter_4_4.2_4.2.9-000000205.wav|||sóhně:line̋|
+000310|02-m-walc1|chr|wav/0329-Chapter_4_4.4_4.4.2-000000000.wav|||U:hnő:sda|
+000423|01-m-walc1|chr|wav/0466-Chapter_5_5.4_5.4.2-000000000.wav|||À:su:lo|
+000669|06-f-walc1|chr|wav/0804-Chapter_7_7.1_7.1_Arrive_Remote_Past-000002005.wav|||Jalúhjv̌:ɂi. Ù:lúhjv̌:ɂi.|
+000014|01-f-walc1|chr|wav/0019-Chapter_1_1.1_Set_A_12_You_are_diving-000000715.wav|||Hade:tv́sga|
+000424|01-m-walc1|chr|wav/0467-Chapter_5_5.4_5.4.3-000000235.wav|||dilà:sǔ:lo|
+000396|01-m-walc1|chr|wav/0421-Chapter_5_5.1_5.1.27-000000000.wav|||U:gv:wiyu:hi. À:gigv:wiyu:hi. Jagv:wiyu:hi. U:nigv:wiyu:hi.|
+000448|01-m-walc1|chr|wav/0498-Chapter_5_5.5_5.5.12-000000000.wav|||Askő:li|
+000774|06-f-walc1|chr|wav/0924-Chapter_7_7.8_7.8_Drive_Present-000000585.wav|||Jiɂíɂlǐ:dô:ha.|
+000631|04-f-walc1|chr|wav/0754-Chapter_6_6.7_6.7.20-000000000.wav|||Ni! Gá:gō dà:yáɂi?|
+000249|02-m-walc1|chr|wav/0267-Chapter_4_4.1_4.1.36-000000755.wav|||sóhnélsgǒ:hi|
+000784|06-f-walc1|chr|wav/0943-Chapter_7_7.8_7.8_Walk_Present-000000225.wav|||Gá:ɂi.|
+000931|04-m-walc1|chr|wav/1124-Chapter_8_8.6_8.6.18-000000000.wav|||Digo:hwe:li dò:di:sginvsi.|
+000380|01-m-walc1|chr|wav/0402-Chapter_5_5.1_5.1.13-000000000.wav|||U:gv:wiyu:hi|
+000963|04-m-walc1|chr|wav/1163-Chapter_8_8.7_8.7.12-000000000.wav|||à:sdu:dlíɂdoha|
+000975|04-m-walc1|chr|wav/1179-Chapter_8_8.7_8.7.24-000005245.wav|||Hidô:gé:sdi.|
+000205|03-f-walc1|chr|wav/0223-Chapter_3_3.6_3.6.10-000000000.wav|||Gawó:ni:sgí Táɂli: Ő:sda jidenádò:hlgi.|
+000180|03-f-walc1|chr|wav/0196-Chapter_3_3.4_3.4.20-000000305.wav|||Ha:dlv hé:ga?|
+000307|02-m-walc1|chr|wav/0326-Chapter_4_4.4_4.4.17-000000000.wav|||Taséga!|
+000445|01-m-walc1|chr|wav/0495-Chapter_5_5.5_5.5.1-000000335.wav|||Kano:ge̋:ni|
+000559|04-f-walc1|chr|wav/0676-Chapter_6_6.4_6.4.12-000000000.wav|||Ò:dalv̋:ɂi|
+000830|04-m-walc1|chr|wav/1003-Chapter_8_8.2_8.2.15-000001435.wav|||jò:sdà:hlino:hě:sgv̌.|
+000128|03-f-walc1|chr|wav/0142-Chapter_3_3.1_3.1.8-000000495.wav|||U:sganő:lige̋ hniwī.|
+000873|04-m-walc1|chr|wav/1056-Chapter_8_8.4_8.4.24-000000295.wav|||E:li̋:gwudv.|
+000609|04-f-walc1|chr|wav/0732-Chapter_6_6.6_6.6.6-000005685.wav|||degawó:niha.|
+000985|04-m-walc1|chr|wav/1197-Chapter_8_8.7_8.7.34-000000000.wav|||Gu:tǐ:sgv̌:ɂi|
+000887|04-m-walc1|chr|wav/1071-Chapter_8_8.5_8.5.14-000000000.wav|||Kalisě:ji|
+000613|04-f-walc1|chr|wav/0736-Chapter_6_6.6_6.6.7-000006645.wav|||Jǔ:natana|
+000993|03-f-walc1|en|wav/0208-Chapter_3_3.5_3.5.1-000006245.wav|||Mary|
+000084|01-m-walc1|chr|wav/0096-Chapter_2_2.4_2.4.3-000002775.wav|||À:nigo:lǐ:yê:sgó:ɂi|
+000958|04-m-walc1|chr|wav/1158-Chapter_8_8.6_8.6_Have_Neutral_Past-000000000.wav|||À:gihv̌. Jahv̌. Ù:hv̌. Ù:nihv̌.|
+000432|01-m-walc1|chr|wav/0480-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000004045.wav|||Dà:hnawó:ɂa|
+000034|01-f-walc1|chr|wav/0041-Chapter_1_1.2_Set_B_06_He-she_and_I_are_hungry-000000645.wav|||Dò:giniyó:siha|
+000969|04-m-walc1|chr|wav/1169-Chapter_8_8.7_8.7.18-000000000.wav|||Ganě:sdáladiɂa|
+000269|02-m-walc1|chr|wav/0288-Chapter_4_4.2_4.2.21-000000000.wav|||táɂlsgǒ:hi Sà:gwú:hi:ne̋:ɂi|
+000359|02-m-walc1|chr|wav/0379-Chapter_4_4.8_4.8.13-000000405.wav|||Kò:hi̋ i:ga, Anv:hyi táɂlsgǒ:hine̋ɂi.|
+000224|02-m-walc1|chr|wav/0242-Chapter_4_4.1_4.1.12-000000325.wav|||taɂldu|
+000044|01-f-walc1|chr|wav/0052-Chapter_1_1.2_Set_B_17_You_two_want-000000505.wav|||Sdadu:líha|
+000928|04-m-walc1|chr|wav/1121-Chapter_8_8.6_8.6.15-000001955.wav|||hwiɂvsi.|
+000915|04-m-walc1|chr|wav/1107-Chapter_8_8.5_8.5.6-000000000.wav|||Dalígwa|
+000333|02-m-walc1|chr|wav/0353-Chapter_4_4.5_4.5.5-000001865.wav|||nvhgi Jù:hnv́:si:yi̋|
+000426|01-m-walc1|chr|wav/0469-Chapter_5_5.4_5.4.5-000000545.wav|||Di:lǐ:yo|
+000869|04-m-walc1|chr|wav/1050-Chapter_8_8.4_8.4.2-000000000.wav|||yà:gwadǔ:la agigisdi.|
+000827|04-m-walc1|chr|wav/1000-Chapter_8_8.2_8.2.13-000000000.wav|||Nǔ:dále̋ aniwó:niha.|
+000149|03-f-walc1|chr|wav/0163-Chapter_3_3.2_3.2.6-000000000.wav|||Ő:sda|
+000428|01-m-walc1|chr|wav/0471-Chapter_5_5.4_5.4.7-000000595.wav|||Alsgwè:tuwo|
+000862|04-m-walc1|chr|wav/1043-Chapter_8_8.4_8.4.13-000000475.wav|||Gadō u:sdi hv:hnisdíha?|
+000804|06-f-walc1|chr|wav/0975-Chapter_7_7.9_7.9.9-000000000.wav|||Ù:go:hnǐ:yô:ga|
+000492|01-m-walc1|chr|wav/0562-Chapter_5_5.7_5.7.5-000000285.wav|||Gadō u:sd ada gáɂnakti?|
+000687|06-f-walc1|chr|wav/0822-Chapter_7_7.1_7.1_Be_At_Remote_Past-000007525.wav|||Ù:ně:dô:lv̌:ɂi|
+000751|06-f-walc1|chr|wav/0887-Chapter_7_7.7_7.7.1-000000485.wav|||Agǔ:sa. Gǔ:só:ɂi.|
+000966|04-m-walc1|chr|wav/1166-Chapter_8_8.7_8.7.15-000000000.wav|||Tő:ɂi|
+000177|03-f-walc1|chr|wav/0193-Chapter_3_3.4_3.4.18-000000195.wav|||Gadò À:dv́:neha?|
+000570|04-f-walc1|chr|wav/0689-Chapter_6_6.4_6.4.6-000000000.wav|||Amé:gwő idí:dla à:né:ga.|
+000368|02-m-walc1|chr|wav/0389-Chapter_4_4.9_4.9.1-000000245.wav|||Gő:la|
+000585|04-f-walc1|chr|wav/0705-Chapter_6_6.5_6.5.9-000000000.wav|||Uwe:nv̀:sdi ù:du:líha A:sé:hno À:ga:sga.|
+000155|03-f-walc1|chr|wav/0171-Chapter_3_3.3_3.3.13-000000385.wav|||Ő:sda nijadv̀:gā.|
+000302|02-m-walc1|chr|wav/0321-Chapter_4_4.4_4.4.13-000002225.wav|||jadu:lí jahwáhísdi?|
+000052|01-m-walc1|chr|wav/0061-Chapter_2_2.1_2.1.5-000000225.wav|||U:nv̌:di gadì:tásga.|
+000813|04-m-walc1|chr|wav/0985-Chapter_8_8.1_8.1.15-000024165.wav|||Gadawó:ɂohna, de:ganìwǒ:jā. Deganiwoɂohnahno i:ga e̋:hi.|
+000032|01-f-walc1|chr|wav/0039-Chapter_1_1.2_Set_B_04_They_are_hungry-000000185.wav|||Dù:niyó:siha|
+000282|02-m-walc1|chr|wav/0301-Chapter_4_4.3_4.3.13-000000000.wav|||Hilâ:yv̋ dvdale:nv:hi?|
+000710|06-f-walc1|chr|wav/0845-Chapter_7_7.2_7.2.3-000000000.wav|||Idí:dla|
+000951|04-m-walc1|chr|wav/1151-Chapter_8_8.6_8.6_Have_Living_Present-000000000.wav|||à:gi:káha. ja:káhǎ. ù:wa:káha. ù:ni:káha.|
+000880|04-m-walc1|chr|wav/1064-Chapter_8_8.4_8.4.8-000000000.wav|||Adi:tóhdi|
+000150|03-f-walc1|chr|wav/0164-Chapter_3_3.2_3.2.7-000000000.wav|||Osíwu|
+000908|04-m-walc1|chr|wav/1097-Chapter_8_8.5_8.5.38-000000000.wav|||Ahawi Hawi:ya|
+000912|04-m-walc1|chr|wav/1103-Chapter_8_8.5_8.5.43-000000000.wav|||Sě:lu Ga̋:du|
+000366|02-m-walc1|chr|wav/0387-Chapter_4_4.8_4.8.8-000000000.wav|||Gaɂlo:hni|
+000335|02-m-walc1|chr|wav/0355-Chapter_4_4.5_4.5.7-000000000.wav|||Hisgi Jù:hnv́:si:yi̋|
+000393|01-m-walc1|chr|wav/0418-Chapter_5_5.1_5.1.25-000005495.wav|||Higáɂnakti|
+000816|04-m-walc1|chr|wav/0988-Chapter_8_8.1_8.1.3-000000135.wav|||Gadv:nv́:ɂisdíha|
+000439|01-m-walc1|chr|wav/0489-Chapter_5_5.4_5.4_Put_on_Pants_Present-000000405.wav|||Gá:su:líɂa. Há:su:líɂa. Á:su:líɂa. Dà:ná:su:líɂa. Dejá:su:líɂa|
+000372|02-m-walc1|chr|wav/0393-Chapter_4_4.9_4.9.5-000000000.wav|||Gő:la Yinù:lsta:na,|
+000391|01-m-walc1|chr|wav/0416-Chapter_5_5.1_5.1.25-000000000.wav|||Agáɂnakti|
+000793|06-f-walc1|chr|wav/0960-Chapter_7_7.9_7.9.14-000000000.wav|||ju:dale:hnv̋:da|
+000833|04-m-walc1|chr|wav/1006-Chapter_8_8.2_8.2.4-000000000.wav|||Kò:hî:yv̋ da:yò:jiwó:ni:si.|
+000927|04-m-walc1|chr|wav/1120-Chapter_8_8.6_8.6.15-000000000.wav|||Ga̋:du|
+000509|01-m-walc1|chr|wav/0590-Chapter_5_5.9_5.9.13-000000305.wav|||Wahaya Nigawè:sgv̋|
+000741|06-f-walc1|chr|wav/0876-Chapter_7_7.5_7.5.3-000000000.wav|||Ù:nasǔ:hnv́:ɂi. À:nasǔ:hné:ga.|
+000362|02-m-walc1|chr|wav/0382-Chapter_4_4.8_4.8.3-000000255.wav|||Anv:hyi|
+000328|02-m-walc1|chr|wav/0348-Chapter_4_4.5_4.5.13-000000185.wav|||Sgǒ:hi Jù:hnv́:si:yi̋|
+000486|01-m-walc1|chr|wav/0550-Chapter_5_5.7_5.7.13-000000835.wav|||à:ksgwo:hli̋ à:gwe:hisdâ:neha|
+000442|01-m-walc1|chr|wav/0492-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000005805.wav|||Ù:su:lâ:nv̌:ɂi|
+000287|02-m-walc1|chr|wav/0306-Chapter_4_4.3_4.3.16-000003415.wav|||u:lo:sv̋:sdi Sgǒ:hi|
+000127|03-f-walc1|chr|wav/0141-Chapter_3_3.1_3.1.7-000000345.wav|||Gadō u:sdi?|
+000388|01-m-walc1|chr|wav/0411-Chapter_5_5.1_5.1.21-000000000.wav|||Adě:la Ù:kse:sdi|
+000235|02-m-walc1|chr|wav/0253-Chapter_4_4.1_4.1.23-000000000.wav|||táɂlsgǒ:hi joɂi|
+000236|02-m-walc1|chr|wav/0254-Chapter_4_4.1_4.1.24-000000000.wav|||táɂlsgǒ:hi nvhgi|
+000459|01-m-walc1|chr|wav/0510-Chapter_5_5.5_5.5.23-000000000.wav|||Uwò:ye̋:ni. Jò:ye̋:ni. Agwò:ye̋:ni.|
+000451|01-m-walc1|chr|wav/0501-Chapter_5_5.5_5.5.15-000000000.wav|||Ganv̀:sge̋:ni|
+000238|02-m-walc1|chr|wav/0256-Chapter_4_4.1_4.1.26-000000285.wav|||táɂlsgǒ:hi Sǔ:dáli|
+000329|02-m-walc1|chr|wav/0349-Chapter_4_4.5_4.5.2-000000000.wav|||Gasò:gwalv Ganv:hi̋:da|
+000597|04-f-walc1|chr|wav/0717-Chapter_6_6.6_6.6.19-000002355.wav|||Ijéɂiyű:sdi Ulsǔ:hwi:da Ú:su:la ale Gv̌:hnáge̋ Dù:lâ:su:hla.|
+000351|02-m-walc1|chr|wav/0371-Chapter_4_4.7_4.7.6-000000165.wav|||Sv:hiye̋ Dí:dla|
+000246|02-m-walc1|chr|wav/0264-Chapter_4_4.1_4.1.33-000000000.wav|||sǔ:dálsgǒ:hi|
+000660|06-f-walc1|chr|wav/0795-Chapter_7_7.1_7.1_Arrive_Future-000002185.wav|||Tiɂlúhji. Dagaɂlúhji.|
+000567|04-f-walc1|chr|wav/0685-Chapter_6_6.4_6.4.3-000000000.wav|||Na asgaya, Agě:hya|
+000185|03-f-walc1|chr|wav/0201-Chapter_3_3.4_3.4.5-000000515.wav|||Kǎ:hwi jadu:líɂa?|
+000407|01-m-walc1|chr|wav/0435-Chapter_5_5.2_5.2.15-000000355.wav|||Taɂline̋ è:ji|
+000425|01-m-walc1|chr|wav/0468-Chapter_5_5.4_5.4.4-000000575.wav|||Ahnawo|
+000039|01-f-walc1|chr|wav/0046-Chapter_1_1.2_Set_B_11_I_want-000000000.wav|||à:gwadu:líha|
+000712|06-f-walc1|chr|wav/0847-Chapter_7_7.2_7.2.6-000000135.wav|||Hlá ilv́hdlv|
+000193|03-f-walc1|chr|wav/0210-Chapter_3_3.5_3.5.1-000009705.wav|||Yó:ne:ga Gv̋:hdi. Táɂlsgǒ:hi|
+000204|03-f-walc1|chr|wav/0222-Chapter_3_3.6_3.6.1-000003265.wav|||Síyo|
+000729|06-f-walc1|chr|wav/0864-Chapter_7_7.4_7.4.13-000000000.wav|||Jǔ:gá:nawv̋ idí:dla wò:jigti.|
+000861|04-m-walc1|chr|wav/1042-Chapter_8_8.4_8.4.12-000000000.wav|||Jù:nà:lsdàyhdi̋:ɂi.|
+000973|04-m-walc1|chr|wav/1177-Chapter_8_8.7_8.7.24-000000000.wav|||hyì:nawô:ga|
+000336|02-m-walc1|chr|wav/0356-Chapter_4_4.5_4.5.8-000000000.wav|||Nokwsi|
+000341|02-m-walc1|chr|wav/0361-Chapter_4_4.6_4.6.4-000000000.wav|||Nvhgi:ne̋ iɂga|
+000620|04-f-walc1|chr|wav/0743-Chapter_6_6.7_6.7.12-000000000.wav|||Nű:la! Ina:hnigi!|
+000750|06-f-walc1|chr|wav/0886-Chapter_7_7.6_7.6.9-000000245.wav|||Aksganíni|
+000447|01-m-walc1|chr|wav/0497-Chapter_5_5.5_5.5.11-000000000.wav|||Kanige̋:ni|
+000015|01-f-walc1|chr|wav/0020-Chapter_1_1.1_Set_A_13_He-She_is_diving-000000515.wav|||Ade:tv́sga|
+000013|01-f-walc1|chr|wav/0018-Chapter_1_1.1_Set_A_11_I_am_diving-000000000.wav|||Gade:tv́sga|
+000944|04-m-walc1|chr|wav/1144-Chapter_8_8.6_8.6.9-000000000.wav|||Ama de:sginehvsi.|
+000163|03-f-walc1|chr|wav/0179-Chapter_3_3.3_3.3.5-000002695.wav|||Disgwé:hyo:hv̀:gā|
+000473|01-m-walc1|chr|wav/0526-Chapter_5_5.5_5.5.5-000000000.wav|||Gaɂle̋:ni|
+000298|02-m-walc1|chr|wav/0317-Chapter_4_4.4_4.4.10-000000000.wav|||Hila̋ Ju:gv:wahldóhdi?|
+000009|01-f-walc1|chr|wav/0013-Chapter_1_1.1_Set_A_06_He-She_and_I_are_reading-000000235.wav|||Ò:sdigo:lǐ:yéɂa|
+000637|04-f-walc1|chr|wav/0761-Chapter_6_6.7_6.7.9-000000335.wav|||Si!|
+000838|04-m-walc1|chr|wav/1011-Chapter_8_8.2_8.2.8-000001765.wav|||ò:sdahlino:héha|
+000814|04-m-walc1|chr|wav/0986-Chapter_8_8.1_8.1.15-000031695.wav|||álsdàyhdi gadvnvɂisda. Gahlgwǒ:gi àhlíɂilǐ:sv gà:nigī.|
+000247|02-m-walc1|chr|wav/0265-Chapter_4_4.1_4.1.34-000000000.wav|||gahlgwǎ:sgǒ:hi|
+000148|03-f-walc1|chr|wav/0162-Chapter_3_3.2_3.2.5-000000575.wav|||Dà:gwadó:ɂa.|
+000286|02-m-walc1|chr|wav/0305-Chapter_4_4.3_4.3.16-000000145.wav|||sgiga:ɂdu Iyátahwò:stanv̋|
+000643|04-f-walc1|chr|wav/0768-Chapter_6_6.8_6.8.4-000002575.wav|||Hla jalagi Gawó:ni:sgí yigi.|
+000934|04-m-walc1|chr|wav/1128-Chapter_8_8.6_8.6.20-000001825.wav|||hwinv̀:si.|
+000679|06-f-walc1|chr|wav/0814-Chapter_7_7.1_7.1_Be_At_Present-000000435.wav|||Ge:dó:ha|
+000373|02-m-walc1|chr|wav/0394-Chapter_4_4.9_4.9.5-000002815.wav|||Ahyv:dladi:sgó:ɂi|
+000072|01-m-walc1|chr|wav/0084-Chapter_2_2.3_2.3_Listen_Present-000000000.wav|||Hatv:dâ:sdiha. Ì:jatv:dâ:sdiha. Sdatv:dâ:sdiha.|
+000312|02-m-walc1|chr|wav/0331-Chapter_4_4.4_4.4.3-000000000.wav|||Gi:nű:tdi|
+000964|04-m-walc1|chr|wav/1164-Chapter_8_8.7_8.7.13-000000555.wav|||À:nâ:ga:líha|
+000047|01-m-walc1|chr|wav/0056-Chapter_2_2.1_2.1.1-000000635.wav|||Na asgay gawó:niha.|
+000230|02-m-walc1|chr|wav/0248-Chapter_4_4.1_4.1.19-000000000.wav|||sóhněla:du|
+000122|03-f-walc1|chr|wav/0134-Chapter_3_3.1_3.1.1-000000000.wav|||Gadò hà:dǐ:sgó hiɂa?|
+000400|01-m-walc1|chr|wav/0425-Chapter_5_5.1_5.1.6-000000000.wav|||À:dv́:ne:lǐ:sgi|
+000651|05-f-walc1|chr|wav/0779-Chapter_6_6.9_6.9.4-000000225.wav|||Jalagi Gawó:ni:sgí, Dó:ka?|
+000169|03-f-walc1|chr|wav/0185-Chapter_3_3.4_3.4.10-000000165.wav|||Ha:dlv?|
+000082|01-m-walc1|chr|wav/0094-Chapter_2_2.4_2.4.2-000002455.wav|||Gadehlo:hgwâ:sgó:ɂi|
+000809|04-m-walc1|chr|wav/0980-Chapter_8_8.1_8.1.13-000000000.wav|||Álsdàyhdi gadv:nv:ɂisdā|
+000893|04-m-walc1|chr|wav/1077-Chapter_8_8.5_8.5.2-000000000.wav|||Ǔ:gáma|
+000701|06-f-walc1|chr|wav/0836-Chapter_7_7.2_7.2.1-000000000.wav|||Áhani|
+000738|06-f-walc1|chr|wav/0873-Chapter_7_7.4_7.4.9-000000000.wav|||Ha:dlv idí:dla?|
+000462|01-m-walc1|chr|wav/0513-Chapter_5_5.5_5.5.26-000000425.wav|||Kanige̋:n.|
+000457|01-m-walc1|chr|wav/0508-Chapter_5_5.5_5.5.21-000000000.wav|||Aye:lv̋|
+000061|01-m-walc1|chr|wav/0073-Chapter_2_2.3_2.3.1-000000575.wav|||De:higí:ɂa tiga!|
+000011|01-f-walc1|chr|wav/0015-Chapter_1_1.1_Set_A_08_All_of_us_are_reading-000000545.wav|||Ì:digo:lǐ:yéɂa|
+000297|02-m-walc1|chr|wav/0316-Chapter_4_4.4_4.4.1-000000000.wav|||Adě:la|
+000170|03-f-walc1|chr|wav/0186-Chapter_3_3.4_3.4.11-000000135.wav|||Hila iyv̋?|
+000645|04-f-walc1|chr|wav/0770-Chapter_6_6.8_6.8.5-000002325.wav|||Hla Ő:sda yigè:sé:ɂi.|
+000022|01-f-walc1|chr|wav/0028-Chapter_1_1.1_Set_A_21_I_understand-000000000.wav|||Go:lì:ga|
+000518|04-f-walc1|chr|wav/0606-Chapter_6_6.1_6.1.1-000000000.wav|||Uwo:dű:hi|
+000200|03-f-walc1|chr|wav/0218-Chapter_3_3.5_3.5.2-000000465.wav|||Degade:hlohgwáɂohnv̌:ɂi|
+000826|04-m-walc1|chr|wav/0999-Chapter_8_8.2_8.2.12-000000175.wav|||Jalagi dv̀:niwó:ni:si di:ni:yő:hli.|
+000818|04-m-walc1|chr|wav/0990-Chapter_8_8.1_8.1.5-000000285.wav|||De:jinidóhgv̋|
+000142|03-f-walc1|chr|wav/0156-Chapter_3_3.2_3.2.2-000000000.wav|||Tò:hi̋ju?|
+000602|04-f-walc1|chr|wav/0724-Chapter_6_6.6_6.6.22-000000000.wav|||Ga:ge̋:daju,|
+000196|03-f-walc1|chr|wav/0213-Chapter_3_3.5_3.5.1-000024365.wav|||Digé:gv̌ɂi.|
+000211|03-f-walc1|chr|wav/0229-Chapter_3_3.6_3.6.2-000000000.wav|||Gawó:ni:sgí Táɂli O:síyo, Tò:hi̋:ju?|
+000867|04-m-walc1|chr|wav/1048-Chapter_8_8.4_8.4.18-000000000.wav|||E:li̋:gwuju?|
+000001|01-f-walc1|chr|wav/0002-Chapter_1_1.1_1.1.2-000000355.wav|||Jiɂő:li|
+000265|02-m-walc1|chr|wav/0284-Chapter_4_4.2_4.2.18-000000000.wav|||ně:la:dusi:ne̋|
+000106|01-m-walc1|chr|wav/0118-Chapter_2_2.5_2.5.8-000000435.wav|||Ő:sda|
+000379|01-m-walc1|chr|wav/0401-Chapter_5_5.1_5.1.12-000000000.wav|||Di:da:hnv:wi̋:sgi|
+000665|06-f-walc1|chr|wav/0800-Chapter_7_7.1_7.1_Arrive_Present-000004555.wav|||Gaɂluhga|
+000100|01-m-walc1|chr|wav/0112-Chapter_2_2.5_2.5.4-000000000.wav|||Ì:janhtó:ɂi|
+000182|03-f-walc1|chr|wav/0198-Chapter_3_3.4_3.4.22-000000000.wav|||Ha:dlv dejalv̌:hwísdà:neha?|
+000529|04-f-walc1|chr|wav/0621-Chapter_6_6.1_6.1.22-000000000.wav|||U:hlinǐ:gida|
+000187|03-f-walc1|chr|wav/0203-Chapter_3_3.4_3.4.7-000000245.wav|||Gadò?|
+000572|04-f-walc1|chr|wav/0691-Chapter_6_6.4_6.4.8-000000000.wav|||V:dali Naɂv̋:ɂi dù:nǒ:hlv́:ɂi.|
+000038|01-f-walc1|chr|wav/0045-Chapter_1_1.2_Set_B_10_You_all_are_hungry-000000000.wav|||Dé:jiyó:siha|
+000896|04-m-walc1|chr|wav/1080-Chapter_8_8.5_8.5.22-000000235.wav|||Asú:sdi|
+000707|06-f-walc1|chr|wav/0842-Chapter_7_7.2_7.2.15-000000135.wav|||Geɂidí:dla|
+000933|04-m-walc1|chr|wav/1127-Chapter_8_8.6_8.6.20-000000000.wav|||go:hwe:li|
+000173|03-f-walc1|chr|wav/0189-Chapter_3_3.4_3.4.14-000000000.wav|||Gá:gō sdà:hlino:hé:ha?|
+000413|01-m-walc1|chr|wav/0442-Chapter_5_5.2_5.2.7-000000135.wav|||e:lí:si|
+000295|02-m-walc1|chr|wav/0314-Chapter_4_4.3_4.3.8-000000000.wav|||Iyú:hli:lő:da|
+000606|04-f-walc1|chr|wav/0729-Chapter_6_6.6_6.6.5-000000000.wav|||À:niɂluhgaju? À:nahnigíɂake?|
+000524|04-f-walc1|chr|wav/0613-Chapter_6_6.1_6.1.16-000000225.wav|||Ga:janű:li|
+000787|06-f-walc1|chr|wav/0951-Chapter_7_7.9_7.9.1-000034965.wav|||Jǐ:yu u:jò:di.|
+000195|03-f-walc1|chr|wav/0212-Chapter_3_3.5_3.5.1-000022565.wav|||Oklahoma|
+000159|03-f-walc1|chr|wav/0175-Chapter_3_3.3_3.3.2-000000000.wav|||A:se go:hű:sdi gv:yatv̌:tdi|
+000046|01-f-walc1|chr|wav/0055-Chapter_1_1.2_Set_B_20_You_all_want-000000585.wav|||Ì:jadu:líha|
+000653|06-f-walc1|chr|wav/0787-Chapter_7_7.1_7.1.2-000000205.wav|||Hilâ:yv̋ tè:si?|
+000069|01-m-walc1|chr|wav/0081-Chapter_2_2.3_2.3.7-000000000.wav|||De:sdino:gí.|
+000113|01-m-walc1|chr|wav/0125-Chapter_2_2.6_2.6.4-000001585.wav|||Ù:wohljv̌:ɂi|
+000006|01-f-walc1|chr|wav/0009-Chapter_1_1.1_Set_A_02_You_are_reading-000000405.wav|||Higo:lǐ:yéɂa|
+000450|01-m-walc1|chr|wav/0500-Chapter_5_5.5_5.5.14-000000000.wav|||Ahyuge̋:ni|
+000031|01-f-walc1|chr|wav/0038-Chapter_1_1.2_Set_B_03_He-she_is_hungry-000000415.wav|||Ù:yó:siha|
+000202|03-f-walc1|chr|wav/0220-Chapter_3_3.5_3.5.4-000000395.wav|||Alesgwu|
+000932|04-m-walc1|chr|wav/1125-Chapter_8_8.6_8.6.19-000000000.wav|||Digo:hwe:li dò:di:sginvsi.|
+000948|04-m-walc1|chr|wav/1148-Chapter_8_8.6_8.6_Have_Flexible_Present-000000000.wav|||à:gináɂa. Janáɂa. ù:náɂa. ù:nináɂa.|
+000788|06-f-walc1|chr|wav/0952-Chapter_7_7.9_7.9.10-000000000.wav|||ù:wa:nv́:ga|
+000779|06-f-walc1|chr|wav/0938-Chapter_7_7.8_7.8_Walk_Future-000000000.wav|||Gá:ɂi:sé:sdi. Há:ɂi:sé:sdi. á:ɂi:sé:sdi. à:ná:ɂi:sé:sdi. Ì:dá:ɂi:sé:sdi.|
+000876|04-m-walc1|chr|wav/1060-Chapter_8_8.4_8.4.4-000000000.wav|||Ha:dlv ì:dalsdâ:yv:hné:ga?|
+000060|01-m-walc1|chr|wav/0072-Chapter_2_2.2_2.2.5-000002385.wav|||Hadǐ:tā|
+000935|04-m-walc1|chr|wav/1129-Chapter_8_8.6_8.6.21-000000000.wav|||Digo:hwě:lò:di sgidì:si.|
+000640|04-f-walc1|chr|wav/0764-Chapter_6_6.8_6.8.2-000001725.wav|||yà:gwadu:líha.|
+000864|04-m-walc1|chr|wav/1045-Chapter_8_8.4_8.4.15-000000000.wav|||te:lǐ:do|
+000206|03-f-walc1|chr|wav/0224-Chapter_3_3.6_3.6.11-000000000.wav|||U:hlő:yigwu.|
+000512|01-m-walc1|chr|wav/0595-Chapter_5_5.9_5.9.17-000000000.wav|||Anő:sda Anisv̀:gi|
+000188|03-f-walc1|chr|wav/0204-Chapter_3_3.4_3.4.8-000000000.wav|||Gadō ű:sdi?|
+000695|06-f-walc1|chr|wav/0830-Chapter_7_7.1_7.1_Go_Present-000007505.wav|||Ì:dé:ga|
+000294|02-m-walc1|chr|wav/0313-Chapter_4_4.3_4.3.7-000000000.wav|||Sú:hli:lő:da|
+000503|01-m-walc1|chr|wav/0580-Chapter_5_5.8_5.8.4-000000000.wav|||À:kinǎ:lv́hi|
+000399|01-m-walc1|chr|wav/0424-Chapter_5_5.1_5.1.5-000000000.wav|||Ju:ni:dlv̀:gi̋ diktǐ:ya.|
+000817|04-m-walc1|chr|wav/0989-Chapter_8_8.1_8.1.4-000000000.wav|||Gadawǒ:jā|
+000002|01-f-walc1|chr|wav/0004-Chapter_1_1.1_1.1.4-000000475.wav|||Ahő:li|
+000532|04-f-walc1|chr|wav/0625-Chapter_6_6.1_6.1.26-000000000.wav|||U:danv:galv̋:da|
+000625|04-f-walc1|chr|wav/0748-Chapter_6_6.7_6.7.16-000000315.wav|||Si! WiGá:ɂi.|
+000755|06-f-walc1|chr|wav/0891-Chapter_7_7.7_7.7.5-000000000.wav|||Ga:sgilo. Ga:sgilohi.|
+000718|06-f-walc1|chr|wav/0853-Chapter_7_7.3_7.3.3-000000000.wav|||Di:wé:nv̀:sv̋:ɂi o:hnidí:dla dà:gilv̌:hwísdà:neha.|
+000386|01-m-walc1|chr|wav/0409-Chapter_5_5.1_5.1.2-000000000.wav|||Ani:yv:wi|
+000430|01-m-walc1|chr|wav/0473-Chapter_5_5.4_5.4.9-000000345.wav|||À:sano|
+000414|01-m-walc1|chr|wav/0443-Chapter_5_5.2_5.2.8-000000000.wav|||È:dù:da|
+000722|06-f-walc1|chr|wav/0857-Chapter_7_7.3_7.3.7-000000000.wav|||Nikv̋:ɂi à:ně:dô:lǐ:dô:hó:ɂi.|
+000314|02-m-walc1|chr|wav/0334-Chapter_4_4.4_4.4.6-000000295.wav|||Sgǒ:hi Iyádánhtéhdi|
+000217|03-f-walc1|chr|wav/0235-Chapter_3_3.6_3.6.7-000000000.wav|||Gawó:ni:sgí Sà:gwű:|
+000745|06-f-walc1|chr|wav/0881-Chapter_7_7.6_7.6.4-000000445.wav|||Ù:hna̋ɂi|
+000334|02-m-walc1|chr|wav/0354-Chapter_4_4.5_4.5.6-000000000.wav|||Gǒ:sdà:yi|
+000433|01-m-walc1|chr|wav/0481-Chapter_5_5.4_5.4_Put_on_Clothes_Present-000005935.wav|||Daná:hnawó:ɂa|
+000356|02-m-walc1|chr|wav/0376-Chapter_4_4.8_4.8.10-000000000.wav|||Dù:ninhdi|
+000241|02-m-walc1|chr|wav/0259-Chapter_4_4.1_4.1.29-000000000.wav|||táɂlsgǒ:hi sóhně:la|
+000296|02-m-walc1|chr|wav/0315-Chapter_4_4.3_4.3.9-000000000.wav|||Iyátahwò:stanv̋|
+000874|04-m-walc1|chr|wav/1057-Chapter_8_8.4_8.4.25-000000000.wav|||Gadō u:sdi jv:hnisda?|
+000828|04-m-walc1|chr|wav/1001-Chapter_8_8.2_8.2.14-000000000.wav|||Jalagi hihlíno:he:da.|
+000872|04-m-walc1|chr|wav/1054-Chapter_8_8.4_8.4.23-000000165.wav|||Tǔ:ya Ga̋:du, Sě:lu Ga̋:du ale Nǔ:na|
+000270|02-m-walc1|chr|wav/0289-Chapter_4_4.2_4.2.22-000000295.wav|||joɂsgǒ:hine̋|
+000632|04-f-walc1|chr|wav/0755-Chapter_6_6.7_6.7.3-000000000.wav|||Ni!|
+000925|04-m-walc1|chr|wav/1118-Chapter_8_8.6_8.6.13-000000000.wav|||Tǔ:ya dò:diskvsi.|
+000415|01-m-walc1|chr|wav/0448-Chapter_5_5.3_5.3.3-000000825.wav|||à:nijí:sgwa|
+000960|04-m-walc1|chr|wav/1160-Chapter_8_8.7_8.7.1-000000000.wav|||Uwo:dű:hi|
+000258|02-m-walc1|chr|wav/0277-Chapter_4_4.2_4.2.11-000000135.wav|||sa:ɂdusi:ne̋|
+000627|04-f-walc1|chr|wav/0750-Chapter_6_6.7_6.7.18-000000000.wav|||Uwo:dù:jv̌:ɂi, Dó:ka?|
+000203|03-f-walc1|chr|wav/0221-Chapter_3_3.6_3.6.1-000000000.wav|||Gawó:ni:sgí Sà:gwű:|
+000550|04-f-walc1|chr|wav/0645-Chapter_6_6.2_6.2.9-000000335.wav|||ijé:ɂiyű:sdi|
+000040|01-f-walc1|chr|wav/0048-Chapter_1_1.2_Set_B_13_He-she_wants-000000455.wav|||ù:du:líha|
+000841|04-m-walc1|chr|wav/1020-Chapter_8_8.2_8.2_Speak_Future-000000000.wav|||Da:jiwó:ni:si. Tiwó:ni:si. Da:gawó:ni:si.|
+000094|01-m-walc1|chr|wav/0106-Chapter_2_2.5_2.5.11-000004145.wav|||dasu:yv́:sgesdi e:lí:si.|
+000589|04-f-walc1|chr|wav/0709-Chapter_6_6.6_6.6.12-000000000.wav|||Degà:hli:ló:sdiha|
+000043|01-f-walc1|chr|wav/0051-Chapter_1_1.2_Set_B_16_He-she_and_I_want-000000455.wav|||Ò:ginadu:líha|
+000714|06-f-walc1|chr|wav/0849-Chapter_7_7.2_7.2.8-000000000.wav|||V̀:hna̋ɂi|
+000147|03-f-walc1|chr|wav/0161-Chapter_3_3.2_3.2.4-000000225.wav|||Gadò dejadó:ɂa?|
+000883|04-m-walc1|chr|wav/1067-Chapter_8_8.5_8.5.10-000000235.wav|||Hawi:ya gv:jahlv́nv́.|
+000831|04-m-walc1|chr|wav/1004-Chapter_8_8.2_8.2.2-000000000.wav|||Na a:nitaɂli aniwó:niha.|
+000588|04-f-walc1|chr|wav/0708-Chapter_6_6.6_6.6.11-000000000.wav|||Gahlíha|
+000857|04-m-walc1|chr|wav/1038-Chapter_8_8.3_8.3.9-000000000.wav|||a:lsdàyhdi̋:ɂi!|
+000895|04-m-walc1|chr|wav/1079-Chapter_8_8.5_8.5.21-000000000.wav|||Digalv̀:nv:hi|
+000305|02-m-walc1|chr|wav/0324-Chapter_4_4.4_4.4.15-000000000.wav|||Hisgi yǐ:ga̋ dà:gwadu:líha.|
+000501|01-m-walc1|chr|wav/0578-Chapter_5_5.8_5.8.2-000000000.wav|||Tò:hi̋:ju?|
+000875|04-m-walc1|chr|wav/1059-Chapter_8_8.4_8.4.3-000000000.wav|||Di:ni:yő:hli nigǒ:hí:lv̋ dù:niyó:si:sgó:ɂi.|
+000752|06-f-walc1|chr|wav/0888-Chapter_7_7.7_7.7.2-000000000.wav|||Kò:lvnv. Kò:lvnv̋:ɂi.|
+000759|06-f-walc1|chr|wav/0897-Chapter_7_7.8_7.8.14-000000255.wav|||Asgaya, Agě:hya|
+000278|02-m-walc1|chr|wav/0297-Chapter_4_4.3_4.3.1-000000000.wav|||hila̋ àhlíɂilǐsv?|
+000441|01-m-walc1|chr|wav/0491-Chapter_5_5.4_5.4_Put_on_Pants_Remote_Past-000003405.wav|||Jasu:lâ:nv̌:ɂi|
+000728|06-f-walc1|chr|wav/0863-Chapter_7_7.4_7.4.12-000000000.wav|||Ha:dlv hwikti?|
+000930|04-m-walc1|chr|wav/1123-Chapter_8_8.6_8.6.17-000000000.wav|||go:hwe:li sginvsi.|
+000799|06-f-walc1|chr|wav/0966-Chapter_7_7.9_7.9.2-000000000.wav|||dì:ktǐ:ya|
+000571|04-f-walc1|chr|wav/0690-Chapter_6_6.4_6.4.7-000000000.wav|||Naɂv̋:ɂi|
+000435|01-m-walc1|chr|wav/0483-Chapter_5_5.4_5.4_Put_on_Clothes_Remote_Past-000000000.wav|||Dagwahnawó:ɂv̌. Dejahnawó:ɂv̌. Duhnawó:ɂv̌. Dunahnawó:ɂv̌. Degahnawó:ɂv̌.|
+000865|04-m-walc1|chr|wav/1046-Chapter_8_8.4_8.4.16-000000000.wav|||Adǐ:tasdi|
+000539|04-f-walc1|chr|wav/0633-Chapter_6_6.1_6.1.9-000000000.wav|||U:ne:gú:jida|
+000016|01-f-walc1|chr|wav/0021-Chapter_1_1.1_Set_A_14_They_are_diving-000000515.wav|||À:nade:tv́sga|
+000739|06-f-walc1|chr|wav/0874-Chapter_7_7.5_7.5.1-000000145.wav|||Dà:gilv̌:hwísdà:ne:lv̌:ɂi. Dà:gilv̌:hwísdà:ne:lé:ga.|
+000727|06-f-walc1|chr|wav/0862-Chapter_7_7.4_7.4.11-000000155.wav|||Ha:dlv hé:ga?|
+000574|04-f-walc1|chr|wav/0693-Chapter_6_6.5_6.5.1-000000000.wav|||Ale|
+000521|04-f-walc1|chr|wav/0609-Chapter_6_6.1_6.1.12-000000000.wav|||U:da:lv̋:kwdi|
+000545|04-f-walc1|chr|wav/0639-Chapter_6_6.2_6.2.3-000000000.wav|||U:ne̋:ga|
+000228|02-m-walc1|chr|wav/0246-Chapter_4_4.1_4.1.16-000000195.wav|||da:la:du|
+000355|02-m-walc1|chr|wav/0375-Chapter_4_4.8_4.8.1-000000000.wav|||U:no:lv̀:tani|
+000281|02-m-walc1|chr|wav/0300-Chapter_4_4.3_4.3.12-000000000.wav|||u:lo:sv̋:sdi|
+000878|04-m-walc1|chr|wav/1062-Chapter_8_8.4_8.4.6-000000000.wav|||à:lsdàyhdi̋:ɂi kanv́:su:lv̋|
+000064|01-m-walc1|chr|wav/0076-Chapter_2_2.3_2.3.3-000002995.wav|||Ő:sda nitv́:gā!|
+000306|02-m-walc1|chr|wav/0325-Chapter_4_4.4_4.4.16-000000000.wav|||Dà:sehíha|
+000596|04-f-walc1|chr|wav/0716-Chapter_6_6.6_6.6.19-000000000.wav|||Na asgaya|
+000479|01-m-walc1|chr|wav/0539-Chapter_5_5.6_5.6.3-000000665.wav|||À:ksihwásga|
+000463|01-m-walc1|chr|wav/0514-Chapter_5_5.5_5.5.26-000002335.wav|||Hinige̋:n|
+000936|04-m-walc1|chr|wav/1130-Chapter_8_8.6_8.6.22-000000000.wav|||Digo:hwě:lò:di|
+000453|01-m-walc1|chr|wav/0504-Chapter_5_5.5_5.5.18-000000000.wav|||Ahő:li|
+000154|03-f-walc1|chr|wav/0169-Chapter_3_3.3_3.3.11-000000000.wav|||Gadō u:sdi adi hiɂa?|
+000288|02-m-walc1|chr|wav/0307-Chapter_4_4.3_4.3.17-000000000.wav|||Sà:gwű aye̋:hli|
+000854|04-m-walc1|chr|wav/1033-Chapter_8_8.3_8.3.4-000000445.wav|||De:gv:yadani:lv́:gi.|
+000460|01-m-walc1|chr|wav/0511-Chapter_5_5.5_5.5.24-000000000.wav|||Ù:katv̋. Jakatv̋. À:gwakatv̋.|
+000619|04-f-walc1|chr|wav/0742-Chapter_6_6.7_6.7.11-000000000.wav|||Ka! Idalě:nawu!|
+000971|04-m-walc1|chr|wav/1174-Chapter_8_8.7_8.7.21-000002765.wav|||Gane:sôysgaɂke?|
+000267|02-m-walc1|chr|wav/0286-Chapter_4_4.2_4.2.2-000000000.wav|||Táɂline̋|
+000208|03-f-walc1|chr|wav/0226-Chapter_3_3.6_3.6.13-000000135.wav|||Daligwa|
+000071|01-m-walc1|chr|wav/0083-Chapter_2_2.3_2.3_Listen_Imperative-000000000.wav|||Hatv:dà:sdā. Ì:jatv:dà:sdā. Sdatv:dà:sdā.|
+000855|04-m-walc1|chr|wav/1034-Chapter_8_8.3_8.3.5-000000000.wav|||Dè:jv:yadani:lv́:gi.|
+000555|04-f-walc1|chr|wav/0670-Chapter_6_6.3_6.3.9-000000000.wav|||Ő:sda|
+000467|01-m-walc1|chr|wav/0518-Chapter_5_5.5_5.5.27-000002895.wav|||Jihő:l.|
+000697|06-f-walc1|chr|wav/0832-Chapter_7_7.1_7.1_Go_Remote_Past-000002865.wav|||Je:nv́:sv̌:ɂi|
+000319|02-m-walc1|chr|wav/0339-Chapter_4_4.4_4.4_Buy_Present-000000000.wav|||Akihwasgā. Jahwasgā. ù:hwasgā. ù:nihwasgā. Ì:gihwasgā.|
+000636|04-f-walc1|chr|wav/0760-Chapter_6_6.7_6.7.8-000000000.wav|||Vv|
+000683|06-f-walc1|chr|wav/0818-Chapter_7_7.1_7.1_Be_At_Present-000008355.wav|||Ì:de:dó:ha|
+000474|01-m-walc1|chr|wav/0527-Chapter_5_5.5_5.5.6-000000000.wav|||Ù:katv̋|
+000003|02-f-walc1|chr|wav/0005-Chapter_1_1.1_1.2.1-000000000.wav|||O:síyo|
+000967|04-m-walc1|chr|wav/1167-Chapter_8_8.7_8.7.16-000000000.wav|||À:hyahtv̌:hv́sga|
+000242|02-m-walc1|chr|wav/0260-Chapter_4_4.1_4.1.3-000000000.wav|||Joɂi|
+000019|01-f-walc1|chr|wav/0025-Chapter_1_1.1_Set_A_18_All_of_us_are_diving-000000165.wav|||Ì:dade:tv́sga|
+000806|04-m-walc1|chr|wav/0977-Chapter_8_8.1_8.1.10-000000000.wav|||Gà:nigī|
+000199|03-f-walc1|chr|wav/0217-Chapter_3_3.5_3.5.1-000044545.wav|||degade:hlohgwáɂohnv̌:ɂi.|
+000515|01-m-walc1|chr|wav/0601-Chapter_5_5.9_5.9.6-000000000.wav|||Gadō usd jago:hé:ɂi?|
+000863|04-m-walc1|chr|wav/1044-Chapter_8_8.4_8.4.14-000000945.wav|||Ojada:sdâ:yv:hvsga.|
+000662|06-f-walc1|chr|wav/0797-Chapter_7_7.1_7.1_Arrive_Future-000007805.wav|||Dà:diɂlúhji.|
+000212|03-f-walc1|chr|wav/0230-Chapter_3_3.6_3.6.3-000000000.wav|||Gawó:ni:sgí Sà:gwű: O:sǐ:gwu|
+000576|04-f-walc1|chr|wav/0695-Chapter_6_6.5_6.5.11-000000000.wav|||Howa, hawa ale yigi|
+000538|04-f-walc1|chr|wav/0632-Chapter_6_6.1_6.1.8-000000000.wav|||U:hyv̀:sdi|
+000505|01-m-walc1|chr|wav/0582-Chapter_5_5.8_5.8.6-000000000.wav|||Ő:sda à:gwadanhta.|
+000691|06-f-walc1|chr|wav/0826-Chapter_7_7.1_7.1_Go_Present-000000685.wav|||Gé:ga|
+000946|04-m-walc1|chr|wav/1146-Chapter_8_8.6_8.6_Have_Flexible_Past-000000000.wav|||à:gináv̌.|
+000194|03-f-walc1|chr|wav/0211-Chapter_3_3.5_3.5.1-000013205.wav|||Gahlgwǒ:gi iyagwade:tiyv̋:da. Nǎ:gwu na jigi Tvlsi Jině:la A:sé:hno gò:di Ganv:hi̋:da,|
+000361|02-m-walc1|chr|wav/0381-Chapter_4_4.8_4.8.2-000000000.wav|||Ka:gaɂli|
+000704|06-f-walc1|chr|wav/0839-Chapter_7_7.2_7.2.12-000000000.wav|||E:ladi:dla|
+000240|02-m-walc1|chr|wav/0258-Chapter_4_4.1_4.1.28-000000000.wav|||táɂlsgǒ:hi chaně:la|
+000213|03-f-walc1|chr|wav/0231-Chapter_3_3.6_3.6.3-000005035.wav|||nagwadvhnadé:ga nihinahv?|
+000035|01-f-walc1|chr|wav/0042-Chapter_1_1.2_Set_B_07_You_two_are_hungry-000000495.wav|||De:sdiyó:siha|
+000395|01-m-walc1|chr|wav/0420-Chapter_5_5.1_5.1.26-000001825.wav|||Jiyv:wi. Hiyv:wi. À:niyv:wi.|
+000370|02-m-walc1|chr|wav/0391-Chapter_4_4.9_4.9.3-000000000.wav|||Go:gi. Go:ga.|
+000464|01-m-walc1|chr|wav/0515-Chapter_5_5.5_5.5.26-000004245.wav|||Jinige̋:n|
+000062|01-m-walc1|chr|wav/0074-Chapter_2_2.3_2.3.2-000000135.wav|||De:hino:gí:ɂa tihnó:gī!|
+000483|01-m-walc1|chr|wav/0546-Chapter_5_5.7_5.7.1-000000000.wav|||Gadò:gwu?|
+000534|04-f-walc1|chr|wav/0628-Chapter_6_6.1_6.1.4-000000000.wav|||Gánayè:giyu|
+000497|01-m-walc1|chr|wav/0569-Chapter_5_5.8_5.8.11-000000000.wav|||O:síjuke jadanhta?|
+000004|02-f-walc1|chr|wav/0006-Chapter_1_1.1_1.2.1-000001695.wav|||Síyo|
+000856|04-m-walc1|chr|wav/1037-Chapter_8_8.3_8.3.8-000000000.wav|||Halisdě:lagwu!|
+000652|06-f-walc1|chr|wav/0786-Chapter_7_7.1_7.1.1-000000765.wav|||Ha:dlv hé:ga?|
+000175|03-f-walc1|chr|wav/0191-Chapter_3_3.4_3.4.16-000000000.wav|||Gadō u:sdi de:jaksesdi?|
+000232|02-m-walc1|chr|wav/0250-Chapter_4_4.1_4.1.20-000000000.wav|||táɂlsgǒ:hi|
+000775|06-f-walc1|chr|wav/0925-Chapter_7_7.8_7.8_Drive_Present-000002505.wav|||Hihíɂlǐ:dô:ha. Ahíɂlǐ:dô:ha. À:nihíɂlǐ:dô:ha. Ì:dihíɂlǐ:dô:ha.|
+000129|03-f-walc1|chr|wav/0143-Chapter_3_3.1_3.1.9-000000000.wav|||Dò:gi?|
+000901|04-m-walc1|chr|wav/1088-Chapter_8_8.5_8.5.3-000000275.wav|||Ajaɂdi|
+000416|01-m-walc1|chr|wav/0450-Chapter_5_5.3_5.3.5-000000145.wav|||à:niwahya|
+000172|03-f-walc1|chr|wav/0188-Chapter_3_3.4_3.4.13-000000000.wav|||Gá:gō unhta?|
+000096|01-m-walc1|chr|wav/0108-Chapter_2_2.5_2.5.2-000000000.wav|||Gadelo:hgwâ:sgó:ɂi|
+000726|06-f-walc1|chr|wav/0861-Chapter_7_7.4_7.4.10-000000000.wav|||Ha:dlv?|
+000317|02-m-walc1|chr|wav/0337-Chapter_4_4.4_4.4.9-000000000.wav|||À:kiwásga.|
+000490|01-m-walc1|chr|wav/0557-Chapter_5_5.7_5.7.19-000000605.wav|||Ù:dlv́:gv̌:ɂi|
+000033|01-f-walc1|chr|wav/0040-Chapter_1_1.2_Set_B_05_You_and_I_are_hungry-000000000.wav|||De:gíniyó:siha|
+000493|01-m-walc1|chr|wav/0563-Chapter_5_5.7_5.7.6-000000000.wav|||Jiskő:l agwesdâ:hneha|
+000059|01-m-walc1|chr|wav/0071-Chapter_2_2.2_2.2.5-000000445.wav|||Hadì:tásga|
+000926|04-m-walc1|chr|wav/1119-Chapter_8_8.6_8.6.14-000000000.wav|||Gadō u:sdi chvsi?|
+000829|04-m-walc1|chr|wav/1002-Chapter_8_8.2_8.2.15-000000000.wav|||Kò:hi̋|
+000350|02-m-walc1|chr|wav/0370-Chapter_4_4.7_4.7.5-000000000.wav|||U:gitsde̋:yi|
+000978|04-m-walc1|chr|wav/1184-Chapter_8_8.7_8.7.28-000000165.wav|||Hilâ:yv̋ dvga:hnani?|
+000659|06-f-walc1|chr|wav/0794-Chapter_7_7.1_7.1_Arrive_Future-000000415.wav|||Dajiɂlúhji.|
+000123|03-f-walc1|chr|wav/0137-Chapter_3_3.1_3.1.3-000000255.wav|||Sǐ:gwu jinihiwī.|
+000684|06-f-walc1|chr|wav/0819-Chapter_7_7.1_7.1_Be_At_Remote_Past-000000000.wav|||À:gwě:dô:lv̌:ɂi|
+000470|01-m-walc1|chr|wav/0523-Chapter_5_5.5_5.5.30-000000475.wav|||Digaɂle̋:ni. Tiɂle̋:ni. Dijiɂle̋:ni.|
+000562|04-f-walc1|chr|wav/0680-Chapter_6_6.4_6.4.13-000002255.wav|||Igv:yi̋ dí:dla dà:nidô:ga.|
+000480|01-m-walc1|chr|wav/0540-Chapter_5_5.6_5.6.4-000000000.wav|||Ù:sihwásga|
+000243|02-m-walc1|chr|wav/0261-Chapter_4_4.1_4.1.30-000000315.wav|||joɂsgǒ:hi|
+000618|04-f-walc1|chr|wav/0741-Chapter_6_6.7_6.7.10-000000000.wav|||Dó:ka? Doha?|
+000834|04-m-walc1|chr|wav/1007-Chapter_8_8.2_8.2.5-000000000.wav|||Ì:nahlino:hě:hlv̄:ɂi|
+000713|06-f-walc1|chr|wav/0848-Chapter_7_7.2_7.2.7-000000000.wav|||Jo:gidí:dla|
+000338|01-m-walc1|chr|wav/0358-Chapter_4_4.6_4.6.1-000000000.wav|||u:nadǒ:dágwohnv̋:ɂi|
+000489|01-m-walc1|chr|wav/0555-Chapter_5_5.7_5.7.17-000000000.wav|||Ago:lǐ:yéɂa|
+000748|06-f-walc1|chr|wav/0884-Chapter_7_7.6_7.6.7-000000000.wav|||I̋:na|
+000693|06-f-walc1|chr|wav/0828-Chapter_7_7.1_7.1_Go_Present-000003985.wav|||é:ga|
+000484|01-m-walc1|chr|wav/0547-Chapter_5_5.7_5.7.10-000000285.wav|||Na asgaya, Agě:hya Ù:dîwsga.|
+000482|01-m-walc1|chr|wav/0542-Chapter_5_5.6_5.6.6-000000000.wav|||U:hyv:dla ù:ní:yvha|
+000339|02-m-walc1|chr|wav/0359-Chapter_4_4.6_4.6.2-000000000.wav|||Taɂli:ne̋ i:ga|
+000593|04-f-walc1|chr|wav/0713-Chapter_6_6.6_6.6.16-000000000.wav|||Analì:sdâ:yv:hv́sga|
+000616|04-f-walc1|chr|wav/0739-Chapter_6_6.6_6.6.9-000000000.wav|||Dekáno:gí:ɂa|
+000086|01-m-walc1|chr|wav/0098-Chapter_2_2.4_2.4.4-000002365.wav|||Ì:jadu:lǐ:sgóɂi|
+000634|04-f-walc1|chr|wav/0757-Chapter_6_6.7_6.7.5-000000295.wav|||sgigí?|
+000906|04-m-walc1|chr|wav/1095-Chapter_8_8.5_8.5.36-000000405.wav|||Ganv̀:ji|
+000703|06-f-walc1|chr|wav/0838-Chapter_7_7.2_7.2.11-000000000.wav|||Galv̌:ládi:dla|
+000251|02-m-walc1|chr|wav/0269-Chapter_4_4.1_4.1.4-000000000.wav|||Nvhgi|
+000045|01-f-walc1|chr|wav/0054-Chapter_1_1.2_Set_B_19_They_and_I_want-000000675.wav|||Ò:gadu:líha|
+000517|01-m-walc1|chr|wav/0604-Chapter_5_5.9_5.9.9-000000000.wav|||Go:hű:sdiju?|
+000500|01-m-walc1|chr|wav/0577-Chapter_5_5.8_5.8.19-000000000.wav|||Dà:gwadalé:cheha|
+000073|01-m-walc1|chr|wav/0085-Chapter_2_2.3_2.3_Read_Imperative-000000000.wav|||Tigo:lǐ:yā. Dijigo:lǐ:yā. Disdigo:lǐ:yā.|
+000419|01-m-walc1|chr|wav/0460-Chapter_5_5.4_5.4.14-000000000.wav|||Ani:sgaya ale Ani:gě:hya à:najanv:sga.|
+000029|01-f-walc1|chr|wav/0036-Chapter_1_1.2_Set_B_01_I_am_hungry-000000000.wav|||À:giyó:siha|
+000313|02-m-walc1|chr|wav/0333-Chapter_4_4.4_4.4.5-000000000.wav|||Hisgi Iyádánhtéhdi|
+000138|03-f-walc1|chr|wav/0152-Chapter_3_3.2_3.2.16-000000000.wav|||dò:nada:go:hv:ɂi.|
+000923|04-m-walc1|chr|wav/1116-Chapter_8_8.6_8.6.11-000003185.wav|||hwinehvsi.|
+000847|04-m-walc1|chr|wav/1026-Chapter_8_8.3_8.3.10-000000000.wav|||Jayó:sihaju?|
+000802|06-f-walc1|chr|wav/0972-Chapter_7_7.9_7.9.6-000000000.wav|||wè:dó:hé:sdi|
+000702|06-f-walc1|chr|wav/0837-Chapter_7_7.2_7.2.10-000000000.wav|||Udliyvɂi|
+000132|03-f-walc1|chr|wav/0146-Chapter_3_3.2_3.2.10-000000000.wav|||Ha:dlv disdé:gv̌ɂi?|
+000458|01-m-walc1|chr|wav/0509-Chapter_5_5.5_5.5.22-000000000.wav|||Kano:ge̋:ni. Hino:ge̋:ni. Jino:ge̋:ni.|
+000097|01-m-walc1|chr|wav/0109-Chapter_2_2.5_2.5.2-000002795.wav|||Gadelo:hgwâ:sgesdi|
+000055|01-m-walc1|chr|wav/0066-Chapter_2_2.2_2.2.1-000000455.wav|||À:hnigíɂa|
+000796|06-f-walc1|chr|wav/0963-Chapter_7_7.9_7.9.17-000000000.wav|||Dà:da:ně:lv̋|
+000063|01-m-walc1|chr|wav/0075-Chapter_2_2.3_2.3.3-000000000.wav|||Ő:sda nide:hv́:neha.|
+000245|02-m-walc1|chr|wav/0263-Chapter_4_4.1_4.1.32-000000000.wav|||hiksgǒ:hi|
+000421|01-m-walc1|chr|wav/0463-Chapter_5_5.4_5.4.17-000000000.wav|||Hadà:dlǒ:ga|
+000184|03-f-walc1|chr|wav/0200-Chapter_3_3.4_3.4.4-000000485.wav|||À:ga:sgajú?|
+000348|02-m-walc1|chr|wav/0368-Chapter_4_4.7_4.7.3-000000595.wav|||Saná:le̋ Dí:dla|
+000309|02-m-walc1|chr|wav/0328-Chapter_4_4.4_4.4.19-000000000.wav|||E:li̋:gwudv Adě:la yidegvyà:tolsda.|
+000162|03-f-walc1|chr|wav/0178-Chapter_3_3.3_3.3.5-000000000.wav|||Sgwé:hyo:hv̀:ga|
+000121|01-m-walc1|chr|wav/0133-Chapter_2_2.6_2.6_This_morning_I_ate_a_lot-000000000.wav|||Kò:hí Saná:le̋, Ǔ:gò:di à:gwalsdâ:yv:hnv̌:ɂi.|
+000220|03-f-walc1|chr|wav/0238-Chapter_3_3.6_3.6.9-000000000.wav|||Gawó:ni:sgí Sà:gwű: Dlaygó:ɂi.|
+000584|04-f-walc1|chr|wav/0704-Chapter_6_6.5_6.5.8-000000000.wav|||Asgaya ale Agě:hya aniwó:niha.|
+000256|02-m-walc1|chr|wav/0274-Chapter_4_4.1_4.1.9-000000145.wav|||sóhně:la|
+000921|04-m-walc1|chr|wav/1114-Chapter_8_8.6_8.6.10-000003145.wav|||à:ginehvsi.|
+000126|03-f-walc1|chr|wav/0140-Chapter_3_3.1_3.1.6-000000265.wav|||Gadò ù:yelv hiɂa?|
+000866|04-m-walc1|chr|wav/1047-Chapter_8_8.4_8.4.17-000000000.wav|||Ahyelsdi|
+000109|01-m-walc1|chr|wav/0121-Chapter_2_2.6_2.6.1-000000000.wav|||Gawó:niha. Uwonisvɂi.|
+000792|06-f-walc1|chr|wav/0959-Chapter_7_7.9_7.9.13-000000165.wav|||à:nò:séhóɂi|
+000454|01-m-walc1|chr|wav/0505-Chapter_5_5.5_5.5.19-000000000.wav|||Akiyu:sge̋:ni|
+000354|02-m-walc1|chr|wav/0374-Chapter_4_4.7_4.7.9-000000145.wav|||Sv:nǒ:yi|
+000608|04-f-walc1|chr|wav/0731-Chapter_6_6.6_6.6.6-000001885.wav|||Ǐ:jú:la jalagi ale Yó:ne:ga|
+000264|02-m-walc1|chr|wav/0283-Chapter_4_4.2_4.2.17-000000295.wav|||gahlgwǎ:dusi:ne̋|
+000731|06-f-walc1|chr|wav/0866-Chapter_7_7.4_7.4.2-000000175.wav|||Jǔ:gá:nawv̋ɂi|
+000465|01-m-walc1|chr|wav/0516-Chapter_5_5.5_5.5.27-000000000.wav|||Ahő:l.|
+000758|06-f-walc1|chr|wav/0896-Chapter_7_7.8_7.8.13-000000000.wav|||Ő:sda nidv̀:nane:li Dagwalé:li à:gwaje:li.|
+000300|02-m-walc1|chr|wav/0319-Chapter_4_4.4_4.4.12-000000000.wav|||Dajahwasis?|
+000364|02-m-walc1|chr|wav/0384-Chapter_4_4.8_4.8.5-000000000.wav|||À:nasgv:ti|
+000384|01-m-walc1|chr|wav/0406-Chapter_5_5.1_5.1.17-000000000.wav|||Adě:la À:ktǐ:ya|
+000499|01-m-walc1|chr|wav/0574-Chapter_5_5.8_5.8.16-000000000.wav|||Ujò:séhdi à:gwadanhta|
+000715|06-f-walc1|chr|wav/0850-Chapter_7_7.2_7.2.9-000000195.wav|||Á:ge̋ɂi|
+000888|04-m-walc1|chr|wav/1072-Chapter_8_8.5_8.5.15-000000215.wav|||Ga̋:dū u:gana̋:sda|
+000851|04-m-walc1|chr|wav/1030-Chapter_8_8.3_8.3.14-000000000.wav|||ì:jě:dô:lv:ɂi|
+000603|04-f-walc1|chr|wav/0726-Chapter_6_6.6_6.6.3-000000000.wav|||Gi:hli adhlidô:ha, Wě:sahno Gahlíha.|
+000770|06-f-walc1|chr|wav/0918-Chapter_7_7.8_7.8.7-000000000.wav|||Dagwalé:lu|
+000324|02-m-walc1|chr|wav/0344-Chapter_4_4.5_4.5.1-000000415.wav|||Gasò:gwalv|
+000406|01-m-walc1|chr|wav/0431-Chapter_5_5.2_5.2.11-000000000.wav|||Jo:sdada:lv̋:ɂi|
+000673|06-f-walc1|chr|wav/0808-Chapter_7_7.1_7.1_Be_At_Future-000004995.wav|||Dayě:dô:li|
+000374|02-m-walc1|chr|wav/0395-Chapter_4_4.9_4.9.6-000000405.wav|||Jí:sgwa da:nino:gí:ɂa Kò:hi̋ Saná:le̋, Go:ge̋:yiɂdv Nigalsti:ha!|
+000552|04-f-walc1|chr|wav/0649-Chapter_6_6.3_6.3.11-000003405.wav|||Ju:no:dűjv Ani:gě:hya.|
+000049|01-m-walc1|chr|wav/0058-Chapter_2_2.1_2.1.2-000001355.wav|||À:nalì:sdâ:yv:hv́sga.|
+000417|01-m-walc1|chr|wav/0455-Chapter_5_5.4_5.4.1-000000000.wav|||Dihnawò:sdi|
+000237|02-m-walc1|chr|wav/0255-Chapter_4_4.1_4.1.25-000000000.wav|||táɂlsgǒ:hi hisgi|
+000719|06-f-walc1|chr|wav/0854-Chapter_7_7.3_7.3.4-000000000.wav|||Gǎ:tí:yő:ɂi wò:gě:dô:lv̌ dǒ:dágwi:de̋:na Usv̋:ɂi jigè:sv̌:ɂi.|
+000692|06-f-walc1|chr|wav/0827-Chapter_7_7.1_7.1_Go_Present-000002395.wav|||hé:ga|
+000941|04-m-walc1|chr|wav/1139-Chapter_8_8.6_8.6.7-000000000.wav|||Gi:hli ganhga|
+000772|06-f-walc1|chr|wav/0922-Chapter_7_7.8_7.8_Drive_Habitual-000002625.wav|||hihíɂlǐ:dô:hó:ɂi. ahíɂlǐ:dô:hó:ɂi.|
+000805|04-m-walc1|chr|wav/0976-Chapter_8_8.1_8.1.1-000000605.wav|||Gadi:dí:ɂa|
+000134|03-f-walc1|chr|wav/0148-Chapter_3_3.2_3.2.12-000000000.wav|||Hila̋ ija:de:tiyv̋:da.|
+000385|01-m-walc1|chr|wav/0407-Chapter_5_5.1_5.1.18-000000000.wav|||dinehldǐ:sgi̋:gi|
+000981|04-m-walc1|chr|wav/1189-Chapter_8_8.7_8.7.31-000000365.wav|||U:li:gǒ:hv:sdi yigi|
+000761|06-f-walc1|chr|wav/0900-Chapter_7_7.8_7.8.16-000000000.wav|||Uwe̋:ti Go:hlv:hnv̋ Dì:ktule̋:na à:giha.|
+000852|04-m-walc1|chr|wav/1031-Chapter_8_8.3_8.3.2-000000000.wav|||ehiyv̌:ha|
+000771|06-f-walc1|chr|wav/0921-Chapter_7_7.8_7.8_Drive_Habitual-000000000.wav|||Jiɂíɂlǐ:dô:hó:ɂi|
+000216|03-f-walc1|chr|wav/0234-Chapter_3_3.6_3.6.6-000000000.wav|||Gawó:ni:sgí Táɂli: Liwi Dà:gwadó nihina?|
+000476|01-m-walc1|chr|wav/0529-Chapter_5_5.5_5.5.8-000000000.wav|||U:là:shde̋:ni|
+000711|06-f-walc1|chr|wav/0846-Chapter_7_7.2_7.2.4-000000265.wav|||Nikv̋:ɂi|
+000429|01-m-walc1|chr|wav/0472-Chapter_5_5.4_5.4.8-000000215.wav|||Alsdu:lo|
+000992|02-f-walc1|en|wav/0007-Chapter_1_1.1_1.2.1-000003155.wav|||Hi or hello.|
+000403|01-m-walc1|chr|wav/0428-Chapter_5_5.1_5.1.9-000000000.wav|||Di:tiyǒ:hi|
+000522|04-f-walc1|chr|wav/0611-Chapter_6_6.1_6.1.14-000000000.wav|||Ǔ:tana|
+000377|01-m-walc1|chr|wav/0399-Chapter_5_5.1_5.1.10-000000000.wav|||Ahljadő:hvsgi|
+000898|04-m-walc1|chr|wav/1083-Chapter_8_8.5_8.5.25-000000000.wav|||Agó:sdagî:sdi|
+000780|06-f-walc1|chr|wav/0939-Chapter_7_7.8_7.8_Walk_Past-000001315.wav|||Gá:ɂi:sv̌:ɂi.|
+000859|04-m-walc1|chr|wav/1040-Chapter_8_8.4_8.4.10-000000000.wav|||Ì:nalisdâ:yv:hnú:ga!|
+000491|01-m-walc1|chr|wav/0561-Chapter_5_5.7_5.7.4-000000000.wav|||gáɂnaktiɂju wijě:dô:lv̌:ɂi?|
+000383|01-m-walc1|chr|wav/0405-Chapter_5_5.1_5.1.16-000000135.wav|||Digo:hwě:lî:sgi|
+000303|02-m-walc1|chr|wav/0322-Chapter_4_4.4_4.4.14-000000000.wav|||Hila̋ yǐ:ga̋?|
+000668|06-f-walc1|chr|wav/0803-Chapter_7_7.1_7.1_Arrive_Remote_Past-000000000.wav|||à:gilúhjv̌|
+000800|06-f-walc1|chr|wav/0970-Chapter_7_7.9_7.9.4-000000000.wav|||Iyú:nadǒ:dagwà:sdi|
+000801|06-f-walc1|chr|wav/0971-Chapter_7_7.9_7.9.5-000000000.wav|||Ǐ:gó:hi̋:da|
+000343|02-m-walc1|chr|wav/0363-Chapter_4_4.6_4.6.6-000000000.wav|||ùnādǒ:dágwi:de̋:na|
+000233|02-m-walc1|chr|wav/0251-Chapter_4_4.1_4.1.21-000000000.wav|||táɂlsgǒ:hi Sà:gwű|
+000352|02-m-walc1|chr|wav/0372-Chapter_4_4.7_4.7.7-000000000.wav|||Sv:hiye̋:yi|
+000485|01-m-walc1|chr|wav/0549-Chapter_5_5.7_5.7.12-000000455.wav|||Ha:dlv je:sdâ:neha?|
+000274|02-m-walc1|chr|wav/0293-Chapter_4_4.2_4.2.6-000000175.wav|||sǔ:dáline̋|
+000744|06-f-walc1|chr|wav/0879-Chapter_7_7.6_7.6.2-000000245.wav|||Galv̌:ládi:dla|
+000005|01-f-walc1|chr|wav/0008-Chapter_1_1.1_Set_A_01_I_am_reading-000000315.wav|||Jigo:lǐ:yéɂa|
+000699|06-f-walc1|chr|wav/0834-Chapter_7_7.1_7.1_Go_Remote_Past-000007305.wav|||ù:ne:nv́:sv̌:ɂi.|
+000991|04-m-walc1|chr|wav/1207-Chapter_8_8.7_8.7.8-000000000.wav|||Ù:hyv:dla|
+000832|04-m-walc1|chr|wav/1005-Chapter_8_8.2_8.2.3-000000000.wav|||Gadō u:sdi hì:no:héha?|
+000909|04-m-walc1|chr|wav/1098-Chapter_8_8.5_8.5.39-000000000.wav|||Áɂni|
+000358|02-m-walc1|chr|wav/0378-Chapter_4_4.8_4.8.12-000000000.wav|||V̌:sgíhyi|
+000152|03-f-walc1|chr|wav/0167-Chapter_3_3.3_3.3.1-000000000.wav|||Gadō u:sdi ì:dino:hé kò:hi i:ga?|
+000765|06-f-walc1|chr|wav/0907-Chapter_7_7.8_7.8.22-000000000.wav|||Ha:dlv iyv̋:ɂi hi:ktǐ:ya?|
+000686|06-f-walc1|chr|wav/0821-Chapter_7_7.1_7.1_Be_At_Remote_Past-000005325.wav|||Ù:wě:dô:lv̌:ɂi|
+000357|02-m-walc1|chr|wav/0377-Chapter_4_4.8_4.8.11-000000000.wav|||Nv:dadě:gwa|
+000223|02-m-walc1|chr|wav/0241-Chapter_4_4.1_4.1.11-000000205.wav|||sa:ɂdu.|
+000785|06-f-walc1|chr|wav/0944-Chapter_7_7.8_7.8_Walk_Present-000001575.wav|||Há:ɂi. Á:ɂi. à:ná:ɂi. Ì:dá:ɂi.|
+000821|04-m-walc1|chr|wav/0993-Chapter_8_8.1_8.1.7-000000000.wav|||Dǒ:yi e:dà:sdi wijiyv̌:hā.|
+000945|04-m-walc1|chr|wav/1145-Chapter_8_8.6_8.6_Have_Flexible_Future-000000000.wav|||à:gináé:sdi. janáé:sdi. ù:náé:sdi. ù:nináé:sdi.|
+000201|03-f-walc1|chr|wav/0219-Chapter_3_3.5_3.5.3-000000000.wav|||Dijalagi|
+000965|04-m-walc1|chr|wav/1165-Chapter_8_8.7_8.7.14-000000000.wav|||À:hyv:dagwalóɂa|
+000689|06-f-walc1|chr|wav/0824-Chapter_7_7.1_7.1_Go_Future-000000355.wav|||Dagé:si|
+000577|04-f-walc1|chr|wav/0696-Chapter_6_6.5_6.5.11-000003975.wav|||À:nadî:sgó:ɂi|
+000672|06-f-walc1|chr|wav/0807-Chapter_7_7.1_7.1_Be_At_Future-000002615.wav|||Tě:dô:li|
+000658|06-f-walc1|chr|wav/0793-Chapter_7_7.1_7.1.8-000000000.wav|||Ha:dlv hwě:da?|
+000586|04-f-walc1|chr|wav/0706-Chapter_6_6.6_6.6.1-000000175.wav|||Sà:gwű asgaya ale Sà:gwű Agě:hya.|
+000054|01-m-walc1|chr|wav/0065-Chapter_2_2.1_2.1.9-000000145.wav|||Ì:dada:dǒ:lî:sdiha.|
+000894|04-m-walc1|chr|wav/1078-Chapter_8_8.5_8.5.20-000000000.wav|||Nǔ:na|
+000533|04-f-walc1|chr|wav/0626-Chapter_6_6.1_6.1.27-000000000.wav|||Ga:da:ha̋|
+000607|04-f-walc1|chr|wav/0730-Chapter_6_6.6_6.6.6-000000000.wav|||Na asgaya|
+000025|01-f-walc1|chr|wav/0032-Chapter_1_1.2_1.2.3-000000465.wav|||Jaji|
+000583|04-f-walc1|chr|wav/0703-Chapter_6_6.5_6.5.7-000001595.wav|||iyű:sdi|
+000171|03-f-walc1|chr|wav/0187-Chapter_3_3.4_3.4.12-000000000.wav|||Gadō gà:lsta:nv̌sga?|
+000853|04-m-walc1|chr|wav/1032-Chapter_8_8.3_8.3.3-000000000.wav|||Ejiyv̌:ha|
+000292|02-m-walc1|chr|wav/0311-Chapter_4_4.3_4.3.5-000000215.wav|||chaně:la Iyúwa:hnilv̋.|
+000677|06-f-walc1|chr|wav/0812-Chapter_7_7.1_7.1_Be_At_Immediate_Past-000004375.wav|||À:ně:da.|
+000067|01-m-walc1|chr|wav/0079-Chapter_2_2.3_2.3.5-000001915.wav|||Tiga|
+000902|04-m-walc1|chr|wav/1089-Chapter_8_8.5_8.5.30-000000000.wav|||Go:hlv:hnv̋:ɂi|
+000558|04-f-walc1|chr|wav/0675-Chapter_6_6.4_6.4.11-000000000.wav|||Na Wě:sa Ga:sgilo Hawí:nidí:dla E:dó:ha.|
+000733|06-f-walc1|chr|wav/0868-Chapter_7_7.4_7.4.4-000000000.wav|||aye̋:hli|
+000807|04-m-walc1|chr|wav/0978-Chapter_8_8.1_8.1.11-000000000.wav|||De:gálâ:su:hlv̂:gā|
+000633|04-f-walc1|chr|wav/0756-Chapter_6_6.7_6.7.4-000000000.wav|||Ayo!|
+000304|02-m-walc1|chr|wav/0323-Chapter_4_4.4_4.4.14-000002555.wav|||dejadu:líɂa?|
+000757|06-f-walc1|chr|wav/0894-Chapter_7_7.8_7.8.11-000000000.wav|||Gadō u:sdi Dì:ktule̋:na jaha?|
+000308|02-m-walc1|chr|wav/0327-Chapter_4_4.4_4.4.18-000000000.wav|||E:li̋:gwuju yisgwà:tolsda?|
+000191|03-f-walc1|chr|wav/0207-Chapter_3_3.5_3.5.1-000002145.wav|||jalagi Gv̋:hdi Mè:li Dà:gwadó:ɂa,|
+000107|01-m-walc1|chr|wav/0119-Chapter_2_2.5_2.5.8-000002095.wav|||nigvnehesdi sugeda.|
+000091|01-m-walc1|chr|wav/0103-Chapter_2_2.5_2.5.10-000000000.wav|||E:lí:si jitǎ:ga gv:jahlv́sgesdi, ale|
+000870|04-m-walc1|chr|wav/1052-Chapter_8_8.4_8.4.21-000000455.wav|||Ama de:sgi:né:hv̀:si.|
+000315|02-m-walc1|chr|wav/0335-Chapter_4_4.4_4.4.7-000000000.wav|||aye̋:hli|
+000041|01-f-walc1|chr|wav/0049-Chapter_1_1.2_Set_B_14_They_want-000000385.wav|||ù:nadu:líha|
+000582|04-f-walc1|chr|wav/0702-Chapter_6_6.5_6.5.7-000000000.wav|||V̀:sgihnv́|
+000566|04-f-walc1|chr|wav/0684-Chapter_6_6.4_6.4.2-000007775.wav|||ahyahtě:no.|
+000475|01-m-walc1|chr|wav/0528-Chapter_5_5.5_5.5.7-000000000.wav|||Gá:ye:saɂdv̋|
+000886|04-m-walc1|chr|wav/1070-Chapter_8_8.5_8.5.13-000000000.wav|||U:nv̌:di ga:du:hnv̋:ɂi|
+000133|03-f-walc1|chr|wav/0147-Chapter_3_3.2_3.2.11-000000000.wav|||Digé:gv̌ɂi.|
+000940|04-m-walc1|chr|wav/1134-Chapter_8_8.6_8.6.24-000003145.wav|||dà:gidì:si.|
+000289|02-m-walc1|chr|wav/0308-Chapter_4_4.3_4.3.2-000000000.wav|||Hila̋ Iyúwa:hnilv̋?|
+000418|01-m-walc1|chr|wav/0456-Chapter_5_5.4_5.4.10-000000235.wav|||Adà:dlǒ:sdi|
+000166|03-f-walc1|chr|wav/0182-Chapter_3_3.3_3.3.8-000000165.wav|||Hohlgiju?|
+000050|01-m-walc1|chr|wav/0059-Chapter_2_2.1_2.1.3-000001195.wav|||Uwodujvɂi dekáno:gí:ɂa.|
+000495|01-m-walc1|chr|wav/0567-Chapter_5_5.8_5.8.1-000000475.wav|||Gadō u:sdi̋ jadanhta?|
+000360|02-m-walc1|chr|wav/0380-Chapter_4_4.8_4.8.14-000000000.wav|||Svhi jigè:sv̌, v̀:sgiyi hisgine̋.|
+000568|04-f-walc1|chr|wav/0686-Chapter_6_6.4_6.4.3-000003155.wav|||ganv:gwalő:sdi Gv̋:hdi Gv:hníha.|
+000644|04-f-walc1|chr|wav/0769-Chapter_6_6.8_6.8.5-000000000.wav|||Ő:sda gè:sv̌.|
+000939|04-m-walc1|chr|wav/1133-Chapter_8_8.6_8.6.24-000000000.wav|||Digo:hwě:lò:di|
+000797|06-f-walc1|chr|wav/0964-Chapter_7_7.9_7.9.18-000000000.wav|||ǔ:gò:di|
+000468|01-m-walc1|chr|wav/0519-Chapter_5_5.5_5.5.28-000000385.wav|||Juwò:ye̋:n. Dijò:ye̋:n. Digwò:ye̋:n.|
+000678|06-f-walc1|chr|wav/0813-Chapter_7_7.1_7.1_Be_At_Immediate_Past-000006445.wav|||Ì:dě:da|
+000477|01-m-walc1|chr|wav/0530-Chapter_5_5.5_5.5.9-000000000.wav|||Agv:dage̋:ni|
+000481|01-m-walc1|chr|wav/0541-Chapter_5_5.6_5.6.5-000000575.wav|||Ù:di:hléhv́sga|
+000824|04-m-walc1|chr|wav/0997-Chapter_8_8.2_8.2.10-000000000.wav|||Jalagiju sdiwó:ni̋:sgi?|
+000136|03-f-walc1|chr|wav/0150-Chapter_3_3.2_3.2.14-000000000.wav|||Ha:dlv hině:la?|
+000331|02-m-walc1|chr|wav/0351-Chapter_4_4.5_4.5.4-000000000.wav|||Nvhgi Jù:hnv́:si:yi̋|
+000320|02-m-walc1|chr|wav/0340-Chapter_4_4.4_4.4_Buy_Remote_Past-000000000.wav|||Akihwasv̌:ɂi. Jahwasv̌:ɂi. ù:hwasv̌:ɂi. ù:nihwasv̌:ɂi. Ì:gihwasv̌:ɂi.|
+000456|01-m-walc1|chr|wav/0507-Chapter_5_5.5_5.5.20-000000000.wav|||Uwò:ye̋:ni|
+000871|04-m-walc1|chr|wav/1053-Chapter_8_8.4_8.4.22-000000000.wav|||Ga̋:du ale Hawi:ya dò:diskv̀:si.|
+000601|04-f-walc1|chr|wav/0722-Chapter_6_6.6_6.6.21-000000375.wav|||Sǒ:gwíli anà:hláɂiɂdó:hó:ɂi ale yigi|

@@ -1,0 +1,45 @@
+000028|04-chr|chr|wav/0028-02-ced-flat-short-078995.wav|||Ulsdehldi. Kuwa. Wahga. Tsihwahi. Halsdvnhga.|
+000046|04-chr|chr|wav/0047-02-ced-flat-short-249265.wav|||Kanikwsa. Kanikwsa. Uska. Akwsdo.|
+000016|04-chr|chr|wav/0016-01-core-sounds-02-140585.wav|||Tā. Tū. Wū. Lē. Kv̄. Hlv̄. Gwī. Dlē.|
+000043|04-chr|chr|wav/0044-02-ced-flat-short-222055.wav|||Aya, ayv. Wado. Hwida. Skoni. Aktohdi.|
+000007|04-chr|chr|wav/0007-01-core-sounds-02-058415.wav|||Hlō. Jī. Hyā. Sī. Ē. Nō. Jē.|
+000034|04-chr|chr|wav/0034-02-ced-flat-short-133505.wav|||Daksi. Halsgi. Wakti. Uyhdi. Daksi.|
+000039|04-chr|chr|wav/0040-02-ced-flat-short-186455.wav|||Chayvsdaga. Tusdi. Digatdi. Hadlagi. Junsdi.|
+000006|04-chr|chr|wav/0006-01-core-sounds-02-049205.wav|||Mī. Hnī. Gwē. Kē. Chō. Kū. Tlē. Wī.|
+000025|04-chr|chr|wav/0025-02-ced-flat-short-049505.wav|||Sali. Hisgwala. Sihgwa. Gohlga. Ahnawo.|
+000017|04-chr|chr|wav/0017-01-core-sounds-02-150575.wav|||Hyv̄. Hlā. Hwā. Kwī. Nah. Jā. Sv̄.|
+000044|04-chr|chr|wav/0045-02-ced-flat-short-231595.wav|||Jalagi, ajalagi. Hvhdlada. Uwelsdi. Ha.|
+000026|04-chr|chr|wav/0026-02-ced-flat-short-059635.wav|||Jayhga. Na. Hvhda. Nvhgi. Hadagi. Yansa.|
+000038|04-chr|chr|wav/0039-02-ced-flat-short-177885.wav|||Ahyelsdi, hayelsdi. Hyehgahli. Gata.|
+000031|04-chr|chr|wav/0031-02-ced-flat-short-105665.wav|||Hihlda. Sohi. Juska. Hakta. Asgahni.|
+000020|04-chr|chr|wav/0020-02-ced-flat-short-000835.wav|||Asti. Dilsdoyhdi. Hada. Ada. Nokwsi.|
+000047|04-chr|chr|wav/0048-02-ced-flat-short-257585.wav|||Hisvhna. Hohlgi. Ale. Hitalaga. Adanhdo.|
+000002|04-chr|chr|wav/0002-01-core-sounds-02-011965.wav|||Hv̄. Yv̄. Ā. Lv̄. Lī. Yō. Sē.|
+000022|04-chr|chr|wav/0022-02-ced-flat-short-020125.wav|||Nohji. Hisgi. Akta. Na. Uwhdlvhdi.|
+000009|04-chr|chr|wav/0009-01-core-sounds-02-076965.wav|||Gwv̄. Yā. Lā. Hwē. Hwū. Kwā. Kwv̄. Hyī.|
+000037|04-chr|chr|wav/0038-02-ced-flat-short-169235.wav|||Hisdagayhda. Hla, tla. Hihwi. Uhldi.|
+000011|04-chr|chr|wav/0011-01-core-sounds-02-095475.wav|||V̄. Chē. Hlū. Hnō. Tē. Gwū. Hī.|
+000029|04-chr|chr|wav/0029-02-ced-flat-short-087745.wav|||Ajina. Haliti. Advji. Higa. Tvhga.|
+000014|04-chr|chr|wav/0014-01-core-sounds-02-122035.wav|||Tlv̄. Kwū. Sō. Hū. Nē. Ū. Wv̄. Gē.|
+000041|04-chr|chr|wav/0042-02-ced-flat-short-204365.wav|||Junsdi, jusdi. Chuhga. Hilagi. Tsgili.|
+000048|04-chr|chr|wav/0049-02-ced-flat-short-266965.wav|||Dlv. Jalagi. Udli. Gatdi. Tina.|
+000024|04-chr|chr|wav/0024-02-ced-flat-short-040225.wav|||Hadajagala. Ganhga. Halehda. Hitalada.|
+000045|04-chr|chr|wav/0046-02-ced-flat-short-240595.wav|||Hligi. Kwana. Kansdaji. Chawahi. Gansda.|
+000001|04-chr|chr|wav/0001-01-core-sounds-02-002195.wav|||Hlē. Hwō. Gū. Gwō. Nū. Tī. Tō. Gī. Hē.|
+000013|04-chr|chr|wav/0013-01-core-sounds-02-113325.wav|||Lō. Gō. Hnā. Hyō. Kī. Lū.|
+000012|04-chr|chr|wav/0012-01-core-sounds-02-104175.wav|||Hnū. Hlī. Yē. Hwv̄. Jō. Mā. Tv̄.|
+000032|04-chr|chr|wav/0032-02-ced-flat-short-115225.wav|||Ulsdvnhdi. Hakwiya. Howa. Hadloyhga.|
+000019|04-chr|chr|wav/0019-01-core-sounds-02-169265.wav|||Dē. Hyv̄. Hlā. Hyā. Kwī. Nah. Jā.|
+000015|04-chr|chr|wav/0015-01-core-sounds-02-131735.wav|||Dō. Chū. Yī. Wā. Sv̄. Gwā.|
+000042|04-chr|chr|wav/0043-02-ced-flat-short-213165.wav|||Sigigi. Uysdi. Hatelada. Nihi. Hida.|
+000035|04-chr|chr|wav/0036-02-ced-flat-short-151455.wav|||Hiyohisda. Daksi. Halsgi. Wakti. Uyhdi. Daksi.|
+000040|04-chr|chr|wav/0041-02-ced-flat-short-195125.wav|||Higi. Hiya. Hatsdagi. Uysdi. Hilada.|
+000030|04-chr|chr|wav/0030-02-ced-flat-short-096175.wav|||Gvnsga. Hatvhi. Asgaya. Si. Wahya, wahaya.|
+000010|04-chr|chr|wav/0010-01-core-sounds-02-086205.wav|||Wō. Dv̄. Mō. Jv̄. Tlū. Dū. Yū.|
+000018|04-chr|chr|wav/0018-01-core-sounds-02-159755.wav|||Gwā. Tā. Tū. Wū. Lē. Kv̄. Hlv̄. Gwī.|
+000003|04-chr|chr|wav/0003-01-core-sounds-02-021665.wav|||Hō. Dlā. Kō. Tlī. Tlō. Kwē. Dī. Mū.|
+000004|04-chr|chr|wav/0004-01-core-sounds-02-031655.wav|||Dā. Ī. Chī. Wē. Mē. Hā. Kwō. Nā.|
+000033|04-chr|chr|wav/0033-02-ced-flat-short-124155.wav|||Ni. Uwuhdi. Aksgani. Hatasgi. Kila. Hiyohisda.|
+000036|04-chr|chr|wav/0037-02-ced-flat-short-160755.wav|||Hagohna. Uwansdi. Uwansdi. Ahyvhdlo. Hahnawagi.|
+000021|04-chr|chr|wav/0021-02-ced-flat-short-010165.wav|||Uwawsvsdi. Ale. Uhldi. Ahawi, ahwi. Hidla.|
+000008|04-chr|chr|wav/0008-01-core-sounds-02-067495.wav|||Hnē. Hwī. Chā. Nī. Ō. Gā. Sā.|

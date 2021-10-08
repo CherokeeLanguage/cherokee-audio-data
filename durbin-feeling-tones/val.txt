@@ -1,0 +1,8 @@
+000118|02-m-df-chr|en|wav/0028-df-tones_enhanced-078535.wav|||turkey|
+000060|02-m-df-chr|chr|wav/0094-df-tones_enhanced-263495.wav|||Wajì:la|
+000003|02-m-df-chr|chr|wav/0008-df-tones_enhanced-024925.wav|||A̋ɂda|
+000083|02-m-df-chr|chr|wav/0126-df-tones_enhanced-358215.wav|||ùwhtó:saɂdv̌ɂi|
+000054|02-m-df-chr|chr|wav/0085-df-tones_enhanced-241355.wav|||Ganè:ga|
+000026|02-m-df-chr|chr|wav/0042-df-tones_enhanced-112655.wav|||Adanhdo|
+000134|02-m-df-chr|en|wav/0078-df-tones_enhanced-219085.wav|||robin|
+000024|02-m-df-chr|chr|wav/0039-df-tones_enhanced-105605.wav|||Ada|

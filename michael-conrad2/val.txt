@@ -1,0 +1,3 @@
+000027|04-chr|chr|wav/0027-02-ced-flat-short-070735.wav|||Hikihi. Tehga. Hila. Ama. Si.|
+000023|04-chr|chr|wav/0023-02-ced-flat-short-031205.wav|||Hvhdla. Ajahda. Nigalsdohdi. Gohlga.|
+000005|04-chr|chr|wav/0005-01-core-sounds-02-040415.wav|||Sū. Hyē. Chv̄. Kā. Gv̄. Jū. Hyū.|

@@ -1,0 +1,8 @@
+000118|01-m-wwacc|chr|wav/0164-WWConvoCherokee-10-000012765.wav|||ehiyv̌:ha Jǒ:hlê:sdi.|
+000060|01-m-wwacc|chr|wav/0069-WWConvoCherokee-05-000049655.wav|||junalasulo|
+000003|01-m-wwacc|chr|wav/0006-WWConvoCherokee-02-000027895.wav|||Ja:ni u:du:ji.|
+000083|01-m-wwacc|chr|wav/0122-WWConvoCherokee-08-000020405.wav|||chuně:la Jitǎ:ga dò:ji dò:jihlv̋:gi.|
+000054|01-m-wwacc|chr|wav/0063-WWConvoCherokee-05-000012465.wav|||v:v|
+000026|01-m-wwacc|chr|wav/0030-WWConvoCherokee-03-000084135.wav|||u:do:hiyű.|
+000134|01-m-wwacc|chr|wav/0182-WWConvoCherokee-10-000116405.wav|||ayvhno Nv:wô:ti Dida:náɂnv̋:i dagè:si.|
+000024|01-m-wwacc|chr|wav/0028-WWConvoCherokee-03-000069925.wav|||digatvdi|
