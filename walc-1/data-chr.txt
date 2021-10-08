@@ -968,3 +968,24 @@
 04-m-walc1|mp3/1168-Chapter_8_8.7_8.7.17-000000725.mp3|Gane:sôysga
 04-m-walc1|mp3/1169-Chapter_8_8.7_8.7.18-000000000.mp3|Ganě:sdáladiɂa
 04-m-walc1|mp3/1173-Chapter_8_8.7_8.7.21-000000000.mp3|À:ga:sgaju,
+04-m-walc1|mp3/1174-Chapter_8_8.7_8.7.21-000002765.mp3|Gane:sôysgaɂke?
+04-m-walc1|mp3/1176-Chapter_8_8.7_8.7.23-000000000.mp3|Do:yű Uwo:dű:hi Dǒ:yi.
+04-m-walc1|mp3/1177-Chapter_8_8.7_8.7.24-000000000.mp3|hyì:nawô:ga
+04-m-walc1|mp3/1178-Chapter_8_8.7_8.7.24-000002535.mp3|Gǒ:tv̋ naɂv
+04-m-walc1|mp3/1179-Chapter_8_8.7_8.7.24-000005245.mp3|Hidô:gé:sdi.
+04-m-walc1|mp3/1180-Chapter_8_8.7_8.7.25-000000000.mp3|V̀:tla yù:di:hléhga,
+04-m-walc1|mp3/1182-Chapter_8_8.7_8.7.26-000000000.mp3|Ù:hyv:dlì:sdi ale Uwu:tohdi gè:sé:sdi Kò:hi̋ sv:hiye̋:ye, À:nadiha.
+04-m-walc1|mp3/1184-Chapter_8_8.7_8.7.28-000000165.mp3|Hilâ:yv̋ dvga:hnani?
+04-m-walc1|mp3/1185-Chapter_8_8.7_8.7.29-000000000.mp3|Ù:ga:hnani:de̋:nā.
+04-m-walc1|mp3/1186-Chapter_8_8.7_8.7.3-000000475.mp3|Ù:lô:gi:la.
+04-m-walc1|mp3/1189-Chapter_8_8.7_8.7.31-000000365.mp3|U:li:gǒ:hv:sdi yigi
+04-m-walc1|mp3/1190-Chapter_8_8.7_8.7.31-000002895.mp3|À:hyahtv̌:hv́sgó:ɂi.
+04-m-walc1|mp3/1192-Chapter_8_8.7_8.7.32-000005015.mp3|Gu:tǐ:sgv̌:ɂi. Uwo:dű:jv gè:lî:sgó yù:wu:tahna.
+04-m-walc1|mp3/1193-Chapter_8_8.7_8.7.32-000011465.mp3|A:sé:hno do:yű ù:hyv:dlv̌:ɂi. Hla yà:gilv̌:kwdi yù:hyv:dla.
+04-m-walc1|mp3/1197-Chapter_8_8.7_8.7.34-000000000.mp3|Gu:tǐ:sgv̌:ɂi
+04-m-walc1|mp3/1199-Chapter_8_8.7_8.7.36-000000000.mp3|gè:lî:sgó
+04-m-walc1|mp3/1200-Chapter_8_8.7_8.7.37-000000000.mp3|ù:hyv:dlv̌:ɂi
+04-m-walc1|mp3/1203-Chapter_8_8.7_8.7.4-000000605.mp3|À:ga:sga
+04-m-walc1|mp3/1204-Chapter_8_8.7_8.7.5-000000000.mp3|Gu:tíha
+04-m-walc1|mp3/1206-Chapter_8_8.7_8.7.7-000000000.mp3|Ù:di:hléhga
+04-m-walc1|mp3/1207-Chapter_8_8.7_8.7.8-000000000.mp3|Ù:hyv:dla
