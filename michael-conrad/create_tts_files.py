@@ -74,7 +74,7 @@ if __name__ == "__main__":
     rows: list = []
     for speaker, lang, mp3, text in entries.values():
         wav: str = "wav/" + os.path.splitext(os.path.basename(mp3))[0] + ".wav"
-        text: str = ud.normalize('NFD', text)
+        text: str = ud.normalize('NFC', text)
         mp3_segment: AudioSegment = AudioSegment.from_file(mp3)
         segments: list = detect_sound(mp3_segment)
         if len(segments) > 1:
