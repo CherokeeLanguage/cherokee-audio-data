@@ -5,8 +5,9 @@ import sys
 
 def main():
     if sys.argv[0].strip():
-        if os.path.dirname(sys.argv[0]):
-            os.chdir()
+        dir_name: str = os.path.dirname(sys.argv[0])
+        if dir_name:
+            os.chdir(dir_name)
 
     exec_list: list[str] = []
     for (dirpath, dirnames, filenames) in os.walk("."):
