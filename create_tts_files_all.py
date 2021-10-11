@@ -19,7 +19,9 @@ def main():
     for exec_filename in exec_list:
         print()
         print(f"=== {exec_filename}")
-        subprocess.run(["python", exec_filename])
+        cp: subprocess.CompletedProcess = subprocess.run(["python", exec_filename])
+        if cp.returncode > 0:
+            raise Exception("Subprocess exited with ERROR")
 
 
 if __name__ == "__main__":
