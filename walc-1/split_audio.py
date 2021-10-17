@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-import pydub.effects
-from pydub import AudioSegment
+import dataclasses
+import json
+import os
+import sys
+from builtins import list
 from os import walk
+from shutil import rmtree
 
-from pydub import effects
+from pydub import AudioSegment
+from pydub.effects import normalize
 
 
 def detect_sound(sound: AudioSegment, silence_threshold: float = -55.0, chunk_size: int = 150) -> list:
@@ -74,22 +79,19 @@ def combine_segments(segments: list, gap_break_duration: int, target_length: int
     return new_segments
 
 
-if __name__ == "__main__":
+def main():
+    split_config: SplitConfig = SplitConfig()
+    split_config.load("split_config.json")
 
-    import os
-    import sys
-    from shutil import rmtree
-    from builtins import list
-    from pydub.effects import normalize
+    silence_threshold: float = split_config.silence_threshold
+    silence_min_duration: int = split_config.silence_min_duration
+    max_target_duration: int = split_config.max_target_duration
+    gap_break_duration: int = split_config.gap_break_duration
 
-    silence_threshold: float = -40.0
-    silence_min_duration: int = 250  # 225  # ms
-    max_target_duration: int = 10000  # ms
-    gap_break_duration: int = 600  # 675  # ms
-
-    workdir: str = os.path.dirname(sys.argv[0])
-    if workdir.strip() != "":
-        os.chdir(workdir)
+    if sys.argv[0]:
+        workdir: str = os.path.dirname(sys.argv[0])
+        if workdir:
+            os.chdir(workdir)
     workdir = os.getcwd()
 
     # clean up any previous files
@@ -97,9 +99,9 @@ if __name__ == "__main__":
     os.mkdir("mp3")
 
     audio_files = []
-    for (dirpath, dirnames, filenames) in walk("src"):
+    for (dir_path, dir_names, filenames) in walk("src"):
         for filename in filenames:
-            audio_files.append(os.path.join(dirpath, filename))
+            audio_files.append(os.path.join(dir_path, filename))
     print(f"Found {len(audio_files):,} audio files for processing")
     audio_files.sort()
     splits: list = []
@@ -135,10 +137,10 @@ if __name__ == "__main__":
 
             chunk_mp3 = f"{tix:04d}-{audio_file}".replace("/", "_").replace(" ", "_").replace("__", "_")
             chunk_mp3 = os.path.splitext(chunk_mp3)[0]
-            output_file = f"mp3/{chunk_mp3}-{int(segment_start):09d}.mp3"
+            output_file = f"mp3/{chunk_mp3}-{int(segment_start):06d}.mp3"
             tix += 1
             print(f"Saving {output_file}.")
-            normalized.export(output_file, format="mp3", parameters=["-qscale:a", "2"])
+            normalized.export(output_file, format="mp3", parameters=["-qscale:a", "0"])
             splits.append(output_file)
 
             duration: float = normalized.duration_seconds
@@ -148,9 +150,9 @@ if __name__ == "__main__":
             if max_length < duration:
                 max_length = duration
 
-    work_subfolder: str = os.path.basename(workdir)
+    work_folder: str = os.path.basename(workdir)
     msg: str = "\n"
-    msg += f"Work directory: {work_subfolder}\n"
+    msg += f"Work directory: {work_folder}\n"
     msg += "\n"
     msg += f"Total splits: {len(splits):,}\n"
     msg += "\n"
@@ -164,3 +166,37 @@ if __name__ == "__main__":
     print(msg)
 
     sys.exit()
+
+
+@dataclasses.dataclass
+class SplitConfig:
+    silence_threshold: float = -40.0
+    silence_min_duration: int = 250  # 225  # ms
+    max_target_duration: int = 10000  # ms
+    gap_break_duration: int = 750  # 675  # ms
+
+    def load(self, config_file: str):
+        config: dict
+        if not os.path.exists(config_file):
+            self.save(config_file)
+            return
+
+        try:
+            with open(config_file, "r") as r:
+                config = json.load(r)
+        except json.JSONDecodeError:
+            self.save(config_file)
+            return
+        if type(config) == dict:
+            for k, v in config.items():
+                setattr(self, k, v)
+        else:
+            self.save(config_file)
+
+    def save(self, config_file: str):
+        with open(config_file, "w") as w:
+            json.dump(dataclasses.asdict(self), w, indent=4)
+
+
+if __name__ == "__main__":
+    main()
