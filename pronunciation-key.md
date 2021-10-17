@@ -113,3 +113,16 @@ Unlike English, where you stress different syllables in words with loudness you 
 #### Nasalization
 
 When speaking Cherokee, the “v” vowel is always nasalized. (Sending the sound through the nose). Additionally, the ending sound on each word is also nasalized. The English word “huh”, contains an example of a nasalized “v”.
+
+
+#### Attribution
+
+Michael Conrad
+
+Orthography Explanation License: CC BY-SA 4.0
+
+You are free to:
+
+Share — copy and redistribute the orthography guide in any medium or format
+
+Adapt — remix, transform, and build upon the orthography guide for any purpose, even commercially.
