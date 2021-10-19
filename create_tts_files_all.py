@@ -12,7 +12,7 @@ def main():
             os.chdir(workdir)
 
     exec_list: list[str] = []
-    exec_list.extend(glob.glob("*/create_tts_files_all.py"))
+    exec_list.extend(glob.glob("*/create_tts_files.py"))
     exec_list.sort()
     for exec_filename in exec_list:
         print()
