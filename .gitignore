@@ -130,3 +130,5 @@ dmypy.json
 /.idea/workspace.xml
 /.gradle/
 /.idea
+src.vf/
+tmp.*/
