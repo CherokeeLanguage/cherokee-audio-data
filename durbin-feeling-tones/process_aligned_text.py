@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import re
 
 import json
 import os
@@ -86,6 +85,3 @@ if __name__ == "__main__":
         tts_text: str
         for (voice, mp3, tts_text) in entries_en:
             print(f"{voice}|{mp3}|{tts_text}", file=f)
-
-
-

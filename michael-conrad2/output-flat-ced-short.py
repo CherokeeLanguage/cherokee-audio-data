@@ -16,39 +16,37 @@ if __name__ == "__main__":
         os.chdir(workdir)
     workdir = os.getcwd()
 
-    from os import walk
-    
-    entries:list=[]
+    entries: list = []
     with open(ced_text, "r") as f:
         for line in f:
             line = ud.normalize("NFC", line)
-            fields:list
+            fields: list
             fields = line.split("|")
-            if len(fields)<8:
+            if len(fields) < 8:
                 continue
-            field:str
+            field: str
             for field in fields[1:8]:
-                if len(field.strip())==0:
+                if len(field.strip()) == 0:
                     continue
                 if re.match("(?i)^[a-z.?!,; ]+$", field):
                     entries.append(field)
 
     random.Random(len(entries)).shuffle(entries)
-    count:int=0
+    count: int = 0
     with open(output_text, "w") as file:
-        buffer:str=""
+        buffer: str = ""
         for line in entries:
-            line=line.strip()
+            line = line.strip()
             if not line[-1] in ";,.?!\"'":
                 line += "."
             if len(buffer) > 0 and len(buffer) + len(line) + 1 > 80:
                 count += 1
                 print(buffer, file=file)
-                buffer = line[0].upper()+line[1:]
+                buffer = line[0].upper() + line[1:]
             else:
                 if buffer:
                     buffer += " "
-                buffer += line[0].upper()+line[1:]
+                buffer += line[0].upper() + line[1:]
         if buffer:
             count += 1
             print(buffer, file=file)

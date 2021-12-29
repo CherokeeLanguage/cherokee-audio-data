@@ -2,8 +2,6 @@
 
 import os
 import sys
-import unicodedata as ud
-from os import walk
 
 if __name__ == "__main__":
 
