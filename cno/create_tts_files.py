@@ -1,19 +1,16 @@
-
 import os
 import pathlib
 import random
-import re
 import sys
 import unicodedata as ud
 from builtins import list
 from shutil import rmtree
 
+import progressbar
 import pydub.effects as effects
 from pydub import AudioSegment
 
 from split_audio import detect_sound
-
-import progressbar
 
 if __name__ == "__main__":
 

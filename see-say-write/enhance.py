@@ -41,7 +41,6 @@ if __name__ == "__main__":
 
     audio_files.sort()
     for audio_file in audio_files:
-
         basename: str = os.path.basename(audio_file)
         print(f" - Processing {basename}")
 
@@ -52,7 +51,7 @@ if __name__ == "__main__":
 
         enhance(args, local_out_dir=args.out_dir)
 
-        audio = AudioSegment.from_file(os.path.join(src_enhanced, basename+"_enhanced.wav"))
+        audio = AudioSegment.from_file(os.path.join(src_enhanced, basename + "_enhanced.wav"))
         audio = audio.set_channels(1)
         audio = audio.set_frame_rate(22050)
         audio.export(os.path.join(src_enhanced, basename), format="mp3", parameters=["-qscale:a", "2"])

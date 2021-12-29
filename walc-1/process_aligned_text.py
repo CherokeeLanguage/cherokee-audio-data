@@ -1,5 +1,3 @@
-import re
-
 import json
 import os
 import sys
@@ -69,7 +67,8 @@ if __name__ == "__main__":
         mp3_check: str = fields[2].strip()
 
         if mp3_check and mp3_check != mp3:
-            raise Exception(f"Alignment fail [{line_no}] mp3={mp3} marker={mp3_check} text={tts_chr_text}/{tts_en_text}")
+            raise Exception(
+                f"Alignment fail [{line_no}] mp3={mp3} marker={mp3_check} text={tts_chr_text}/{tts_en_text}")
         if "x" in tts_chr_text:
             continue
         if tts_chr_text:
@@ -91,6 +90,3 @@ if __name__ == "__main__":
         tts_text: str
         for (voice, mp3, tts_text) in entries_en:
             print(f"{voice}|{mp3}|{tts_text}", file=f)
-
-
-

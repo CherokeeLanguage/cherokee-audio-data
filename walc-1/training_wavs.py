@@ -1,18 +1,14 @@
 #!/usr/bin/env python3
 import os
-import progressbar
-import sys
-import string
-import unicodedata as ud
-import random
-import re
 import pathlib
-import subprocess
-from shutil import rmtree
-from pydub import AudioSegment
-import pydub.effects as effects
-from split_audio import detect_sound
+import re
+import sys
 from builtins import list
+from shutil import rmtree
+
+import progressbar
+import pydub.effects as effects
+from pydub import AudioSegment
 
 if __name__ == "__main__":
 
@@ -48,7 +44,7 @@ if __name__ == "__main__":
         segment = segment.set_frame_rate(22050)
         segment = segment.set_channels(1)
         segment = effects.normalize(segment)
-        segment.export(os.path.join(wavs_dir, output_file+".wav"), format="wav")
-        bar.update(bar.currval+1)
+        segment.export(os.path.join(wavs_dir, output_file + ".wav"), format="wav")
+        bar.update(bar.currval + 1)
     bar.finish()
     sys.exit()
