@@ -19,9 +19,12 @@ def main():
     workdir: str
     if argv0:
         workdir: str = os.path.dirname(argv0)
+        print(f"{workdir}")
         if workdir:
             os.chdir(workdir)
     workdir = os.getcwd()
+
+    return
 
     exec_list: list[str] = []
     exec_list.extend(glob.glob("*/create_tts_files.py"))
