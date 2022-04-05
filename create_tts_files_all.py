@@ -19,12 +19,8 @@ def main():
     workdir: str
     if argv0:
         workdir: str = os.path.dirname(argv0)
-        print(f"{workdir}")
         if workdir:
             os.chdir(workdir)
-    workdir = os.getcwd()
-
-    return
 
     exec_list: list[str] = []
     exec_list.extend(glob.glob("*/create_tts_files.py"))
@@ -47,6 +43,7 @@ def main():
             raise Exception("Subprocess exited with ERROR")
 
     # create simple text file for use by IMS-Toucan, only selected data sets
+    ims_toucan_dir = "/mount/resources/speech/corpora/cherokee-audio-data"
     ims_toucan_file = "ims-toucan.txt"
     with open(ims_toucan_file, "w") as w:
         for folder in ["cno", "durbin-feeling-tones", "see-say-write", "walc-1", "wwacc"]:
@@ -62,7 +59,7 @@ def main():
                         continue
                     wav = parts[3]
                     text = parts[6]
-                    wav = os.path.join(workdir, folder, wav)
+                    wav = os.path.join(ims_toucan_dir, folder, wav)
                     w.write(f"{wav}|{text}\n")
 
 
