@@ -132,4 +132,4 @@ dmypy.json
 /.idea
 src.vf/
 tmp.*/
-ims-toucan.txt
+ims-toucan-*.txt
