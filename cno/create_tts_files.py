@@ -1,3 +1,13 @@
+#!/usr/bin/env bash
+"""true" '''\'
+set -e
+eval "$(conda shell.bash hook)"
+conda deactivate
+conda activate cherokee-audio-data
+exec python "$0" "$@"
+exit $?
+''"""
+
 import os
 import pathlib
 import random
