@@ -13,7 +13,7 @@ import os
 def main():
     ims_toucan_basename = "ims-toucan"
     # data_sets: list[str] = ["cno", "durbin-feeling-tones", "michael-conrad", "see-say-write", "walc-1", "wwacc"]
-    data_sets: list[str] = ["cno", "durbin-feeling-tones", "michael-conrad", "walc-1"]
+    data_sets: list[str] = ["cno", "durbin-feeling-tones", "michael-conrad", "michael-conrad2", "walc-1"]
     # get list of languages
     langs: set[str] = set()
     for folder in data_sets:
