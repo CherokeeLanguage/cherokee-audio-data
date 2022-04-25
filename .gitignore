@@ -133,3 +133,4 @@ dmypy.json
 src.vf/
 tmp.*/
 ims-toucan-*.txt
+_toucan_ref_audio/
