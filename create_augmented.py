@@ -82,7 +82,7 @@ def main():
                             new_transcript += " "
                         new_transcript += transcript
                 audio_path: str = os.path.join(augment_folder, f"combined-{ix:04}.wav")
-                audio.export(audio_path)
+                audio.export(audio_path, format="wav")
                 folder_name: str = os.path.basename(folder)
                 audio_name: str = os.path.basename(audio_path)
                 audio_path: str = f"wav2/{audio_name}"
