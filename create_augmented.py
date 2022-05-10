@@ -26,7 +26,7 @@ def main():
         workdir: str = os.path.dirname(argv0)
         if workdir:
             os.chdir(workdir)
-
+    augment_count: int = 1_000
     all_list: list[str] = []
     all_list.extend(glob.glob("*/all.txt"))
     all_list.sort()
@@ -60,10 +60,10 @@ def main():
         augments: list[str] = list()
         ix: int = 0
         for voice in voices:
+            if len(entries[voice]) < 32:
+                continue
             print(f" - {voice}")
-            for _ in tqdm(range(100)):
-                if len(entries[voice]) < 32:
-                    continue
+            for _ in tqdm(range(augment_count)):
                 ix += 1
                 samples = random.sample(entries[voice], 32)
                 audio: AudioSegment = AudioSegment.silent(0, 48_000)
