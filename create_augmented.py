@@ -26,7 +26,7 @@ def main():
         workdir: str = os.path.dirname(argv0)
         if workdir:
             os.chdir(workdir)
-    augment_count: int = 1_000
+    augment_count: int = 10_000
     all_list: list[str] = []
     all_list.extend(glob.glob("*/all.txt"))
     all_list.sort()
