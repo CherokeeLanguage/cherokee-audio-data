@@ -609,7 +609,7 @@ cno-m-chr_2|chr|cno_cwl/Salesman.mp3|ganhtani:dő:hi
 cno-m-chr_2|chr|cno_cwl/Salmon.mp3|se:mo:ni
 cno-m-chr_2|chr|cno_cwl/Sandy.mp3|no:yaha
 cno-m-chr_2|chr|cno_cwl/Sang.mp3|dù:hno:gí:sv̌
-cno-m-chr_2|chr|cno_cwl/Saturday.mp3|Ù(nā)dǒ:dágwi:de̋:na
+cno-m-chr_2|chr|cno_cwl/Saturday.mp3|Ùnādǒ:dágwi:de̋:na
 cno-m-chr_2|chr|cno_cwl/Sawdust.mp3|ù:sgó:gv̌
 cno-m-chr_2|chr|cno_cwl/Says.mp3|à:diha
 cno-m-chr_2|chr|cno_cwl/Scar.mp3|une:lv:sv
