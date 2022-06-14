@@ -10,6 +10,9 @@ exit $?
 import os
 import shutil
 
+from pydub import AudioSegment
+from pydub.silence import split_on_silence
+
 
 def main():
     ims_toucan_basename = "ims-toucan"
@@ -99,7 +102,13 @@ def main():
                 text: str = voice_text[voice]
                 w.write(f"{voice}|{wav}|{text}")
                 w.write("\n")
-                shutil.copy(wav, os.path.join("_toucan_ref_audio", f"{voice}.wav"))
+                ref_audio: AudioSegment = AudioSegment.from_file(wav).set_channels(1)
+                ref_chunks = split_on_silence(ref_audio, min_silence_len=100, silence_thresh=-40, keep_silence=100)
+                ref_audio: AudioSegment = AudioSegment.empty()
+                for ref_chunk in ref_chunks:
+                    ref_audio = ref_audio.append(ref_chunk, crossfade=0)
+                ref_audio.export(os.path.join("_toucan_ref_audio", f"{voice}.wav"), format="wav")
+                # shutil.copy(wav, os.path.join("_toucan_ref_audio", f"{voice}.wav"))
 
 
 if __name__ == '__main__':
