@@ -1,4 +1,8 @@
 /src.noisy/
 /wav/
 
-
+# artifacts to be packaged for online exercises
+ssw-audio
+ssw-cards.json
+ssw.json
+ssw.zip
