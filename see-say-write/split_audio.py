@@ -6,12 +6,15 @@ import sys
 from builtins import list
 from os import walk
 from shutil import rmtree
+from typing import List, Tuple
 
 from pydub import AudioSegment
 from pydub.effects import normalize
 
+from structs import SplitMetadata
 
-def detect_sound(sound: AudioSegment, silence_threshold: float = -55.0, chunk_size: int = 150) -> list:
+
+def detect_sound(sound: AudioSegment, silence_threshold: float = -55.0, chunk_size: int = 150) -> List[Tuple[int, int]]:
     """
     sound is a pydub.AudioSegment
     silence_threshold in dB
@@ -21,7 +24,7 @@ def detect_sound(sound: AudioSegment, silence_threshold: float = -55.0, chunk_si
     returns an empty list of no sound chunks found
     """
     sound_start: int = -1
-    segments: list = list()
+    segments: list[Tuple[int, int]] = list()
 
     segment_mid: int = len(sound)
     for position in range(0, len(sound), 10):  # process in 10 ms chunks
@@ -78,7 +81,6 @@ def combine_segments(segments: list, gap_break_duration: int, target_length: int
 
     return new_segments
 
-
 def main():
     split_config: SplitConfig = SplitConfig()
     split_config.load("split_config.json")
@@ -104,7 +106,7 @@ def main():
             audio_files.append(os.path.join(dir_path, filename))
     print(f"Found {len(audio_files):,} audio files for processing")
     audio_files.sort()
-    splits: list = []
+    splits: list[SplitMetadata] = []
     tix: int = 1
     min_length: float = -1.0
     max_length: float = 0.0
@@ -137,11 +139,16 @@ def main():
 
             chunk_mp3 = f"{tix:04d}-{audio_file}".replace("/", "_").replace(" ", "_").replace("__", "_")
             chunk_mp3 = os.path.splitext(chunk_mp3)[0]
-            output_file = f"mp3/{chunk_mp3}-{int(segment_start):06d}.mp3"
+            output_file = f"mp3/{chunk_mp3}-{int(segment_start):09d}.mp3"
             tix += 1
             print(f"Saving {output_file}.")
             normalized.export(output_file, format="mp3", parameters=["-qscale:a", "0"])
-            splits.append(output_file)
+            splits.append(SplitMetadata(
+                out_file=output_file,
+                source_file=audio_file,
+                start=segment_start,
+                end=segment_end
+            ))
 
             duration: float = normalized.duration_seconds
             total_length += duration
@@ -149,6 +156,8 @@ def main():
                 min_length = duration
             if max_length < duration:
                 max_length = duration
+
+    json.dump([dataclasses.asdict(meta) for meta in splits],open('split_metadata.json', 'w'))
 
     work_folder: str = os.path.basename(workdir)
     msg: str = "\n"

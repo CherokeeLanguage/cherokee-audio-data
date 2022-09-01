@@ -46,9 +46,12 @@ def main():
     for set_cards in cards_by_vocab_set.values():
         for card in set_cards:
             oldpath = card["cherokee_audio"][0]
-            newpath = change_path(oldpath)
-            shutil.copy(oldpath, newpath)
-            all_cards.append({**card, "cherokee_audio": [newpath]})
+            if oldpath.startswith("mp3/"):
+                newpath = change_path(oldpath)
+                shutil.copy(oldpath, newpath)
+                all_cards.append({**card, "cherokee_audio": [newpath]})
+            else:
+                all_cards.append(card)
             
 
     json.dump(all_cards, open("ssw-cards.json", "w"), ensure_ascii=False)
