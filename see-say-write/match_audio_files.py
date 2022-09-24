@@ -3,7 +3,7 @@ import os
 import re
 from csv import DictReader, DictWriter
 import shutil
-from typing import Dict, List
+from typing import Dict, List, Optional
 import json
 
 import unidecode
@@ -91,36 +91,66 @@ def get_or_create_audio_for_pronounce(splits: List[SplitWithPronounce]):
     normalized.export(output_file, format="mp3", parameters=["-qscale:a", "0"])
     return output_file
 
+def input_new_term() -> Optional[Dict[str, str]]:
+    syllabary = input("Syllabary: ").strip()
+    if not syllabary:
+        return None
+    english = input("English: ").strip()
+    approx_pronounce = input("Approx pronounce: ").strip()
+    return {
+        "syllabary": syllabary,
+        "english": english,
+        "cherokee": approx_pronounce,
+    }
+
+def input_new_terms(writer: DictWriter, indexed_data: Dict[str, SplitWithPronounce], ordered_data: List[SplitWithPronounce]):
+    while True:
+        set_id = input("Lesson range: ")
+        if not set_id.strip():
+            break
+        while True:
+            unmatched_row = input_new_term()    
+            if not unmatched_row:
+                break
+            matched_row = match_term(unmatched_row, indexed_data, ordered_data)
+            matched_row["vocab_set"] = set_id
+            writer.writerow(matched_row)
+
+def match_term(row : Dict[str, str], indexed_data: Dict[str, SplitWithPronounce], ordered_data: List[SplitWithPronounce]) -> Dict[str, str]:
+    # search by cherokee that is in there
+    query = row["cherokee"]
+    print(f"--- select match for {query} / {row['english']} ---")
+    matches = top_n_entries(query, indexed_data, 5)
+    results = extend_matches(query, matches, ordered_data)
+    for idx, result in enumerate(results):
+        print(f"{idx}) {' '.join(m.pronunciation for m in result)}")
+    
+    selected_row = input("Match index: ")
+
+    if selected_row:
+        selected = results[int(selected_row)]
+        pronunciation = ' '.join(m.pronunciation for m in selected)
+        audio_file = get_or_create_audio_for_pronounce(selected)
+        row["audio"] = audio_file
+        row["cherokee"] = pronunciation
+    else:
+        row["has_problems"] = "*"
+
+    return row
 
 def match_online_exercises_data(indexed_data: Dict[str, SplitWithPronounce], ordered_data: List[SplitWithPronounce]):
     out = 'online-exercises-data-new.csv'
-    with open('online-exercises-data.csv') as infile, open(out, 'w') as outfile:
-        reader = DictReader(infile, FIELDS, delimiter='|')
+    with open(out, 'w') as outfile:
         writer = DictWriter(outfile, FIELDS, delimiter='|')
-        for row in reader:
-            if not row["audio"]:
-                if row["has_problems"] == "":
-                    # search by cherokee that is in there
-                    query = row["cherokee"]
-                    print(f"--- select match for {query} / {row['english']} ---")
-                    matches = top_n_entries(query, indexed_data, 5)
-                    results = extend_matches(query, matches, ordered_data)
-                    for idx, result in enumerate(results):
-                        print(f"{idx}) {' '.join(m.pronunciation for m in result)}")
-                    
-                    selected_row = input("Match index: ")
-
-                    if selected_row:
-                        selected = results[int(selected_row)]
-                        pronunciation = ' '.join(m.pronunciation for m in selected)
-                        audio_file = get_or_create_audio_for_pronounce(selected)
-                        row["audio"] = audio_file
-                        row["cherokee"] = pronunciation
-                    else:
-                        row["has_problems"] = "*"
-            
-            writer.writerow(row)
-
+        with open('online-exercises-data.csv') as infile:
+            reader = DictReader(infile, FIELDS, delimiter='|')
+            for row in reader:
+                if not row["audio"]:
+                    if row["has_problems"] == "":
+                        row = match_term(row, indexed_data, ordered_data)
+                writer.writerow(row)
+        if input("Add new terms? y/n ").lower() == "y":
+            input_new_terms(writer, indexed_data, ordered_data)
     shutil.move('online-exercises-data.csv', 'online-exercises-data.back')
     shutil.move(out, 'online-exercises-data.csv')
         
