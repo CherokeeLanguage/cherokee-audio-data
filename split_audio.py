@@ -10,8 +10,7 @@ from typing import List, Tuple
 
 from pydub import AudioSegment
 from pydub.effects import normalize
-
-from structs import SplitMetadata
+from online_exercises_meta import COLLECTIONS, CollectionMeta, SplitMetadata
 
 
 def detect_sound(sound: AudioSegment, silence_threshold: float = -55.0, chunk_size: int = 150) -> List[Tuple[int, int]]:
@@ -81,19 +80,17 @@ def combine_segments(segments: list, gap_break_duration: int, target_length: int
 
     return new_segments
 
-def main():
+def main(collection: CollectionMeta):
     split_config: SplitConfig = SplitConfig()
-    split_config.load("split_config.json")
+    split_config.load(os.path.join(collection.folder, "split_config.json"))
 
     silence_threshold: float = split_config.silence_threshold
     silence_min_duration: int = split_config.silence_min_duration
     max_target_duration: int = split_config.max_target_duration
     gap_break_duration: int = split_config.gap_break_duration
 
-    if sys.argv[0]:
-        workdir: str = os.path.dirname(sys.argv[0])
-        if workdir:
-            os.chdir(workdir)
+    # SIN
+    os.chdir(collection.folder) # HORROR
     workdir = os.getcwd()
 
     # clean up any previous files
@@ -208,4 +205,7 @@ class SplitConfig:
 
 
 if __name__ == "__main__":
-    main()
+    collection = COLLECTIONS.get(sys.argv[1])
+    if collection is None:
+        raise ValueError("Unknown collection id. Update online_exercises_meta.py if starting a new collection")
+    main(collection)

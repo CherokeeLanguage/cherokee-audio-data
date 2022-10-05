@@ -136,3 +136,10 @@ ims-toucan-*.txt
 _toucan_ref_audio/
 /*/wav2/
 all-augmented.txt
+
+# Mac stuff
+.DS_Store
+
+# Online exercises stuff
+*/online-exercises-audio
+*/online-exercises-data.back
