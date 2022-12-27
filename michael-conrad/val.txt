@@ -1,4 +1,0 @@
-000027|04-chr|chr|wav/0029-050-nvgi-000000.wav|||nvhgi.|
-000013|04-chr|chr|wav/0013-040-yonega-000000.wav|||yó:ne:ga.|
-000067|04-chr|chr|wav/0119-070-dejigowhtiha-000000.wav|||de:jigowhtíha.|
-000012|04-chr|chr|wav/0012-040-wado-000000.wav|||wado.|

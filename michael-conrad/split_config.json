@@ -1,6 +1,0 @@
-{
-    "silence_threshold": -40.0,
-    "silence_min_duration": 250,
-    "max_target_duration": 10000,
-    "gap_break_duration": 750
-}
