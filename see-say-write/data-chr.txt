@@ -474,7 +474,7 @@
 01-m-ssw-chr|mp3/1008-Lessons71_to_84-000186025.mp3|Yī. Lv̄. Jv̄. Dlū. Gwū. Hlv̄.
 01-m-ssw-chr|mp3/1013-Lessons71_to_84-000203875.mp3|Nű:la!
 01-m-ssw-chr|mp3/1014-Lessons71_to_84-000205985.mp3|À:gwv:nv́:ga.
-01-m-ssw-chr|mp3/1016-Lessons71_to_84-000209275.mp3|Agwa̋:sa wigě:dôli dida:náɂnv̋ɂi.
+01-m-ssw-chr|mp3/1016-Lessons71_to_84-000209275.mp3|Agwa̋:sa wigě:dô:li dida:náɂnv̋ɂi.
 01-m-ssw-chr|mp3/1018-Lessons71_to_84-000214905.mp3|À:gwv̌:ké:wa dejadó:ɂv̌:ɂi.
 01-m-ssw-chr|mp3/1020-Lessons71_to_84-000220405.mp3|Yī. Lv̄. Jv̄. Dlū. Gwū. Hlv̄. Gwv̄.
 01-m-ssw-chr|mp3/1023-Lessons71_to_84-000231435.mp3|Hihv̌:na.

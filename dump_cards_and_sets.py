@@ -40,7 +40,7 @@ def main(collection: CollectionMeta):
     cards_by_vocab_set = read_file(collection.folder)
     vocab_sets = [{
         "id": f"{collection.id}:{key}",
-        "title": f"Lessons {key}",
+        "title": f"{collection.set_prefix} {key}",
         "terms": [card["cherokee"] for card in cards]
     } for key, cards in cards_by_vocab_set.items()]
 
