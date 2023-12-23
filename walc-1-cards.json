@@ -125,7 +125,7 @@
     "syllabary": "ᎦᏕᏛᏍᎦ",
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
-    "english": "I am driving.",
+    "english": "I am diving.",
     "cherokee_audio": [
       "online-exercises-audio/0018-Chapter_1_1.1_Set_A_11_I_am_diving-000000000.mp3"
     ],
@@ -136,7 +136,7 @@
     "syllabary": "ᎭᏕᏛᏍᎦ",
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
-    "english": "You are driving.",
+    "english": "You are diving.",
     "cherokee_audio": [
       "online-exercises-audio/0019-Chapter_1_1.1_Set_A_12_You_are_diving-000000715.mp3"
     ],
@@ -147,7 +147,7 @@
     "syllabary": "ᎠᏕᏛᏍᎦ",
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
-    "english": "He or she is driving.",
+    "english": "He or she is diving.",
     "cherokee_audio": [
       "online-exercises-audio/0020-Chapter_1_1.1_Set_A_13_He-She_is_diving-000000515.mp3"
     ],
@@ -158,7 +158,7 @@
     "syllabary": "ᎢᎾᏕᏛᏍᎦ",
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
-    "english": "You and I are driving.",
+    "english": "You and I are diving.",
     "cherokee_audio": [
       "online-exercises-audio/0022-Chapter_1_1.1_Set_A_15_You_and_I_are_diving-000000000.mp3"
     ],
@@ -169,7 +169,7 @@
     "syllabary": "ᎣᏍᏓᏕᏛᏍᎦ",
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
-    "english": "He and I or she and I are driving.",
+    "english": "He and I or she and I are diving.",
     "cherokee_audio": [
       "online-exercises-audio/0023-Chapter_1_1.1_Set_A_16_He-She_and_I_are_diving-000000000.mp3"
     ],
@@ -180,7 +180,7 @@
     "syllabary": "ᎢᏓᏕᏛᏍᎦ",
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
-    "english": "All of us are driving.",
+    "english": "All of us are diving.",
     "cherokee_audio": [
       "online-exercises-audio/0025-Chapter_1_1.1_Set_A_18_All_of_us_are_diving-000000165.mp3"
     ],
@@ -191,7 +191,7 @@
     "syllabary": "ᎣᏣᏕᏛᏍᎦ",
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
-    "english": "They and I are driving.",
+    "english": "They and I are diving.",
     "cherokee_audio": [
       "online-exercises-audio/0026-Chapter_1_1.1_Set_A_19_They_and_I_are_diving-000000205.mp3"
     ],
@@ -202,7 +202,7 @@
     "syllabary": "ᎢᏣᏕᏛᏍᎦ",
     "alternate_pronunciations": [],
     "alternate_syllabary": [],
-    "english": "You all are driving.",
+    "english": "You all are diving.",
     "cherokee_audio": [
       "online-exercises-audio/0027-Chapter_1_1.1_Set_A_20_You_all_are_diving-000000245.mp3"
     ],
@@ -1525,6 +1525,369 @@
     "english": "What do you all know?",
     "cherokee_audio": [
       "online-exercises-audio/0174-Chapter_3_3.3_3.3.16-000000165.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Nihinà?",
+    "syllabary": "ᏂᎯᎾ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "And you?",
+    "cherokee_audio": [
+      "online-exercises-audio/0184-Chapter_3_3.4_3.4.1-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Nihina:hv́?",
+    "syllabary": "ᏂᎯᎾᎲ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "How about you?",
+    "cherokee_audio": [
+      "online-exercises-audio/0195-Chapter_3_3.4_3.4.2-000000665.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gawó:ni:sgó:hv́?",
+    "syllabary": "ᎦᏬᏂᏍᎪᎲ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "But is he speaking?",
+    "cherokee_audio": [
+      "online-exercises-audio/0199-Chapter_3_3.4_3.4.3-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "À:ga:sgajú?",
+    "syllabary": "ᎠᎦᏍᎦᏧ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Well, is it raining?",
+    "cherokee_audio": [
+      "online-exercises-audio/0200-Chapter_3_3.4_3.4.4-000000485.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Kǎ:hwi jadu:líɂa?",
+    "syllabary": "ᎧᏫᏍ ᏣᏚᎵᎭ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Do you want coffee?",
+    "cherokee_audio": [
+      "online-exercises-audio/0201-Chapter_3_3.4_3.4.5-000000515.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gawó:nihaju, De:káno:gí:ɂke?",
+    "syllabary": "ᎦᏬᏂᎭᏧ ᏕᎧᏃᎩᎠᎨ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Is he speaking or singing?",
+    "cherokee_audio": [
+      "online-exercises-audio/0202-Chapter_3_3.4_3.4.6-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gadò?",
+    "syllabary": "ᎦᏙ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "What?",
+    "cherokee_audio": [
+      "online-exercises-audio/0203-Chapter_3_3.4_3.4.7-000000245.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gadō ű:sdi?",
+    "syllabary": "ᎦᏙ ᎤᏍᏗ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "What is it?",
+    "cherokee_audio": [
+      "online-exercises-audio/0204-Chapter_3_3.4_3.4.8-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gá:gō?",
+    "syllabary": "ᎦᎪ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Who?",
+    "cherokee_audio": [
+      "online-exercises-audio/0205-Chapter_3_3.4_3.4.9-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gá:gō unhta?",
+    "syllabary": "ᎦᎪ ᎤᏅᏔ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Who knows it?",
+    "cherokee_audio": [
+      "online-exercises-audio/0188-Chapter_3_3.4_3.4.13-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Ha:dlv?",
+    "syllabary": "ᎭᏢ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Where?",
+    "cherokee_audio": [
+      "online-exercises-audio/0861-Chapter_7_7.4_7.4.10-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Hila iyv̋?",
+    "syllabary": "ᎯᎳᎢᏴ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "When?",
+    "cherokee_audio": [
+      "online-exercises-audio/0186-Chapter_3_3.4_3.4.11-000000135.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gadō gà:lsta:nv̌sga?",
+    "syllabary": "ᎦᏙ ᎦᎵᏍᏔᏅᏍᎦ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "What is happening?",
+    "cherokee_audio": [
+      "online-exercises-audio/0187-Chapter_3_3.4_3.4.12-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gá:gō unhta?",
+    "syllabary": "ᎦᎪ ᎤᏅᏔ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Who knows it?",
+    "cherokee_audio": [
+      "online-exercises-audio/0188-Chapter_3_3.4_3.4.13-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gá:gō sdà:hlino:hé:ha?",
+    "syllabary": "ᎦᎪ ᏍᏓᎵᏃᎮᎭ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Who are you talking to?",
+    "cherokee_audio": [
+      "online-exercises-audio/0189-Chapter_3_3.4_3.4.14-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gadō u:sdi jadu:líha?",
+    "syllabary": "ᎦᏙ ᎤᏍᏗ ᏣᏚᎵᎭ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "What do you want?",
+    "cherokee_audio": [
+      "online-exercises-audio/0190-Chapter_3_3.4_3.4.15-000000185.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gadō u:sdi de:jaksesdi?",
+    "syllabary": "ᎦᏙ ᎤᏍᏗ ᏕᏣᎦᏎᏍᏗ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "What are you studying?",
+    "cherokee_audio": [
+      "online-exercises-audio/0191-Chapter_3_3.4_3.4.16-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Hilâ:yv̋ wigvwahtv:hǐ:dâ:sdi jadu:líɂa?",
+    "syllabary": "ᎯᎳᏴ ᏫᎬᏩᏛᎯᏓᏍᏗ ᏣᏚᎵᎭ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "When do you want me to come and visit you",
+    "cherokee_audio": [
+      "online-exercises-audio/0192-Chapter_3_3.4_3.4.17-000000345.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gadò À:dv́:neha?",
+    "syllabary": "ᎦᏙ ᎠᏛᏁᎭ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "What is he or she doing?",
+    "cherokee_audio": [
+      "online-exercises-audio/0193-Chapter_3_3.4_3.4.18-000000195.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Gadò À:diha?",
+    "syllabary": "ᎦᏙ ᎠᏗᎭ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "What is he or she saying?",
+    "cherokee_audio": [
+      "online-exercises-audio/0194-Chapter_3_3.4_3.4.19-000000355.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Ha:dlv hé:ga?",
+    "syllabary": "ᎭᏢ ᎮᎦ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Where are you going?",
+    "cherokee_audio": [
+      "online-exercises-audio/0862-Chapter_7_7.4_7.4.11-000000155.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Ha:dlv da:nadè:lohgwáɂa?",
+    "syllabary": "ᎭᏢ ᏓᎾᏕᎶᏆᎠ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Where are they learning?",
+    "cherokee_audio": [
+      "online-exercises-audio/0197-Chapter_3_3.4_3.4.21-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Ha:dlv dejalv̌:hwísdà:neha?",
+    "syllabary": "ᎭᏢ ᏕᏣᎸᏫᏍᏓᏁᎭ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Where are you working?",
+    "cherokee_audio": [
+      "online-exercises-audio/0198-Chapter_3_3.4_3.4.22-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "O:síyo, jalagi Gv̋:hdi Mè:li Dà:gwadó:ɂa,",
+    "syllabary": "ᎣᏏᏲ ᏣᎳᎩ ᎬᏗ ᎺᎵ ᏓᏆᏙᎠ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Hello, my name is Mary in Cherokee.",
+    "cherokee_audio": [
+      "walc-1/online-exercises-audio/Chapter_3_3.5_3.5.1-osiyo, jalagi gvhdi meli dagwadoa,-bespoke.wav"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Dà:gwadó",
+    "syllabary": "ᏓᏆᏙ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "My name is",
+    "cherokee_audio": [
+      "online-exercises-audio/0209-Chapter_3_3.5_3.5.1-000008185.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Degade:hlohgwáɂohnv̌:ɂi",
+    "syllabary": "ᏕᎦᏕᎶᏆᎣᏅᎢ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "When I finished learning...",
+    "cherokee_audio": [
+      "online-exercises-audio/0218-Chapter_3_3.5_3.5.2-000000465.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Dijalagi",
+    "syllabary": "ᏗᏣᎳᎩ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "The written Cherokee language",
+    "cherokee_audio": [
+      "online-exercises-audio/0219-Chapter_3_3.5_3.5.3-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Alesgwu",
+    "syllabary": "ᎠᎴᏍᏊ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "and also",
+    "cherokee_audio": [
+      "online-exercises-audio/0220-Chapter_3_3.5_3.5.4-000000395.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "U:hlő:yigwu.",
+    "syllabary": "ᎤᏠᏱᏊ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Just the same.",
+    "cherokee_audio": [
+      "online-exercises-audio/0224-Chapter_3_3.6_3.6.11-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Nihihnò",
+    "syllabary": "ᏂᎾᏃ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "And you?",
+    "cherokee_audio": [
+      "online-exercises-audio/0225-Chapter_3_3.6_3.6.12-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Dalígwa",
+    "syllabary": "ᏓᎵᏆ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Tahlequah(Oklahoma)",
+    "cherokee_audio": [
+      "online-exercises-audio/1107-Chapter_8_8.5_8.5.6-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Dlaygó:ɂi",
+    "syllabary": "ᏜᏱᎪ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "Jay(Oklahoma)",
+    "cherokee_audio": [
+      "online-exercises-audio/0227-Chapter_3_3.6_3.6.14-000000000.mp3"
+    ],
+    "english_audio": []
+  },
+  {
+    "cherokee": "Ő:sda jidenádò:hlgi",
+    "syllabary": "ᎣᏍᏓ ᏥᏕᎾᏙᎵᎩ",
+    "alternate_pronunciations": [],
+    "alternate_syllabary": [],
+    "english": "It is nice to know you.",
+    "cherokee_audio": [
+      "online-exercises-audio/0228-Chapter_3_3.6_3.6.15-000000000.mp3"
     ],
     "english_audio": []
   }

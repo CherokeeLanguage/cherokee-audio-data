@@ -111,8 +111,8 @@
       ]
     },
     {
-      "id": "WALC1:3",
-      "title": "Chapter 3",
+      "id": "WALC1:3.1",
+      "title": "Chapter 3.1",
       "terms": [
         "Gadò hà:dǐ:sgó hiɂa?",
         "Sǐ:gwu jinihiwī.",
@@ -121,7 +121,13 @@
         "Gadò ù:yelv hiɂa?",
         "Gadō ű:sdi?",
         "U:sganő:lige̋ hniwī.",
-        "Dò:gi?",
+        "Dò:gi?"
+      ]
+    },
+    {
+      "id": "WALC1:3.2",
+      "title": "Chapter 3.2",
+      "terms": [
         "O:síyo",
         "Síyo",
         "Tò:hi̋:ju?",
@@ -143,7 +149,13 @@
         "Táɂli:ne̋ dò:nada:go:hv:ɂi.",
         "Howagwu.",
         "Howa",
-        "Hawa",
+        "Hawa"
+      ]
+    },
+    {
+      "id": "WALC1:3.3",
+      "title": "Chapter 3.3",
+      "terms": [
         "Gadō u:sdi ì:dino:hé kò:hi i:ga?",
         "A:se go:hű:sdi gv:yatv̌:tdi",
         "E:li̋:gwus yigv:yà:tv:dv:hv̀:ga?",
@@ -157,6 +169,57 @@
         "Ahi̋:daju go:hlísdi?",
         "Ì:johlgaɂju?",
         "Gadō u:sdi ì:janhta?"
+      ]
+    },
+    {
+      "id": "WALC1:3.4",
+      "title": "Chapter 3.4",
+      "terms": [
+        "Nihinà?",
+        "Nihina:hv́?",
+        "Gawó:ni:sgó:hv́?",
+        "À:ga:sgajú?",
+        "Kǎ:hwi jadu:líɂa?",
+        "Gawó:nihaju, De:káno:gí:ɂke?",
+        "Gadò?",
+        "Gadō ű:sdi?",
+        "Gá:gō?",
+        "Gá:gō unhta?",
+        "Ha:dlv?",
+        "Hila iyv̋?",
+        "Gadō gà:lsta:nv̌sga?",
+        "Gá:gō unhta?",
+        "Gá:gō sdà:hlino:hé:ha?",
+        "Gadō u:sdi jadu:líha?",
+        "Gadō u:sdi de:jaksesdi?",
+        "Hilâ:yv̋ wigvwahtv:hǐ:dâ:sdi jadu:líɂa?",
+        "Gadò À:dv́:neha?",
+        "Gadò À:diha?",
+        "Ha:dlv hé:ga?",
+        "Ha:dlv da:nadè:lohgwáɂa?",
+        "Ha:dlv dejalv̌:hwísdà:neha?"
+      ]
+    },
+    {
+      "id": "WALC1:3.5",
+      "title": "Chapter 3.5",
+      "terms": [
+        "O:síyo, jalagi Gv̋:hdi Mè:li Dà:gwadó:ɂa,",
+        "Dà:gwadó",
+        "Degade:hlohgwáɂohnv̌:ɂi",
+        "Dijalagi",
+        "Alesgwu"
+      ]
+    },
+    {
+      "id": "WALC1:3.6",
+      "title": "Chapter 3.6",
+      "terms": [
+        "U:hlő:yigwu.",
+        "Nihihnò",
+        "Dalígwa",
+        "Dlaygó:ɂi",
+        "Ő:sda jidenádò:hlgi"
       ]
     }
   ]
