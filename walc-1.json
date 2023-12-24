@@ -3,20 +3,27 @@
   "title": "We Are Learning Cherokee 1",
   "sets": [
     {
-      "id": "WALC1:1",
-      "title": "Chapter 1",
+      "id": "WALC1:1 - Intro",
+      "title": "Chapter 1 - Intro",
+      "terms": ["Jiɂő:li", "Ahő:li", "O:síyo", "Síyo"]
+    },
+    {
+      "id": "WALC1:1 - Set A - Reading",
+      "title": "Chapter 1 - Set A - Reading",
       "terms": [
-        "Jiɂő:li",
-        "Ahő:li",
-        "O:síyo",
-        "Síyo",
         "Jigo:lǐ:yéɂa",
         "Higo:lǐ:yéɂa",
         "À:nigo:lǐ:yéɂa",
         "Ago:lǐ:yéɂa",
         "Sdigo:lǐ:yéɂa",
         "Ì:digo:lǐ:yéɂa",
-        "Ò:jigo:lǐ:yéɂa",
+        "Ò:jigo:lǐ:yéɂa"
+      ]
+    },
+    {
+      "id": "WALC1:1 - Set A - Diving",
+      "title": "Chapter 1 - Set A - Diving",
+      "terms": [
         "Gade:tv́sga",
         "Hade:tv́sga",
         "Ade:tv́sga",
@@ -24,14 +31,28 @@
         "Ò:sdade:tv́sga",
         "Ì:dade:tv́sga",
         "Ò:jade:tv́sga",
-        "Ì:jade:tv́sga",
-        "Go:lì:ga",
-        "Gohlga",
-        "Agiji",
-        "Jaji",
-        "U:ji",
-        "Sv̌:kta dù:du:líha.",
-        "Digo:hwe:li de:jigo:lǐ:yéɂa.",
+        "Ì:jade:tv́sga"
+      ]
+    },
+    {
+      "id": "WALC1:1 - Set A - Understanding",
+      "title": "Chapter 1 - Set A - Understanding",
+      "terms": ["Go:lì:ga", "Gohlga"]
+    },
+    {
+      "id": "WALC1:1 - Set B - Mother",
+      "title": "Chapter 1 - Set B - Mother",
+      "terms": ["Agiji", "Jaji", "U:ji"]
+    },
+    {
+      "id": "WALC1:1 - Sentences",
+      "title": "Chapter 1 - Sentences",
+      "terms": ["Sv̌:kta dù:du:líha.", "Digo:hwe:li de:jigo:lǐ:yéɂa."]
+    },
+    {
+      "id": "WALC1:1 - Set B - Hungry",
+      "title": "Chapter 1 - Set B - Hungry",
+      "terms": [
         "À:giyó:siha",
         "Jayó:siha",
         "Ù:yó:siha",
@@ -41,7 +62,13 @@
         "De:sdiyó:siha",
         "Dè:giyó:siha",
         "Dò:giyó:siha",
-        "Dé:jiyó:siha",
+        "Dé:jiyó:siha"
+      ]
+    },
+    {
+      "id": "WALC1:1 - Set B - Wanting",
+      "title": "Chapter 1 - Set B - Wanting",
+      "terms": [
         "à:gwadu:líha",
         "ù:du:líha",
         "ù:nadu:líha",
